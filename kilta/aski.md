@@ -1,6 +1,7 @@
 ---
 layout: page
 title: ASki
+kilta: yes
 ---
 Kiltahuoneemme ASki [sijaitsee TUAS-talon ensimmäisessä kerroksessa](/kilta/askikartta/), kirjaston takaisen käytävän päässä. ASkin nimi juontaa juurensa killan alkuajoilta, kun kiltahuoneena oli pikkuinen huone Tietotalossa. Nykyiselle paikalleen ASki muutti TUAS-talon auetessa 2003. Avajaisia vietettiin vuosijuhlaviikolla 17.11.2003 ja nykyisin ASkin synttäreitä juhlitaan noihin aikoihin.
 

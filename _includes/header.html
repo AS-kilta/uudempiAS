@@ -19,7 +19,20 @@
         <li class="navigation__item"><a href="{{ '/in-english/' | prepend: site.baseurl }}">In English</a></li>
       </ul>
     </nav>
-
+    {% if page.title == "Kilta" or page.kilta %}
+    <nav class="navigation header__navigation">
+      <ul>
+        <li class="navigation__item"><a href="{{ '/kilta/aski' | prepend: site.baseurl}}">Aski</a></li>
+        <li class="navigation__item"><a href="{{ '/kilta/hallitus' | prepend: site.baseurl }}">Hallitus</a></li>
+        <li class="navigation__item"><a href="{{ '/kilta/toimihenkilot' | prepend: site.baseurl }}">Toimihenkilöt</a></li>
+        <li class="navigation__item"><a href="{{ '/kilta/viestinta' | prepend: site.baseurl }}">Viestintä</a></li>
+        <li class="navigation__item"><a href="{{ '/kilta/gt' | prepend: site.baseurl }}">GT</a></li>
+        <li class="navigation__item"><a href="{{ '/kilta/halloped' | prepend: site.baseurl }}">Halloped</a></li>
+        <li class="navigation__item"><a href="{{ '/kilta/jasenyys' | prepend: site.baseurl }}">Jäsenyys</a></li>
+        <li class="navigation__item"><a href="{{ '/kilta/saatokerho' | prepend: site.baseurl }}">Säätökerho</a></li>
+      </ul>
+    </nav>
+    {% endif %}
 
 
 </header>

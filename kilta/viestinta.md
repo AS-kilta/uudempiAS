@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Viestintä
+kilta: yes
 ---
 Kilta käyttää useita eri viestintävälineitä killan sisäiseen viestintään. Sähköpostilistoja käytetään killistien tiedottamiseen, foorumia viralliseen keskusteluun ja Telegramia yleisempään jutteluun. Tapahtumat saat helposti omaan kalenteriisi lisäämällä killan tapahtumakalenterin omaasi. Lisäksi ASkista löytyy ilmoitustaulu hallituksen tiedotteita varten sekä pyykkinaru julisteita varten.
 

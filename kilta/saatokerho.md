@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Säätökerho
+kilta: yes
 ---
 AS:llä on suhteellisen suuri määrä säätöhenkisiä nörttejä. Tämä näkyy muun muassa kiltahuoneellamme, jossa vanhalla metronäytöllä voi pelata matopeliä ja jossa pikaiset kiltahuonekameran korjaukset venyvät usein myöhään yöhön. Kiltamme säätöä pääsee myös näkemään ja kokemaan koko Otaniemi erilaisten isompien säätöprojektien puitteissa, kuten Otatarhan ajojen ajokin rakentamisessa syksyisin, tai esimerkiksi dyykatun teollisuusrobokäden kuntoonpanemisessa 2015 Wappuna.
 
