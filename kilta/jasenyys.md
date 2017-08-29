@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Jäsenyys
+kilta: yes
 ---
 Killan varsinaiseksi jäseneksi voidaan hyväksyä kaikki AYY:n jäsenistöön kuuluvat henkilöt. Killan jäsenenä saat äänioikeuden kiltakokouksissa, oikeuden osallistua killan tapahtumiin ja käyttää kiltahuonetta sekä pääsyn killan sähköpostilistoille. Jäseneksi pääset alla olevia ohjeita noudattamalla Lisätietoa killan jäsenyydestä löytyy killan säännöistä luvusta 2.
 

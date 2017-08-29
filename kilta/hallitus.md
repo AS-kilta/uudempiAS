@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Hallitus
+kilta: yes
 ---
 <style>
 

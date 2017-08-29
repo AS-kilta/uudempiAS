@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Halloped
+kilta: yes
 ---
 Yliopiston hallinnossa on yliopistolain mukaisesti oltava myös opiskelijoiden edustajia. Hallinnon opiskelijaedustajat (ns. hallopedit) ovat tavallisia opiskelijoita, jotka osallistuvat yliopiston akateemisten asiain komiteoiden, koulutusneuvostojen sekä erilaisten toimikuntien ja työryhmien toimintaan.
 

@@ -2,6 +2,7 @@
 body {
   font-family: $font-sans;
   background-color: $white-color;
+  overflow-y: scroll;
 }
 
 .teaser {
@@ -53,7 +54,7 @@ body {
 
 .header__navigation {
 
-  margin-top: $spacing-unit / 4;
+  margin-top: 1px;
   overflow: hidden;
   ul {
    

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Toimihenkilöt
+kilta: yes
 ---
 toimarit toimii.
 

@@ -4,13 +4,5 @@ permalink: /kilta/
 title: Kilta
 ---
 
-tähän tulee viel joku navi:
+Killassa tehdään kaikkea kivaa :0
 
-* [aski](/kilta/aski/)
-* [hallitus](/kilta/hallitus/)
-* [toimihenkilöt](/kilta/toimihenkilot/)
-* [viestintä](/kilta/viestinta/)
-* [gt](/kilta/gt/)
-* [halloped](/kilta/halloped/)
-* [jäsenyys](/kilta/jasenyys/)
-* [säätökerho](/kilta/saatokerho/)
