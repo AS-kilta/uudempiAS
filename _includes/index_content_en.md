@@ -1,3 +1,3 @@
-AS or the Guild of Automation and Systems Technology is the guild for students majoring in Automation and Control Engineering or Information Technology and other AS-minded people at Aalto University. [how about now]({{ "english/guild.html" | absolute_url }}) or [Join the guild]!
+AS or the Guild of Automation and Systems Technology is the guild for students majoring in Automation and Control Engineering or Information Technology and other AS-minded people at Aalto University. [Read more]({{ "english/guild.html" | absolute_url }}) or [Join the guild]({{ "english/membership.html" | absolute_url }})!
 
 This website is still new and under development. When you feel like giving some constructive criticism, please let the [board]({{ "english/guild.html" | absolute_url }}) know.
