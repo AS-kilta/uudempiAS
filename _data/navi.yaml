@@ -61,7 +61,7 @@ items:
   - title: Yhteystiedot
     href: /yhteystiedot.html
   - title: In English
-    href: /english
+    href: /english.html
     subnavi:
       directory: english
       items:
