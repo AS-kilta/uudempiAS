@@ -54,7 +54,7 @@ body {
 
 .header__navigation {
 
-  margin-top: $spacing-unit / 4;
+/*  margin-top: $spacing-unit / 4; */
   overflow: hidden;
   ul {
    
@@ -79,8 +79,10 @@ body {
   }
 }
 .subheader__navigation {
-   margin-top: 7.5px;
+  padding-top: 7.5px;
+  background: $grey-color-light;
   overflow: hidden;
+  font-size: 0.9em;
   text-align: center; 
     margin-bottom: 0 !important;
     }
