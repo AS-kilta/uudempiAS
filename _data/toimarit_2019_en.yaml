@@ -1,9 +1,9 @@
 committees:
-  - name: Freshmen committee
-    description: Organizes guilds freshmen activities with the Freshman captain.
+  - name: Freshman committee
+    description: Organizes guild's freshmen activities with the Freshman captain.
     positions:
       - name: Tutor Boss
-        description: Leads guilds tutor activities.
+        description: Leads guild's tutor activities.
         members: 
          - name: Emil Huttunen
       - name: Uncle Tutor Boss
@@ -14,10 +14,14 @@ committees:
         description: Last year's Freshman Captain continues with their freshmen until Wappu.
         members:
           - name: Ville Kauhanen
-      - name: Senior Master of International Affairs
+      - name: Senior International Student Captain
         description: Last year's International Student Captain continues with their freshmen until Wappu.
         members:
           - name: Ilene Blanco
+      - name: DSD Captain
+        description:
+        members:
+          - name: Arttu Rintala
 
   - name: Study Committee
     description:
@@ -25,7 +29,7 @@ committees:
       - name: Automaton
         description:
         members:
-          - name: Roope Savolainen
+          - name: Arttu Pohja
       - name: Informant
         description:
         members:  
@@ -35,14 +39,15 @@ committees:
         members:  
           - name: Helena Kaisanlahti
 
-  - name: Committee of Cultural Affairs
+  - name: Cultural Affairs Committee
     description:
     positions:
-      - name: Director of Events and Cultural Excursions
+      - name: Events and Cultural Excursions Director
         description:
         members:
           - name: Ilene Blanco
           - name: Karolina Itäinen
+          - name: Mari Pulkkinen
       - name: Gamer
         description:
         members:
@@ -56,11 +61,19 @@ committees:
         description:
         members:
           - name: Sanna Halmkrona
+      - name: Sports Manager
+        description:
+        members:
+          - name: Iivo Yrjölä
+      - name: Cupbearer
+        description:
+        members:
+          - name: Jan Juvonen
 
-  - name: Entertainment Commitee
+  - name: Entertainment Committee
     description: The Entertainment Committee is responsible for organizing the parties and happenings of the guild. It is led by the Host and Hostess, who have the responsibility of shepherding the horde of Smurfs.
     positions:
-      - name: Smurfs
+      - name: Smurf
         description:
         members:
           - name: Eetu Suominen
@@ -72,6 +85,7 @@ committees:
           - name: Leia Nummisalo
           - name: Samu Mustonen
           - name: Antti Regelin
+          - name: Markus Laine
 
   - name: Golden Tomato
     description: The guild magazine, "Kultainen Tomaatti" (Golden Tomato), is simply the best magazine in Otaniemi. Unfortunately its contents are in Finnish, so you'll need to learn it before you can read it.
@@ -86,9 +100,13 @@ committees:
           - name: Sanna Halmkrona
           - name: Karolina Itäinen
           - name: Pulmu Pietikäinen
+      - name: Golden Layout Designer
+        description:
+        members:
+          - name: Ville Kauhanen
 
   - name: Sexton Committee
-    description: Committee responsible for guilds singing culture.
+    description: Committee responsible for guild's singing culture.
     positions:
     - name: Sexton Master
       description:
@@ -105,7 +123,7 @@ committees:
         - name: Juuso Määttä
         - name: Ville Piesala
 
-  - name: Committee of ASki
+  - name: ASki Committee
     description: Keeps the guild room (ASki) tidy and organized.
     positions:
       - name: Master of ASki
@@ -180,15 +198,18 @@ committees:
         members:
             - name: Riikka Nousiainen
             - name: Helena Kaisanlahti
+            - name: Kaisa Hynynen
+            - name: Jan Juvonen
+            - name: Titta Saari
 
-  - name: Committee of Foreign Excursions
+  - name: Foreign Excursions Committee
     description:
     positions:
       - name: Master Of Foreign Excursions
         description:
         members:
           - name: Jaakko Majuri
-      - name: Person of Foreign Excursions
+      - name: Foreign Excursions Person
         description:
         members:
           - name: Arttu Rintala
@@ -203,7 +224,7 @@ committees:
         members:
           - name: Jan Juvonen
           - name: Titta Saari
-      - name: Vice-Inspector
+      - name: Vice-inspector
         description:
         members:
           - name: Karolina Itäinen

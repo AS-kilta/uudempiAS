@@ -1,98 +1,98 @@
 people:
   - position_name: Chairman
-    person_name: Aku Viitanen
+    person_name: Severi Casserly
     email: puheenjohtaja@as.fi
-    phone: 050 581 2974
-    username: Kuukuna
-    picture: static/toimijat/2018/aku_viitanen.jpg
+    #phone: 050 581 2974
+    username: SeveriCasserly
+    #picture: static/toimijat/2018/aku_viitanen.jpg
     description: "The chairman leads the guild’s board and represents the guild; they are ultimately responsible for keeping the guild’s activities on track. 
     Contact the Chairman if your matter concerns the guild or if you don’t know whom to contact."
 
   - position_name: Treasurer
-    person_name: Karolina Itäinen
+    person_name: Ville Eronen
     email: rahastonhoitaja@as.fi
-    phone: 050 533 3073
-    username: Itainek
-    picture: static/toimijat/2018/karolina_itäinen.jpg
+    #phone: 050 533 3073
+    username: Eronen
+    #picture: static/toimijat/2018/karolina_itäinen.jpg
     description: "The treasure is responsible for taking care of the guild’s finances, for instance, paying bills and bookkeeping.
     Contact the treasure in the financial matters."
 
   - position_name: Secretary
     person_name: Jaakko Majuri
     email: sihteeri@as.fi
-    phone: 044 384 6528
+    #phone: 044 384 6528
     username: jmajuri
-    picture: static/toimijat/2018/jaakko_majuri.jpg
+    #picture: static/toimijat/2018/jaakko_majuri.jpg
     description: "The secretary is responsible for writing the minutes of the board meetings and guild meetings. In addition, they manage the guild’s membership register and look after the archive.
     Contact the Secretary in the matters of the guild’s membership fee."
 
   - position_name: Master of Communications
-    person_name: Taavi Oja
+    person_name: Niina Tapanainen
     email: viestintamestari@as.fi
-    phone: 040 746 7402
-    username: Mughur
-    picture: static/toimijat/2018/taavi_oja.jpg
+    #phone: 050 3314 314
+    username: niinainen
+    #picture: static/toimijat/2018/taavi_oja.jpg
     description: "The Master of Communication keeps guild members informed about various events and other interesting and important matters. They take care of the guild’s channels of communication, email lists, calendar and website, in addition to which they also send a weekly bulletin that explain what is happening and where.
     Contact the Master of Communication when you want to share information to the guild members."
 
   - position_name: Freshman Captain
-    person_name: Ville Kauhanen
+    person_name: Lassi Ihalainen
     email: phuksikapteeni@as.fi
-    phone: 040 097 8840
-    username: Phuksikapteeni
-    picture: static/toimijat/2018/ville_kauhanen.jpg
+    #phone: 040 097 8840
+    username: Suklaalihis
+    #picture: static/toimijat/2018/ville_kauhanen.jpg
     description: "The Freshman Captain is responsible for all freshman wellbeing and freshman events. They organize events for freshmen with other guild members, the University and other Freshman Captains. Collaborates closely with the Tutor Coordinator."
 
   - position_name: International Student Captain
-    person_name: Ilene Blanco
+    person_name: Mikko Hokkanen
     email: isc@as.fi
-    phone: 040 559 0724
-    username: iltsubee
-    picture: static/toimijat/2018/ilene_blanco.jpg
+    #phone: 040 559 0724
+    username: K4RHU
+    #picture: static/toimijat/2018/ilene_blanco.jpg
     description: "The International Student Captain is responsible of the international students and the international matters of the guild. They collaborate closely with Freshman Captain. 
     Contact the International Student Captain if you are confused international student or if your matter concerns international affairs. "
 
   - position_name: Host
-    person_name: Mari Pulkkinen
+    person_name: Vesta Kulomaa
     email: ie@as.fi
-    phone: 040 760 9974
-    username: maripulkkinen
-    picture: static/toimijat/2018/mari_pulkkinen.jpg
+    #phone: 040 760 9974
+    username: vvesta
+    #picture: static/toimijat/2018/mari_pulkkinen.jpg
     description: "The Host arranges various events together with the hostess for the guild members. Together with Hostess they lead the Entertainment Committee and work towards even better events.
     Contact the Host or the Hostess if your matter concerns a guild event."
 
   - position_name: Hostess
-    person_name: Severi Casserly
+    person_name: Alex Korpela
     email: ie@as.fi
-    phone: 040 539 0739
-    username: SeveriCasserly
-    picture: static/toimijat/2018/severi_casserly.jpg
+    #phone: 040 539 0739
+    username: Allugaattori
+    #picture: static/toimijat/2018/severi_casserly.jpg
     description: "The Hostess arranges various events together with the hostess for the guild members. Together with Host they lead the Entertainment Committee and work towards even better events. 
     Contact the Hostess or the Host if your matter concerns a guild event."
 
   - position_name: Master of Studies
-    person_name: Ville Eronen
+    person_name: Akseli Konttas
     email: opintomestari@as.fi
-    phone: 050 591 5112
-    username: Eronen
-    picture: static/toimijat/2018/ville_eronen.jpg
+    #phone: 050 591 5112
+    username: Aakee
+    #picture: static/toimijat/2018/ville_eronen.jpg
     description: "The Master of Studies maintains communications between the guild and the university. They also work as the contact person for the guild’s trustees and represent students in the meetings of the university’s governing body.
     Contact the Master of Studies if your matter has to do with your studies or school in general."
 
   - position_name: Head of Corporate Relations
-    person_name: Leo Matikainen
-    email: leo.matikainen@as.fi
-    phone: 050 413 0406
-    username: Matte50
-    picture: static/toimijat/2018/leo_matikainen.jpg
+    person_name: Jyri Kolu
+    email: jyri.kolu@as.fi
+    #phone: 050 413 0406
+    username: jjkolu
+    #picture: static/toimijat/2018/leo_matikainen.jpg
     description: "The head of Corporate Relations leads the corporate relations committee. They advance the reputation and credit of the guild among the corporations by collaborating with them. They also organize excursions, events and sponsorships. 
     Contact the Head of Corporate Relations if your matter concerns corporate relations."
 
   - position_name: Master of Culture
-    person_name: Arttu Rintala
+    person_name: Juhana Kekoni
     email: kulttuurimestari@as.fi
-    phone: 050 555 0870
-    username: tuliankka
-    picture: static/toimijat/2018/arttu_rintala.jpg
+    #phone: 050 555 0870
+    username: Keksii
+    #picture: static/toimijat/2018/arttu_rintala.jpg
     description: "The Master of Culture maintains the external relations with student organisations across Finland and builds new ones. They lead the Culture and Sports Committee, organise various happenings, cultural excursions and events to test different sports.
     Contact the Master of Culture if your matter concerns culture in any way."

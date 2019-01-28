@@ -47,6 +47,7 @@ committees:
         members:
           - name: Ilene Blanco
           - name: Karolina Itäinen
+          - name: Mari Pulkkinen
       - name: Pelaaja
         description:
         members:
@@ -60,6 +61,14 @@ committees:
         description:
         members:
           - name: Sanna Halmkrona
+      - name: Liikuntavastaava
+        description:
+        members:
+          - name: Iivo Yrjölä
+      - name: Juomanlaskija
+        description:
+        members:
+          - name: Jan Juvonen
 
   - name: Huvitoimikunta
     description:
@@ -76,6 +85,7 @@ committees:
           - name: Leia Nummisalo
           - name: Samu Mustonen
           - name: Antti Regelin
+          - name: Markus Laine
 
   - name: Kultainen toimitus
     description:
@@ -134,7 +144,7 @@ committees:
         members:
           - name: Sanna Halmkrona
           - name: Antti Regelin
-          - name: Timo Polvonen
+          - name: Timo Polvinen
       - name: Yrityssuhdeneuvonantaja
         description:
         members:

@@ -1,20 +1,20 @@
 people:
   - position_name: Puheenjohtaja
-    person_name: Aku Viitanen
+    person_name: Severi Casserly
     email: puheenjohtaja@as.fi
-    phone: 050 581 2974
-    username: Kuukuna
-    picture: static/toimijat/2018/aku_viitanen.jpg
+    #phone: 050 581 2974
+    username: SeveriCasserly
+    #picture: static/toimijat/2018/aku_viitanen.jpg
     description: "Johtaa hallitusta ja sitä kautta koko killan toimintaa.
 
 Ota yhteyttä puheenjohtajaan, jos asiasi koskee kiltaa tai et tiedä keneen ottaa yhteyttä."
 
   - position_name: Rahastonhoitaja
-    person_name: Karolina Itäinen
+    person_name: Ville Eronen
     email: rahastonhoitaja@as.fi
-    phone: 050 533 3073
-    username: Itainek
-    picture: static/toimijat/2018/karolina_itäinen.jpg
+    #phone: 050 533 3073
+    username: Eronen
+    #picture: static/toimijat/2018/karolina_itäinen.jpg
     description: "Huolehtii killan raha-asioista, kuten laskujen maksamisesta ja kirjanpidosta.
 
 Ota yhteyttä rahastonhoitajaan raha-asioissa."
@@ -22,87 +22,87 @@ Ota yhteyttä rahastonhoitajaan raha-asioissa."
   - position_name: Sihteeri
     person_name: Jaakko Majuri
     email: sihteeri@as.fi
-    phone: 044 384 6528
+    #phone: 044 384 6528
     username: jmajuri
-    picture: static/toimijat/2018/jaakko_majuri.jpg
+    #picture: static/toimijat/2018/jaakko_majuri.jpg
     description: "Vastaa pöytäkirjojen tekemisestä hallituksen ja killan kokouksista. Sihteerin vastuulla on myös jäsenrekisterin ylläpitäminen sekä kiltaa koskevan materiaalin arkistoinnista huolehtiminen.
 
 Ota yhteyttä sihteeriin jäsenmaksuihin liittyvissä asioissa."
 
   - position_name: Viestintämestari
-    person_name: Taavi Oja
+    person_name: Niina Tapanainen
     email: viestintamestari@as.fi
-    phone: 040 746 7402
-    username: Mughur
-    picture: static/toimijat/2018/taavi_oja.jpg
+    #phone: 050 3314 314
+    username: niinainen
+    #picture: static/toimijat/2018/taavi_oja.jpg
     description: "Vastaa jäsenistön tiedottamisesta lähettämällä tiedotteita ja ylläpitämällä kalenteria. Viestintämestari pitää ajan tasalla myös killan sähköpostilistoja ja nettisivujen sisältöä.
 
 Ota yhteyttä viestintämestariin halutessasi tiedottaa killisteille jotakin."
 
   - position_name: Phuksikapteeni
-    person_name: Ville Kauhanen
+    person_name: Lassi Ihalainen
     email: phuksikapteeni@as.fi
-    phone: 040 097 8840
-    username: Phuksikapteeni
-    picture: static/toimijat/2018/ville_kauhanen.jpg
+    #phone: 040 097 8840
+    username: Suklaalihis
+    #picture: static/toimijat/2018/ville_kauhanen.jpg
     description: "Vastaa killan phuksikasvatuksesta ja -toiminnasta. Järjestää phuksitapahtumia killan, korkeakoulun sekä yliopiston muiden fuksikapteenien kanssa. Toimii esimerkkinä ja tukena phukseille. Työskentelee yhteistyössä ISOpomon kanssa."
 
   - position_name: International Student Captain
-    person_name: Ilene Blanco
+    person_name: Mikko Hokkanen
     email: isc@as.fi
-    phone: 040 559 0724
-    username: iltsubee
-    picture: static/toimijat/2018/ilene_blanco.jpg
+    #phone: 040 559 0724
+    username: K4RHU
+    #picture: static/toimijat/2018/ilene_blanco.jpg
     description: "Vastaa killan kansainvälisten opiskelijoiden phuksikasvatuksesta ja -toiminnasta. Työskentelee yhteistyössä phuksikapteenin kanssa.
 
 Ota yhteyttä ISC:hen jos asiasi koskee kansainvälistä toimintaa"
 
   - position_name: Isäntä
-    person_name: Mari Pulkkinen
+    person_name: Vesta Kulomaa
     email: ie@as.fi
-    phone: 040 760 9974
-    username: maripulkkinen
-    picture: static/toimijat/2018/mari_pulkkinen.jpg
+    #phone: 040 760 9974
+    username: vvesta
+    #picture: static/toimijat/2018/mari_pulkkinen.jpg
     description: "Järjestää yhdessä Emännän kanssa kiltalaisille mitä moninaisimpia tapahtumia ja huolehtii elintarvikkeiden välittämisestä killistien vatsalaukkuihin. Organisoi huvitoimikunnan toimintaa ja kehittää killan tapahtumakulttuuria.
 
 Ota yhteyttä IE:hen, jos asiasi koskee killan tapahtumia."
 
   - position_name: Emäntä
-    person_name: Severi Casserly
+    person_name: Alex Korpela
     email: ie@as.fi
-    phone: 040 539 0739
-    username: SeveriCasserly
-    picture: static/toimijat/2018/severi_casserly.jpg
+    #phone: 040 539 0739
+    username: Allugaattori
+    #picture: static/toimijat/2018/severi_casserly.jpg
     description: "Järjestää yhdessä Isännän kanssa kiltalaisille mitä moninaisimpia tapahtumia ja huolehtii elintarvikkeiden välittämisestä killistien vatsalaukkuihin. Organisoi huvitoimikunnan toimintaa ja kehittää killan tapahtumakulttuuria.
 
 Ota yhteyttä IE:hen, jos asiasi koskee killan tapahtumia."
 
   - position_name: Opintomestari
-    person_name: Ville Eronen
+    person_name: Akseli Konttas
     email: opintomestari@as.fi
-    phone: 050 591 5112
-    username: Eronen
-    picture: static/toimijat/2018/ville_eronen.jpg
+    #phone: 050 591 5112
+    username: Aakee
+    #picture: static/toimijat/2018/ville_eronen.jpg
     description: "Ylläpitää yhteyttä koulun henkilökuntaan, pitää itsensä tietoisena tutkinto-ohjelmassa tapahtuvista muutoksista ja vastaa kiltalaisten edunvalvonnasta. Johtaa killan opintotoimikuntaa.
 
 Opintomestariin voi ottaa yhteyttä opintoihin liittyvissä asioissa."
 
   - position_name: Yrityssuhdevastaava
-    person_name: Leo Matikainen
-    email: leo.matikainen@as.fi
-    phone: 050 413 0406
-    username: Matte50
-    picture: static/toimijat/2018/leo_matikainen.jpg
+    person_name: Jyri Kolu
+    email: jyri.kolu@as.fi
+    #phone: 050 413 0406
+    username: jjkolu
+    #picture: static/toimijat/2018/leo_matikainen.jpg
     description: "Vastaa killan suhteista yrityksiin ja excursioiden järjestämisestä. Organisoi killan mainosmyyntiä sekä kehittää killan mainetta ja kunniaa yritysten silmissä. Johtaa killan yrityssuhdetoimikuntaa. 
 
 Ota yhteyttä yrityssuhdemestariin, jos asiasi liittyy yrityssuhteisiin."
 
   - position_name: Kulttuurimestari
-    person_name: Arttu Rintala
+    person_name: Juhana Kekoni
     email: kulttuurimestari@as.fi
-    phone: 050 555 0870
-    username: tuliankka
-    picture: static/toimijat/2018/arttu_rintala.jpg
+    #phone: 050 555 0870
+    username: Keksii
+    #picture: static/toimijat/2018/arttu_rintala.jpg
     description: "Pitää yllä killan vanhoja ulkosuhteita sekä luo uusia. Johtaa kulttuuri- ja liikuntatoimikuntaa ja järjestää sen jäsenten kanssa killalle esim. kulttuuritapahtumia ja lajikokeiluja. Tykkää pitää yhteyttä moneen eri tahoon ja hengailla myös muun kuin violetin väristen ihmisten kanssa.
 
 Ota yhteyttä kulttuurimestariin, jos asiasi liittyy kulttuuriasioihin."
