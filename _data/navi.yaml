@@ -36,8 +36,8 @@ items:
           href: /halloped.html
         - title: GT
           href: /gt.html
-        - title: Toimijat 2019
-          href: /vaalit.html
+        #- title: Toimijat 2019
+          #href: /vaalit.html
         #- title: Säätökerho
         #  href: /saatokerho.html
   - title: Opiskelu
@@ -83,6 +83,6 @@ items:
           href: /contact.html
         - title: Official stuff
           href: /official.html
-        - title: Officials 2019
-          href: /election.html
+        #- title: Officials 2019
+          #href: /election.html
       
