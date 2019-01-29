@@ -3,6 +3,13 @@ body {
   font-family: $font-sans;
   background-color: $white-color;
   overflow-y: scroll;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.page-content {
+  flex: 1;
 }
 
 .teaser {
