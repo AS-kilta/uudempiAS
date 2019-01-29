@@ -1,27 +1,27 @@
 committees:
-  - name: Freshmen committee
-    description: Organizes guilds freshmen activities with the Freshman captain.
+  - name: Freshman committee
+    description: Organizes guild's freshmen activities with the Freshman captain.
     positions:
       - name: Tutor Boss
-        description: Leads guilds tutor activities.
+        description: Leads guild's tutor activities.
         members: 
-         - name: Ella Koivula
-           picture: static/toimijat/2018/ella_koivula.jpg
+         - name: Emil Huttunen
       - name: Uncle Tutor Boss
         description: Last year's Tutor Boss continues with their tutors until Wappu.
         members:
-          - name: Charlotta Alén
-            picture: static/toimijat/2018/charlotta_alen.jpg
+          - name: Ella Koivula
       - name: Great Freshman Captain
         description: Last year's Freshman Captain continues with their freshmen until Wappu.
         members:
-          - name: Noora Salminen
-            picture: static/toimijat/2018/noora_salminen.jpg
-      - name: Senior Master of International Affairs
+          - name: Ville Kauhanen
+      - name: Senior International Student Captain
         description: Last year's International Student Captain continues with their freshmen until Wappu.
         members:
-          - name: Ville Kauhanen
-            picture: static/toimijat/2018/ville_kauhanen.jpg
+          - name: Ilene Blanco
+      - name: DSD Captain
+        description:
+        members:
+          - name: Arttu Rintala
 
   - name: Study Committee
     description:
@@ -29,80 +29,63 @@ committees:
       - name: Automaton
         description:
         members:
-          - name: Roope Savolainen
-            picture: static/toimijat/2018/roope_savolainen.jpg
-      # - name: Informaatti
-      #   description:
-      #   members:  -
+          - name: Arttu Pohja
+      - name: Informant
+        description:
+        members:  
+          - name: Ville Eronen
+      - name: Abisintti
+        description:
+        members:  
+          - name: Helena Kaisanlahti
 
-  - name: Committee of Cultural Affairs
+  - name: Cultural Affairs Committee
     description:
     positions:
-      - name: Sitsi Program Manager
+      - name: Events and Cultural Excursions Director
         description:
         members:
-          - name: Antti Mella
-            picture: static/toimijat/2018/antti_mella.jpg
-      - name: Director of Events and Cultural Excursions
+          - name: Ilene Blanco
+          - name: Karolina Itäinen
+          - name: Mari Pulkkinen
+      - name: Gamer
         description:
         members:
-          - name: Sanna Halmkrona
-            picture: static/toimijat/2018/sanna_halmkrona.jpg
-      - name: Gameman
-        description:
-        members:
-          - name: Ville Piesala
-            picture: static/toimijat/2018/ville_piesala.jpg
-      - name: Cupbearer
-        description: Makes sure that (somewhat) non-alcoholic wine is available on important occasions.
-        members:
-          - name: Mikko Hokkanen
-            picture: static/toimijat/2018/mikko_hokkanen.jpg
+          - name: Taavi Oja
+          - name: Pulmu Pietikäinen
       - name: Stiff Wrist
         description:
         members:
-          - name: Matti Ojala
-            picture: static/toimijat/2018/matti_ojala.jpg
-      - name: Serial Mover
+          - name: Viet Tran
+      - name: Senile Secretary
         description:
         members:
-          - name: Juho-Topias Tuomaala
-            picture: static/toimijat/2018/juho-topias_tuomaala.jpg
+          - name: Sanna Halmkrona
+      - name: Sports Manager
+        description:
+        members:
           - name: Iivo Yrjölä
-            picture: static/toimijat/2018/iivo_yrjölä.jpg
-      - name: Random Mover
+      - name: Cupbearer
         description:
         members:
-          - name: Juho-Topias Tuomaala
-            picture: static/toimijat/2018/juho-topias_tuomaala.jpg
-      - name: Manager
-        description:
-        members:
-          - name: Antti Mella
-            picture: static/toimijat/2018/antti_mella.jpg
+          - name: Jan Juvonen
 
-  - name: Entertainment Commitee
+  - name: Entertainment Committee
     description: The Entertainment Committee is responsible for organizing the parties and happenings of the guild. It is led by the Host and Hostess, who have the responsibility of shepherding the horde of Smurfs.
     positions:
-      - name: Smurfs
+      - name: Smurf
         description:
         members:
-          - name: Alex Korpela
-            picture: static/toimijat/2018/alex_korpela.jpg
-          - name: Niko Soininen
-            picture: static/toimijat/2018/niko_soininen.jpg
-          - name: Lotta Lumiaro
-            picture: static/toimijat/2018/lotta_lumiaro.jpg
-          - name: Robert Liias
-            picture: static/toimijat/2018/robert_liias.jpg
-          - name: Vesta Kulomaa
-            picture: static/toimijat/2018/vesta_kulomaa.jpg
-          - name: Ken Riippa
-            picture: static/toimijat/2018/ken_riippa.jpg
-          - name: Sampo Saloriutta
-            picture: static/toimijat/2018/sampo_saloriutta.jpg
-          - name: Jyri Kolu
-            picture: static/toimijat/2018/jyri_kolu.jpg
+          - name: Eetu Suominen
+          - name: Jenna Kärkkäinen
+          - name: Sakari Ropponen
+          - name: Matias Mäki-leppilampi
+          - name: Aku Heinonen
+          - name: Tiia-Maria Hyvönen
+          - name: Leia Nummisalo
+          - name: Samu Mustonen
+          - name: Antti Regelin
+          - name: Markus Laine
 
   - name: Golden Tomato
     description: The guild magazine, "Kultainen Tomaatti" (Golden Tomato), is simply the best magazine in Otaniemi. Unfortunately its contents are in Finnish, so you'll need to learn it before you can read it.
@@ -110,189 +93,97 @@ committees:
       - name: Golden Editor-in-Chief
         description:
         members:  
-          - name: Antti Mella
-            picture: static/toimijat/2018/antti_mella.jpg
+          - name: Jan Juvonen
       - name: Golden Editor
         description:
         members:
           - name: Sanna Halmkrona
-            picture: static/toimijat/2018/sanna_halmkrona.jpg
           - name: Karolina Itäinen
-            picture: static/toimijat/2018/karolina_itäinen.jpg
-          - name: Jan Juvonen
-            picture: static/toimijat/2018/jan_juvonen.jpg
+          - name: Pulmu Pietikäinen
       - name: Golden Layout Designer
         description:
         members:
-          - name: Taavi Oja
-            picture: static/toimijat/2018/taavi_oja.jpg
-      - name: Golden Graphic Artist
-        description:
-        members:
-          - name: Taavi Oja
-            picture: static/toimijat/2018/taavi_oja.jpg
+          - name: Ville Kauhanen
 
   - name: Sexton Committee
-    description: Committee responsible for guilds singing culture.
+    description: Committee responsible for guild's singing culture.
     positions:
     - name: Sexton Master
       description:
       members:
-        - name: Roope Pääkkönen
-          picture: static/toimijat/2018/roope_pääkkönen.jpg
+        - name: Karolina Itäinen
     - name: Sexton
       description:
       members:
         - name: Mikko Hokkanen
-          picture: static/toimijat/2018/mikko_hokkanen.jpg
         - name: Jaakko Majuri
-          picture: static/toimijat/2018/jaakko_majuri.jpg
         - name: Arttu Rintala
-          picture: static/toimijat/2018/arttu_rintala.jpg
-        - name: Ilene Blanco
-          picture: static/toimijat/2018/ilene_blanco.jpg
-        - name: Lauri Vapalahti
-          picture: static/toimijat/2018/lauri_vapalahti.jpg
+        - name: Sakari Ropponen
+        - name: Viet Tran
+        - name: Juuso Määttä
+        - name: Ville Piesala
 
-  - name: Rest Home
-    description:
-    positions:
-      - name: Senile Secretary
-      - description:
-      - members:
-        - name: Aapo Rantala
-          picture: static/toimijat/2018/aapo_rantala.jpg
-      # - name: Alumniyhdyshenkilö
-      # - description:
-      # - members: -
-
-  - name: Committee of IT
-    description:
-    positions:
-      - name: Bit Master
-        description:
-        members: 
-          - name: Mikko Peltonen
-            picture: static/toimijat/2018/mikko_peltonen.jpg
-      - name: IT person
-        description:
-        members:
-          - name: Jaakko Majuri
-            picture: static/toimijat/2018/jaakko_majuri.jpg
-          - name: Petteri Nummela
-            picture: static/toimijat/2018/petteri_nummela.jpg
-          - name: Konsta Hölttä
-            picture: static/toimijat/2018/konsta_hölttä.jpg
-          - name: Veikka Kähkönen
-            picture: static/toimijat/2018/veikka_kähkönen.jpg
-      - name: Server person
-        description:
-        members:
-          - name: Mikko Mustonen
-            picture: static/toimijat/2018/mikko_mustonen.jpg
-
-  - name: Committee of ASki
+  - name: ASki Committee
     description: Keeps the guild room (ASki) tidy and organized.
     positions:
       - name: Master of ASki
         description:
         members:
-          - name: Riikka Nousiainen
-            picture: static/toimijat/2018/riikka_nousiainen.jpg
+          - name: Taavi Oja
       - name: Guardian of ASki
         description:
         members:
-          - name: Arttu Rintala
-            picture: static/toimijat/2018/arttu_rintala.jpg
-          - name: Sanna Halmkrona
-            picture: static/toimijat/2018/sanna_halmkrona.jpg
           - name: Ville Eronen
-            picture: static/toimijat/2018/ville_eronen.jpg
-          - name: Niina Tapanainen
-            picture: static/toimijat/2018/niina_tapanainen.jpg
-          - name: Matti Ojala
-            picture: static/toimijat/2018/matti_ojala.jpg
-
-  - name: Control Club
-    description:
-    positions:
-      # - name: Control Boss
-      #   description:
-      - name: Control Journeyman
-        description:
-        members:
-          - name: Juhana Kekoni
-            picture: static/toimijat/2018/juhana_kekoni.jpg
-          - name: Antti-Jussi Inkinen
-            picture: static/toimijat/2018/antti-jussi_inkinen.jpg
-      - name: Electro Workshop Manager
-        description:
-        members:
-          - name: Miika Lehtimäki
-            picture: static/toimijat/2018/miika_lehtimäki.jpg
-      - name: Electro Workshop Journeyman
-        description:
-        members:
-          - name: Joose Lindroos
-            picture: static/toimijat/2018/joose_lindroos.jpg
+          - name: Akseli Konttas
 
   - name: Public Relations Committee
     description:
     positions:
-      - name: Stimulaatio committee's Public Relations Correspondent
+      - name: Public Relations Journeyman
         description:
         members:
           - name: Sanna Halmkrona
-            picture: static/toimijat/2018/sanna_halmkrona.jpg
-      - name: History Committee's Public Relations Correspondent
-        description:
-        members:
-          - name: Ken Riippa
-            picture: static/toimijat/2018/ken_riippa.jpg
-          - name: Leo Matikainen
-            picture: static/toimijat/2018/leo_matikainen.jpg
+          - name: Antti Regelin
+          - name: Timo Polvinen
       - name: Public Relations Consultant
         description:
         members:
-          - name: Severi Casserly
-            picture: static/toimijat/2018/severi_casserly.jpg
+          - name: Leo Matikainen
       - name: TEKSAS ranger
         description:
         members:
-          - name: Riikka Nousiainen
-            picture: static/toimijat/2018/riikka_nousiainen.jpg
+          - name: Roope Savolainen
+
+  - name: rrrRankka Committee
+    description:
+    positions:
+      - name: rrrRankka Correspondent
+        description:
+        members:
+          - name: Roope Pääkkönen
+          - name: Ville Kauhanen
+          - name: Onni Lampi
 
   - name: Media Committee
     description:
     positions:
-      - name: Media Emperor
-        description:
-        members:
-          - name: Miika Lehtimäki
-            picture: static/toimijat/2018/miika_lehtimäki.jpg
       - name: Graphics Designer
         description:
         members:
           - name: Taavi Oja
-            picture: static/toimijat/2018/taavi_oja.jpg
-          - name: Juhana Kekoni
-            picture: static/toimijat/2018/juhana_kekoni.jpg
+          - name: Emma Riikonen
       - name: Documentator
         description:
         members:
           - name: Taru Virtanen
-            picture: static/toimijat/2018/taru_virtanen.jpg
           - name: Helena Kaisanlahti
-            picture: static/toimijat/2018/helena_kaisanlahti.jpg
-          - name: Ville Harmaala
-            picture: static/toimijat/2018/ville_harmaala.jpg
+          - name: Lukas Wachter
       - name: Social Media Manager
         description:
         members:
-          - name: Niina Tapanainen
-            picture: static/toimijat/2018/niina_tapanainen.jpg
-          - name: Emma Riikonen
-            picture: static/toimijat/2018/emma_riikonen.jpg
+          - name: Noora Salminen
+          - name: Ella Koivula
+          - name: Helena Kaisanlahti
 
   - name: Stimulaatio Committee
     description: Responsible for organizing Stimulaatio.
@@ -300,107 +191,44 @@ committees:
       - name: Stimulant
         description:
         members:
-            - name: Jan Juvonen
-              picture: static/toimijat/2018/jan_juvonen.jpg
+            - name: Noora Salminen
+            - name: Sanna Halmkrona
       - name: Depressant
         description:
         members:
-            - name: Eero Santamala
-              picture: static/toimijat/2018/eero_santamala.jpg
-            - name: Elisa Juvonen
-              picture: static/toimijat/2018/elisa_juvonen.jpg
+            - name: Riikka Nousiainen
+            - name: Helena Kaisanlahti
             - name: Kaisa Hynynen
-              picture: static/toimijat/2018/kaisa_hynynen.jpg
-            - name: Miika Lehtimäki
-              picture: static/toimijat/2018/miika_lehtimäki.jpg
-            - name: Noora Salminen
-              picture: static/toimijat/2018/noora_salminen.jpg
-            - name: Sanna Halmkrona
-              picture: static/toimijat/2018/sanna_halmkrona.jpg
-            - name: Taru Virtanen
-              picture: static/toimijat/2018/taru_virtanen.jpg
+            - name: Jan Juvonen
             - name: Titta Saari
-              picture: static/toimijat/2018/titta_saari.jpg
-            - name: Viet Tran
-              picture: static/toimijat/2018/viet_tran.jpg
 
-  - name: History Committee
+  - name: Foreign Excursions Committee
     description:
     positions:
-      - name: Historiikinkukko
+      - name: Master Of Foreign Excursions
         description:
         members:
-          - name: Henry Sanmark
-            picture: static/toimijat/2018/henry_sanmark.jpg
-          - name: Kaisa Hynynen
-            picture: static/toimijat/2018/kaisa_hynynen.jpg
-      - name: Editor
+          - name: Jaakko Majuri
+      - name: Foreign Excursions Person
         description:
         members:
-          - name: Sanna Halmkrona
-            picture: static/toimijat/2018/sanna_halmkrona.jpg
-          - name: Karolina Itäinen
-            picture: static/toimijat/2018/karolina_itäinen.jpg
-          - name: Paul Laihonen
-            picture: static/toimijat/2018/paul_laihonen.jpg
-          - name: Joel Huttunen
-            picture: static/toimijat/2018/joel_huttunen.jpg
-      - name: Web-correspondent
-        description:
-        members:
-          - name: Aku Viitanen
-            picture: static/toimijat/2018/aku_viitanen.jpg
-          - name: Juuso Mikkonen
-            picture: static/toimijat/2018/juuso_mikkonen.jpg
-      - name: Visualist
-        description:
-        members:
-          - name: Noora Salminen
-            picture: static/toimijat/2018/noora_salminen.jpg
-          - name: Kaisa Hynynen
-            picture: static/toimijat/2018/kaisa_hynynen.jpg
-      - name: Archive Correspondent
-        description:
-        members:
-          - name: Laura Romppainen
-            picture: static/toimijat/2018/laura_gröhn.jpg
+          - name: Arttu Rintala
+          - name: Niko Soininen
+          - name: Juuso Määttä
 
   - name: Outside the Committees
     description:
     positions:
-      - name: Rule Dude
-        description:
-        members:
-          - name: Onni Lampi
-            picture: static/toimijat/2018/onni_lampi.jpg
-          - name: Eero Santamala
-            picture: static/toimijat/2018/eero_santamala.jpg
-          - name: Olli-Pekka Osmala
-            picture: static/toimijat/2018/olli-pekka_osmala.jpg
-          - name: Antti-Jussi Inkinen
-            picture: static/toimijat/2018/antti-jussi_inkinen.jpg
-          - name: Niilo Metsänen
-            picture: static/toimijat/2018/niilo_metsänen.jpg
-          - name: Titta Saari
-            picture: static/toimijat/2018/titta_saari.jpg
-          - name: Jan Juvonen
-            picture: static/toimijat/2018/jan_juvonen.jpg
-          - name: Matti Ojala
-            picture: static/toimijat/2018/matti_ojala.jpg
       - name: Inspector
         description:
         members:
-          - name: Onni Lampi
-            picture: static/toimijat/2018/onni_lampi.jpg
+          - name: Jan Juvonen
           - name: Titta Saari
-            picture: static/toimijat/2018/titta_saari.jpg
-      - name: Vice-Inspector
+      - name: Vice-inspector
         description:
         members:
-          - name: Olli-Pekka Osmala
-            picture: static/toimijat/2018/olli-pekka_osmala.jpg
-          - name: Antti-Jussi Inkinen
-            picture: static/toimijat/2018/antti-jussi_inkinen.jpg
+          - name: Karolina Itäinen
+          - name: Niilo Metsänen
       - name: Alderman
         description:
         members:
