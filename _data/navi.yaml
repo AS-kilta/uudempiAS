@@ -5,13 +5,13 @@ items:
       directory: kilta
       items:
         - title: Foorumi
-          href: http://old.as.fi/foorumi/
+          href: http://as.ayy.fi/foorumi/
           absolute: true
         - title: Tapahtumailmot
-          href: http://old.as.fi/ilmo/
+          href: http://as.ayy.fi/ilmo/
           absolute: true
         - title: Galleria
-          href: http://old.as.fi/gallery/
+          href: http://as.ayy.fi/gallery/
           absolute: true
   - title: Uutiset
     href: /uutiset
