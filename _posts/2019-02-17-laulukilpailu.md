@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Laulukilpailu"
-date: 2019-02-17 21:10:00 +0200
+date: 2019-02-17 11:10:00 +0200
 language: fin
 author: Kulttuurimestari
 categories: AS kulttuuri
@@ -11,7 +11,7 @@ Arvoisa aASi, aASihenkinen tai muuten eläimellinen yksilö,
 
 Sinut on kutsuttu osallistumaan AS:n perinteikkäiseen laulukilpailuun. Kun Sinä, kunnioitettu lyyrikko, olet Arwowaltaisen Raadin tarkan, tuomitsevan sekä juomitsevan katseen alla tähän uljaaseen kilpaan osallistuva, tulee sinun mielessäsi visusti pitää ja tarkkaan säilyttää seuraavat asiat:
 
-##### AS:n Laulukilpailun säännöt
+#### AS:n Laulukilpailun säännöt
 
 1. Kilpailussa on neljä sarjaa: AS-, Aalto-, Wapaa- ja International-sarja.
 2. **AS-sarjaan** lähetetyn kappaleen täytyy jollakin henkisellä tai fyysisellä tavalla koskettaa, tai jopa suorastaan olla osa rakasta violettia kiltaamme.
