@@ -27,8 +27,8 @@ Keskustelua opintoasioista
 [Kulttuurinmieliset - Telegram](https://telegram.me/joinchat/A9RxtQFKNS6DdMh-6nCk2Q)<br>
 Killisteille, joita kiinnostaa kulttuuri
 
-[Mediamieliset - Telegram](https://telegram.me/joinchat/AmCqNQJAZ6qE1bm55K5pWw)<br>
-Killisteille, joita kiinnostaa media
+[Pelimieliset - Telegram](https://t.me/joinchat/Ba4qAlR4Yt8YT3mYvHdU6A)<br>
+Lautapelaamisesta ja videopeleistä kiinnostuneille
 
 [Säätömieliset - Telegram](https://t.me/joinchat/AuV1G0JWzubqG0DoRLZk0A)<br>
 Killisteille, joita kiinnostaa säätö
