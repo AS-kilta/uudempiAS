@@ -1,0 +1,100 @@
+people:
+  - position_name: Puheenjohtaja
+    person_name: Titta Saari
+    email: puheenjohtaja@as.fi
+    phone: 050 413 9000
+    username: tittzaa
+    picture: static/toimijat/2017/titta_saari.jpg
+    description: "Johtaa hallitusta ja sitä kautta koko killan toimintaa.
+
+Ota yhteyttä puheenjohtajaan, jos asiasi koskee kiltaa tai et tiedä keneen ottaa yhteyttä."
+
+  - position_name: Rahastonhoitaja
+    person_name: Ilkka Malassu
+    email: rahastonhoitaja@as.fi
+    phone: 050 495 3863
+    username: ilboinen
+    picture: static/toimijat/2017/ilkka_malassu.jpg
+    description: "Huolehtii killan raha-asioista, kuten laskujen maksamisesta ja kirjanpidosta.
+
+Ota yhteyttä rahastonhoitajaan raha-asioissa."
+
+  - position_name: Sihteeri
+    person_name: Veikka Kähkönen
+    email: sihteeri@as.fi
+    phone: 050 463 0996
+    username: veikka
+    picture: static/toimijat/2017/veikka_kahkonen.jpg
+    description: "Vastaa pöytäkirjojen tekemisestä hallituksen ja killan kokouksista. Sihteerin vastuulla on myös jäsenrekisterin ylläpitäminen sekä kiltaa koskevan materiaalin arkistoinnista huolehtiminen.
+
+Ota yhteyttä sihteeriin jäsenmaksuihin liittyvissä asioissa."
+
+  - position_name: Viestintämestari
+    person_name: Karolina Itäinen
+    email: viestintamestari@as.fi
+    phone: 050 533 3073
+    username: Itainek
+    picture: static/toimijat/2017/karolina_itäinen.jpg
+    description: "Vastaa jäsenistön tiedottamisesta lähettämällä tiedotteita ja ylläpitämällä kalenteria. Viestintämestari pitää ajan tasalla myös killan sähköpostilistoja ja nettisivujen sisältöä.
+
+Ota yhteyttä viestintämestariin halutessasi tiedottaa killisteille jotakin."
+
+  - position_name: Phuksikapteeni
+    person_name: Noora Salminen
+    email: phuksikapteeni@as.fi
+    phone: 050 468 7157
+    username: norsu
+    picture: static/toimijat/2017/noora_salminen.jpg
+    description: "Vastaa killan phuksikasvatuksesta ja phuksitoiminnasta. Järjestää phuksitapahtumia killan, korkeakoulun sekä yliopiston muiden fuksikapteenien kanssa. Toimii esimerkkinä ja tukena phukseille. Phuksikapteeni työskentelee yhteistyössä ISOpomon kanssa.
+
+Ota yhteyttä phuksikapteeniin, jos olet hämmentynyt phuksi."
+
+  - position_name: Isäntä
+    person_name: Sanna Halmkrona
+    email: ie@as.fi
+    phone: 040 716 0933
+    username: Sanzkii
+    picture: static/toimijat/2017/sanna_halmkrona.jpg
+    description: "Järjestää yhdessä Emännän kanssa kiltalaisille mitä moninaisimpia tapahtumia ja huolehtii elintarvikkeiden välittämisestä killistien vatsalaukkuihin. Organisoi huvitoimikunnan toimintaa ja kehittää killan tapahtumakulttuuria.
+
+Ota yhteyttä IE:hen, jos asiasi koskee killan tapahtumia."
+
+  - position_name: Emäntä
+    person_name: Taru Virtanen
+    email: ie@as.fi
+    phone: 040 768 5985
+    username: tarude
+    picture: static/toimijat/2017/taru_virtanen.jpg
+    description: "Järjestää yhdessä Emännän kanssa kiltalaisille mitä moninaisimpia tapahtumia ja huolehtii elintarvikkeiden välittämisestä killistien vatsalaukkuihin. Organisoi huvitoimikunnan toimintaa ja kehittää killan tapahtumakulttuuria.
+
+Ota yhteyttä IE:hen, jos asiasi koskee killan tapahtumia."
+
+  - position_name: Opintomestari
+    person_name: Santeri Salmijärvi
+    email: opintomestari@as.fi
+    phone: 040 171 4947
+    username: sndels
+    picture: static/toimijat/2017/santeri_salmijärvi.jpg
+    description: "Ylläpitää yhteyttä koulun henkilökuntaan, pitää itsensä tietoisena tutkinto-ohjelmassa tapahtuvista muutoksista ja vastaa kiltalaisten edunvalvonnasta. Johtaa killan opintotoimikuntaa.
+
+Opintomestariin voi ottaa yhteyttä opintoihin liittyvissä asioissa."
+
+  - position_name: Yrityssuhdemestari
+    person_name: Severi Casserly
+    email: yrityssuhdemestari@as.fi
+    phone: 040 539 0739
+    username: severicasserly
+    picture: static/toimijat/2017/severi_casserly.jpg
+    description: "Vastaa killan suhteista yrityksiin ja excursioiden järjestämisestä. Organisoi killan mainosmyyntiä sekä kehittää killan mainetta ja kunniaa yritysten silmissä. Johtaa killan yrityssuhdetoimikuntaa. 
+
+Ota yhteyttä yrityssuhdemestariin, jos asiasi liittyy yrityssuhteisiin."
+
+  - position_name: Kulttuurimestari
+    person_name: Antti Mella
+    email: kulttuurimestari@as.fi
+    phone: 040 834 8694
+    username: Mellansuup
+    picture: static/toimijat/2017/antti_mella.jpg
+    description: "Pitää yllä killan vanhoja ulkosuhteita sekä luo uusia. Johtaa kulttuuri- ja liikuntatoimikuntaa ja järjestää sen jäsenten kanssa killalle esim. kulttuuritapahtumia ja lajikokeiluja. Tykkää pitää yhteyttä moneen eri tahoon ja hengailla myös muun kuin violetin väristen ihmisten kanssa.
+
+Ota yhteyttä kulttuurimestariin, jos asiasi liittyy kulttuuriasioihin."
