@@ -5,25 +5,25 @@ committees:
       - description:
         members:
           - name: Severi Casserly
-            picture: static/toimijat/2018/severi_casserly.jpg
+            picture: static/toimijat/2019/severi_casserly_19.JPG
           - name: Ville Eronen
-            picture: static/toimijat/2018/ville_eronen.jpg
+            picture: static/toimijat/2019/ville_eronen_19.jpg
           - name: Lassi Ihalainen
-            picture: static/toimijat/aebaej_placeholder.png
+            picture: static/toimijat/2019/lassi_ihalainen_19.JPG
           - name: Ville Kauhanen
             picture: static/toimijat/2018/ville_kauhanen.jpg
           - name: Juhani Kekoni
-            picture: static/toimijat/2018/juhana_kekoni.jpg
+            picture: static/toimijat/2019/juhana_kekoni_19.JPG
           - name: Akseli Konttas
-            picture: static/toimijat/aebaej_placeholder.png
+            picture: static/toimijat/2019/akseli_konttas_19.JPG
           - name: Jaakko Majuri
-            picture: static/toimijat/2018/jaakko_majuri.jpg
+            picture: static/toimijat/2019/jaakko_majuri_19.JPG
           - name: Ville Piesala
-            picture: static/toimijat/2018/ville_piesala.jpg
+            picture: static/toimijat/2019/ville_piesala_19.JPG
           - name: Arttu Rintala
-            picture: static/toimijat/2018/arttu_rintala.jpg
+            picture: static/toimijat/2019/arttu_rintala_19.JPG
           - name: Arttu Pohja
-            picture: static/toimijat/aebaej_placeholder.png
+            picture: static/toimijat/2019/arttu_pohja_19.JPG
           - name: Santeri Salmijärvi
             picture: static/toimijat/2017/santeri_salmijärvi.jpg
           - name: Noora Vänttinen
