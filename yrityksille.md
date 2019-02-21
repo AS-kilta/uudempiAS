@@ -28,9 +28,10 @@ Koko kiltatoiminta on monen pienen osan summa. Ylläpidämme yliopiston tiloissa
 
 Yritysyhteistyöstä vastaa meidän päässämme yrityssuhdetoimikunta, jota koordinoi yrityssuhdevastaava.
 
-![Yrityssuhdevastaava]({{ "/static/toimijat/aebaej_placeholder.png" | absolute_url }} "Yrityssuhdevastaava"){:height="150px" width="150px" style="border-radius:50%;"}
+![Yrityssuhdevastaava]({{ "/static/toimijat/2019/jyri_kolu_19_1.jpg" | absolute_url }} "Yrityssuhdevastaava"){:height="150px" width="150px" style="border-radius:50%;"}
 
 Jyri Kolu<br>
-[Yrityssuhdevastaava](mailto:yrityssuhdemestari@POISTAas.fi)<br>
+Yrityssuhdevastaava<br>
+[yrityssuhdevastaava](mailto:yrityssuhdemestari@POISTAas.fi) (email)<br>
 [+358 50 3010757](tel://+358503010757)<br>
 [Telegram: @jjkolu](https://telegram.me/jjkolu)
