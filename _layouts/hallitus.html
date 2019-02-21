@@ -26,9 +26,15 @@ layout: page
                             <h4 class="contact__person_name">{{ person.person_name }}</h4>
                             <div class="contact__section">
                                 {% assign email_tokens = person.email | split: '@' %}
+                                {% if person.email %}
                                 <i class="fa fa-envelope" aria-hidden="true"></i> <a href="mailto:{{ email_tokens[0] }}REMOVETHIS@{{ email_tokens[1] }}">{{ email_tokens[0] }}</a><br>
+                                {% endif %}
+                                {% if person.phone %}
                                 <i class="fa fa-phone" aria-hidden="true"></i> {{ person.phone }}<br>
+                                {% endif %}
+                                {% if person.username %}
                                 <i class="fa fa-telegram" aria-hidden="true"></i> @{{ person.username }}<br>
+                                {% endif %}
                             </div>
                             <div class="contact__section contact__section--spacer">
                             </div>

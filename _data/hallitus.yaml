@@ -2,7 +2,7 @@ people:
   - position_name: Puheenjohtaja
     person_name: Severi Casserly
     email: puheenjohtaja@as.fi
-    #phone: 050 581 2974
+    phone: 040 593 0739
     username: SeveriCasserly
     picture: static/toimijat/2019/severi_casserly_19.jpg
     description: "Johtaa hallitusta ja sitä kautta koko killan toimintaa.
@@ -12,7 +12,7 @@ Ota yhteyttä puheenjohtajaan, jos asiasi koskee kiltaa tai et tiedä keneen ott
   - position_name: Rahastonhoitaja
     person_name: Ville Eronen
     email: rahastonhoitaja@as.fi
-    #phone: 050 533 3073
+    phone: 050 591 5112
     username: Eronen
     picture: static/toimijat/2019/ville_eronen_19.jpg
     description: "Huolehtii killan raha-asioista, kuten laskujen maksamisesta ja kirjanpidosta.
@@ -89,8 +89,8 @@ Opintomestariin voi ottaa yhteyttä opintoihin liittyvissä asioissa."
 
   - position_name: Yrityssuhdevastaava
     person_name: Jyri Kolu
-    email: jyri.kolu@as.fi
-    #phone: 050 413 0406
+    email: yrityssuhdevastaava@as.fi
+    phone: 050 301 0757
     username: jjkolu
     picture: static/toimijat/2019/jyri_kolu_19_2.jpg
     description: "Vastaa killan suhteista yrityksiin ja excursioiden järjestämisestä. Organisoi killan mainosmyyntiä sekä kehittää killan mainetta ja kunniaa yritysten silmissä. Johtaa killan yrityssuhdetoimikuntaa. 
