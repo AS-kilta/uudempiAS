@@ -1,4 +1,4 @@
-$info_item_separation: 0.9em;
+$info_item_separation: 1em;
 
 .info_section {
     margin-bottom: 1.5em;
@@ -12,6 +12,9 @@ $info_item_separation: 0.9em;
 
 .post_list {
     @include bulletless-ul();
+    time {
+        font-size: 0.8em;
+    }
 }
 
 .post_list__title {
@@ -24,6 +27,7 @@ $info_item_separation: 0.9em;
 
 .post_list__excerpt {
     margin-bottom: 0;
+    line-height: 1.3em;
 }
 
 .post_list__categories {

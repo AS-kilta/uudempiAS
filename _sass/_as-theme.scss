@@ -6,38 +6,14 @@ body {
   min-height: 100vh;
   display: flex;
   flex-direction: column;
+
+  h1, h2,{
+    font-family: $font-heading;
+  }
 }
 
 .page-content {
   flex: 1;
-}
-
-.teaser {
-  &:not(:first-of-type) {
-    margin: ($spacing-unit / 2) 0;
-  }
-  background-color: $white-color;
-  @at-root {
-    .teaser__image {
-      display: inline-block;
-      @include breakpoint(tablet) {
-        max-width: 200px;
-      }
-    }
-    .teaser__text {
-      display: inline-block;
-      vertical-align: middle;
-      padding: ($spacing-unit / 2);
-    }
-  }
-}
-.teaser--with-image .teaser__text {
-  @include breakpoint(tablet) {
-    max-width: 60%;
-  }
-  @include breakpoint(desktop) {
-    max-width: 70%;
-  }
 }
 
 .header__title {
@@ -48,21 +24,18 @@ body {
   background: $grey-color-light;
   padding: $spacing-unit;
   color: black;
-  .footer-col {
-    color: black;
-  }
   h2 {
-    font-family: 'Sintony', sans-serif;
+    font-family: $font-heading;
     text-transform: uppercase;
     letter-spacing: 1px;
-    font-size: 1.3em;
-  }
+    }
 }
 
 .header__navigation {
 
 /*  margin-top: $spacing-unit / 4; */
   overflow: hidden;
+  font-family: $font-heading;
   ul {
    
     overflow: hidden;
@@ -89,6 +62,7 @@ body {
   padding-top: 7.5px;
   background: $grey-color-light;
   overflow: hidden;
+  font-family: $font-heading;
   font-size: 0.9em;
   text-align: center; 
     margin-bottom: 0 !important;
@@ -128,7 +102,7 @@ body {
 }
 
 .site-title {
-    font-family: 'Sintony', sans-serif;
+    font-family: $font-sans;
     letter-spacing: 1px;
     font-size: 1.0em;
 }
@@ -193,48 +167,6 @@ h4 a {
   }
 }
 
-.sidebar {
-  @include breakpoint(mobile) {
-    float: right;
-    width: 25%;
-  }
-}
-
-.teaser--magazine {
-  margin: 0;
-  padding: 10px 20px;
-}
-
-.magazine__number {
-  text-align: center;
-  margin: 5px;
-}
-
-.fourfold {
-  @extend %clearfix;
-}
-
-.fourfold__row {
-  @extend %clearfix;
-  @include breakpoint(0, tablet) {
-    border-top: 1px solid #ddd;
-  }
-}
-
-.fourfold__cell {
-    width: 33%;
-    float: left;
-    min-height: 100px;
-    border-top: 1px solid #ddd;
-    border-right: 1px solid #ddd;
-    padding: 10px;
-    box-sizing: border-box;
-    word-wrap: break-word;
-    @include breakpoint(0, tablet) {
-      border: none;
-    }
-}
-
 .author {
   margin: $spacing-unit;
   @at-root {
@@ -258,40 +190,3 @@ h4 a {
   float: left;
 }
 
-
-.page--magazine {
-  .teaser--magazine {
-    @include breakpoint(mobile) {
-      float: left;
-      width: 30%;
-    }
-  }
-}
-.article-list--magazine {
-  @include breakpoint(mobile) {
-    width: 68%;
-    float: right;
-    .teaser:first-of-type {
-      margin-top: 0;
-    }
-  }
-  .teaser {
-    margin-top: $spacing-unit / 2;
-  }
-  h2 {
-    margin: 0;
-  }
-  .post-link {
-    font-size: 0.8em;
-  }
-}
-
-.sidebar__related {
-  padding-top: $spacing-unit;
-  margin-top: $spacing-unit;
-  border-top: 1px solid $border-color;
-}
-
-.teaser--heading {
-  padding: $spacing-unit / 2 $spacing-unit / 4 0;
-}

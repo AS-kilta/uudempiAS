@@ -7,50 +7,44 @@ layout: default
 <article class="post">
 
   <div class="post-content">
-    <div class="section group">
+    <div class="container">
 
-    <div class="col span_1_of_2">
-      <div class="info_section">
-        <h1 class="info_section__title">Ajankohtaista</h1>
-        {% assign main_category_posts = site.categories[site.main_category] %}
-        {%
-          include functions/post-list.html
-          posts=main_category_posts
-          limit=5
-        %}
-        <a href="uutiset">Kaikki uutiset</a>
+    <div class="info_section flex-item">
+      <h1 class="info_section__title">Uutiset</h1>
+      {% assign main_category_posts = site.categories[site.main_category] %}
+      {%
+        include functions/post-list.html
+        posts=main_category_posts
+        limit=5
+      %}
+      <a href="uutiset">Kaikki uutiset</a>
+    </div>
+
+      <div class="info_section flex-item">
+        <h1 class="info_section__title">Mikä AS?</h1>
+        {% capture index_content %}{% include index_content.md %}{% endcapture %}
+        {{ index_content | markdownify }}
       </div>
-    </div>
 
-    <div class="col span_1_of_2">
-        <div class="info_section">
-          <h1 class="info_section__title">Mikä AS?</h1>
-          {% capture index_content %}{% include index_content.md %}{% endcapture %}
-          {{ index_content | markdownify }}
-        </div>
+      <div class="info_section flex-item">
+        <h1 class="info_section__title">Tulevat tapahtumat</h1>
+        <ul id="event-list" class="event_list">
+        </ul>
+        <ul id="event-list-2" class="event_list">
+        </ul>
 
-        <div class="info_section">
-          <h1 class="info_section__title">Tulevat tapahtumat</h1>
-          <ul id="event-list" class="event_list">
-          </ul>
-          <ul id="event-list-2" class="event_list">
-          </ul>
-
-          <a href="{{ "/tapahtumat.html" | absolute_url }}">
-            Kaikki tapahtumat
-          </a>
-        </div>
-    </div>
+        <a href="{{ "/tapahtumat.html" | absolute_url }}">
+          Kaikki tapahtumat
+        </a>
+      </div>
 
     </div>
   </div>
 
   <div class="section group">
-    <div class="col span_2_of_2">
-      <!-- SnapWidget -->
-      <script src="https://snapwidget.com/js/snapwidget.js"></script>
-      <iframe src="https://snapwidget.com/embed/477716" class="snapwidget-widget" allowTransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden; width:100%; "></iframe>
-    </div>
+    <!-- SnapWidget -->
+    <script src="https://snapwidget.com/js/snapwidget.js"></script>
+    <iframe src="https://snapwidget.com/embed/477716" class="snapwidget-widget" allowTransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden; width:100%; "></iframe>
   </div>
 
 </article>
