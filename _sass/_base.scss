@@ -211,4 +211,13 @@ pre {
     }
 }
 
+.flex-container {
+    display: flex;
+    flex-wrap: wrap;
+}
 
+.flex-item {
+    flex: 1;
+    min-width: 265px;
+    margin: 5px;
+}
