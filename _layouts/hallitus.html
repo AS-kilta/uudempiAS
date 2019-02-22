@@ -5,48 +5,39 @@ layout: page
 <section>
     {{ content }}
 
-    <div>
+    <div class="contact-container">
         {% assign people = site.data[page.data].people %}
         {% if people[0] %}
-            {% assign i = 0 %}
             {% for person in people %}
-                {% assign columnI = i | modulo: 2 %}
-                {% if columnI == 0 %}
-                    <div class="section group">
-                {% endif %}
-                    <div class="contact col span_1_of_2">
-                        <div class="contact-inline">
-                            {% if person.picture %}
-                                {% assign picture_path = person.picture %}
-                            {% else %}
-                                {% assign picture_path = page.placeholder_img %}
+                <div class="board_contact">
+                    <div class="contact-inline">
+                        {% if person.picture %}
+                            {% assign picture_path = person.picture %}
+                        {% else %}
+                            {% assign picture_path = page.placeholder_img %}
+                        {% endif %}
+                        <img class="contact__photo" style="max-height:200px; margin: 0 auto;" src="{{ picture_path | absolute_url }}" alt="">
+                        <h3 class="contact__position_name contact__position_name--hallitus">{{ person.position_name }}</h3>
+                        <h4 class="contact__person_name">{{ person.person_name }}</h4>
+                        <div class="contact__section">
+                            {% assign email_tokens = person.email | split: '@' %}
+                            {% if person.email %}
+                            <i class="fa fa-envelope" aria-hidden="true"></i> <a href="mailto:{{ email_tokens[0] }}REMOVETHIS@{{ email_tokens[1] }}">{{ email_tokens[0] }}</a><br>
                             {% endif %}
-                            <img class="contact__photo" style="max-height:200px; margin: 0 auto;" src="{{ picture_path | absolute_url }}" alt="">
-                            <h3 class="contact__position_name contact__position_name--hallitus">{{ person.position_name }}</h3>
-                            <h4 class="contact__person_name">{{ person.person_name }}</h4>
-                            <div class="contact__section">
-                                {% assign email_tokens = person.email | split: '@' %}
-                                {% if person.email %}
-                                <i class="fa fa-envelope" aria-hidden="true"></i> <a href="mailto:{{ email_tokens[0] }}REMOVETHIS@{{ email_tokens[1] }}">{{ email_tokens[0] }}</a><br>
-                                {% endif %}
-                                {% if person.phone %}
-                                <i class="fa fa-phone" aria-hidden="true"></i> {{ person.phone }}<br>
-                                {% endif %}
-                                {% if person.username %}
-                                <i class="fa fa-telegram" aria-hidden="true"></i> @{{ person.username }}<br>
-                                {% endif %}
-                            </div>
-                            <div class="contact__section contact__section--spacer">
-                            </div>
-                            <div class="contact__section">
-                                {{ person.description }}
-                            </div>
+                            {% if person.phone %}
+                            <i class="fa fa-phone" aria-hidden="true"></i> {{ person.phone }}<br>
+                            {% endif %}
+                            {% if person.username %}
+                            <i class="fa fa-telegram" aria-hidden="true"></i> @{{ person.username }}<br>
+                            {% endif %}
+                        </div>
+                        <div class="contact__section contact__section--spacer">
+                        </div>
+                        <div class="contact__section">
+                            {{ person.description }}
                         </div>
                     </div>
-                {% if columnI == 1 %}
-                    </div>
-                {% endif %}
-                {% assign i = i | plus: 1 %}
+                </div>
             {% endfor %}
         {% endif %}
     </div>

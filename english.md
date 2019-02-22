@@ -52,6 +52,13 @@ permalink: /english/
 <script src="{{ "/static/js/moment.min.js" | absolute_url }}"></script>
 <script src="{{ "/static/js/format-google-calendar.js" | absolute_url }}"></script>
 <script type="text/javascript">
+  var startDate = new Date();
+  var endDate = new Date();
+  startDate.setDate(startDate.getDate() - 1);
+  endDate.setFullYear(startDate.getFullYear() + 2);
+  var timestamp_start = startDate.toISOString();
+  var timestamp_end = endDate.toISOString();
+
   formatGoogleCalendar.init({
     calendarUrl: 'https://www.googleapis.com/calendar/v3/calendars/as.tiedottaja@gmail.com/events?key=AIzaSyCJrtmGOeEFAq912lwijvCmKR33SAtC_qo',
     past: false,
@@ -67,7 +74,7 @@ permalink: /english/
     upcomingHeading: '',
     pastHeading: '',
     format: ['*summary*', '*date*', '*description*'],
-    timeMin: '2016-06-03T10:00:00-07:00',
-    timeMax: '2020-06-03T10:00:00-07:00'
+    timeMin: timestamp_start,
+    timeMax: timestamp_end
   });
 </script>
