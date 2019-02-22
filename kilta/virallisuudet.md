@@ -13,7 +13,6 @@ title: Virallisuudet
 * [Lippuohjesääntö](https://as.fi/kilta/lippuohjesaanto.html)
 * [Kunnianosoitukset](http://as.fi/kilta/kunnianosoitukset.html)
 * [Toimintamalli tapahtumiin](http://old.as.fi/kilta/virallisuudet/toimintamalli/)
-* [Kiltojen kriisiohjesääntö](https://as.fi/static/virallisuudet/kriisiohje.pdf)
 
 * [Laskupohja (PDF)](https://as.fi/static/virallisuudet/laskupohja_2016.pdf)
 * [Laskupohja (DOC)](https://as.fi/static/virallisuudet/laskupohja_2016.doc) 
