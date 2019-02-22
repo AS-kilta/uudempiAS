@@ -21,68 +21,68 @@ items:
       directory: kilta
       items:
         - title: Hallitus
-          href: /hallitus
+          href: /hallitus.html
         - title: Toimihenkilöt
-          href: /toimihenkilot
+          href: /toimihenkilot.html
         - title: Viestintä
-          href: /viestinta
+          href: /viestinta.html
         - title: Jäsenyys
-          href: /jasenyys
+          href: /jasenyys.html
         - title: Virallisuudet
-          href: /virallisuudet
+          href: /virallisuudet.html
         - title: ASki
-          href: /aski
+          href: /aski.html
         - title: Halloped
-          href: /halloped
+          href: /halloped.html
         - title: GT
-          href: /gt
+          href: /gt.html
         #- title: Toimijat 2019
-          #href: /vaalit
+          #href: /vaalit.html
         #- title: Säätökerho
-        #  href: /saatokerho
+        #  href: /saatokerho.html
   - title: Opiskelu
-    href: /opiskelu
+    href: /opiskelu.html
   - title: Uudet opiskelijat
     href: /phuksit
     subnavi:
       items:
         - title: VarASlähtö
-          href: /varaslahto
+          href: /varaslahto.html
         - title: Eka päivä
-          href: /ekapaiva
+          href: /ekapaiva.html
         - title: Hyödyllisiä yhteystietoja / linkkejä
-          href: /yhteystietojalinkkeja
+          href: /yhteystietojalinkkeja.html
         - title: Haalarit
-          href: /haalarit
+          href: /haalarit.html
         - title: Teekkarilakki
-          href: /teekkarilakki
+          href: /teekkarilakki.html
   - title: Tapahtumat
-    href: /tapahtumat
+    href: /tapahtumat.html
   - title: Yrityksille
-    href: /yrityksille
+    href: /yrityksille.html
   - title: Yhteystiedot
-    href: /yhteystiedot
+    href: /yhteystiedot.html
   - title: In English
     href: /english
     subnavi:
       directory: english
       items:
         - title: News
-          href: /news
+          href: /news.html
         - title: The Guild
-          href: /guild
+          href: /guild.html
         - title: Committees
-          href: /committees
+          href: /committees.html
         - title: Studies
-          href: /studies
+          href: /studies.html
         - title: Events
-          href: /events
+          href: /events.html
         - title: Membership
-          href: /membership
+          href: /membership.html
         - title: Contact information
-          href: /contact
+          href: /contact.html
         - title: Official stuff
-          href: /official
+          href: /official.html
         #- title: Officials 2019
-          #href: /election
+          #href: /election.html
       
