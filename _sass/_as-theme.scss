@@ -21,11 +21,12 @@ body {
 }
 
 .site-footer {
-  background: $grey-color-light;
+  background: $dark-grey-navi;
   padding: $spacing-unit;
   color: black;
   h2 {
     font-family: $font-heading;
+    color:#fff;
     text-transform: uppercase;
     letter-spacing: 1px;
     }
@@ -39,7 +40,7 @@ body {
   ul {
    
     overflow: hidden;
-    background: $grey-color-light;
+    background: $dark-grey-navi;
     margin: 0;
     padding: $spacing-unit /2 0;
   }
@@ -50,17 +51,18 @@ body {
 
     font-size: 1.0em;
   }
-  a, a:visited, a:hover {
+  a, a:visited {
     text-decoration: none;
-    color: $text-color;
+    color: #ddd;
   }
   a:hover{
-    color: $purple-color;
+    text-decoration: none;
+    color: #900090;
   }
 }
 .subheader__navigation {
   padding-top: 7.5px;
-  background: $grey-color-light;
+  background: $dark-grey-subnavi;
   overflow: hidden;
   font-family: $font-heading;
   font-size: 0.9em;
@@ -77,18 +79,19 @@ body {
     display: inline-block;
     padding: 0 10px;
     font-size: 1.0em; }
-  .subheader__navigation a, .header__navigation a:visited, .header__navigation a:hover {
+  .subheader__navigation a {
     text-decoration: none;
-    color: #111; }
+    color: #ddd; }
   .subheader__navigation a:hover {
-    color: #620062; }
+    text-decoration: none;
+    color: #900090; }
 
 .navigation__item.active {
   font-weight: bold;
 }
 
 .navigation__item.active a {
-  color: $purple-color;
+  color: #900090;
 }
 .header__title {
     padding-top: $spacing-unit/4;

@@ -30,11 +30,13 @@ $brand-color-lightest: lighten($brand-color-light, 20%);
 $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 43%);
 $grey-color-dark:  darken($grey-color, 25%);
+$dark-grey-navi: #262626;
+$dark-grey-subnavi: #333333;
 
 $oldpurple-color : #5c3c7c;
 $purple-color : #620062;
 $border-color: #ddd;
-$white-color: #fff;
+$white-color: #eee;
 
 // Width of the content area
 $content-width:    960px;

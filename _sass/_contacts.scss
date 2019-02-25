@@ -4,7 +4,7 @@ $contact-vspacing: 2em;
 .contact {
     text-align: center;
     display: inline-block;
-    flex:1;
+    flex:0 1 $content-width/4.4;
     min-width: 200px;
     margin: 0 0 $contact-vspacing 0;
     padding: 0 1em 0 1em;
@@ -23,11 +23,18 @@ $contact-vspacing: 2em;
     flex-direction: row;
     flex-wrap: wrap;
     align-content: center;
-    justify-content: space-evenly;
+    justify-content: center;
+    margin-top: 2em;
+}
+
+.committee_description {
+    margin-top: 1em;
+    text-align: center;
 }
 
 .contact__position_name {
     margin-bottom: 0;
+    text-align: center;
 }
 
 .contact__position_name--hallitus {
@@ -49,7 +56,7 @@ $contact-vspacing: 2em;
 
 .contact__section--spacer {
     border-top: 3px solid $brand-color;
-    width: 20%;
+    width: 3em;
     margin-left: auto;
     margin-right: auto;
 }
