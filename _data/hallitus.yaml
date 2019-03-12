@@ -2,7 +2,7 @@ people:
   - position_name: Puheenjohtaja
     person_name: Severi Casserly
     email: puheenjohtaja@as.fi
-    phone: 040 593 0739
+    phone: 040 539 0739
     username: SeveriCasserly
     picture: static/toimijat/2019/severi_casserly_19.jpg
     description: "Johtaa hallitusta ja sitä kautta koko killan toimintaa.
@@ -32,7 +32,7 @@ Ota yhteyttä sihteeriin jäsenmaksuihin liittyvissä asioissa."
   - position_name: Viestintämestari
     person_name: Niina Tapanainen
     email: viestintamestari@as.fi
-    #phone: 050 3314 314
+    phone: 050 331 4314
     username: niinainen
     picture: static/toimijat/2019/niina_tapanainen_19.jpg
     description: "Vastaa jäsenistön tiedottamisesta lähettämällä tiedotteita ja ylläpitämällä kalenteria. Viestintämestari pitää ajan tasalla myös killan sähköpostilistoja ja nettisivujen sisältöä.
@@ -42,7 +42,7 @@ Ota yhteyttä viestintämestariin halutessasi tiedottaa killisteille jotakin."
   - position_name: Phuksikapteeni
     person_name: Lassi Ihalainen
     email: phuksikapteeni@as.fi
-    #phone: 040 097 8840
+    phone: 050 494 9522
     username: Suklaalihis
     picture: static/toimijat/2019/lassi_ihalainen_19.jpg
     description: "Vastaa killan phuksikasvatuksesta ja -toiminnasta. Järjestää phuksitapahtumia killan, korkeakoulun sekä yliopiston muiden fuksikapteenien kanssa. Toimii esimerkkinä ja tukena phukseille. Työskentelee yhteistyössä ISOpomon kanssa."
