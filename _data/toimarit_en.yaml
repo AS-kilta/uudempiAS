@@ -236,7 +236,7 @@ committees:
         description:
         members:
           - name: Noora Salminen
-            picture: static/toimijat/2019/noora_salminen_19.JPG
+            picture: static/toimijat/2019/noora_salminen_19.jpg
           - name: Ella Koivula
             picture: static/toimijat/2019/ella_koivula_19.jpg  
           - name: Helena Kaisanlahti
@@ -249,7 +249,7 @@ committees:
         description:
         members:
             - name: Noora Salminen
-              picture: static/toimijat/2018/noora_salminen.jpg  
+              picture: static/toimijat/2019/noora_salminen_19.jpg
             - name: Sanna Halmkrona
               picture: static/toimijat/2019/sanna_halmkrona_2.jpg  
       - name: Depressant
