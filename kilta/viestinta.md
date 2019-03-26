@@ -6,7 +6,7 @@ Kilta käyttää useita eri viestintävälineitä killan sisäiseen viestintää
 
 ## Sähköpostilistat
 
-Sähköpostilistoja käytetään jäsenistön laaja-alaiseen tiedottamiseen esimerkiksi viikkotiedotteen muodossa. Killan hallituksen [sähköpostilistan] (hallitusREMOVETHIS@as.fi) kautta saa yhteyden killan koko hallitukseen.
+Sähköpostilistoja käytetään jäsenistön laaja-alaiseen tiedottamiseen esimerkiksi viikkotiedotteen muodossa. Killan hallituksen sähköpostilistan kautta saa yhteyden killan koko hallitukseen.
 Killan jäsenet lisätään automaattisesti kolmelle sähköpostilistalle: aktiivit, jäsenet ja rekry. Aktiivit-listalle lähetetään viikkotiedotteet, jotka sisältävät infoa killan tapahtumista ja muista ajankohtaisista aiheista ja tapahtumista. Jäsenet-listalle lähetetään kokouskutsut sekä tietoa vuosijuhlista. Rekrylistalle lähetetään yhteistyössä toimivien yritysten rekrytointi-ilmoituksia.
 
 Mikäli haluat lähettää tiedotteita sähköpostilistoille tai päästä mukaan listalle, otathan yhteyttä killan viestintämestariin.

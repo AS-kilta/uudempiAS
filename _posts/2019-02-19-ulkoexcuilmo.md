@@ -6,7 +6,7 @@ language: fin
 author: Viestintämestari
 categories: AS Excursiot pääuutiset
 ---
-**Ulkoexcun ilmoittautuminon on auki!**
+**Ulkoexcun ilmoittautuminen on auki!**
 
 Ilmoittautuminen aukeaa 20.2.2019 klo 12:00 ja tapahtuu osoitteessa
 <http://as.ayy.fi/ilmo/ulkoexcu>
