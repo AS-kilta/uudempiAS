@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Aalto etsii haastateltavia opintojen esittelyteksteihin"
-date: 2019-03-26 16:20:00 +0200
+date: 2019-03-26 14:20:00 +0200
 language: fin
 author: Viestintämestari
 categories: AS opinnot tiedotteet
