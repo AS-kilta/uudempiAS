@@ -6,32 +6,25 @@ Kilta käyttää useita eri viestintävälineitä killan sisäiseen viestintää
 
 ## Sähköpostilistat
 
-Sähköpostilistoja käytetään killassa jäsenistön tiedottamiseen ja hallituksen tavoittamiseen.
+Sähköpostilistoja käytetään jäsenistön laaja-alaiseen tiedottamiseen esimerkiksi viikkotiedotteen muodossa. Killan hallituksen sähköpostilistan kautta saa yhteyden killan koko hallitukseen.
+Killan jäsenet lisätään automaattisesti kolmelle sähköpostilistalle: aktiivit, jäsenet ja rekry. Aktiivit-listalle lähetetään viikkotiedotteet, jotka sisältävät infoa killan tapahtumista ja muista ajankohtaisista aiheista ja tapahtumista. Jäsenet-listalle lähetetään kokouskutsut sekä tietoa vuosijuhlista. Rekrylistalle lähetetään yhteistyössä toimivien yritysten rekrytointi-ilmoituksia.
 
-Killan hallituksen postilista: hallitus ät as.fi. Listan kautta saat yhteyden koko hallitukseen.
-
-Jäsenet lisätään automaattisesti kolmelle killan sähköpostilistoista: aktiivit, jäsenet ja rekry.
-
-[AS-aktiivit](https://groups.google.com/a/as.fi/d/forum/aktiivit/join) listalle lähetetään viikkotiedotteet, jotka sisältävät infoa killan tapahtumista ja muiden tahojen järjestämistä killistejä mahdollisesti kiinnostavista tapahtumista. 
-
-[AS-jäsenet](https://groups.google.com/a/as.fi/d/forum/jasenet/join) listalle kuuluu kaikki killan jäsenet. Listalle lähetetään kokouskutsut sekä tietoa vuosijuhlista.
-
-[AS-rekry](https://groups.google.com/a/as.fi/d/forum/rekry/join) listale lähetetään yritysten työpaikkailmoituksia ja muuta vastaavaa.
-
-Sähköpostilistoille liittyminen tai niiltä poistuminen tapahtuu sivulla, jolle pääset klikkaamalla listan nimeä.
-
-Mikäli haluat saada ilmoituksesi aktiivit- tai rekrylistalle, lähetäthän ne viestintämestarille: viestintamestari ät as.fi
-
-## Foorumi
-
-Killan foorumilla keskustellaan asiallisesti virallisia killan asioita. Foorumeille voidaan julkaista esimerkiksi hallituksen pohjaesityksiä, ohjesääntömuutosehdotuksia ja yleistä keskustelua killan asioista. Foorumin löydät täältä.
+Mikäli haluat lähettää tiedotteita sähköpostilistoille tai päästä mukaan listalle, otathan yhteyttä killan viestintämestariin.
 
 ## Telegram
 
-Killan tiedotuskanavalle lähetetään tiivistelmä viikkotiedotteesta sekä lyhyitä infoviestejä killan tapahtumista ja toiminnasta. Tiedotus-kanavalle pääset linkistä: [https://telegram.me/automit](https://telegram.me/automit)
+Killan tiedotuskanavalle jokaisen jäsenen on hyvä liittyä ajankohtaisia tiedotuksia seuratakseen. Tiedotus-kanavalle pääset linkistä: [https://telegram.me/automit](https://telegram.me/automit).
 
-Telegram-keskusteluja kiltalaisten keskuudessa on monia, mutta tärkeimmät ovat AS ja AivanVirallinen. AS -keskustelu on kaikkia aASeja varten. Aihe on vapaa ja keskustelu pitkälti moderoimatonta, mutta hyvät käytöstavat pidetään kunniassa. AivanVirallisessa voit keskustella killan toimintaan liittyvistä asioista ja tavoitat hallituksen sekä myös monet toimareista. Keskustelun sävy on asiallinen.
+Telegram-keskusteluista seuraavaksi tärkeimpiä ovat AS ja AivanVirallinen. AS-keskustelu on kaikkia aASeja varten. Aihe on vapaa ja keskustelu pitkälti moderoimatonta, mutta hyvät käytöstavat pidetään kunniassa. AivanVirallisessa voit keskustella killan toimintaan liittyvistä asioista ja tavoitat hallituksen sekä myös monet toimareista. Keskustelun sävy on asiallinen.
 
-Monilla toimikunnilla on avoimet keskustelut, johon aiheesta kiinnostuneet voivat liittyä. Lisäksi vuosikursseilla on omat keskustelunsa.
+Monilla toimikunnilla on avoimet keskustelut, joihon aiheesta kiinnostuneet voivat liittyä. Lisäksi vuosikursseilla on omat keskustelunsa.
 
-Telegram-keskusteluiden kutsulinkit saapuvat sähköpostitse viikkotiedotteen ohessa.
+Telegram-keskusteluiden linkit löytyvät [linkkiseinältä](https://as.fi/kilta/linkkiseina.html).
+
+## Kalenteri
+
+Killan ylläpitämää Google-kalenteria seuraamalla saa kätevästi tiedon tulevista tapahtumista omaan kalenteriinsa.
+
+## Foorumi
+
+Killan foorumilla keskustellaan virallisemmista killan asioista ja sitä käytetään erityisesti vaalien alla. Foorumilla voidaan julkaista esimerkiksi hallituksen pohjaesityksiä, ohjesääntömuutosehdotuksia ja muuta yleistä killan asioihin liittyvää sisältöä.

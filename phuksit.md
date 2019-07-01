@@ -5,19 +5,19 @@ title: Uudet opiskelijat
 ---
 Hei uusi phuksi ja tervetuloa Automaatio- ja systeemitekniikan kiltaan! Näille sivuille on pyritty kokoamaan kaikkea materiaalia, josta on apua opintojesi alussa ja ehkäpä jopa koko ensimmäisen vuoden ajan.
 
-Hyödyllistä tietoa ja vinkkejä koulun alkuun löytyy killan **[phuksioppaasta](../static/phuksioppaat/phuksiopas_2018.pdf)**.
+Hyödyllistä tietoa ja vinkkejä koulun alkuun löytyy killan **[phuksioppaasta](https://drive.google.com/file/d/1-0mReci7KNfNV5NMf4BQhlzfxC5_M56f/view?usp=drivesdk)**.
 
 Jos tietoa ei löydy täältä, kysy tarkempaa tietoa Phuksikapteeniltasi. 
 
 ## Phuksikapteeni
 Phuksikapteeni on se tyyppi johon otat yhteyttä kun ihan mikä tahansa on huonosti tai muuten vaan :)
 
-![Phuksikapteeni]({{ "/static/toimijat/2018/ville_kauhanen.jpg" | absolute_url }} "Phuksikapteeni"){:height="200px" width="200px" style="border-radius:50%;"}
+![Phuksikapteeni]({{ "/static/lassi.jpg" | absolute_url }} "Phuksikapteeni"){:height="200px" width="200px" style="border-radius:50%;"}
 
-Ville Kauhanen<br>
+Lassi Ihalainen<br>
 [phuksikapteeni](mailto:phuksikapteeni@POISTAas.fi)<br>
-[0400 978 840](tel://0400978840)<br>
-[Telegram: @Phuksikapteeni](https://telegram.me/Phuksikapteeni)
+[050 494 9522](tel://050 494 9522)<br>
+[Telegram: @phuksikapteeni](https://telegram.me/phuksikapteeni)
 
 Koski asia sitten pientä juttua tai jotakin isompaa huolta, vastaa Phuksikapteeni parhaansa mukaan vaikka keskellä yötä. (Suositellaan kuitenkin yhteydenottoa päivisin.)
 
@@ -33,20 +33,39 @@ Koski asia sitten pientä juttua tai jotakin isompaa huolta, vastaa Phuksikaptee
 
 ## VarASlähtö
 
-Pääset tutustumaan killan jäsenistöön ja tuleviin phuksitovereihisi ennakkoon saapumalla Otaniemen ostarille yhteislähtöön lauantaina 25.8.2018! Mukaan tarvitset En Tule Yöksi Kotiin (ETYK) -varustuksen sekä positiivisen mielen!
+Pääset tutustumaan killan jäsenistöön ja tuleviin phuksitovereihisi ennakkoon saapumalla Otaniemen ostarille yhteislähtöön lauantaina 31.8.2019! Mukaan tarvitset En Tule Yöksi Kotiin (ETYK) -varustuksen sekä positiivisen mielen!
 
-Yhteislähtö tapahtumaan lähtee Otaniemen ostoskeskukselta (Otakaari 11) kello 13:00. Autoilijoita tarvitaan kyyditsijöiksi, kaikki apu on tervetullutta. Jos aiot tulla kuskiksi, ota Phuksikapteeniisi yhteyttä jo etukäteen.
+Yhteislähtö tapahtumaan lähtee Otaniemen ostoskeskukselta (Otakaari 11) kello 14:00. Autoilijoita tarvitaan kyyditsijöiksi, kaikki apu on tervetullutta. Jos aiot tulla kuskiksi, ota Phuksikapteeniisi yhteyttä jo etukäteen.
 
-Tapahtuma on ollut joka vuosi huikea niin uusille kuin vanhoille opiskelijoille, toivottavasti sinäkin tulet tänä vuonna mukaan! Facebook-tapahtuman löydät [tästä](https://www.facebook.com/events/225300538259517/).
+Tapahtuma on ollut joka vuosi huikea niin uusille kuin vanhoille opiskelijoille, toivottavasti sinäkin tulet tänä vuonna mukaan! Facebook-tapahtuman löydät [tästä](https://www.facebook.com/events/297075537861924/?ti=cl).
 
-Ilmoittaudu suoraan Phuksikapteenille tai täyttämällä [lomake](https://docs.google.com/forms/d/e/1FAIpQLSeuvZhblkbIQVk8vMvC9uP-ZyftsHBAorykfl3wnZfmvmYaJw/viewform?usp=sf_link). Kerro viestissäsi ainakin nimesi ja allergiasi. Lisäksi mainitse, että saisitko auton käyttöösi kuljetusta varten.
+Ilmoittaudu suoraan Phuksikapteenille. Kerro viestissäsi ainakin nimesi ja allergiasi. Lisäksi mainitse, että saisitko auton käyttöösi kuljetusta varten.
 
 
-### [Phuksiopas](../static/phuksioppaat/phuksiopas_2018.pdf)
+### [Phuksiopas](https://drive.google.com/file/d/1-0mReci7KNfNV5NMf4BQhlzfxC5_M56f/view?usp=drivesdk)
 <br>
 Phuksioppaasta löytyy hyödyllistä tietoa killasta ja ensimmäisen vuoden opinnoista :) 
 <br>
-<div data-configid="33680237/62153820" style="width:100%; height:500px;" class="issuuembed"></div>
-<script type="text/javascript" src="//e.issuu.com/embed.js" async="true"></script>
+
+<style>
+    #phopas_wrapper {
+        position: relative;
+        overflow: hidden;
+        padding-top: 60%;
+    }
+
+    #phopas_frame {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        border: 0;
+    }
+</style>
+
+<div id="phopas_wrapper">
+    <iframe id="phopas_frame" src="https://drive.google.com/file/d/1-0mReci7KNfNV5NMf4BQhlzfxC5_M56f/preview"></iframe>
+</div>
 <br>
-[Lataa pdf](../static/phuksioppaat/phuksiopas_2018.pdf)
+[Lataa pdf](https://drive.google.com/uc?export=download&id=1-0mReci7KNfNV5NMf4BQhlzfxC5_M56f)

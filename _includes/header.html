@@ -12,7 +12,8 @@
       <ul>
         {% if site.data.navi.items[0] %}
           {% for item in site.data.navi.items %}
-              {% if item.href == main_page_href or item.href == main_page_href | concat: '/' %}
+              {% assign item_href = item.href | remove: '.html' %}
+              {% if item_href == main_page_href or item_href == main_page_href | concat: '/' %}
                 {% assign current_page = true %}
               {% else %}
                 {% assign current_page = false %}

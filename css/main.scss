@@ -6,6 +6,7 @@
 @charset "utf-8";
 
 @import url(https://fonts.googleapis.com/css?family=Sintony:400,700);
+@import url(https://fonts.googleapis.com/css?family=Comfortaa:400,700);
 
 $baseurl: '{{site.baseurl}}';
 
@@ -29,11 +30,13 @@ $brand-color-lightest: lighten($brand-color-light, 20%);
 $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 43%);
 $grey-color-dark:  darken($grey-color, 25%);
+$dark-grey-navi: #262626;
+$dark-grey-subnavi: #333333;
 
 $oldpurple-color : #5c3c7c;
 $purple-color : #620062;
 $border-color: #ddd;
-$white-color: #fff;
+$white-color: #eee;
 
 // Width of the content area
 $content-width:    960px;
@@ -46,6 +49,7 @@ $breakpoints: (
 
 $font-sans: 'Sintony', sans-serif;
 $font-serif: 'Sintony', sans-serif;
+$font-heading: 'Comfortaa', sans-serif;
 
 //
 // Breakpoint mixin with named or pixel values.
