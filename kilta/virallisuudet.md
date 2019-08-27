@@ -3,7 +3,7 @@ layout: page
 title: Virallisuudet
 ---
 * [Säännöt](https://as.fi/kilta/saannot.html)
-* [Rekisteriseloste](http://old.as.fi/kilta/virallisuudet/rekisteriseloste/)
+* [Rekisteriseloste](https://as.fi/kilta/rekisteriseloste.html)
 * [Tietosuojaseloste: Jäsenrekisteri](https://as.fi/kilta/tietosuojaseloste_jasen.html)
 * [Tietosuojaseloste: Ilmomasiina](https://as.fi/kilta/tietosuojaseloste_ilmo.html)
 * [Killan vaalijärjestys](https://as.fi/static/virallisuudet/as_vaalijarjestys.pdf)
@@ -12,13 +12,13 @@ title: Virallisuudet
 * [Merkkiohjesääntö](https://as.fi/kilta/merkkiohjesaanto.html)
 * [Lippuohjesääntö](https://as.fi/kilta/lippuohjesaanto.html)
 * [Kunnianosoitukset](http://as.fi/kilta/kunnianosoitukset.html)
-* [Toimintamalli tapahtumiin](http://old.as.fi/kilta/virallisuudet/toimintamalli/)
 
 * [Laskupohja (PDF)](https://as.fi/static/virallisuudet/laskupohja_2016.pdf)
 * [Laskupohja (DOC)](https://as.fi/static/virallisuudet/laskupohja_2016.doc) 
 * [Esimerkkilasku](https://as.fi/static/virallisuudet/esimerkkilasku.pdf)
  
 * [Toimintasuunnitelma 2018](https://as.fi/static/virallisuudet/Toimintasuunnitelma_2018.pdf)
+* [Talousarvio 2019](https://as.fi/static/virallisuudet/Talousarvio_2019.xlsx)
 
 * Killan Logo:
     - [CDR-muodossa](https://as.fi/static/virallisuudet/as_plain_BW.cdr)
