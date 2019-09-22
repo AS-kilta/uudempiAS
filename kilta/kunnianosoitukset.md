@@ -10,7 +10,7 @@ Tällä sivulla olevat kunnianosoitusten perustelut ovat niiden alkuperäisessä
 
 #### Vuoden kilta-alumni
 **2018**
-- [Henry Sanmark]
+- [Henry Sanmark](#henry-sanmark)
 
 #### Kultaisen Pränikän saajat
 Kultainen Pränikkä on korkein mahdollinen suosionosoitus, jonka Automaatio- ja systeemitekniikan killan hallitus voi myöntää. Se voidaan myöntää Automaatio- ja systeemitekniikan killan nykyiselle tai entiselle varsinaiselle, soo ulko- tai kannatusjäsenelle erityisen ansiokkaasta toiminnasta Automaatio- ja systeemitekniikan killan tarkoitusperien hyväksi.
