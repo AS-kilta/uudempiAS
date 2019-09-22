@@ -6,7 +6,7 @@ language: fin
 author: Viestintämestari
 categories: AS pääuutiset
 ---
-**Asetu ehdokkaaksi edustajstovaaleihin 2019**
+## Asetu ehdokkaaksi edustajstovaaleihin 2019
 
 Kiltalainen, nyt on mahdollisuutesi vaikuttaa ylioppilaskuntasi tulevaisuuteen! Edustajistovaalien ehdokasasettelu on auki vielä reilun viikon ajan. Ehdokasasettelu päättyy 2.10.2019 klo 12.
 
