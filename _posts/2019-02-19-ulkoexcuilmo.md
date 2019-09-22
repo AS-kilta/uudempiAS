@@ -15,3 +15,5 @@ Ilmo on sitova, joten jos myöhemmin käy ilmi, ettet pääsekään mukaan, ota 
 
 Ulkoexcutoimikunta vastaa mielellään aiheesta nouseviin kysymyksiin.
 Toimikunnan tavoittaa Telegramista nikeillä @jmajuri @DSDaddy @Viikinkeri ja @Nikosoininen
+
+Ulkoexcun ilmo on nyt sulkeutunut.
