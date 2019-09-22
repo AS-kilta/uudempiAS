@@ -8,6 +8,10 @@ Tällä sivulla olevat kunnianosoitusten perustelut ovat niiden alkuperäisessä
 - [Aarne Halme](#aarne-halme)
 - [Annika Salama](#annika-salama)
 
+#### Vuoden kilta-alumni
+**2018**
+- [Henry Sanmark]
+
 #### Kultaisen Pränikän saajat
 Kultainen Pränikkä on korkein mahdollinen suosionosoitus, jonka Automaatio- ja systeemitekniikan killan hallitus voi myöntää. Se voidaan myöntää Automaatio- ja systeemitekniikan killan nykyiselle tai entiselle varsinaiselle, soo ulko- tai kannatusjäsenelle erityisen ansiokkaasta toiminnasta Automaatio- ja systeemitekniikan killan tarkoitusperien hyväksi.
 
@@ -81,8 +85,9 @@ Kultaisia Präniköitä myönnetään vuosittain korkeintaan kaksi kappaletta, e
 **2017**<br>
 Ei jaettu
 
-**2018**<br>
-Ehdotuksia kultaisen pränikän saajiksi ei oteta enää vastaan, Stimulaatiossa selviää ehdotuksien tulokset.
+**2018**
+- [Sanna Halmkrona](#sanna-halmkrona)
+- [Noora Salminen](#noora-salminen)
 
 #### Hopeisen pränikän saajat
 **2016**
@@ -107,8 +112,11 @@ Ehdotuksia kultaisen pränikän saajiksi ei oteta enää vastaan, Stimulaatiossa
 - [Juuso Mikkonen](#juuso-mikkonen)
 - [Eero Santamala](#eero-santamala)
 
-**2018**<br>
-Ehdotuksia kultaisen pränikän saajiksi ei oteta enää vastaan, Stimulaatiossa selviää ehdotuksien tulokset.
+**2018**
+- [Riikka Nousiainen](#riikka-nousiainen)
+- [Kaisa Hynynen](#kaisa-hynynen)
+- [Jan Juvonen](#jan-juvonen)
+- [Titta Saari](#titta-saari)
 
 ## Perustelut
 
@@ -120,6 +128,11 @@ Aarne Halme on toiminut killan oltermannina jo useita vuosia. Hän on koko killa
 Tämä varsinkin usealle hieman vanhemmalle opiskelijalle tuttu nainen on muodostunut monelle killistille ehkä hieman jonkinlaiseksi äitihahmoksi, joka varjelee viatonta opiskelijaa ison instituution byrokratialta, ja löytää helposti ratkaisun ongelmaan kuin ongelmaan silloin kun hätä on suurin. Tälle leppoisalle ja maanläheiselle henkilölle meidän opiskelijoiden asiat ovat ihan oikeasti tärkeitä - voisi jopa leikkimielisesti sanoa, että moni tässäkin killassa on valmistumisensa tälle henkilölle velkaa.
 
 Hän käyttää sujuvasti ASkicamia sekä kiltahuoneen puhelinta, ja poikkeaa välillä jopa kahville. Hän on auttanut aASeja eteenpäin opinnoissaan jo vuodesta 2009 alkaen. Vaikka hän majaileekin nykyään Otakaari 5:n tiloissa, on hän silti ja totisesti ansainnut paikkansa meidän violetissa killassamme, ja joka ikisen vanhaa tutkinto-ohjelmaa käyvän aASin sydämessä.
+
+### Vuoden kilta-alumni
+### 2018
+#### Henry Sanmark
+Tämä henkilö on kuluvan vuoden aikana osoittanut, ettei valmistuminen hidasta tahtia. Pitkän opiskelijauransa jälkeen tämä henkilö on jatkanut kiltatoiminnan mukana ja auttanut lukuisissa tapahtumissa ja projekteissa. Vuoden näkyvimmät tulokset ovat kuitenkin 20-vuotishistoriikin päätoimittaminen ja AS-näyttelyn järjestäminen.
 
 ### Kultaiset pränikät
 ### 2002
@@ -372,13 +385,24 @@ Illan toisen kultaisen pränikän saa henkilö joka ei esittelyjä kaipaa. Täm�
 
 Vuolaan kulttuurillisen työn lisäksi tämä henkilö otti jo phuksina haasteen vastaan lähtemällä killan emännäksi. Hallitushommat jatkuivat kaksi vuotta myöhemmin ensin kulttuurimestarin ja seuraavana vuonna puheenjohtajan viroilla. Hänet tunnetaan rehtinä ja sanavalmiina edustushahmona joka työllään toi killan ulkosuhteet täysin uudelle tasolle. Tarinoihin tästä Otaniemen legendasta törmää yhä niin Itäisessä satamakaupungissa kuin Tampereellakin ja häneen myös monissa killan lauluissa viitataan.
 
+### 2018
+#### Sanna Halmkrona
+Illan ensimmäinen kultaisen pränikän saaja on tehnyt killassa paljon kaikenlaista ja aina täysillä. Jo phuksivuonnaan tämä henkilö lähti killan hallitukseen, jossa hän toimi ahkerasti ja täsmällisesti sihteerin roolissa. Hallitushommat eivät jääneet vain kertakeikaksi, vaan tämä henkilö päätti jatkaa hallituksessa vielä kaksi vuotta, ensin kulttuurimestarin ja sen jälkeen Emännän roolissa. Tämä 2014 phuksi on antanut edellä mainituissa ja kaikissa muissa viroissaan kaikkensa killan toiminnan eteen.
+
+Hallituksen lisäksi tämä monitoimikone on toiminut lukuisissa toimihenkilöviroissa lukkarina, kulttuurikisällinä ja kultaisena toimittajana. Hallitusvirkojen tapaan myös nämä tehtävät kyseinen henkilö on suorittanu kiittettävästi ja hyvällä hengellä.
+
+#### Noora Salminen
+Illan toinen kultaisen pränikän saaja on ollut killan toiminnassa mukana tiiviisti phuksivuodestaan lähtien hyppäämällä jo ensimmäisenä talvena yrityssuhdemestarin virkaan. Tästä hallitustie jatkui vielä kaksi vuotta Emännän ja Phuksikapteenin viroissa. Useiden hyvin hoidettujen hallitusvirkojen lisäksi tämä henkilö on aktiivisesti osallistunut melkeinpä mihin tahansa viralliseen ja epäviralliseen kiltatoimintaan, mukaan lukien toiminta tämän vuoden Stimulaatiotoimikunnassa.
+
+Hallituksessa ja sen ulkopuolella tämä henkilö on huokunut tsemppaavaa asennetta ja hoitanut tehtävänsä aina tunnollisesti maaliin. Positiivinen asenne ja pohjaton jaksaminen on kannustanut myös muita tekijöitä kantamaan tehtävät kunnialla loppuun saakka.
+
 ### Hopeiset pränikät
 ### 2016
 #### Aapo Oksman
-Tämä ensimmäisen hopeisen pränikän saaja on tullut killassa tutuksi erityisesti säätökulttuurin kehittämisestä ja ylläpitämisestä. Tämän 2013 phuksin ansiosta meillä esimerkiksi oli käytössä nyt jo pois luovutettu Säätöneuvola. Suurimpana yksittäisenä projektina muistetaan wappuna 2015 Ulliksella nähty skumppaa kaatava robottikäsi, josta hän otti vetovastuun. Hän on ​Aapo “Eipou” Oksman​​! 
+Tämä ensimmäisen hopeisen pränikän saaja on tullut killassa tutuksi erityisesti säätökulttuurin kehittämisestä ja ylläpitämisestä. Tämän 2013 phuksin ansiosta meillä esimerkiksi oli käytössä nyt jo pois luovutettu Säätöneuvola. Suurimpana yksittäisenä projektina muistetaan wappuna 2015 Ulliksella nähty skumppaa kaatava robottikäsi, josta hän otti vetovastuun. Hän on ​Aapo “Eipou” Oksman​​!
 
 #### Aapo Rantala
-Tämä 2011 phuksi on toiminut monenlaisissa viroissa killassa ja tuo tapahtumaan kuin tapahtumaan mukavaa ja lämmintä henkeä nallekarhumaisella olemuksellaan. Hän on ollut myös jo pitkään lähtemätön osa killan laulukulttuuria ja toiminut tänä vuonna killan lukkarimestarina. Hän on ​Aapo “aikadilaatio” Rantala​​! 
+Tämä 2011 phuksi on toiminut monenlaisissa viroissa killassa ja tuo tapahtumaan kuin tapahtumaan mukavaa ja lämmintä henkeä nallekarhumaisella olemuksellaan. Hän on ollut myös jo pitkään lähtemätön osa killan laulukulttuuria ja toiminut tänä vuonna killan lukkarimestarina. Hän on ​Aapo “aikadilaatio” Rantala​​!
 
 #### Juhana Kekoni
 Tämä 2013 phuksi ehdotti vuosi sitten uutta toimikuntaa, jonka johtoon hän myös itse lähti. Toimikunta on osoittanut olevansa toimintakykyinen, eikä vähiten puheenjohtajansa takia. Hän on myös tallentanut liikkuvaa kuvaa killan toiminnasta ja hänen ansiostaan meillä onkin näyttää tuleville sukupolville niin dokumentti robokädestä kuin uusi phuksivideokin. Hän on Juhana “Keksi” Kekoni​​!
@@ -390,7 +414,7 @@ Tämä 2011 phuksi on ollut isossa osassa killan kulttuurin ja ulkosuhteiden keh
 Tämä 2012 phuksi on ollut tekemässä jo monia uudistuksia kiltauransa aikana. Hän on ollut isossa roolissa niin 2015 tehdyssä haalariohjesäännössä kuin syksyllä uudistetussa merkkiohjesäännössäkin. Lisäksi hän uudisti rohkeasti viimeisenä SuurPhuksina monia phuksitapahtumia. Hän on ​Niilo “Niba” Metsänen​​! 
 
 #### Petri Niemelä
-Tämä 2011 phuksi on kiltaurallaan ehtinyt moneen. Hän on ollut todella aktiivisesti mukana kaikenlaisissa säätöön liittyvissä projekteissa. Säätötoiminnan lisäksi hän on monivuotinen ASkitoimikunnan jäsen ja kehittänyt kiltahuoneestamme ASkista parempaa paikkaa sekä korjannut milloin rikkinäisiä sohvia, milloin rikkinäistä tekniikkaa. Hän on ​Petri Niemelä​​! 
+Tämä 2011 phuksi on kiltaurallaan ehtinyt moneen. Hän on ollut todella aktiivisesti mukana kaikenlaisissa säätöön liittyvissä projekteissa. Säätötoiminnan lisäksi hän on monivuotinen ASkitoimikunnan jäsen ja kehittänyt kiltahuoneestamme ASkista parempaa paikkaa sekä korjannut milloin rikkinäisiä sohvia, milloin rikkinäistä tekniikkaa. Hän on ​Petri Niemelä​​!
 
 #### Bjarne Boström
 Tämä 2007 phuksi on ollut mukana ​killan toiminnassa koko sydämestään useita vuosia. Hänen antaumuksellisuutensa on näkynyt etenkin säätökulttuurissa, ASkissa ja killan lautapelikulttuurissa. Tämä hyväsydäminen henkilö suhtautuu ihmisiin ennakkoluulottomalla asenteella. Hän on ​Bjarne “Bjakke” Boström​​!
@@ -399,10 +423,23 @@ Tämä 2007 phuksi on ollut mukana ​killan toiminnassa koko sydämestään use
 Tämä 2011 phuksi tunnetaan edelleen omien phuksiensa keskuudessa äitihahmona, joka onnistui kasvattamaan edeltäneestä lähes tuplasti isomman phuksijoukon kunniallisiksi teekkareiksi. Hän tekee täysillä kaiken mihin ryhtyy ja siitä hyvä esimerkki on myös hänen päätoimittajavuotensa, jolloin GT:stä ilmestyi ennätysmäärä numeroita. Hän on ​Noora “Norri” Vänttinen​​!
 
 #### Ville Harmaala
-Tämä 2013 phuksi hoitaa hommansa aina tunnollisesti. Tämä on nähty monia kertoja, mutta erityisesti opintomestarivuonnaan hän edusti kiltaa useissa komiteoissa ja vastaavissa, ja tekikin enemmän kuin tarpeeksi koulutuspolitiikan eteen. Näkyvämpi rooli killassa hänellä on nykyisessä mediatoimikunnassa dokumentoijana, jonka kuvia on galleria täynnä. Hän on tietenkin ​Ville “Harppi” Harmaala​​! 
+Tämä 2013 phuksi hoitaa hommansa aina tunnollisesti. Tämä on nähty monia kertoja, mutta erityisesti opintomestarivuonnaan hän edusti kiltaa useissa komiteoissa ja vastaavissa, ja tekikin enemmän kuin tarpeeksi koulutuspolitiikan eteen. Näkyvämpi rooli killassa hänellä on nykyisessä mediatoimikunnassa dokumentoijana, jonka kuvia on galleria täynnä. Hän on tietenkin ​Ville “Harppi” Harmaala​​!
 
 #### Sami-Petteri Pukkila
 Tämä 2013 phuksi on koko kiltauransa ollut mukana lähes kaikessa. Hänen apuunsa voi aina luottaa, oli kyse sitten asioiden kantamisesta paikasta toiseen, bileiden siivoamisesta tai hajonneen serverin korjaamisesta. Hän on tehnyt aktiivisesti töitä myös ATK-toimikunnassa ja tänä vuonna bittimestarina toimiessaan lähtenyt mukaan killan palvelinuudistusprojektiin. Tämä karvoistaankin tunnettu aasi on tietenkin ​MYLVARI​​!
 
 #### Onni Lampi
-Tällä 2013 phuksilla oli vankka kokemus yhdistystoiminnasta jo ennen kiltaan tuloa. Se on näkynyt huomattavana aktiivisuutena koskien erityisesti killan virallisia asioita ja toiminnan kehittämistä. Hän ei tyydy nykytilaan vaan haluaa asioiden olevan aina vähän paremmin. Hänen johdossaan killan ISOtoiminta ottikin ison harppauksen eteenpäin. Hän on ​Onni “Omnez” Lampi​​! 
+Tällä 2013 phuksilla oli vankka kokemus yhdistystoiminnasta jo ennen kiltaan tuloa. Se on näkynyt huomattavana aktiivisuutena koskien erityisesti killan virallisia asioita ja toiminnan kehittämistä. Hän ei tyydy nykytilaan vaan haluaa asioiden olevan aina vähän paremmin. Hänen johdossaan killan ISOtoiminta ottikin ison harppauksen eteenpäin. Hän on ​Onni “Omnez” Lampi​​!
+
+### 2018
+#### Riikka Nousiainen
+Tämä 2014 phuksi on toiminut killassa erinäisissä toimihenkilöviroissa kiitettävästi jo useamman vuoden ajan. Kyseinen henkilö on toiminut huvi-, kulttuuri- ja yritysyhteistyön saralla ahkerasti ja kuluvana vuonna ottanut vastuulleen useamman vastuutehtävän. Nämä vastuutehtävät ovat näkyneet kiltahuoneen kehityksessä sekä TEKin ja Suomen automaatioseuran kasvaneena yhteistyönä.
+
+#### Kaisa Hynynen
+Tämä 2014 phuksi on toiminut monipuolisesti killan erilaisissa tehtävissä. Hän on tehnyt kaiken tunnollisesti, järjestelmällisesti ja kunnolla sekä ottanut muut hyvin huomioon. Tämä henkilö on toiminut muun muassa killan Emäntänä, somevastaavana ja Depressanttina. Tänä vuonna hän on ollut korvaamaton apu Opiskelijat Lintsillä -tapahtuman markkinoinnissa.
+
+#### Jan Juvonen
+Tämä 2013 phuksi on ollut mukana killan tapahtuma- ja kulttuuripuolella phuksivuodestaan asti aina tähän päivään saakka. Matkan varrelta löytyy juomanlASkijan, jäykkäranteen ja kultaisen toimittajan virkoja, sekä vuosi killan hallituksessa Isännän roolissa. Tämä henkilö on tänä vuonna johtanut juhlavuoden toteuttamista Stimulantin roolissa.
+
+#### Titta Saari
+Tämä 2013 phuksi on tehnyt pitkän kiltauran, josta merkittävän osan hallituksessa. Tämä henkilö on avoin kaikkia kohtaan ja huokuu AS-henkeä. Hän on hoitanut tehtävänsä innostuneella asenteella, osaavasti ja aikataulussa. Vuosien varrella hän toiminut Kulttuuri-mestarina, rahastonhoitajana ja puheenjohtajana.
