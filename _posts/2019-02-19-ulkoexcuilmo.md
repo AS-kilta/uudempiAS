@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ulkoexcun ilmoittautuminen on auki!"
+title: "Ulkoexcun ilmoittautuminen"
 date: 2019-02-17 22:50:00 +0200
 language: fin
 author: Viestintämestari
