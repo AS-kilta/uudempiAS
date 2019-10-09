@@ -5,7 +5,7 @@ items:
       directory: kilta
       items:
         - title: Foorumi
-          href: http://as.ayy.fi/foorumi/
+          href: https://foorumi.as.fi/
           absolute: true
         - title: Tapahtumailmot
           href: http://as.ayy.fi/ilmo/
