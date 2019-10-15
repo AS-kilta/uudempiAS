@@ -11,7 +11,7 @@ categories: AS pääuutiset vaalit
 
 Killan hallitus esittää, että vuoden 2020 hallitukseen valitaan hallituksen puheenjohtaja ja jäsenet hallituksenmuodostajan esityksen pohjalta. Hallituksenmuodostaja valitaan 18.10.2019 vaalikokouksessa ja esitys käsitellään kokouksen toisessa osassa 30.10.2019. Haku hallituksen jäseneksi päättyy 20.10. Hallituksenmuodostajan ehdotus uudesta hallituksesta julkaistaan kiltalaisille 28.10. Hallituksen kokoonpano määritellään killan säännöissä 20 § Hallitus:
 
-“-- Hallitukseen kuuluu puheenjohtaja sekä neljästä kymmeneen (4-10) muuta jäsentä, joihin lukeutuu taloudesta vastaava henkilö ja sihteerin tehtävistä vastaava henkilö --”
+“-- Hallitukseen kuuluu puheenjohtaja sekä neljästä kymmeneen (4-10) muuta jäsentä, joihin lukeutuu taloudesta vastaava henkilö ja sihteerin tehtävistä vastaava henkilö --”  
 Mikäli kokous hyväksyy esityksen, on hallituksenmuodostaja valittu hallituksen puheenjohtajaksi ja esityksessä mainitut henkilöt hallituksen jäseniksi. Jollei yleinen kokous hyväksy esitystä, on hallituksenmuodostajalla oikeus tehdä yleiselle kokoukselle uusi esitys.
 
 Jos uutta esitystä ei edelleenkään hyväksytä, suoritetaan uusi hallituksenmuodostajan vaali ja hänen tulee antaa esityksensä hallituksen jäseniksi. Vaalimenettelyä jatketaan, kunnes yleinen kokous hyväksyy hallituksenmuodostajan tekemän esityksen.
