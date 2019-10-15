@@ -14,3 +14,5 @@ Kysely vie jonkin aikaa, mutta vastaukset ovat erittäin tärkeitä killalle.
 Kysymyksiä ja palautetta kyselystä voi lähettää osoitteeseen yhdenvertaisuus@as.fi
 
 Kyselyyn voi osallistua osoitteessa: <https://docs.google.com/forms/d/e/1FAIpQLSeTrYwAZELhnpZQMS4N0-z8N_NVA12-V4enYMkyTbMlVz6OWA/viewform>.
+
+Edit: Yhdenvertaisuuskysely on tältä osin suljettu. Kyselyn tulokset käydään läpi vaalikokouksessa 18.10.
