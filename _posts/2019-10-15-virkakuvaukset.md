@@ -64,22 +64,22 @@ Vastaa phuksikasvatuksesta ja KV-toiminnasta
 #### Ehdotettavia rooleja:
 
 ISOpomo (1 kpl)  
-    - Organisoi ISOhenkilöiden rekryämisen, koulutuksen ja yleisen toiminnan. Kuuluu AYY:n ISOtoimikuntaan.
+        - Organisoi ISOhenkilöiden rekryämisen, koulutuksen ja yleisen toiminnan. Kuuluu AYY:n ISOtoimikuntaan.
 
 SuurPhuksikapteeni (1 kpl)  
-    - Edellisen vuoden Phuksikapteeni jatkaa phuksiensa kanssa toimintaa mahdolliseen tulevaan wappuun asti.
+        - Edellisen vuoden Phuksikapteeni jatkaa phuksiensa kanssa toimintaa mahdolliseen tulevaan wappuun asti.
 
 Tosi ISOpomo (1 kpl)  
-    - Edellisen vuoden ISOpomo jatkaa ISOjensa kanssa toimintaa mahdolliseen tulevaan wappuun asti.
+        - Edellisen vuoden ISOpomo jatkaa ISOjensa kanssa toimintaa mahdolliseen tulevaan wappuun asti.
 
 Senior International Student Captain (1 kpl)  
-    - Jatkaa kv-opiskelijoidensa kanssa mahdolliseen tulevaan wappuun asti.
+        - Jatkaa kv-opiskelijoidensa kanssa mahdolliseen tulevaan wappuun asti.
 
 DSD Captain (1 kpl)  
-    - Hoitaa Digital Systems and Design pääaineen phuksi- ja ISOtoimintaa. Sekä auttaa ISC:tä ja Phuksikapteenia yhteisessä phuksitoiminnassa.
+        - Hoitaa Digital Systems and Design pääaineen phuksi- ja ISOtoimintaa. Sekä auttaa ISC:tä ja Phuksikapteenia yhteisessä phuksitoiminnassa.
 
 Senior DSD Captain  
-    - Jatkaa DSD-phuksien kanssa mahdolliseen tulevaan wappuun asti.
+        - Jatkaa DSD-phuksien kanssa mahdolliseen tulevaan wappuun asti.
 
 ### Opintotoimikunta (Opintomestari)
 
@@ -91,11 +91,11 @@ Automaatti
 Informaatti(1 kpl)  
 DSDeetti  
 TEK-kiltayhdyshenkilö  
-    - Aiemmin osa TEKSAS-rangerin virkaa yrityssuhteiden alla.
+        - Aiemmin osa TEKSAS-rangerin virkaa yrityssuhteiden alla.  
 SAS-yhdyshenkilö  
-    - Aiemmin osa TEKSAS-rangerin virkaa yrityssuhteiden alla.
+        - Aiemmin osa TEKSAS-rangerin virkaa yrityssuhteiden alla.  
 Abisintti  
-    - Ylläpitää abimateriaalia ja kouluttaa halukkaita.
+        - Ylläpitää abimateriaalia ja kouluttaa halukkaita.
 
 ### Kulttuuri- ja liikuntatoimikunta (Kulttuurimestari)
 
@@ -114,7 +114,7 @@ Tehtävä: Sitsit, saunaillat, yleiset tapahtumat
 
 #### Ehdotettavia rooleja:
 
-Smurffi (apuIE)
+Smurffi (apuIE)  
 Juomanlaskija
 
 ### Kultainen toimitus (GTPT)
@@ -122,7 +122,7 @@ Juomanlaskija
 Tuottaa kiltalehteämme GT:tä.
 
 GTPT - Kultainen Päätoimittaja  
-    - Vastaa Kultaisen Tomaatin ilmestymisestä n. 4 kertaa vuodessa. Kutsuu koolle toimituskokoukset, rekryää kirjoittajat, kokoaa jutut, varmistaa, että lehti on painossa ajallaan ja saadaan julkaistua.  
+        - Vastaa Kultaisen Tomaatin ilmestymisestä n. 4 kertaa vuodessa. Kutsuu koolle toimituskokoukset, rekryää kirjoittajat kokoaa jutut, varmistaa, että lehti on painossa ajallaan ja saadaan julkaistua.  
 Kultainen toimittaja  
 Kultainen graafikko  
 Kultainen taittaja  
@@ -132,7 +132,7 @@ Kultainen taittaja
 Lukkarit pitävät huolta killan laulukulttuurista sitseillä ja muuallakin.
 
 Lukkarimestari (1 kpl)  
-    - Vastaa sitsien lukkaroinnista ja läsyn teosta sekä killan laulukulttuurin säilymisestä. Edustaa kiltaa AYY:n Lukkaritoimikunnassa.  
+        - Vastaa sitsien lukkaroinnista ja läsyn teosta sekä killan laulukulttuurin säilymisestä. Edustaa kiltaa AYY:n Lukkaritoimikunnassa.  
 Lukkari
 
 ### Stimulaatio-toimikunta (Stimulantti)
@@ -148,7 +148,7 @@ Eskalaattori
 Pitää huolta kotoisasta kiltahuoneestamme mitä moninaisimmin tavoin.
 
 ASkimestari (1 kpl)  
-    - Johtaa toimikuntaa ja vastaa kiltahuoneen palveluiden kehittymisestä.  
+        - Johtaa toimikuntaa ja vastaa kiltahuoneen palveluiden kehittymisestä.  
 ASkivahti
 
 ### Säätötoimikunta (Säätömestari)
@@ -177,8 +177,8 @@ Graafikko
 ### Toimikuntien ulkopuolelta:
 
 Oltermanni (1 kpl)  
-    - Toimii killan yhteyshenkilönä laitoksen suuntaan.  
+        - Toimii killan yhteyshenkilönä laitoksen suuntaan.  
 Toiminnantarkastaja (2 kpl)  
-    - Tarkastelevat killan toimintaa, jotta se pysyisi lain sallimissa rajoissa. Tarkistavat pöytäkirjat ja tilinpäätöksen. Toiminnantarkastajat eivät voi toimia samana vuonna missään muissa killan vastuullisissa tehtävissä.
+        - Tarkastelevat killan toimintaa, jotta se pysyisi lain sallimissa rajoissa. Tarkistavat pöytäkirjat ja tilinpäätöksen. Toiminnantarkastajat eivät voi toimia samana vuonna missään muissa killan vastuullisissa tehtävissä.
 Varatoiminnantarkastaja (2 kpl)  
-    - Toimivat toiminnantarkastajien varahenkilöinä.
+        - Toimivat toiminnantarkastajien varahenkilöinä.
