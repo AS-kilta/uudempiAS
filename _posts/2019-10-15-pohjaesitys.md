@@ -30,27 +30,29 @@ Alla on esitys toimihenkilörakenteesta vuodelle 2020. Esitys pitää sisällä�
 
 Organisoi killan phuksitoimintaa.
 
-ISOpomo (1 kpl)  
+##### ISOpomo (1 kpl)  
 Organisoi ISOhenkilöiden rekryämisen, koulutuksen ja yleisen toiminnan. Kuuluu AYY:n ISOtoimikuntaan.
 
-SuurPhuksikapteeni (1 kpl)  
+##### SuurPhuksikapteeni (1 kpl)  
 Edellisen vuoden Phuksikapteeni jatkaa phuksiensa kanssa toimintaa mahdolliseen tulevaan wappuun asti.
 
-Tosi ISOpomo (1 kpl)  
+##### Tosi ISOpomo (1 kpl)  
 Edellisen vuoden ISOpomo jatkaa ISOjensa kanssa toimintaa mahdolliseen tulevaan wappuun asti.
 
-Senior International Student Captain (1 kpl)  
+##### Senior International Student Captain (1 kpl)  
 Jatkaa kv-opiskelijoidensa kanssa mahdolliseen tulevaan wappuun asti.
 
-DSD Captain (1 kpl)  
+##### DSD Captain (1 kpl)  
 Hoitaa Digital Systems and Design pääaineen phuksi- ja ISOtoimintaa sekä auttaa ISC:tä ja Phuksikapteenia yhteisessä phuksitoiminnassa.
 
-Senior DSD Captain (1 kpl)  
+##### Senior DSD Captain (1 kpl)  
 Jatkaa DSD-phuksien kanssa mahdolliseen tulevaan wappuun asti.
 
-Opintotoimikunta (johdossa Opintomestari)  
-TEK-yhteyshenkilö (1 kpl)  
-SAS-yhteyshekilö (1 kpl)  
+#### Opintotoimikunta (johdossa Opintomestari)
+
+##### TEK-yhteyshenkilö (1 kpl)
+
+##### SAS-yhteyshekilö (1 kpl)  
 
 #### Huvitoimikunta (johdossa Isäntä ja Emäntä)
 
@@ -62,28 +64,33 @@ Järjestää kiltalaisille kulttuuritapahtumia ja liikuntaa.
 
 #### Kultainen toimitus (johdossa GTPT)
 
-Killan virallisen lehden, Kultainen Tomaatti aka Golden Tomato, toimitus.  
-Kultainen päätoimittaja (1 kpl)
+Killan virallisen lehden, Kultainen Tomaatti aka Golden Tomato, toimitus.
+
+##### Kultainen päätoimittaja (1 kpl)
 
 #### Lukkaritoimikunta (johdossa Lukkarimestari)
 
-Toimikunta pitää huolta killan laulukulttuurista sitseillä ja muuallakin.  
-Lukkarimestari (1 kpl)
+Toimikunta pitää huolta killan laulukulttuurista sitseillä ja muuallakin.
+
+##### Lukkarimestari (1 kpl)
 
 #### Stimulaatio-toimikunta (johdossa Stimulantti)
 
-Järjestään killan vuosijuhlan Stimulaation sekä puolivuotissilliksen Eskalaation.  
-Stimulantti (1 kpl)
+Järjestään killan vuosijuhlan Stimulaation sekä puolivuotissilliksen Eskalaation.
+
+##### Stimulantti (1 kpl)
 
 #### ASkitoimikunta (johdossa ASkimestari)
 
-Pitää huolta kotoisasta kiltahuoneestamme mitä moninaisimmin tavoin.  
-ASkimestari (1 kpl)
+Pitää huolta kotoisasta kiltahuoneestamme mitä moninaisimmin tavoin.
+
+##### ASkimestari (1 kpl)
 
 #### Säätötoimikunta (johdossa Säätömestari)
 
-Muodostaa killan tietoteknisen osaamiskeskittymän: huolehtii killan pilvipalveluiden ASkipiikin ja muiden vastaavien palvelujen teknisestä ylläpidosta sekä toteuttaa projektiluontoisia kehitystöitä ja muuta hauskaa teknistä tekemistä.  
-Säätömestari (1kpl)
+Muodostaa killan tietoteknisen osaamiskeskittymän: huolehtii killan pilvipalveluiden ASkipiikin ja muiden vastaavien palvelujen teknisestä ylläpidosta sekä toteuttaa projektiluontoisia kehitystöitä ja muuta hauskaa teknistä tekemistä.
+
+##### Säätömestari (1kpl)
 
 #### Yrityssuhdetoimikunta (johdossa Yrityssuhdevastaava)
 
@@ -95,9 +102,11 @@ Huolehtii killan mediatarpeista, kuten dokumentoinnista ja graafisesta suunnitte
 
 #### Toimikuntien ulkopuolelta:
 
-Oltermanni (1 kpl)
+##### Oltermanni (1 kpl)
 Toimii killan yhteyshenkilönä laitoksen suuntaan.
-Toiminnantarkastaja (2 kpl)
+
+##### Toiminnantarkastaja (2 kpl)
 Tarkastelevat killan toimintaa, jotta se pysyisi lain sallimissa rajoissa. Tarkistavat pöytäkirjat ja tilinpäätöksen.
-Varatoiminnantarkastaja (2 kpl)
+
+##### Varatoiminnantarkastaja (2 kpl)
 Toimivat toiminnantarkastajien varahenkilöinä.
