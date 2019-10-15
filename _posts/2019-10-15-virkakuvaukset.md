@@ -87,14 +87,14 @@ Pitää huolta opiskelijoiden edunvalvonnasta. Kokoustaa koulun henkilökunnan k
 
 #### Ehdotettavia rooleja:
 
-Automaatti
-Informaatti(1 kpl)
-DSDeetti
-TEK-kiltayhdyshenkilö
-Aiemmin osa TEKSAS-rangerin virkaa yrityssuhteiden alla.
-SAS-yhdyshenkilö
-Aiemmin osa TEKSAS-rangerin virkaa yrityssuhteiden alla.
-Abisintti
+Automaatti  
+Informaatti(1 kpl)  
+DSDeetti  
+TEK-kiltayhdyshenkilö  
+Aiemmin osa TEKSAS-rangerin virkaa yrityssuhteiden alla.  
+SAS-yhdyshenkilö  
+Aiemmin osa TEKSAS-rangerin virkaa yrityssuhteiden alla.  
+Abisintti  
 Ylläpitää abimateriaalia ja kouluttaa halukkaita.
 
 ### Kulttuuri- ja liikuntatoimikunta (Kulttuurimestari)
@@ -103,10 +103,10 @@ Tehtävä: Kulttuuri- ja liikuntatoiminnan järjestäminen
 
 #### Ehdotettavia rooleja:
 
-Jäykkäranne (1 kpl)
-Seniilisihteeri (1kpl)
-Liikuntavastaava
-Pelaaja
+Jäykkäranne (1 kpl)  
+Seniilisihteeri (1kpl)  
+Liikuntavastaava  
+Pelaaja  
 
 ### Huvitoimikunta (IE)
 
@@ -121,64 +121,64 @@ Juomanlaskija
 
 Tuottaa kiltalehteämme GT:tä.
 
-GTPT - Kultainen Päätoimittaja
-Vastaa Kultaisen Tomaatin ilmestymisestä n. 4 kertaa vuodessa. Kutsuu koolle toimituskokoukset, rekryää kirjoittajat, kokoaa jutut, varmistaa, että lehti on painossa ajallaan ja saadaan julkaistua.
-Kultainen toimittaja
-Kultainen graafikko
-Kultainen taittaja
+GTPT - Kultainen Päätoimittaja  
+Vastaa Kultaisen Tomaatin ilmestymisestä n. 4 kertaa vuodessa. Kutsuu koolle toimituskokoukset, rekryää kirjoittajat, kokoaa jutut, varmistaa, että lehti on painossa ajallaan ja saadaan julkaistua.  
+Kultainen toimittaja  
+Kultainen graafikko  
+Kultainen taittaja  
 
 ### Lukkaritoimikunta (Lukkarimestari)
 
 Lukkarit pitävät huolta killan laulukulttuurista sitseillä ja muuallakin.
 
-Lukkarimestari (1 kpl)
-Vastaa sitsien lukkaroinnista ja läsyn teosta sekä killan laulukulttuurin säilymisestä. Edustaa kiltaa AYY:n Lukkaritoimikunnassa.
+Lukkarimestari (1 kpl)  
+Vastaa sitsien lukkaroinnista ja läsyn teosta sekä killan laulukulttuurin säilymisestä. Edustaa kiltaa AYY:n Lukkaritoimikunnassa.  
 Lukkari
 
 ### Stimulaatio-toimikunta (Stimulantti)
 
 Järjestään killan vuosijuhlan Stimulaation sekä puolivuotissilliksen Eskalaation.
 
-Stimulantti (1 kpl)
-Depressantti
-Eskalaattori
+Stimulantti (1 kpl)  
+Depressantti  
+Eskalaattori  
 
 ### ASkitoimikunta (ASkimestari)
 
 Pitää huolta kotoisasta kiltahuoneestamme mitä moninaisimmin tavoin.
 
-ASkimestari (1 kpl)
-Johtaa toimikuntaa ja vastaa kiltahuoneen palveluiden kehittymisestä.
+ASkimestari (1 kpl)  
+Johtaa toimikuntaa ja vastaa kiltahuoneen palveluiden kehittymisestä.  
 ASkivahti
 
 ### Säätötoimikunta (Säätömestari)
 
 Muodostaa killan tietoteknisen osaamiskeskittymän: huolehtii killan pilvipalveluiden ASkipiikin ja muiden vastaavien palvelujen teknisestä ylläpidosta sekä toteuttaa projektiluontoisia kehitystöitä ja muuta hauskaa teknistä tekemistä.
 
-Säätömestari (1kpl)
+Säätömestari (1kpl)  
 Säätökisälli
 
 ### Yrityssuhdetoimikunta (Yrityssuhdevastaava)
 
 Kehittää killan yrityssuhteita ja toimii Yrityssuhdevastaavan apuna.
 
-rrrRankkajäbä
-Excursiovastaava
-Yrityssuhdekisälli
+rrrRankkajäbä  
+Excursiovastaava  
+Yrityssuhdekisälli  
 
 ### Mediatoimikunta (Viestintämestari)
 
 Huolehtii killan mediatarpeista, kuten dokumentoinnista ja graafisesta suunnittelusta. Järjestää kiltalaisille mahdollisuuden oppia uutta tai harjoittaa vanhoja taitoja pidemmälle.
 
-Somevastaava
-Dokumentoija
-Graafikko
+Somevastaava  
+Dokumentoija  
+Graafikko  
 
 ### Toimikuntien ulkopuolelta:
 
-Oltermanni (1 kpl)
-Toimii killan yhteyshenkilönä laitoksen suuntaan.
-Toiminnantarkastaja (2 kpl)
-Tarkastelevat killan toimintaa, jotta se pysyisi lain sallimissa rajoissa. Tarkistavat pöytäkirjat ja tilinpäätöksen. Toiminnantarkastajat eivät voi toimia samana vuonna missään muissa killan vastuullisissa tehtävissä.
-Varatoiminnantarkastaja (2 kpl)
+Oltermanni (1 kpl)  
+Toimii killan yhteyshenkilönä laitoksen suuntaan.  
+Toiminnantarkastaja (2 kpl)  
+Tarkastelevat killan toimintaa, jotta se pysyisi lain sallimissa rajoissa. Tarkistavat pöytäkirjat ja tilinpäätöksen. Toiminnantarkastajat eivät voi toimia samana vuonna missään muissa killan vastuullisissa tehtävissä.  
+Varatoiminnantarkastaja (2 kpl)  
 Toimivat toiminnantarkastajien varahenkilöinä.
