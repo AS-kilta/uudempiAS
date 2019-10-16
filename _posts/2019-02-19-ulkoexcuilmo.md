@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ulkoexcun ilmoittautuminen on auki!"
+title: "Ulkoexcun ilmoittautuminen"
 date: 2019-02-17 22:50:00 +0200
 language: fin
 author: Viestintämestari
@@ -15,3 +15,5 @@ Ilmo on sitova, joten jos myöhemmin käy ilmi, ettet pääsekään mukaan, ota 
 
 Ulkoexcutoimikunta vastaa mielellään aiheesta nouseviin kysymyksiin.
 Toimikunnan tavoittaa Telegramista nikeillä @jmajuri @DSDaddy @Viikinkeri ja @Nikosoininen
+
+Ulkoexcun ilmo on nyt sulkeutunut.
