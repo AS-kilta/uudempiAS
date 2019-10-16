@@ -18,7 +18,7 @@ Kanavalle lähetetään muistutuksia killan tapahtumista sekä muita tiedotuksia
 [AivanVirallinen - Telegram](https://telegram.me/aivansama)<br>
 Kanava killan toiminnasta keskustelemiseen.
 
-[ASki - Telegram](https://t.me/joinchat/Ba4qAlR4Yt9KYmSppEyU3w)<br>
+[ASki - Telegram](https://t.me/joinchat/Ba4qAj8SRwuX-gKhw5ULoQ)<br>
 Kanava ASkiin liittyvää palautetta varten
 
 [Opintomieliset - Telegram](https://t.me/joinchat/A-Zy1QVPe3-d2Bq5El2TZg)<br>
@@ -27,7 +27,7 @@ Keskustelua opintoasioista
 [Kulttuurinmieliset - Telegram](https://telegram.me/joinchat/A9RxtQFKNS6DdMh-6nCk2Q)<br>
 Killisteille, joita kiinnostaa kulttuuri
 
-[Pelimieliset - Telegram](https://t.me/joinchat/Ba4qAlR4Yt8YT3mYvHdU6A)<br>
+[Pelimieliset - Telegram](https://t.me/joinchat/Ba4qAlR4Yt9KYmSppEyU3w)<br>
 Lautapelaamisesta ja videopeleistä kiinnostuneille
 
 [Säätömieliset - Telegram](https://t.me/joinchat/AuV1G0JWzubqG0DoRLZk0A)<br>

@@ -18,7 +18,7 @@ Reminders of guild's events and other releases will be sent here
 [AivanVirallinen - Telegram](https://telegram.me/aivansama)<br>
 Chat for the official stuff about AS guild.
 
-[ASki - Telegram](https://t.me/joinchat/Ba4qAlR4Yt9KYmSppEyU3w)<br>
+[ASki - Telegram](https://t.me/joinchat/Ba4qAj8SRwuX-gKhw5ULoQ)<br>
 Chat for stuff about ASki
 
 [Studyminded - Telegram](https://t.me/joinchat/A-Zy1QVPe3-d2Bq5El2TZg)<br>
@@ -27,8 +27,8 @@ Chat for stuff about studying
 [Cultureminded – Telegram](https://telegram.me/joinchat/A9RxtQFKNS6DdMh-6nCk2Q)<br>
 Chat for stuff about culture
 
-[Mediaminded - Telegram](https://telegram.me/joinchat/AmCqNQJAZ6qE1bm55K5pWw)<br>
-Chat for stuff about media
+[Gamingminded - Telegram](https://t.me/joinchat/Ba4qAlR4Yt9KYmSppEyU3w)<br>
+For those interested in board- and videogames
 
 [Tinkeringminded - Telegram](https://t.me/joinchat/AuV1G0JWzubqG0DoRLZk0A)<br>
 Chat for stuff about tinkering
