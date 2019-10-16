@@ -3,13 +3,13 @@ layout: page
 title: Link wall
 ---
 
-[AS - Telegram](https://telegram.me/joinchat/ApdG7j_110MvqmlTIwdlWw)<br>
+[AS - Telegram](https://t.me/joinchat/Br9ODz_110OZULEAdl0UKQ)<br>
 Chat for all the ASs', free topic. Mainly in Finnish, but everyone is welcome
 
 [AS in English - Telegram](https://t.me/joinchat/BzywAENaOk8UOSc1LreD5A)<br>
 ASs’ chat in english, free topic.
 
-[AS event calendar – Google Calendar](http://as.fi/kalenteri)<br>
+[AS event calendar – Google Calendar](https://as.fi/english/events.html)<br>
 In the event calendar you'll find information about guild's events
 
 [Information channel – Telegram](https://telegram.me/joinchat/AcGE6Tv4Xz6eKgB3GHVcow)<br>
@@ -18,7 +18,7 @@ Reminders of guild's events and other releases will be sent here
 [AivanVirallinen - Telegram](https://telegram.me/aivansama)<br>
 Chat for the official stuff about AS guild.
 
-[ASki - Telegram](https://t.me/joinchat/AAAAAD8SRwuMlGPDS_rsOA)<br>
+[ASki - Telegram](https://t.me/joinchat/Ba4qAlR4Yt9KYmSppEyU3w)<br>
 Chat for stuff about ASki
 
 [Studyminded - Telegram](https://t.me/joinchat/A-Zy1QVPe3-d2Bq5El2TZg)<br>

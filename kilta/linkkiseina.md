@@ -3,13 +3,13 @@ layout: page
 title: Linkkiseinä
 ---
 
-[AS - Telegram](https://telegram.me/joinchat/ApdG7j_110MvqmlTIwdlWw)<br>
+[AS - Telegram](https://t.me/joinchat/Br9ODz_110OZULEAdl0UKQ)<br>
 Kaikkien aASien kannu, aihe vapaa
 
 [AS in English - Telegram](https://t.me/joinchat/BzywAENaOk8UOSc1LreD5A)<br>
 AS:n englannin kielinen kannu
 
-[AS Tapahtumakalenteri - Google Kalenteri](http://as.fi/kalenteri)<br>
+[AS Tapahtumakalenteri - Google Kalenteri](http://as.fi/tapahtumat.html)<br>
 Tapahtumakalenterista löydät tietoa killan tapahtumista
 
 [Tiedotuskanava - Telegram](https://telegram.me/joinchat/AcGE6Tv4Xz6eKgB3GHVcow)<br>
@@ -18,7 +18,7 @@ Kanavalle lähetetään muistutuksia killan tapahtumista sekä muita tiedotuksia
 [AivanVirallinen - Telegram](https://telegram.me/aivansama)<br>
 Kanava killan toiminnasta keskustelemiseen.
 
-[ASki - Telegram](https://t.me/joinchat/AAAAAD8SRwuMlGPDS_rsOA)<br>
+[ASki - Telegram](https://t.me/joinchat/Ba4qAlR4Yt9KYmSppEyU3w)<br>
 Kanava ASkiin liittyvää palautetta varten
 
 [Opintomieliset - Telegram](https://t.me/joinchat/A-Zy1QVPe3-d2Bq5El2TZg)<br>
