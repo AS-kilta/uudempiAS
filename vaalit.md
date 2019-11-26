@@ -1,86 +1,94 @@
 ---
 layout: page
-title: Vaalit 2018 - Elections 2018
+title: Vaalit 2019 - Elections 2019
 permalink: /vaalit/
 ---
-Vaalit ovat ohi. 31.10.2019 vaalikokouksessa valitut:
+Vaalit ovat ohi. Vuodelle 2020 valitut toimijat ovat:
 
 ### Hallitus
-Puheenjohtaja: Severi Casserly<br>
-Sihteeri:  Jaakko Majuri<br>
-Rahastonhoitaja: Ville Eronen<br>
-Phuksikapteeni: Lassi Ihalainen<br>
-Opintomestari: Akseli Konttas<br>
-Isäntä: Vesta Kulomaa<br>
-Emäntä: Alex Korpela<br>
-Kulttuurimestari: Juhana Kekoni<br>
-Viestintämestari: Niina Tapanainen<br>
-Yrityssuhdevastaava: Jyri Kolu<br>
-International Student Captain: Mikko Hokkanen
+Puheenjohtaja: Niina Tapanainen<br>
+Sihteeri: Antti Regelin<br>
+Rahastonhoitaja: Akseli Konttas<br>
+Phuksikapteeni: Leia Nummisalo<br>
+Opintomestari: Emil Huttunen<br>
+Isäntä: Emma Riikonen Kulomaa<br>
+Emäntä: Helena Kaisanlahti<br>
+Kulttuurimestari: Sakari Ropponen<br>
+Viestintämestari: Jyri Kolu<br>
+Yrityssuhdevastaava: Matias Vapola<br>
+International Student Captain: Henri Toivola
 
 ### Phuksitoimikunta:
 
-ISOpomo: Emil Huttunen<br>
-SuurPhuksikapteeni: Ville Kauhanen<br>
-Tosi ISOpomo: Ella Koivula<br>
-Senior International Student Captain: Ilene Blanco<br>
+ISOpomo: Tiia-Maria Hyvönen<br>
+SuurPhuksikapteeni: Lassi Ihalainen<br>
+Tosi ISOpomo: Emil Huttunen<br>
+Senior International Student Captain: Mikko Hokkanen<br>
 
 ### Kultainen toimitus:
 
-Kultainen päätoimittaja: Jan Juvonen
+Kultainen päätoimittaja: Kaisa Hynynen
 
 ### Lukkaritoimikunta
 
-Lukkarimestari: Karolina Itäinen
+Lukkarimestari: Mikko Hokkanen
 
-### Ulkoexcutoimikunta
+### Stigutoimikunta
 
-Ulkoexcumestari: Jaakko Majuri
+Stigulantti: Lassi Ihalainen, Alex Korpela
+
+### Stimulaatiotoimikunta
+
+Stimulantti: Mari Pulkkinen
 
 ### Toimikuntien ulkopuolella
 
 Oltermanni: Ville Kyrki <br>
-Toiminnantarkastaja: Titta Saari, Jan juvonen<br>
-Varatoiminnantarkastaja: Karolina Itäinen, Niilo Metsänen
+Toiminnantarkastaja: Titta Saari, Taavi Oja<br>
+Varatoiminnantarkastaja: Lassi Ihalainen, Ville Eronen
 
 ---
 
-The elections are now over. On 31.10.2018 election meeting the following were elected:
+The elections are now over. Following persons have been chosen for the year 2020:
 
 ### The board:
-Chairman: Severi Casserly<br>
-Secretary:  Jaakko Majuri<br>
-Treasurer: Ville Eronen<br>
-Freshman Captain: Lassi Ihalainen<br>
-Master of Studies: Akseli Konttas<br>
-Host: Vesta Kulomaa<br>
-Hostess: Alex Korpela<br>
-Master of Culture: Juhana Kekoni<br>
-Viestintämestari: Niina Tapanainen<br>
-Head of Corporate Relations: Jyri Kolu<br>
-International Student Captain: Mikko Hokkanen
+Chairman: Niina Tapanainen<br>
+Secretary: Antti Regelin<br>
+Treasurer: Akseli Konttas<br>
+Freshman Captain: Leia Nummisalo<br>
+Master of Studies: Emil Huttunen<br>
+Host: Emma Riikonen<br>
+Hostess: Helena Kaisanlahti<br>
+Master of Culture: Sakari Ropponen<br>
+Master of Communications: Jyri Kolu<br>
+Head of Corporate Relations: Matias Vapola<br>
+International Student Captain: Henri Toivola
 
 ### Freshman Commitee:
 
-Tutor Boss: Emil Huttunen<br>
-Great Freshman Captain: Ville Kauhanen<br>
-Uncle Tutor Boss: Ella Koivula<br>
-Senior International Student Captain: Ilene Blanco<br>
+Tutor Boss: Tiia-Maria Hyvönen<br>
+Great Freshman Captain: Lassi Ihalainen<br>
+Uncle Tutor Boss: Emil Huttunen<br>
+Senior International Student Captain: Mikko Hokkanen<br>
 
 ### Golden tomato:
 
-Golden Editor-in-Chief: Jan Juvonen
+Golden Editor-in-Chief: Kaisa Hynynen
 
 ### Sexton Committee:
 
-Sexton Master: Karolina Itäinen
+Sexton Master: Mikko Hokkanen
 
-### Committee of Foreign Excursions:
+### Stigulation committee
 
-Master of Foreign Excursions: Jaakko Majuri
+Stigulant: Alex Korpela, Lassi Ihalainen
+
+### Stimulation committee
+
+Stimulant: Mari Pulkkinen
 
 ### Outside committees
 
 Alderman: Ville Kyrki <br>
-Inspector: Titta Saari, Jan juvonen<br>
-Vice-Inspector: Karolina Itäinen, Niilo Metsänen
+Inspector: Titta Saari, Taavi Oja<br>
+Vice-Inspector: Lassi Ihalainen, Ville Eronen
