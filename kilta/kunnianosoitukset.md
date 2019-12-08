@@ -89,6 +89,10 @@ Ei jaettu
 - [Sanna Halmkrona](#sanna-halmkrona)
 - [Noora Salminen](#noora-salminen)
 
+**2019**
+- [Karolina Itäinen]
+- [Eero Santamala]
+
 #### Hopeisen pränikän saajat
 **2016**
 - [Aapo Oksman](#aapo-oksman)
@@ -117,6 +121,13 @@ Ei jaettu
 - [Kaisa Hynynen](#kaisa-hynynen)
 - [Jan Juvonen](#jan-juvonen)
 - [Titta Saari](#titta-saari)
+
+**2019**
+- [Ville Eronen]
+- [Roope Pääkkönen]
+- [Emma Riikonen]
+- [Helena Kaisanlahti]
+- [Taru Virtanen]
 
 ## Perustelut
 
