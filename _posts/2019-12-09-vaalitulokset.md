@@ -1,97 +1,99 @@
 ---
 layout: post
 title: "Vaalitulokset - Election Results"
-date: 2018-11-04 22:40:00 +0300
+date: 2019-12-09 00:01:00 +0300
 language: fin
 author: Viestintämestari
 categories: AS pääuutiset
 ---
 
-#### Toimarivirkoihin haku
-
-Toimarivirkoihin haku on auki 11.11. asti, lisätietoa hakemisesta ja toimikunnista löytyy [TÄÄLTÄ](https://as.fi/kilta/vaalit.html)
-
-31.10.2019 vaalikokouksessa valitut:
+#### 2019 vaalikokouksessa valitut:
 
 ### Hallitus
-Puheenjohtaja: Severi Casserly<br>
-Sihteeri:  Jaakko Majuri<br>
-Rahastonhoitaja: Ville Eronen<br>
-Phuksikapteeni: Lassi Ihalainen<br>
-Opintomestari: Akseli Konttas<br>
-Isäntä: Vesta Kulomaa<br>
-Emäntä: Alex Korpela<br>
-Kulttuurimestari: Juhana Kekoni<br>
-Viestintämestari: Niina Tapanainen<br>
-Yrityssuhdevastaava: Jyri Kolu<br>
-International Student Captain: Mikko Hokkanen
+Puheenjohtaja: Niina Tapanainen<br>
+Sihteeri: Antti Regelin<br>
+Rahastonhoitaja: Akseli Konttas<br>
+Phuksikapteeni: Leia Nummisalo<br>
+Opintomestari: Emil Huttunen<br>
+Isäntä: Emma Riikonen Kulomaa<br>
+Emäntä: Helena Kaisanlahti<br>
+Kulttuurimestari: Sakari Ropponen<br>
+Viestintämestari: Jyri Kolu<br>
+Yrityssuhdevastaava: Matias Vapola<br>
+International Student Captain: Henri Toivola
 
 ### Phuksitoimikunta:
 
-ISOpomo: Emil Huttunen<br>
-SuurPhuksikapteeni: Ville Kauhanen<br>
-Tosi ISOpomo: Ella Koivula<br>
-Senior International Student Captain: Ilene Blanco<br>
+ISOpomo: Tiia-Maria Hyvönen<br>
+SuurPhuksikapteeni: Lassi Ihalainen<br>
+Tosi ISOpomo: Emil Huttunen<br>
+Senior International Student Captain: Mikko Hokkanen<br>
 
 ### Kultainen toimitus:
 
-Kultainen päätoimittaja: Jan Juvonen
+Kultainen päätoimittaja: Kaisa Hynynen
 
 ### Lukkaritoimikunta
 
-Lukkarimestari: Karolina Itäinen
+Lukkarimestari: Mikko Hokkanen
 
-### Ulkoexcutoimikunta
+### Stimulaatiotoimikunta
 
-Ulkoexcumestari: Jaakko Majuri
+Stimulantti: Mari Pulkkinen
+
+### Stigutoimikunta
+
+Stigulantti: Lassi Ihalainen, Alex Korpela
 
 ### Toimikuntien ulkopuolella
 
 Oltermanni: Ville Kyrki <br>
-Toiminnantarkastaja: Titta Saari, Jan juvonen<br>
-Varatoiminnantarkastaja: Karolina Itäinen, Niilo Metsänen
+Toiminnantarkastaja: Titta Saari, Taavi Oja<br>
+Varatoiminnantarkastaja: Ville Eronen, Lassi Ihalainen
 
 
 ---
-#### Applying for official positions
-The application period is still open till 11.11. More information about applying and committees can be found [HERE](https://as.fi/english/election.html).
 
-On 31.10.2018 election meeting the following were elected:
+In 2019 election meeting the following persons were elected:
 
 ### The board:
-Chairman: Severi Casserly<br>
-Secretary:  Jaakko Majuri<br>
-Treasurer: Ville Eronen<br>
-Freshman Captain: Lassi Ihalainen<br>
-Master of Studies: Akseli Konttas<br>
-Host: Vesta Kulomaa<br>
-Hostess: Alex Korpela<br>
-Master of Culture: Juhana Kekoni<br>
-Viestintämestari: Niina Tapanainen<br>
-Head of Corporate Relations: Jyri Kolu<br>
-International Student Captain: Mikko Hokkanen
+Chairman: Niina Tapanainen<br>
+Secretary: Antti Regelin<br>
+Treasurer: Akseli Konttas<br>
+Freshman Captain: Leia Nummisalo<br>
+Master of Studies: Emil Huttunen<br>
+Host: Emma Riikonen<br>
+Hostess: Helena Kaisanlahti<br>
+Master of Culture: Sakari Ropponen<br>
+Master of Communications: Jyri Kolu<br>
+Head of Corporate Relations: Matias Vapola<br>
+International Student Captain: Henri Toivola
 
 ### Freshman Commitee:
 
-Tutor Boss: Emil Huttunen<br>
-Great Freshman Captain: Ville Kauhanen<br>
-Uncle Tutor Boss: Ella Koivula<br>
-Senior International Student Captain: Ilene Blanco<br>
+Tutor Boss: Tiia-Maria Hyvönen<br>
+Great Freshman Captain: Lassi Ihalainen<br>
+Uncle Tutor Boss: Emil Huttunen<br>
+Senior International Student Captain: Mikko Hokkanen<br>
 
 ### Golden tomato:
 
-Golden Editor-in-Chief: Jan Juvonen
+Golden Editor-in-Chief: Kaisa Hynynen
 
 ### Sexton Committee:
 
-Sexton Master: Karolina Itäinen
+Sexton Master: Mikko Hokkanen
 
-### Committee of Foreign Excursions:
+### Stimulation committee
 
-Master of Foreign Excursions: Jaakko Majuri
+Stimulant: Mari Pulkkinen
+
+### Stigulation committee
+
+Stigulant: Alex Korpela, Lassi Ihalainen
 
 ### Outside committees:
 
 Alderman: Ville Kyrki <br>
-Inspector: Titta Saari, Jan juvonen<br>
-Vice-Inspector: Karolina Itäinen, Niilo Metsänen
+Inspector: Titta Saari, Taavi Oja<br>
+Vice-Inspector: Lassi Ihalainen, Ville Eronen

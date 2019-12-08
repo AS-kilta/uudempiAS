@@ -90,8 +90,8 @@ Ei jaettu
 - [Noora Salminen](#noora-salminen)
 
 **2019**
-- [Karolina Itäinen]
-- [Eero Santamala]
+- Karolina Itäinen
+- Eero Santamala
 
 #### Hopeisen pränikän saajat
 **2016**
@@ -123,11 +123,11 @@ Ei jaettu
 - [Titta Saari](#titta-saari)
 
 **2019**
-- [Ville Eronen]
-- [Roope Pääkkönen]
-- [Emma Riikonen]
-- [Helena Kaisanlahti]
-- [Taru Virtanen]
+- Ville Eronen
+- Roope Pääkkönen
+- Emma Riikonen
+- Helena Kaisanlahti
+- Taru Virtanen
 
 ## Perustelut
 
