@@ -10,6 +10,7 @@ categories: AS pääuutiset
 #### 2019 vaalikokouksessa valitut:
 
 ### Hallitus
+
 Puheenjohtaja: Niina Tapanainen<br>
 Sihteeri: Antti Regelin<br>
 Rahastonhoitaja: Akseli Konttas<br>
