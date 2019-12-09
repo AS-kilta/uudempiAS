@@ -7,30 +7,30 @@ author: Viestintämestari
 categories: AS pääuutiset
 ---
 
-#### 2019 vaalikokouksessa valitut:
+#### 2019 vaalikokouksessa valitut
 
 ### Hallitus
 
-Puheenjohtaja: Niina Tapanainen<br>
-Sihteeri: Antti Regelin<br>
-Rahastonhoitaja: Akseli Konttas<br>
-Phuksikapteeni: Leia Nummisalo<br>
-Opintomestari: Emil Huttunen<br>
-Isäntä: Emma Riikonen Kulomaa<br>
-Emäntä: Helena Kaisanlahti<br>
-Kulttuurimestari: Sakari Ropponen<br>
-Viestintämestari: Jyri Kolu<br>
-Yrityssuhdevastaava: Matias Vapola<br>
+Puheenjohtaja: Niina Tapanainen  
+Sihteeri: Antti Regelin  
+Rahastonhoitaja: Akseli Konttas  
+Phuksikapteeni: Leia Nummisalo  
+Opintomestari: Emil Huttunen  
+Isäntä: Emma Riikonen Kulomaa  
+Emäntä: Helena Kaisanlahti  
+Kulttuurimestari: Sakari Ropponen  
+Viestintämestari: Jyri Kolu  
+Yrityssuhdevastaava: Matias Vapola  
 International Student Captain: Henri Toivola
 
-### Phuksitoimikunta:
+### Phuksitoimikunta
 
-ISOpomo: Tiia-Maria Hyvönen<br>
-SuurPhuksikapteeni: Lassi Ihalainen<br>
-Tosi ISOpomo: Emil Huttunen<br>
-Senior International Student Captain: Mikko Hokkanen<br>
+ISOpomo: Tiia-Maria Hyvönen  
+SuurPhuksikapteeni: Lassi Ihalainen  
+Tosi ISOpomo: Emil Huttunen  
+Senior International Student Captain: Mikko Hokkanen  
 
-### Kultainen toimitus:
+### Kultainen toimitus
 
 Kultainen päätoimittaja: Kaisa Hynynen
 
@@ -48,40 +48,40 @@ Stigulantti: Lassi Ihalainen, Alex Korpela
 
 ### Toimikuntien ulkopuolella
 
-Oltermanni: Ville Kyrki <br>
-Toiminnantarkastaja: Titta Saari, Taavi Oja<br>
+Oltermanni: Ville Kyrki  
+Toiminnantarkastaja: Titta Saari, Taavi Oja  
 Varatoiminnantarkastaja: Ville Eronen, Lassi Ihalainen
-
 
 ---
 
 In 2019 election meeting the following persons were elected:
 
-### The board:
-Chairman: Niina Tapanainen<br>
-Secretary: Antti Regelin<br>
-Treasurer: Akseli Konttas<br>
-Freshman Captain: Leia Nummisalo<br>
-Master of Studies: Emil Huttunen<br>
-Host: Emma Riikonen<br>
-Hostess: Helena Kaisanlahti<br>
-Master of Culture: Sakari Ropponen<br>
-Master of Communications: Jyri Kolu<br>
-Head of Corporate Relations: Matias Vapola<br>
+### The board
+
+Chairman: Niina Tapanainen  
+Secretary: Antti Regelin  
+Treasurer: Akseli Konttas  
+Freshman Captain: Leia Nummisalo  
+Master of Studies: Emil Huttunen  
+Host: Emma Riikonen  
+Hostess: Helena Kaisanlahti  
+Master of Culture: Sakari Ropponen  
+Master of Communications: Jyri Kolu  
+Head of Corporate Relations: Matias Vapola  
 International Student Captain: Henri Toivola
 
-### Freshman Commitee:
+### Freshman Commitee
 
-Tutor Boss: Tiia-Maria Hyvönen<br>
-Great Freshman Captain: Lassi Ihalainen<br>
-Uncle Tutor Boss: Emil Huttunen<br>
-Senior International Student Captain: Mikko Hokkanen<br>
+Tutor Boss: Tiia-Maria Hyvönen  
+Great Freshman Captain: Lassi Ihalainen  
+Uncle Tutor Boss: Emil Huttunen  
+Senior International Student Captain: Mikko Hokkanen  
 
-### Golden tomato:
+### Golden tomato
 
 Golden Editor-in-Chief: Kaisa Hynynen
 
-### Sexton Committee:
+### Sexton Committee
 
 Sexton Master: Mikko Hokkanen
 
@@ -93,8 +93,8 @@ Stimulant: Mari Pulkkinen
 
 Stigulant: Alex Korpela, Lassi Ihalainen
 
-### Outside committees:
+### Outside committees
 
-Alderman: Ville Kyrki <br>
-Inspector: Titta Saari, Taavi Oja<br>
+Alderman: Ville Kyrki  
+Inspector: Titta Saari, Taavi Oja  
 Vice-Inspector: Lassi Ihalainen, Ville Eronen
