@@ -16,7 +16,7 @@ Sihteeri: Antti Regelin
 Rahastonhoitaja: Akseli Konttas  
 Phuksikapteeni: Leia Nummisalo  
 Opintomestari: Emil Huttunen  
-Isäntä: Emma Riikonen Kulomaa  
+Isäntä: Emma Riikonen  
 Emäntä: Helena Kaisanlahti  
 Kulttuurimestari: Sakari Ropponen  
 Viestintämestari: Jyri Kolu  
