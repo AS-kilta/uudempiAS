@@ -15,7 +15,11 @@ Mikäli haluat lähettää tiedotteita sähköpostilistoille tai päästä mukaa
 
 Killan tiedotuskanavalle jokaisen jäsenen on hyvä liittyä ajankohtaisia tiedotuksia seuratakseen. Tiedotus-kanavalle pääset linkistä: [https://telegram.me/automit](https://telegram.me/automit).
 
-Telegram-keskusteluista seuraavaksi tärkeimpiä ovat AS ja AivanVirallinen. AS-keskustelu on kaikkia aASeja varten. Aihe on vapaa ja keskustelu pitkälti moderoimatonta, mutta hyvät käytöstavat pidetään kunniassa. AivanVirallisessa voit keskustella killan toimintaan liittyvistä asioista ja tavoitat hallituksen sekä myös monet toimareista. Keskustelun sävy on asiallinen.
+Killalla on Telegramissa myös keskustelukanavia, joista tärkeimpiä ovat AS ja AivanVirallinen.
+
+AS-keskustelu on kaikkia aASeja varten. Tällä kanavalla keskustelu on pitkälti vapaamuotoista, mutta hyvät käytöstavat tulee silti muistaa.
+
+AivanVirallisessa voit keskustella killan toimintaan liittyvistä asioista ja tavoitat hallituksen sekä myös monet toimareista. Keskustelun sävy pidetään tällä kanavalla asiallisena.
 
 Monilla toimikunnilla on avoimet keskustelut, joihon aiheesta kiinnostuneet voivat liittyä. Lisäksi vuosikursseilla on omat keskustelunsa.
 
