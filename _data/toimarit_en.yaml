@@ -80,7 +80,7 @@ committees:
         description:
         members:
           - name: Iivo Yrjölä
-            picture: static/toimijat/2018/iivo_yrjölä.jpg  
+            picture: static/toimijat/2018/iivo_yrjola.jpg  
       - name: Cupbearer
         description:
         members:
@@ -207,7 +207,7 @@ committees:
         description:
         members:
           - name: Roope Pääkkönen
-            picture: static/toimijat/2018/roope_pääkkönen.jpg  
+            picture: static/toimijat/2018/roope_paakkonen.jpg  
           - name: Ville Kauhanen
             picture: static/toimijat/2018/ville_kauhanen.jpg  
           - name: Onni Lampi
@@ -299,7 +299,7 @@ committees:
           - name: Karolina Itäinen
             picture: static/toimijat/2019/karolina_itainen_19.jpg
           - name: Niilo Metsänen
-            picture: static/toimijat/2018/niilo_metsänen.jpg
+            picture: static/toimijat/2018/niilo_metsanen.jpg
       - name: Alderman
         description:
         members:
