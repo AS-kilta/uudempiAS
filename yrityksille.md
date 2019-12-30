@@ -33,5 +33,5 @@ Yritysyhteistyöstä vastaa meidän päässämme yrityssuhdetoimikunta, jota koo
 Matias Vapola<br>
 Yrityssuhdevastaava<br>
 [yrityssuhdevastaava](mailto:yrityssuhdevastaava@POISTAas.fi)<br>
-[+358 ](tel://+358452326632)<br>
+[+358452326632](tel://+358452326632)<br>
 [Telegram: @M4tuV](https://telegram.me/M4tuV)
