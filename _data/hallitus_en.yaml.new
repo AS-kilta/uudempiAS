@@ -11,7 +11,7 @@ people:
   - position_name: Treasurer
     person_name: Akseli Konttas
     email: rahastonhoitaja@as.fi
-    #phone: ???
+    phone: 040 076 5799
     username: Aakee
     picture: static/toimijat/2019/akseli_konttas_19.jpg
     description: "The treasurer is responsible for taking care of the guild’s finances, for instance, paying bills and bookkeeping.
@@ -20,7 +20,7 @@ people:
   - position_name: Secretary
     person_name: Antti Regelin
     email: sihteeri@as.fi
-    #phone: ???
+    phone: 040 543 6679
     username: Rekkuhoi
     picture: static/toimijat/2019/antti_regelin_19.jpg
     description: "The secretary is responsible for writing the minutes of the board meetings and guild meetings. In addition, they manage the guild’s membership register and look after the archive.
@@ -38,7 +38,7 @@ people:
   - position_name: Freshman Captain
     person_name: Leia Nummisalo
     email: phuksikapteeni@as.fi
-    #phone: ???
+    phone: 050 572 4080
     username: leiskuu
     picture: static/toimijat/2019/leia_nummisalo_19.jpg
     description: "The Freshman Captain is responsible for all freshman wellbeing and freshman events. They organize events for freshmen with other guild members, the University and other Freshman Captains. Collaborates closely with the Tutor Coordinator."
@@ -46,7 +46,7 @@ people:
   - position_name: International Student Captain
     person_name: Henri Toivola
     email: isc@as.fi
-    #phone: ???
+    phone: 040 820 6771
     username: Heneez
     picture: static/toimijat/aebaej_placeholder.png
     description: "The International Student Captain is responsible of the international students and the international matters of the guild. They collaborate closely with Freshman Captain. 
@@ -55,7 +55,7 @@ people:
   - position_name: Host
     person_name: Emma Riikonen
     email: ie@as.fi
-    #phone: ???
+    phone: 045 132 2458
     username: emmariik
     picture: static/toimijat/2019/emma_riikonen_19.jpg
     description: "The Host arranges various events together with the hostess for the guild members. Together with Hostess they lead the Entertainment Committee and work towards even better events.
@@ -64,7 +64,7 @@ people:
   - position_name: Hostess
     person_name: Helena Kaisanlahti
     email: ie@as.fi
-    #phone: ???
+    phone: 050 414 5670
     username: Hulina
     picture: static/toimijat/2019/helena_kaisanlahti_19.jpg
     description: "The Hostess arranges various events together with the hostess for the guild members. Together with Host they lead the Entertainment Committee and work towards even better events. 
@@ -73,7 +73,7 @@ people:
   - position_name: Master of Studies
     person_name: Emil Huttunen
     email: opintomestari@as.fi
-    #phone: ???
+    phone: 050 550 1071
     username: tosiISOpomo
     picture: static/toimijat/2019/emil_huttunen_19.jpg
     description: "The Master of Studies maintains communications between the guild and the university. They also work as the contact person for the guild’s trustees and represent students in the meetings of the university’s governing body.
@@ -82,7 +82,7 @@ people:
   - position_name: Head of Corporate Relations
     person_name: Matias Vapola
     email: yrityssuhdevastaava@as.fi
-    #phone: ???
+    phone: 045 232 6632
     username: M4tuV
     picture: static/toimijat/aebaej_placeholder.png
     description: "The Head of Corporate Relations leads the corporate relations committee. They advance the reputation and credit of the guild among the corporations by collaborating with them. They also organize excursions, events and sponsorships. 
@@ -91,7 +91,7 @@ people:
   - position_name: Master of Culture
     person_name: Sakari Ropponen
     email: kulttuurimestari@as.fi
-    #phone: ???
+    phone: 045 691 6550
     username: Kulttuurimestari
     picture: static/toimijat/2019/sakari_ropponen_19.jpg
     description: "The Master of Culture maintains the external relations with student organisations across Finland and builds new ones. They lead the Culture and Sports Committee, organise various happenings, cultural excursions and events to test different sports.
