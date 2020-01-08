@@ -75,6 +75,8 @@ committees:
         members:
           - name: Joonas Törmälä
             picture: static/toimijat/aebaej_placeholder.png
+          - name: Juhani Lehto
+            picture: static/toimijat/aebaej_placeholder.png
       - name: Pelaaja
         description:
         members:
@@ -97,6 +99,10 @@ committees:
         members:
           - name: Timo Polvinen
             picture: static/toimijat/2019/timo_polvinen_19.jpg
+          - name: Matias Varonen
+            picture: static/toimijat/aebaej_placeholder.png
+          - name: Katariina Tuovinen
+            picture: static/toimijat/aebaej_placeholder.png
 
   - name: Huvitoimikunta
     description:
