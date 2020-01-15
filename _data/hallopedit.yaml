@@ -1,4 +1,33 @@
 committees:
+  - name: Hallopedit 2020
+    description:
+    positions:
+      - description:
+        members:
+          - name: Niina Tapanainen
+            picture: static/toimijat/2019/niina_tapanainen_19.jpg
+          - name: Emil Huttunen
+            picture: static/toimijat/2019/emil_huttunen_19.jpg
+          - name: Ville Eronen
+            picture: static/toimijat/2019/ville_eronen_19.jpg
+          - name: Severi Casserly
+            picture: static/toimijat/2019/severi_casserly_19.jpg
+          - name: Akseli Konttas
+            picture: static/toimijat/2019/akseli_konttas_19.jpg
+          - name: Leia Nummisalo
+            picture: static/toimijat/2019/leia_nummisalo_19.jpg
+          - name: Henri Toivola
+            picture: static/toimijat/aebaej_placeholder.png
+          - name: Verneri Hirvonen
+            picture: static/toimijat/aebaej_placeholder.png
+          - name: Arttu Pohja
+            picture: static/toimijat/2019/arttu_pohja_19.jpg
+          - name: Helena Kaisanlahti
+            picture: static/toimijat/2019/helena_kaisanlahti_19.jpg
+          - name: Emma Riikonen
+            picture: static/toimijat/2019/emma_riikonen_19.jpg
+          - name: Veeti Kahilainen
+            picture: static/toimijat/aebaej_placeholder.png
   - name: Hallopedit 2019
     description:
     positions:
