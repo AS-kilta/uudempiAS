@@ -29,9 +29,6 @@ Chat for stuff about culture
 [Gamingminded - Telegram](https://t.me/joinchat/Ba4qAlR4Yt9KYmSppEyU3w)<br>
 For those interested in board- and videogames
 
-[Tinkeringminded - Telegram](https://t.me/joinchat/AuV1G0JWzubqG0DoRLZk0A)<br>
-Chat for stuff about tinkering
-
 [ASif - Telegram](https://telegram.me/joinchat/FUsq9RGHt6s8BoeCm6wLMA)<br>
 Chat For those who are interested in sports
 

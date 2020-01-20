@@ -29,9 +29,6 @@ Killisteille, joita kiinnostaa kulttuuri
 [Pelimieliset - Telegram](https://t.me/joinchat/Ba4qAlR4Yt9KYmSppEyU3w)<br>
 Lautapelaamisesta ja videopeleistä kiinnostuneille
 
-[Säätömieliset - Telegram](https://t.me/joinchat/AuV1G0JWzubqG0DoRLZk0A)<br>
-Killisteille, joita kiinnostaa säätö
-
 [ASif - Telegram](https://telegram.me/joinchat/FUsq9RGHt6s8BoeCm6wLMA)<br>
 Killisteille, jotka ovat kiinnostuneita urheilusta
 
