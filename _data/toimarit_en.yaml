@@ -231,6 +231,12 @@ committees:
   - name: Corporate Relations Committee
     description:
     positions:
+      - name: Excursion Coordinator
+        description:
+        members:
+          - name: Meri Hilden
+            picture: static/toimijat/aebaej_placeholder.png
+
       - name: Corporate Relations Journeyperson
         description:
         members:
@@ -245,8 +251,6 @@ committees:
           - name: Emil Demirtas
             picture: static/toimijat/aebaej_placeholder.png
           - name: Meri Hiipakka
-            picture: static/toimijat/aebaej_placeholder.png
-          - name: Meri Hilden
             picture: static/toimijat/aebaej_placeholder.png
           - name: Lotta Makkonen
             picture: static/toimijat/aebaej_placeholder.png
@@ -311,6 +315,8 @@ committees:
         members:
           - name: Eetu Suominen
             picture: static/toimijat/2019/eetu_suominen_19.jpg
+          - name: Matias Mäki-Leppilampi
+            picture: static/toimijat/2019/matias_maki-leppilampi_19.jpg
           - name: Vesta Kulomaa
             picture: static/toimijat/2019/vesta_kulomaa_19.jpg
           - name: Alex Korpela
