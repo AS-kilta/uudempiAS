@@ -3,46 +3,41 @@ layout: default
 permalink: /english/
 ---
 <div class="home">
-    
+
 <article class="post">
 
-  <div class="post-content">
-    <div class="section group">
+  <div class="info_section flex-item">
+    <h1 class="info_section__title">What is AS?</h1>
+      {% capture index_content %}{% include index_content_en.md %}{% endcapture %}
+      {{ index_content | markdownify }}
+  </div>
 
-    <div class="col span_1_of_2">
-      <div class="info_section">
-        <h1 class="info_section__title">Important news</h1>
-        {% assign main_category_posts = site.categories[site.main_category] %}
-        {%
-          include functions/post-list_en.html
-          posts=main_category_posts
-          limit=5
-        %}
-        <a href="News">All news</a>
-      </div>
+  <div class="post-content flex-container">
+
+    <div class="info_section flex-item">
+      <h1 class="info_section__title">Important news</h1>
+      {% assign main_category_posts = site.categories[site.main_category] %}
+      {%
+        include functions/post-list_en.html
+        posts=main_category_posts
+        limit=5
+      %}
+      <a href="News">All news</a>
     </div>
 
-    <div class="col span_1_of_2">
-        <div class="info_section">
-          <h1 class="info_section__title">What is AS?</h1>
-          {% capture index_content %}{% include index_content_en.md %}{% endcapture %}
-          {{ index_content | markdownify }}
-        </div>
+    <div class="info_section flex-item">
+      <h1 class="info_section__title">Incoming events</h1>
+      <ul id="upcoming-event-list" class="event_list"></ul>
+      <ul id="past-event-list" class="event_list"></ul>
 
-        <div class="info_section">
-          <h1 class="info_section__title">Incoming events</h1>
-          <ul id="event-list" class="event_list">
-          </ul>
-          <ul id="event-list-2" class="event_list">
-          </ul>
-
-          <a href="{{ "/events.html" | absolute_url }}">
-            All events
-          </a>
-        </div>
+      <a href="{{ "/events.html" | absolute_url }}">All events</a>
     </div>
 
-    </div>
+    <!-- SnapWidget -->
+    <script src="https://snapwidget.com/js/snapwidget.js"></script>
+    <iframe src="https://snapwidget.com/embed/477716" class="snapwidget-widget" allowTransparency="true"
+      frameborder="0" scrolling="no" style="border:none; overflow:hidden; width:100%; "></iframe>
+
   </div>
 
 </article>
@@ -69,8 +64,8 @@ permalink: /english/
     upcomingTopN: 5,
     recurringEvents: true,
     itemsTagName: 'li',
-    upcomingSelector: '#event-list',
-    pastSelector: '#event-list-2',
+    upcomingSelector: '#upcoming-event-list',
+    pastSelector: '#past-event-list',
     upcomingHeading: '',
     pastHeading: '',
     format: ['*summary*', '*date*', '*description*'],

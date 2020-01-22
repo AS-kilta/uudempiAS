@@ -3,51 +3,52 @@ layout: page
 ---
 
 <section>
-    {{ content }}
+  {{ content }}
 
-            {% assign committees = site.data[page.data].committees %}
-            {% if committees[0] %}
-                {% for committee in committees %}
-                    <div class="contact_group">
-                        <h2>{{ committee.name }}</h2>
-                        {% for position in committee.positions%}
-                            <div class="contact_group__subgroup">
-                                <h3 class="contact__position_name">{{ position.name }}</h3>
-                                {% if position.name %}
-                                <div class="contact__section contact__section--spacer">
-                                </div>
-                                {% endif %}
-                                <p class="committee_description">{{ position.description }}</p>
-                                <div class="contact-container">
+  {% assign committees = site.data[page.data].committees %}
+  {% if committees[0] %}
+  {% for committee in committees %}
+    <div class="contact_group">
+      <h2>{{ committee.name }}</h2>
+      {% for position in committee.positions%}
+        <div class="contact_group__subgroup">
+          <h3 class="contact__position_name">{{ position.name }}</h3>
+          {% if position.name %}
+            <div class="contact__section contact__section--spacer"></div>
+          {% endif %}
+          <p class="committee_description">{{ position.description }}</p>
+          <div class="contact-container">
 
-                                {% for member in position.members %}
+            {% for member in position.members %}
 
-                                        <div class="contact">
-                                            {% if member.picture %}
-                                                {% assign picture_path = member.picture %}
-                                            {% else %}
-                                                {% assign picture_path = page.placeholder_img %}
-                                            {% endif %}
-                                            <img class="contact__photo" style="max-height:200px; margin: 0 auto;" src="{{ picture_path | absolute_url }}" alt="">
-                                            <h4 class="contact__person_name contact__person_name--generic">{{ member.name }}</h4>
-                                            {% if member.extra_info %}
-                                                <div class="contact__section">
-                                                    <span>{{ member.extra_info }}</span>
-                                                </div>
-                                            {% endif %}
-                                            {% if member.email %}
-                                                <div class="contact__section">
-                                                    {% assign email_tokens = member.email | split: '@' %}
-                                                    <i class="fa fa-envelope" aria-hidden="true"></i> <a href="mailto:{{ email_tokens[0] }}REMOVETHIS@{{ email_tokens[1] }}">{{ email_tokens[0] }}</a><br>
-                                                </div>
-                                            {% endif %}
-                                        </div>
-                                {% endfor %}
+              <div class="contact">
+                {% if member.picture %}
+                  {% assign picture_path = member.picture %}
+                {% else %}
+                  {% assign picture_path = page.placeholder_img %}
+                {% endif %}
+                <img class="contact__photo" style="max-height:200px; margin: 0 auto;"
+                  src="{{ picture_path | absolute_url }}" alt="">
+                <h4 class="contact__person_name contact__person_name--generic">{{ member.name }}</h4>
+                {% if member.extra_info %}
+                  <div class="contact__section">
+                    <span>{{ member.extra_info }}</span>
+                  </div>
+                {% endif %}
+                {% if member.email %}
+                  <div class="contact__section">
+                    {% assign email_tokens = member.email | split: '@' %}
+                    <i class="fa fa-envelope" aria-hidden="true"></i> <a
+                      href="mailto:{{ email_tokens[0] }}REMOVETHIS@{{ email_tokens[1] }}">{{ email_tokens[0] }}</a><br>
+                  </div>
+                {% endif %}
+              </div>
+            {% endfor %}
 
-                                </div>
-                            </div>
-                        {% endfor %}
-                    </div>
-                {% endfor %}
-            {% endif %}
+          </div>
+        </div>
+      {% endfor %}
+    </div>
+  {% endfor %}
+  {% endif %}
 </section>

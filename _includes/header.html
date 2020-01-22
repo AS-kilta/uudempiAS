@@ -1,54 +1,58 @@
 <header class="site-header">
 
-    <div class="header__title">
-      <h1 style="margin-bottom: 0px !important;">
-        <a class="site-title" href="{{ "/" | absolute_url }}"><img src="{{ "/static/aswhite.png" | absolute_url }}" height="40px" style="margin:20px "><span class="mobile_hide">{{ site.title }}</span></a>
-      </h1>
-    </div>
-    <nav class="navigation header__navigation">
-      {% assign url_tokens = page.url | split: '/' %}
-      {% assign main_page_href = '/' | append: url_tokens[1] %}
-      {% assign subpage_href = '/' | append: url_tokens[2] %}
-      <ul>
-        {% if site.data.navi.items[0] %}
-          {% for item in site.data.navi.items %}
-              {% assign item_href = item.href | remove: '.html' %}
-              {% if item_href == main_page_href or item_href == main_page_href | concat: '/' %}
-                {% assign current_page = true %}
-              {% else %}
-                {% assign current_page = false %}
-              {% endif %}
-              {% if item.absolute %}
-                {% assign absolute_href = item.href %}
-              {% else %}
-                {% assign absolute_href = item.href | absolute_url %}
-              {% endif %}
-            <li class="navigation__item {% if current_page %}active{% endif %}">
-              <a href="{{ absolute_href }}">{{ item.title }}</a>
-            </li>
-            {% if current_page and item.subnavi %}
-              {% assign subnavi = item.subnavi %}
-            {% endif %}
-          {% endfor %}
+  <div class="header__title">
+    <h1 class="site-title" style="margin-bottom: 0px !important;">
+      <a href="{{ "/" | absolute_url }}"><img src="{{ "/static/aswhite.png" | absolute_url }}" height="40px" style="margin:20px ">
+          <span class="mobile_hide">{{ site.title }}</span>
+      </a>
+    </h1>
+  </div>
+
+  <nav class="header__navigation">
+    {% assign url_tokens = page.url | split: '/' %}
+    {% assign main_page_href = '/' | append: url_tokens[1] %}
+    {% assign subpage_href = '/' | append: url_tokens[2] %}
+    <ul>
+      {% if site.data.navi.items[0] %}
+        {% for item in site.data.navi.items %}
+          {% assign item_href = item.href | remove: '.html' %}
+          {% if item_href == main_page_href or item_href == main_page_href | concat: '/' %}
+            {% assign current_page = true %}
+          {% else %}
+            {% assign current_page = false %}
+          {% endif %}
+          {% if item.absolute %}
+            {% assign absolute_href = item.href %}
+          {% else %}
+            {% assign absolute_href = item.href | absolute_url %}
+          {% endif %}
+          <li class="navigation__item {% if current_page %}active{% endif %}">
+            <a href="{{ absolute_href }}">{{ item.title }}</a>
+          </li>
+          {% if current_page and item.subnavi %}
+            {% assign subnavi = item.subnavi %}
+          {% endif %}
+        {% endfor %}
+      {% endif %}
+    </ul>
+  </nav>
+
+  {% if subnavi %}
+  <nav class="subheader__navigation">
+    <ul>
+      {% for subitem in subnavi.items %}
+        {% if subitem.absolute %}
+          {% assign absolute_href = subitem.href %}
+        {% else %}
+          {% assign absolute_href = main_page_href | absolute_url | append: subitem.href }} %}
         {% endif %}
-      </ul>
-    </nav>
-    {% if subnavi %}
-      <nav id="navigation_sub" class="navigation subheader__navigation">
-        <ul>
-            {% for subitem in subnavi.items %}
-              {% if subitem.absolute %}
-                {% assign absolute_href = subitem.href %}
-              {% else %}
-                {% assign absolute_href = main_page_href | absolute_url | append: subitem.href }} %}
-              {% endif %}
-              {% assign subitem_href = subitem.href | remove: ".html" %}
-              <li class="navigation__item {% if subitem_href  == subpage_href %}active{% endif %}">
-                <a href="{{ absolute_href }}">{{ subitem.title }}</a>
-              </li>
-            {% endfor %}
-        </ul>
-      </nav>
-    {% endif %}
+        {% assign subitem_href = subitem.href | remove: ".html" %}
+        <li class="navigation__item {% if subitem_href  == subpage_href %}active{% endif %}">
+          <a href="{{ absolute_href }}">{{ subitem.title }}</a>
+        </li>
+      {% endfor %}
+    </ul>
+  </nav>
+  {% endif %}
 
 </header>

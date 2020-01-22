@@ -99,7 +99,7 @@ li {
  */
 h1, h2, h3, h4, h5, h6 {
     font-weight: $base-font-weight;
-    color: $purple-color; 
+    color: $purple-color;
 }
 
 /**
@@ -209,15 +209,4 @@ pre {
             fill: $grey-color;
         }
     }
-}
-
-.flex-container {
-    display: flex;
-    flex-wrap: wrap;
-}
-
-.flex-item {
-    flex: 1;
-    min-width: 265px;
-    margin: 5px;
 }

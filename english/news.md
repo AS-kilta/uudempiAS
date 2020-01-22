@@ -7,8 +7,8 @@ Please do note that even if the title or the description of the post is only in 
 
 {% include functions/archive-navi_en.html %}
 
-<div class="section group">
-  <div class="col span_1_of_2">
+<div class="flex-container">
+  <div class="flex-item">
       <h2>Main news</h2>
       {% assign main_category_posts = site.categories[site.main_category] %}
       {%
@@ -18,7 +18,7 @@ Please do note that even if the title or the description of the post is only in 
       %}
   </div>
 
-  <div class="col span_1_of_2">
+  <div class="flex-item">
       <h2>Other news</h2>
       {%
         include functions/post-list_en.html
