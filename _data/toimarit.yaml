@@ -256,6 +256,8 @@ committees:
             picture: static/toimijat/aebaej_placeholder.png
           - name: Ville Eronen
             picture: static/toimijat/2019/ville_eronen_19.jpg
+          - name: Antti Regelin
+            picture: static/toimijat/2019/antti_regelin_19.jpg
           
       - name: Yrityssuhdeneuvonantaja
         description:
@@ -353,7 +355,7 @@ committees:
             picture: static/toimijat/2019/lassi_ihalainen_19.jpg
           - name: Alex Korpela
             picture: static/toimijat/2019/alex_korpela_19.jpg
-      - name: Stiguhenkilöt
+      - name: Stiguäbäj
         description:
         members:
           - name: Niilo Metsänen
