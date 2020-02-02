@@ -339,6 +339,12 @@ committees:
             picture: static/toimijat/2019/karolina_itainen_19.jpg
           - name: Arttu Rintala
             picture: static/toimijat/2019/arttu_rintala_19.jpg
+          - name: Jenna Kerkkänen
+            picture: static/toimijat/2019/jenna_kerkkanen_19.jpg
+          - name: Leo Talsta
+            picture: static/toimijat/aebaej_placeholder.png
+          - name: Kalle Rantala
+            picture: static/toimijat/aebaej_placeholder.png
       - name: Visuaalinen ilme
         description:
         members:
