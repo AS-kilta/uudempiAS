@@ -35,8 +35,7 @@ permalink: /english/
 
     <!-- SnapWidget -->
     <script src="https://snapwidget.com/js/snapwidget.js"></script>
-    <iframe src="https://snapwidget.com/embed/477716" class="snapwidget-widget" allowTransparency="true"
-      frameborder="0" scrolling="no" style="border:none; overflow:hidden; width:100%; "></iframe>
+    <iframe src="https://snapwidget.com/embed/787765" class="snapwidget-widget" allowtransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden;  width:100%; "></iframe>
 
   </div>
 
