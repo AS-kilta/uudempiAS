@@ -4,7 +4,7 @@ people:
     email: puheenjohtaja@as.fi
     phone: 050 331 4314
     username: niinainen
-    picture: static/toimijat/2019/niina_tapanainen_19.jpg
+    picture: static/toimijat/2020/niina_tapanainen.jpg
     description: "The chairperson leads the guild’s board and represents the guild; they are ultimately responsible for keeping the guild’s activities on track. 
     Contact the Chairman if your matter concerns the guild or if you don’t know whom to contact."
 
@@ -13,7 +13,7 @@ people:
     email: rahastonhoitaja@as.fi
     phone: 040 076 5799
     username: Aakee
-    picture: static/toimijat/2019/akseli_konttas_19.jpg
+    picture: static/toimijat/2020/akseli_konttas.jpg
     description: "The treasurer is responsible for taking care of the guild’s finances, for instance, paying bills and bookkeeping.
     Contact the treasure in the financial matters."
 
@@ -22,7 +22,7 @@ people:
     email: sihteeri@as.fi
     phone: 040 543 6679
     username: Rekkuhoi
-    picture: static/toimijat/2019/antti_regelin_19.jpg
+    picture: static/toimijat/2020/antti_regelin.jpg
     description: "The secretary is responsible for writing the minutes of the board meetings and guild meetings. In addition, they manage the guild’s membership register and look after the archive.
     Contact the Secretary in the matters of the guild’s membership fee."
 
@@ -40,7 +40,7 @@ people:
     email: phuksikapteeni@as.fi
     phone: 050 572 4080
     username: leiskuu
-    picture: static/toimijat/2019/leia_nummisalo_19.jpg
+    picture: static/toimijat/2020/leia_nummisalo.jpg
     description: "The Freshman Captain is responsible for all freshman wellbeing and freshman events. They organize events for freshmen with other guild members, the University and other Freshman Captains. Collaborates closely with the Tutor Coordinator."
 
   - position_name: International Student Captain
@@ -48,7 +48,7 @@ people:
     email: isc@as.fi
     phone: 040 820 6771
     username: Heneez
-    picture: static/toimijat/aebaej_placeholder.png
+    picture: static/toimijat/2020/henri_toivola.jpg
     description: "The International Student Captain is responsible of the international students and the international matters of the guild. They collaborate closely with Freshman Captain. 
     Contact the International Student Captain if you are confused international student or if your matter concerns international affairs. "
 
@@ -57,7 +57,7 @@ people:
     email: ie@as.fi
     phone: 045 132 2458
     username: emmariik
-    picture: static/toimijat/2019/emma_riikonen_19.jpg
+    picture: static/toimijat/2020/emma_riikonen.jpg
     description: "The Host arranges various events together with the hostess for the guild members. Together with Hostess they lead the Entertainment Committee and work towards even better events.
     Contact the Host or the Hostess if your matter concerns a guild event."
 
@@ -66,7 +66,7 @@ people:
     email: ie@as.fi
     phone: 050 414 5670
     username: Hulina
-    picture: static/toimijat/2019/helena_kaisanlahti_19.jpg
+    picture: static/toimijat/2020/helena_kaisanlahti.jpg
     description: "The Hostess arranges various events together with the hostess for the guild members. Together with Host they lead the Entertainment Committee and work towards even better events. 
     Contact the Hostess or the Host if your matter concerns a guild event."
 
@@ -75,7 +75,7 @@ people:
     email: opintomestari@as.fi
     phone: 050 550 1071
     username: tosiISOpomo
-    picture: static/toimijat/2019/emil_huttunen_19.jpg
+    picture: static/toimijat/2020/emil_huttunen.jpg
     description: "The Master of Studies maintains communications between the guild and the university. They also work as the contact person for the guild’s trustees and represent students in the meetings of the university’s governing body.
     Contact the Master of Studies if your matter has to do with your studies or school in general."
 
@@ -84,7 +84,7 @@ people:
     email: yrityssuhdevastaava@as.fi
     phone: 045 232 6632
     username: M4tuV
-    picture: static/toimijat/aebaej_placeholder.png
+    picture: static/toimijat/2020/matias_vapola.jpg
     description: "The Head of Corporate Relations leads the corporate relations committee. They advance the reputation and credit of the guild among the corporations by collaborating with them. They also organize excursions, events and sponsorships. 
     Contact the Head of Corporate Relations if your matter concerns corporate relations."
 
@@ -93,6 +93,6 @@ people:
     email: kulttuurimestari@as.fi
     phone: 045 691 6550
     username: Kulttuurimestari
-    picture: static/toimijat/2019/sakari_ropponen_19.jpg
+    picture: static/toimijat/2020/sakari_ropponen.jpg
     description: "The Master of Culture maintains the external relations with student organisations across Finland and builds new ones. They lead the Culture and Sports Committee, organise various happenings, cultural excursions and events to test different sports.
     Contact the Master of Culture if your matter concerns culture in any way."
