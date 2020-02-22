@@ -178,7 +178,7 @@ committees:
           - name: Arttu Rintala
             picture: static/toimijat/2019/arttu_rintala_19.jpg
           - name: Noora Salminen
-            picture: static/toimijat/2019/noora_salminen_19.JPG
+            picture: static/toimijat/2019/noora_salminen_19.jpg
 
   - name: Lukkaritoimikunta
     description:
@@ -379,7 +379,7 @@ committees:
           - name: Emma Riikonen
             picture: static/toimijat/2019/emma_riikonen_19.jpg
           - name: Noora Salminen
-            picture: static/toimijat/2019/noora_salminen_19.JPG
+            picture: static/toimijat/2019/noora_salminen_19.jpg
           - name: Vesta Kulomaa
             picture: static/toimijat/2019/vesta_kulomaa_19.jpg
 
