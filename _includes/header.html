@@ -8,6 +8,7 @@
     </h1>
   </div>
 
+  {% assign subnavi = false %}
   <nav class="header__navigation">
     {% assign url_tokens = page.url | split: '/' %}
     {% assign main_page_href = '/' | append: url_tokens[1] %}
