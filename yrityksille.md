@@ -28,7 +28,7 @@ Koko kiltatoiminta on monen pienen osan summa. Ylläpidämme yliopiston tiloissa
 
 Yritysyhteistyöstä vastaa meidän päässämme yrityssuhdetoimikunta, jota koordinoi yrityssuhdevastaava.
 
-![Yrityssuhdevastaava]({{ "/static/toimijat/aebaej_placeholder.png" | absolute_url }} "Yrityssuhdevastaava"){:height="150px" width="150px" style="border-radius:50%;"}
+![Yrityssuhdevastaava]({{ "/static/toimijat/2020/matias_vapola.jpg" | absolute_url }} "Yrityssuhdevastaava"){:height="150px" width="150px" style="border-radius:50%;"}
 
 Matias Vapola<br>
 Yrityssuhdevastaava<br>
