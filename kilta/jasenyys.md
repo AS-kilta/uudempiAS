@@ -4,7 +4,7 @@ title: Jäsenyys
 ---
 Killan varsinaiseksi jäseneksi voidaan hyväksyä kaikki AYY:n jäsenistöön kuuluvat henkilöt. Killan jäsenenä saat äänioikeuden kiltakokouksissa, oikeuden osallistua killan tapahtumiin ja käyttää kiltahuonetta sekä pääsyn killan sähköpostilistoille. Jäseneksi pääset alla olevia ohjeita noudattamalla Lisätietoa killan jäsenyydestä löytyy killan säännöistä luvusta 2.
 
-## Phuksi/Uusi opiskelija 
+## Fuksi/Uusi opiskelija 
 
 Uusien automaatio- ja informaatioteknologian koulutusohjelman opiskelijoiden ei tarvitse erikseen hakea killan jäsenyyttä, riittää kun maksaa jäsenmaksun. AS-killan jäsenmaksun maksat helpoiten AYY:n lukukausi-ilmoittautumisen yhteydessä. Jos et maksanut jäsenmaksua lukuvuosi-ilmottautumisen yhteydessä, voit suorittaa jäsenmaksun a.o. ohjeiden mukaisesti.
 
