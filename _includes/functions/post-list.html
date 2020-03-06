@@ -9,7 +9,7 @@
           {{ post.date | date: "%d.%m.%Y" }}
         </time>
         <p class="post_list__excerpt">
-          {{ post.excerpt | strip_html | truncate: 90 }}
+          {{ post.excerpt | strip_html | truncate: 150 }}
           <a href="{{ post.url | absolute_url }}">Lue lisää</a>
         </p>
         {% if include.category_links %}

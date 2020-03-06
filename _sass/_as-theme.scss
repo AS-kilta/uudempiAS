@@ -96,11 +96,6 @@ body {
     padding: $spacing-unit/3 0;
   }
 
-  .navigation__item {
-    display: inline-block;
-    padding: 3.5px 10px;
-    font-size: 1.0em;
-  }
   a, a:visited {
     text-decoration: none;
     color: #ddd;
@@ -126,12 +121,6 @@ body {
       margin-bottom: 5px;
   }
 
-  .navigation__item {
-      display: inline-block;
-      padding: 3.5px 10px;
-      font-size: 1.0em;
-  }
-
   a {
       text-decoration: none;
       color: #ddd;
@@ -141,6 +130,13 @@ body {
       text-decoration: none;
       color: #fff;
   }
+}
+
+.navigation__item {
+  display: inline-block;
+  padding: 3.5px 10px;
+  font-weight: 900;
+  letter-spacing: 1px;
 }
 
 .navigation__item.active {

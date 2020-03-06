@@ -1,4 +1,4 @@
-$info_item_separation: 1em;
+$info_item_separation: 2em;
 
 .info_section {
     margin-bottom: 1.5em;
@@ -14,21 +14,29 @@ $info_item_separation: 1em;
     @include bulletless-ul();
     time {
         font-size: 0.8em;
+        color: #888;
+        font-weight: bold;
     }
 }
 
 .post_list__title {
     margin-bottom: 0;
     line-height: 1.1;
+    font-weight: 700;
 }
 
 .post_list__element {
     margin-bottom: $info_item_separation;
+
+    &:last-child {
+        margin-bottom: 0px;
+    }
 }
 
 .post_list__excerpt {
     margin-bottom: 0;
-    line-height: 1.3em;
+    line-height: 1.5em;
+    font-size: 14px;
 }
 
 .post_list__categories {
@@ -43,6 +51,13 @@ $info_item_separation: 1em;
 
 .event_list {
     @include bulletless-ul();
+
+    li {
+        margin-bottom: $info_item_separation;
+        &::last-child .description {
+            margin-bottom: 0px;
+        }
+    }
 }
 
 .event_list__row {
@@ -54,9 +69,11 @@ $info_item_separation: 1em;
     @extend h4;
     @extend .event_list__row;
     margin-bottom: 0;
+    font-weight: bold;
+    margin-bottom: 0;
+    line-height: 1.1;
 }
 
 .event_list .description {
     @extend .event_list__row;
-    margin-bottom: $info_item_separation;
 }
