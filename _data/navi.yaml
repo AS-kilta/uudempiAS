@@ -8,10 +8,10 @@ items:
           href: https://forum.as.fi/
           absolute: true
         - title: Tapahtumailmot
-          href: http://as.ayy.fi/ilmo/
+          href: https://ilmo.as.fi/
           absolute: true
         - title: Galleria
-          href: http://as.ayy.fi/gallery/
+          href: https://gallery.as.fi/
           absolute: true
   - title: Uutiset
     href: /uutiset

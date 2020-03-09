@@ -4,7 +4,7 @@ title: Tapahtumat
 ---
 Kilta järjestää jäsenilleen monenlaista tapahtumaa ja ohjelmaa. Sitsejä, saunailtoja, lautapelailua ja vaikka mitä muuta. Tapahtumissa pääsee nauttimaan ihanasta aASi-seurasta ja joskus törmää myös muihin opiskelijoihin kuten ELECavereihin ja teologeihin.
 
-Tapahtumista tiedotetaan viikkotiedotteissa sekä killan kalenterissa. Jotkut tapahtumat ovat avoimia ja toisiin liitytään ilmoittautumalla [AS:n ilmomasiinan kautta](http://as.fi/ilmo/).
+Tapahtumista tiedotetaan viikkotiedotteissa sekä killan kalenterissa. Jotkut tapahtumat ovat avoimia ja toisiin liitytään ilmoittautumalla [AS:n ilmomasiinan kautta](https://ilmo.as.fi/).
 
 ## Tapahtumakalenteri
 
