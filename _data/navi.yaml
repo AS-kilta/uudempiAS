@@ -13,8 +13,8 @@ items:
         - title: Galleria
           href: https://gallery.as.fi/
           absolute: true
-  - title: Uutiset
-    href: /uutiset
+  # - title: Uutiset
+  #   href: /uutiset
   - title: Kilta
     href: /kilta
     subnavi:
@@ -87,4 +87,3 @@ items:
           href: /official.html
         #- title: Officials 2019
           #href: /election.html
-      
