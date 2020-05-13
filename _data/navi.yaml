@@ -26,6 +26,8 @@ items:
           href: /toimihenkilot.html
         - title: Viestintä
           href: /viestinta.html
+        - title: Tapahtumat
+          href: /tapahtumat.html
         - title: Jäsenyys
           href: /jasenyys.html
         - title: Virallisuudet
@@ -58,8 +60,6 @@ items:
           href: /teekkarilakki.html
         - title: Pistekortin ohjeet
           href: /pistekortti.html
-  - title: Tapahtumat
-    href: /tapahtumat.html
   - title: Yrityksille
     href: /yrityksille.html
   - title: Yhteystiedot
