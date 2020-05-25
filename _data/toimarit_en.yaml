@@ -303,6 +303,10 @@ committees:
             picture: static/toimijat/aebaej_placeholder.png
           - name: Marcell Berta
             picture: static/toimijat/2020/marcell_berta.jpg
+          - name: Antti Regelin
+            picture: static/toimijat/2020/antti_regelin.jpg
+          - name: Veera Ihalainen
+            picture: static/toimijat/2020/veera_ihalainen.jpg
 
   - name: Stimulaatio Committee
     description:
