@@ -2,6 +2,8 @@
 layout: page
 title: Virallisuudet
 ---
+* [Pöytäkirjat](https://drive.google.com/drive/folders/1ggK-LWjm4-FSW_4yNRBhzp7lJZ9Uyga9?usp=sharing)
+
 * [Säännöt](https://as.fi/kilta/saannot.html)
 * [Rekisteriseloste](https://as.fi/kilta/rekisteriseloste.html)
 * [Tietosuojaseloste: Jäsenrekisteri](https://as.fi/kilta/tietosuojaseloste_jasen.html)
@@ -14,13 +16,14 @@ title: Virallisuudet
 * [Kunnianosoitukset](http://as.fi/kilta/kunnianosoitukset.html)
 
 * [Laskupohja (PDF)](https://as.fi/static/virallisuudet/laskupohja_2016.pdf)
-* [Laskupohja (DOC)](https://as.fi/static/virallisuudet/laskupohja_2016.doc) 
+* [Laskupohja (DOC)](https://as.fi/static/virallisuudet/laskupohja_2016.doc)
+* [Laskupohja (online)](https://forms.gle/T4SoJEFYA9UiKBNG6)
 * [Esimerkkilasku](https://as.fi/static/virallisuudet/esimerkkilasku.pdf)
  
 * [Toimintasuunnitelma 2018](https://as.fi/static/virallisuudet/Toimintasuunnitelma_2018.pdf)
 * [Talousarvio 2019](https://as.fi/static/virallisuudet/Talousarvio_2019.xlsx)
 
-* Killan Logo:
+* Killan logo:
     - [CDR-muodossa](https://as.fi/static/virallisuudet/as_plain_BW.cdr)
     - [PS-muodossa](https://as.fi/static/virallisuudet/as_plain_BW.eps)
     - [JPG-muodossa](https://as.fi/static/virallisuudet/as_plain_BW_150.jpg)

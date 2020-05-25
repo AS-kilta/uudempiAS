@@ -5,6 +5,8 @@ title: Official things
 
 Some files are being translated or otherwise worked on and will not be available.
 
+* [Minutes of Board Meetings](https://drive.google.com/drive/folders/1ggK-LWjm4-FSW_4yNRBhzp7lJZ9Uyga9?usp=sharing)
+
 * [Rules](https://as.fi/kilta/rules.html)
 * [Privacy policy](http://old.as.fi/kilta/virallisuudet/rekisteriseloste/)
 * [Privacy policy: Membership registry](https://as.fi/kilta/tietosuojaseloste_jasen.html)
@@ -18,7 +20,8 @@ Some files are being translated or otherwise worked on and will not be available
 * [Standing orders: Crisis](https://as.fi/static/virallisuudet/kriisiohje.pdf)
 
 * [Invoice template (PDF)](https://as.fi/static/virallisuudet/laskupohja_2016.pdf)
-* [Invoice template (DOC)](https://as.fi/static/virallisuudet/laskupohja_2016.doc) 
+* [Invoice template (DOC)](https://as.fi/static/virallisuudet/laskupohja_2016.doc)
+* [Invoice template (online)](https://forms.gle/T4SoJEFYA9UiKBNG6)
 * [Invoice example](https://as.fi/static/virallisuudet/esimerkkilasku.pdf)
 
 * Guilds logo:
