@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Lippuohjesääntö"
+title: "Haalariohjesääntö"
 ---
 ### Automaatio- ja systeemitekniikan killan haalariohjesääntö
 
