@@ -3,20 +3,16 @@ layout: page
 permalink: /phuksit/
 title: Uudet opiskelijat
 ---
-Hei uusi phuksi ja tervetuloa Automaatio- ja systeemitekniikan kiltaan! Näille sivuille on pyritty kokoamaan kaikkea materiaalia, josta on apua opintojesi alussa ja ehkäpä jopa koko ensimmäisen vuoden ajan.
+Hei uusi fuksi ja tervetuloa Automaatio- ja systeemitekniikan kiltaan! Näille sivuille on pyritty kokoamaan kaikkea materiaalia, josta on apua opintojesi alussa ja ehkäpä jopa koko ensimmäisen vuoden ajan.
 
-Hyödyllistä tietoa ja vinkkejä koulun alkuun löytyy killan **[phuksioppaasta](https://drive.google.com/file/d/1-0mReci7KNfNV5NMf4BQhlzfxC5_M56f/view?usp=drivesdk)**.
+## Fuksikapteeni
+Fuksikapteeni on se tyyppi johon otat yhteyttä kun ihan mikä tahansa on huonosti tai muuten vaan :)
 
-Jos tietoa ei löydy täältä, kysy tarkempaa tietoa Phuksikapteeniltasi. 
+![Fuksikapteeni]({{ "/static/toimijat/2020/leia_nummisalo.jpg" | absolute_url }} "Fuksikapteeni"){:height="200px" width="200px" style="border-radius:50%;"}
 
-## Phuksikapteeni
-Phuksikapteeni on se tyyppi johon otat yhteyttä kun ihan mikä tahansa on huonosti tai muuten vaan :)
-
-![Phuksikapteeni]({{ "/static/lassi.jpg" | absolute_url }} "Phuksikapteeni"){:height="200px" width="200px" style="border-radius:50%;"}
-
-Lassi Ihalainen<br>
-[phuksikapteeni](mailto:phuksikapteeni@POISTAas.fi)<br>
-[050 494 9522](tel://050 494 9522)<br>
+Leia Nummisalo<br>
+[phuksikapteeni](mailto:fuksikapteeni@POISTAas.fi)<br>
+[050 572 4080](tel://050 572 4080)<br>
 [Telegram: @phuksikapteeni](https://telegram.me/phuksikapteeni)
 
 Koski asia sitten pientä juttua tai jotakin isompaa huolta, vastaa Phuksikapteeni parhaansa mukaan vaikka keskellä yötä. (Suositellaan kuitenkin yhteydenottoa päivisin.)
@@ -31,20 +27,8 @@ Koski asia sitten pientä juttua tai jotakin isompaa huolta, vastaa Phuksikaptee
 * Hanki [matkakortti](https://www.hsl.fi/liput-ja-hinnat/matkakortti)
 <br><br>
 
-## VarASlähtö
-
-Pääset tutustumaan killan jäsenistöön ja tuleviin phuksitovereihisi ennakkoon saapumalla Otaniemen ostarille yhteislähtöön lauantaina 31.8.2019! Mukaan tarvitset En Tule Yöksi Kotiin (ETYK) -varustuksen sekä positiivisen mielen!
-
-Yhteislähtö tapahtumaan lähtee Otaniemen ostoskeskukselta (Otakaari 11) kello 14:00. Autoilijoita tarvitaan kyyditsijöiksi, kaikki apu on tervetullutta. Jos aiot tulla kuskiksi, ota Phuksikapteeniisi yhteyttä jo etukäteen.
-
-Tapahtuma on ollut joka vuosi huikea niin uusille kuin vanhoille opiskelijoille, toivottavasti sinäkin tulet tänä vuonna mukaan! Facebook-tapahtuman löydät [tästä](https://www.facebook.com/events/297075537861924/?ti=cl).
-
-Ilmoittaudu suoraan Phuksikapteenille. Kerro viestissäsi ainakin nimesi ja allergiasi. Lisäksi mainitse, että saisitko auton käyttöösi kuljetusta varten.
-
-
-### [Phuksiopas](https://drive.google.com/file/d/1-0mReci7KNfNV5NMf4BQhlzfxC5_M56f/view?usp=drivesdk)
 <br>
-Phuksioppaasta löytyy hyödyllistä tietoa killasta ja ensimmäisen vuoden opinnoista :) 
+Fuksioppaasta löytyy hyödyllistä tietoa killasta ja ensimmäisen vuoden opinnoista :) Uusi fuksiopas julkaistaan pian!
 <br>
 
 <style>
@@ -63,9 +47,10 @@ Phuksioppaasta löytyy hyödyllistä tietoa killasta ja ensimmäisen vuoden opin
         border: 0;
     }
 </style>
-
+<!--
 <div id="phopas_wrapper">
     <iframe id="phopas_frame" src="https://drive.google.com/file/d/1-0mReci7KNfNV5NMf4BQhlzfxC5_M56f/preview"></iframe>
 </div>
 <br>
 [Lataa pdf](https://drive.google.com/uc?export=download&id=1-0mReci7KNfNV5NMf4BQhlzfxC5_M56f)
+-->
