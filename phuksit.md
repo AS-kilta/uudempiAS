@@ -11,7 +11,7 @@ Fuksikapteeni on se tyyppi johon otat yhteyttä kun ihan mikä tahansa on huonos
 ![Fuksikapteeni]({{ "/static/toimijat/2020/leia_nummisalo.jpg" | absolute_url }} "Fuksikapteeni"){:height="200px" width="200px" style="border-radius:50%;"}
 
 Leia Nummisalo<br>
-[phuksikapteeni](mailto:fuksikapteeni@POISTAas.fi)<br>
+[phuksikapteeni](mailto:phuksikapteeni@POISTAas.fi)<br>
 [050 572 4080](tel://050 572 4080)<br>
 [Telegram: @phuksikapteeni](https://telegram.me/phuksikapteeni)
 
