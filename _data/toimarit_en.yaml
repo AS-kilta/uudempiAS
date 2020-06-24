@@ -308,6 +308,15 @@ committees:
           - name: Veera Ihalainen
             picture: static/toimijat/2020/veera_ihalainen.jpg
 
+  - name: Technology Committee
+    description:
+    positions:
+      - name: Head of Technology
+        description:
+        members:
+          - name: Severi Casserly
+            picture: static/toimijat/2020/severi_casserly.jpg
+
   - name: Stimulaatio Committee
     description:
     positions:
