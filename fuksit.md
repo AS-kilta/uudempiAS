@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /phuksit/
-title: Uudet opiskelijat
+permalink: /fuksit/
+title: Fukseille
 ---
 Hei uusi fuksi ja tervetuloa Automaatio- ja systeemitekniikan kiltaan! Näille sivuille on pyritty kokoamaan kaikkea materiaalia, josta on apua opintojesi alussa ja ehkäpä jopa koko ensimmäisen vuoden ajan.
 
@@ -28,7 +28,7 @@ Koski asia sitten pientä juttua tai jotakin isompaa huolta, vastaa Phuksikaptee
 <br><br>
 
 <br>
-Fuksioppaasta löytyy hyödyllistä tietoa killasta ja ensimmäisen vuoden opinnoista :) Uusi fuksiopas julkaistaan pian!
+Fuksioppaasta löytyy hyödyllistä tietoa killasta ja ensimmäisen vuoden opinnoista :)
 <br>
 
 <style>
@@ -47,10 +47,10 @@ Fuksioppaasta löytyy hyödyllistä tietoa killasta ja ensimmäisen vuoden opinn
         border: 0;
     }
 </style>
-<!--
+
 <div id="phopas_wrapper">
-    <iframe id="phopas_frame" src="https://drive.google.com/file/d/1-0mReci7KNfNV5NMf4BQhlzfxC5_M56f/preview"></iframe>
+    <iframe id="phopas_frame" src="https://drive.google.com/file/d/1eHPx-fq2I4LxhvNVT_MgSIED3Y_vn27q/preview"></iframe>
 </div>
 <br>
-[Lataa pdf](https://drive.google.com/uc?export=download&id=1-0mReci7KNfNV5NMf4BQhlzfxC5_M56f)
--->
+[Lataa pdf](https://drive.google.com/uc?export=download&id=1eHPx-fq2I4LxhvNVT_MgSIED3Y_vn27q)
+

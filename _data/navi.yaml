@@ -44,8 +44,8 @@ items:
         #  href: /saatokerho.html
   - title: Opiskelu
     href: /opiskelu.html
-  - title: Uudet opiskelijat
-    href: /phuksit
+  - title: Fukseille
+    href: /fuksit
     subnavi:
       items:
         - title: VarASlähtö
@@ -58,8 +58,8 @@ items:
           href: /haalarit.html
         - title: Teekkarilakki
           href: /teekkarilakki.html
-        - title: Pistekortin ohjeet
-          href: /pistekortti.html
+        #- title: Pistekortin ohjeet
+        #  href: /pistekortti.html
   - title: Yrityksille
     href: /yrityksille.html
   - title: Yhteystiedot

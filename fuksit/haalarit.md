@@ -13,11 +13,11 @@ Uudet phuksit saavat AS:n kauniin violetit haalarit Haalarigaalassa, joka järje
 
 ## Tilaaminen
 
-Vuosimallin 2019 haalareita voi tilata Ekana päivänä (ma 2.9.). Lisätilaukset tulevat kalliiksi, joten jos aiot tilata, se kannattaa tehdä heti! 
+Vuosimallin 2020 haalareita voi tilata orientaatioviikon ensimmäisenä päivänä (ma 31.8.). Lisätilaukset tulevat kalliiksi, joten jos aiot tilata, se kannattaa tehdä heti!
 
-Tilaus on sitova. 
+Tilaus on sitova.
 
-Haalareiden arvo on noin 60e, mutta kilta tukee phuksien haalaritilauksia siten, että phukseille ensimmäiset haalarit maksavat noin 20e. Maksat haalarit sitten, kun saat ne. Muista hankkia hieno vyö itse. 
+Haalareiden arvo on noin 60 €, mutta kilta tukee phuksien haalaritilauksia siten, että fukseille ensimmäiset haalarit maksavat noin 25 €. Maksat haalarit sitten, kun saat ne. Muista hankkia hieno vyö itse.
 
 ## Mouh!
 
