@@ -49,8 +49,8 @@ Fuksioppaasta löytyy hyödyllistä tietoa killasta ja ensimmäisen vuoden opinn
 </style>
 
 <div id="phopas_wrapper">
-    <iframe id="phopas_frame" src="https://drive.google.com/file/d/1eHPx-fq2I4LxhvNVT_MgSIED3Y_vn27q/preview"></iframe>
+    <iframe id="phopas_frame" src="https://drive.google.com/file/d/180S_Kluc1J54A6RhfoZkfj-T7j4pduml/preview"></iframe>
 </div>
 <br>
-[Lataa pdf](https://drive.google.com/uc?export=download&id=1eHPx-fq2I4LxhvNVT_MgSIED3Y_vn27q)
+[Lataa pdf](https://drive.google.com/uc?export=download&id=180S_Kluc1J54A6RhfoZkfj-T7j4pduml)
 
