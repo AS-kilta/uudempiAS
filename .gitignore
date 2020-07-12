@@ -6,3 +6,4 @@ vendor
 _site
 *.sw[pon]
 **/.DS_Store
+*.temp

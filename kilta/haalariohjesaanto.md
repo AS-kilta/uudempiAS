@@ -6,7 +6,7 @@ title: "Haalariohjesääntö"
 
 **1§ Ulkomuoto**
 
-Automaatio- ja systeemitekniikan killan haalarin tulee olla violetti mustalla vasemmalla hihalla, jossa on valkoinen tasku. Violetin värikoodina käytetään L: 30 a*: 21 b*: -35 tai lähintä mahdollista. Haalareiden selässä on Automaatio- ja systeemitekniikan killan logo, jota ympäröi yläpuolella teksti "Automaatio- ja systeemitekniikan kilta" ja alapuolella "Aalto-yliopisto" sekä tämän yläpuolelle teksti “AIVAN SAMA” Comic Sans MS-fontilla. Vasempaan rintataskuun tai vasemman hihan taskuun ei paineta mainosta.
+Automaatio- ja systeemitekniikan killan haalarin tulee olla violetti mustalla vasemmalla hihalla, jossa on valkoinen tasku. Violetin värikoodina käytetään L: 30 a: 21 b: -35 tai lähintä mahdollista. Haalareiden selässä on Automaatio- ja systeemitekniikan killan logo, jota ympäröi yläpuolella teksti "Automaatio- ja systeemitekniikan kilta" ja alapuolella "Aalto-yliopisto" sekä tämän yläpuolelle teksti “AIVAN SAMA” Comic Sans MS-fontilla. Vasempaan rintataskuun tai vasemman hihan taskuun ei paineta mainosta.
 
 **2§ Muutokset haalareihin**
 
@@ -19,3 +19,7 @@ Haalaria tai sen osaa toisessa haalarissa käyttävä henkilö edustaa Automaati
 **4§**
 
 Niistä asioista, joista säännöissä ei ole määrätty, päättää killan hallitus.
+
+---
+<br>
+Tämä merkkiohjesääntö on vahvistettu Automaatio- ja systeemitekniikan kilta ry:n kokouksessa 19.10.2016 ja se on tullut voimaan välittömästi.
