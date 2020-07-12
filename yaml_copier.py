@@ -106,9 +106,11 @@ def handle_file(destinatio=src_path, mode='r', data_write=None):
 
 
 def main():
-    if not os.path.isfile(src_path) or not os.path.isfile(dst_path):
-        print("Invalid file paths or names.")
+    if not os.path.isfile(src_path):
+        print("Invalid path for source file. Check that _data/toimarit.yaml exists.")
         sys.exit(1)
+    if not os.path.isfile(dst_path):
+        print("Destination file does not exist, creating a new file.")
 
     #sort_officials()
 
