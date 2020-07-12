@@ -95,8 +95,10 @@ def handle_file(destinatio=src_path, mode='r', data_write=None):
                     data = f.readlines()
                 else:
                     f.writelines(data_write)
-
+        if os.path.exists(destinatio + '.lock'):
+            os.remove(destinatio + '.lock')
         print('Releasing file: ' + destinatio)
+
     except (OSError, IOError) as error:
         print(error)
 
