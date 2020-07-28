@@ -15,7 +15,7 @@ Leia Nummisalo<br>
 [050 572 4080](tel://050 572 4080)<br>
 [Telegram: @phuksikapteeni](https://telegram.me/phuksikapteeni)
 
-Koski asia sitten pientä juttua tai jotakin isompaa huolta, vastaa Phuksikapteeni parhaansa mukaan vaikka keskellä yötä. (Suositellaan kuitenkin yhteydenottoa päivisin.)
+Koski asia sitten pientä juttua tai jotakin isompaa huolta, vastaa Fuksikapteeni parhaansa mukaan vaikka keskellä yötä. (Suositellaan kuitenkin yhteydenottoa päivisin.)
 
 ## Mitä tehdä ennen koulun alkua -muistilista
 

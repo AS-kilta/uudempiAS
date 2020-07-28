@@ -10,4 +10,4 @@ Lakinkäytölle on lakin arvon mukaiset säännöt. Tupsulakki on kesälakki, jo
 
 ## Oikeus lakin käyttöön
 
-Teekkarilakkia ei kuka tahansa saa käyttää – se on ansaittava. Jokainen ensimmäisenä vuotenaan kunnostautunut phuksi saa painaa lakin päähänsä mahdollisesti järjestettävänä Wappuna täsmälleen keskiyöllä. Syksyllä taas lakki lasketaan olalle yksissä vuoden suurimmissa bileissä, Lakinlaskijaisissa.
+Teekkarilakkia ei kuka tahansa saa käyttää – se on ansaittava. Jokainen ensimmäisenä vuotenaan kunnostautunut fuksi saa painaa lakin päähänsä mahdollisesti järjestettävänä Wappuna täsmälleen keskiyöllä. Syksyllä taas lakki lasketaan olalle yksissä vuoden suurimmissa bileissä, Lakinlaskijaisissa.

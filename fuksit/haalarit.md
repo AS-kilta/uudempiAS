@@ -2,14 +2,14 @@
 layout: page
 title: Haalarit
 ---
-Haalarit ovat asuste, josta teekkarin tunnistaa. Haalareita käytetään monissa tilaisuuksissa, joissa liikutaan julkisilla paikoilla teekkareina. Jokaisella killalla on omanvärisensä haalarit. Ne ovat toisin sanoen teekkarin univormu. Haalarit on luotu kovaan käyttöön ja etenkin wapun tienoilla ne ovat lähes välttämätön varuste jokaiselle teekkarille ja phuksille.
+Haalarit ovat asuste, josta teekkarin tunnistaa. Haalareita käytetään monissa tilaisuuksissa, joissa liikutaan julkisilla paikoilla teekkareina. Jokaisella killalla on omanvärisensä haalarit. Ne ovat toisin sanoen teekkarin univormu. Haalarit on luotu kovaan käyttöön ja etenkin wapun tienoilla ne ovat lähes välttämätön varuste jokaiselle teekkarille ja fuksille.
 Haalareiden parissa on muutenkin hauska puuhastella vapaa-aikana, esimerkiksi ompelemalla niihin muiden kanssa vaihdeltuja merkkejä tai haalareiden osia. Haalarit luovat yhteenkuuluvuutta ja herättävät huomiota. Muista kuitenkin, että haalareissa edustat kaikkia teekkareita ja teekkariutta, joten käytöksesi tulee myös olla sen mukaista.
 
 Automaatio- ja systeemitekniikan opiskelijoilla on violetit haalarit, joissa on musta hiha. Kun AS-ohjelmaa perustettiin tietotekniikan alle, ensimmäiset aASit hankkivat Tietokillan mustiin haalareihin violetit hihat erottuakseen omana joukkonaan. Seuraavana vuonna, kun aASit perustivat oman kiltansa, päätettiin ottaa killalle violetit haalarit mustalla hihalla muistoksi juuristamme Tietokillassa.
 
 Muista, että haalareita ei saa pestä! Jokainen tahra ja naarmu kertoo kokemuksista.
 
-Uudet phuksit saavat AS:n kauniin violetit haalarit Haalarigaalassa, joka järjestetään syyskuun lopulla. 
+Uudet fuksit saavat AS:n kauniin violetit haalarit Haalarigaalassa, joka järjestetään syyskuun lopulla. 
 
 ## Tilaaminen
 
@@ -17,7 +17,7 @@ Vuosimallin 2020 haalareita voi tilata orientaatioviikon ensimmäisenä päivän
 
 Tilaus on sitova.
 
-Haalareiden arvo on noin 60 €, mutta kilta tukee phuksien haalaritilauksia siten, että fukseille ensimmäiset haalarit maksavat noin 25 €. Maksat haalarit sitten, kun saat ne. Muista hankkia hieno vyö itse.
+Haalareiden arvo on noin 60 €, mutta kilta tukee fuksien haalaritilauksia siten, että fukseille ensimmäiset haalarit maksavat noin 25 €. Maksat haalarit sitten, kun saat ne. Muista hankkia hieno vyö itse.
 
 ## Mouh!
 
