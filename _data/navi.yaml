@@ -48,18 +48,10 @@ items:
     href: /fuksit
     subnavi:
       items:
-        - title: VarASlähtö
-          href: /varaslahto.html
-        - title: Eka päivä
-          href: /ekapaiva.html
-        - title: Hyödyllisiä yhteystietoja / linkkejä
-          href: /yhteystietojalinkkeja.html
-        - title: Haalarit
-          href: /haalarit.html
-        - title: Teekkarilakki
-          href: /teekkarilakki.html
-        #- title: Pistekortin ohjeet
-        #  href: /pistekortti.html
+        - title: Opintojen aloitus
+          href: /
+        - title: Teekkarius
+          href: /teekkarius.html
   - title: Yrityksille
     href: /yrityksille.html
   - title: Yhteystiedot
