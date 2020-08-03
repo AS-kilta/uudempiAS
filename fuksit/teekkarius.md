@@ -11,13 +11,13 @@ Haalarit on luotu kovaan käyttöön ja etenkin wapun tienoilla ne ovat lähes v
 
 Haalarit luovat yhteenkuuluvuutta ja herättävät huomiota. Muista kuitenkin, että haalareissa edustat kaikkia teekkareita ja teekkariutta, joten käytöksesi tulee myös olla sen mukaista. Automaatio- ja systeemitekniikan opiskelijoilla on violetit haalarit, joissa on musta hiha. Kun AS-ohjelmaa perustettiin tietotekniikan alle, ensimmäiset aASit hankkivat Tietokillan mustiin haalareihin violetit hihat erottuakseen omana joukkonaan. Seuraavana vuonna, kun aASit perustivat oman kiltansa, päätettiin ottaa killalle violetit haalarit mustalla hihalla muistoksi juuristamme Tietokillassa.
 
-Muista, että haalareita ei saa pestä! Jokainen tahra ja naarmu kertoo kokemuksista. Uudet phuksit saavat AS:n kauniin violetit haalarit Haalarigaalassa, joka järjestetään syyskuun lopulla.
+Muista, että haalareita ei saa pestä! Jokainen tahra ja naarmu kertoo kokemuksista. Uudet fuksit saavat AS:n kauniin violetit haalarit Haalarigaalassa, joka järjestetään syyskuun lopulla.
 
 ### Tilaaminen
 
 Vuosimallin 2020 haalareita voi tilata orientaatioviikon ensimmäienä päivänä (31.8.). Lisätilaukset tulevat kalliiksi, joten jos aiot tilata, se kannattaa tehdä heti! Tilaus on sitova.
 
-Haalareiden arvo on noin 60 €, mutta kilta tukee phuksien haalaritilauksia siten, että phukseille ensimmäiset haalarit maksavat noin 25 €. Maksat haalarit sitten, kun saat ne. Muista hankkia hieno vyö itse. 
+Haalareiden arvo on noin 60 €, mutta kilta tukee fuksien haalaritilauksia siten, että fukseille ensimmäiset haalarit maksavat noin 25 €. Maksat haalarit sitten, kun saat ne. Muista hankkia hieno vyö itse. 
 
 Jos havaitset haalareissa jotain vikaa tai valitettavaa, niin ilmoitathan asiasta heti. Valmistusvirheistä johtuvat viat korjataan kyllä. Kaikki osat, kuten napit ja vetoketju, eivät välttämättä kestä kovaa menoa, mutta ne on sangen helppo korjailla itse. Kysy vinkkejä vanhemmilta killisteiltä.
 
@@ -43,4 +43,4 @@ Lakinkäytölle on lakin arvon mukaiset säännöt. Tupsulakki on kesälakki, jo
 
 ### Oikeus lakin käyttöön
 
-Teekkarilakkia ei kuka tahansa saa käyttää – se on ansaittava. Jokainen ensimmäisenä vuotenaan kunnostautunut phuksi saa painaa lakin päähänsä mahdollisesti järjestettävänä Wappuna täsmälleen keskiyöllä. Syksyllä taas lakki lasketaan olalle yksissä vuoden suurimmissa bileissä, Lakinlaskijaisissa. 
+Teekkarilakkia ei kuka tahansa saa käyttää – se on ansaittava. Jokainen ensimmäisenä vuotenaan kunnostautunut fuksi saa painaa lakin päähänsä mahdollisesti järjestettävänä Wappuna täsmälleen keskiyöllä. Syksyllä taas lakki lasketaan olalle yksissä vuoden suurimmissa bileissä, Lakinlaskijaisissa. 
