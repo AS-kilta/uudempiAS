@@ -52,6 +52,7 @@ Koski asia sitten pientä juttua tai jotakin isompaa huolta, vastaa Fuksikapteen
 * Hae [opintotukea](http://www.kela.fi/opintotuki)
 * Hanki [matkakortti](https://www.hsl.fi/liput-ja-hinnat/matkakortti)
 * Liity AS:n 20 fuksien Telegram-ryhmään [bit.ly/fuksit20](https://bit.ly/fuksit20)
+* Suorita [Aalto-yliopiston alkuorientaatio](https://mycourses.aalto.fi/course/view.php?id=26858)
 
 ### VarASlähtö
 
