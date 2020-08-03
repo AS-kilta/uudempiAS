@@ -23,7 +23,7 @@ Jos havaitset haalareissa jotain vikaa tai valitettavaa, niin ilmoitathan asiast
 
 ## Pistekortti
 
-Ylioppilaskunnan fuksipistejärjestelmän tehtävänä on tutustuttaa fuksi ylioppilaskuntaan ja teekkaritoimintaan. Suoritettuaan vaaditut fuksipisteet kunnialla saa fuksi ennen fuksiwappuaan esteettömystodistuksen, joka oikeuttaa teekkarilakin käyttöön Wappu-päivästä alkaen.
+Ylioppilaskunnan fuksipistejärjestelmän tehtävänä on tutustuttaa fuksi ylioppilaskuntaan ja teekkaritoimintaan. Suoritettuaan vaaditut fuksipisteet kunnialla saa fuksi ennen fuksiwappuaan esteettömystodistuksen, joka oikeuttaa teekkarilakin käyttöön Wappupäivästä alkaen.
 
 Ansaitaksesi teekkarin arvonimen on sinun suoritettava pakolliset pisteet, sekä vaikeustaso: Helppo (80 pistettä). Pisteitä pitää saada tasoilta 1-4. 
 
@@ -31,7 +31,7 @@ Törkeästä teekkarihengen vastaisesta törttöilystä saa sikapisteen, joka jo
 
 Halutessasi voit suorittaa Normaalin vaikeustason (130 pistettä), joka oikeuttaa Superfuksin tutkintoon. Jos otat haasteen vastaan, voit suorittaa Vaikean vaikeustason (180), joka oikeuttaa Hyperfuksin tutkintoon.
 
-Merkkaa suoritetut pisteet kynällä, ja pyydä niihin allekirjoitusta Fuksikapteenilta, ISOpomol- ta, KV-kapteenilta tai DSD-kapteenilta. Kysy lisää pisteistä keneltä tahansa kiltalaiselta. 
+Merkkaa suoritetut pisteet kynällä, ja pyydä niihin allekirjoitusta Fuksikapteenilta, ISOpomolta, KV-kapteenilta tai DSD-kapteenilta. Kysy lisää pisteistä keneltä tahansa kiltalaiselta. 
 
 ## Teekkarilakki
 
