@@ -62,7 +62,8 @@ VarASlähdössä sinulla on mahdollisuus tutustua sinun kanssasi samaan aikaan o
 
 VarASlähtö järjestetään Otaniemessä 22.8. Tavataan Alvarin aukiolla, tunnistat liilahaalariset ISOt varmasti joukosta.
 
-**Mitä:** Hengailua uusien AS-tyyppien kanssa! Missä: Otaniemi, Alvarin aukio  
+**Mitä:** Hengailua uusien AS-tyyppien kanssa!  
+**Missä:** Otaniemi, Alvarin aukio  
 **Milloin:** 22.8., klo 14 eteenpäin.  
 **Miksi:** Koska kivaa!  
 
