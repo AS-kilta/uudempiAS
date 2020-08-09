@@ -35,13 +35,13 @@ people:
     description: "The Master of Communication keeps guild members informed about various events and other interesting and important matters. They take care of the guild’s channels of communication, email lists, calendar and website, in addition to which they also send a weekly bulletin that explain what is happening and where.
     Contact the Master of Communication when you want to share information to the guild members."
 
-  - position_name: Freshman Captain
+  - position_name: Fuksi Captain
     person_name: Leia Nummisalo
     email: phuksikapteeni@as.fi
     phone: 050 572 4080
     username: phuksikapteeni
     picture: static/toimijat/2020/leia_nummisalo.jpg
-    description: "The Freshman Captain is responsible for all freshman wellbeing and freshman events. They organize events for freshmen with other guild members, the University and other Freshman Captains. Collaborates closely with the Tutor Coordinator."
+    description: "The Fuksi Captain is responsible for all fuksi wellbeing and fuksi events. They organize events for fuksis with other guild members, the University and other Fuksi Captains. Collaborates closely with the Tutor Coordinator."
 
   - position_name: International Student Captain
     person_name: Henri Toivola
@@ -74,7 +74,7 @@ people:
     person_name: Emil Huttunen
     email: opintomestari@as.fi
     phone: 050 550 1071
-    username: tosiISOpomo
+    username: Yeetmil
     picture: static/toimijat/2020/emil_huttunen.jpg
     description: "The Master of Studies maintains communications between the guild and the university. They also work as the contact person for the guild’s trustees and represent students in the meetings of the university’s governing body.
     Contact the Master of Studies if your matter has to do with your studies or school in general."

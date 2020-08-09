@@ -2,9 +2,9 @@
 layout: page
 title: Events
 ---
-The Guild organises all kinds of events and programs to it's members. Sittnings, sauna evenings, boardgames and many, many other things. At these events you'll get to enjoy the company of many awesome ASs' and sometimes also other students, like ELECpals and theologists.
+The Guild organises all kinds of events and programs **for its** members. **Sitsis**, sauna evenings, board game nights and many, many other things. At these events you’ll get to enjoy the company of many awesome **Guildmates** and sometimes also other students, like **dELECtable buddies, theologists and other overalls wearing people!**
 
-Information about the events will be found in the weekly newsletters, this website and the guild's calendar (see below). Some of the events are open and for the others you can sign up through the [AS's signup machine](https://ilmo.as.fi/). 
+Information about the events will be found in the guild’s weekly newsletters, this website and the guild’s calendar (see below). **Information can often be spotted on Telegram and guild’s Social Medias as well.** Some of the events are open and for the others you can sign up through the [AS’s signup machine](https://ilmo.as.fi).
 
 ## Event Calendar
 

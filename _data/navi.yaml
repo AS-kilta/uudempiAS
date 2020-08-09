@@ -13,8 +13,6 @@ items:
         - title: Galleria
           href: https://gallery.as.fi/
           absolute: true
-  # - title: Uutiset
-  #   href: /uutiset
   - title: Kilta
     href: /kilta
     subnavi:
@@ -38,10 +36,6 @@ items:
           href: /halloped.html
         - title: GT
           href: /gt.html
-        #- title: Toimijat 2019
-          #href: /vaalit.html
-        #- title: Säätökerho
-        #  href: /saatokerho.html
   - title: Opiskelu
     href: /opiskelu.html
   - title: Fukseille
@@ -61,8 +55,6 @@ items:
     subnavi:
       directory: english
       items:
-        - title: News
-          href: /news.html
         - title: The Guild
           href: /guild.html
         - title: Committees
@@ -73,9 +65,7 @@ items:
           href: /events.html
         - title: Membership
           href: /membership.html
-        - title: Contact information
+        - title: Contact Information
           href: /contact.html
-        - title: Official stuff
+        - title: Official Information
           href: /official.html
-        #- title: Officials 2019
-          #href: /election.html

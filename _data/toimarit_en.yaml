@@ -1,5 +1,5 @@
 committees:
-  - name: Freshman committee
+  - name: Fuksi committee
     description:
     positions:
       - name: Tutor Boss
@@ -12,7 +12,7 @@ committees:
         members:
           - name: Emil Huttunen
             picture: static/toimijat/2020/emil_huttunen.jpg
-      - name: Great Freshman Captain
+      - name: Great Fuksi Captain
         description:
         members:
           - name: Lassi Ihalainen

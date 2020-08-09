@@ -20,7 +20,7 @@ permalink: /english/
       {%
         include functions/post-list_en.html
         posts=main_category_posts
-        limit=5
+        limit=3
       %}
       <a href="News">All news</a>
     </div>
