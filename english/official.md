@@ -3,7 +3,7 @@ layout: page
 title: Official Information
 ---
 
-**Here you can find Minutes of Guild Board meetings, official rules and guidelines for guild activities.**
+Here you can find Minutes of Guild Board meetings, official rules and guidelines for guild activities.
 
 Some files are being translated or otherwise worked on and will not be available.
 
