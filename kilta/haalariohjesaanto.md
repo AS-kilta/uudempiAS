@@ -22,4 +22,4 @@ Niistä asioista, joista säännöissä ei ole määrätty, päättää killan h
 
 ---
 <br>
-Tämä merkkiohjesääntö on vahvistettu Automaatio- ja systeemitekniikan kilta ry:n kokouksessa 30.7.2020 ja se on tullut voimaan välittömästi.
+Tämä haalariohjesääntö on vahvistettu Automaatio- ja systeemitekniikan kilta ry:n kokouksessa 30.7.2020 ja se on tullut voimaan välittömästi.
