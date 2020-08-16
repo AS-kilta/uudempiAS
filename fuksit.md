@@ -48,8 +48,8 @@ Koski asia sitten pientä juttua tai jotakin isompaa huolta, vastaa Fuksikapteen
 * Ota opiskelupaikka vastaan
 * Ilmoittaudu läsnäolevaksi ja maksa ylioppilaskunnan jäsenmaksu. Samalla maksetaan myös killan jäsenmaksu.
 * Hae [opiskelijakorttia](https://www.frank.fi/opiskelijakortti/)
-* Hae asuntoa [AYY:ltä](https://domo.ayy.fi) tai [HOASilta](http://www.hoas.fi)
-* Hae [opintotukea](http://www.kela.fi/opintotuki)
+* Hae asuntoa [AYY:ltä](https://domo.ayy.fi) tai [HOASilta](https://www.hoas.fi)
+* Hae [opintotukea](https://www.kela.fi/opintotuki)
 * Hanki [matkakortti](https://www.hsl.fi/liput-ja-hinnat/matkakortti)
 * Liity AS:n 20 fuksien Telegram-ryhmään [bit.ly/fuksit20](https://bit.ly/fuksit20)
 * Suorita [Aalto-yliopiston alkuorientaatio](https://mycourses.aalto.fi/course/view.php?id=26858)
@@ -79,24 +79,24 @@ Kannattaa muistaa ottaa mukaan maksukuitti ylioppilaskunnan jäsenmaksusta tai o
 
 * [MyCourses](https://mycourses.aalto.fi/) (Täältä löytyy tietoa kursseista)
 * [WebOodi](https://oodi.aalto.fi) (Täällä tapahtuu kursseille, välikokeisiin ja tentteihin ilmoittautuminen)
-* [Sähkötekniikan korkeakoulu](http://elec.aalto.fi)
-* [Aalto-yliopisto](http://www.aalto.fi)
-* [Opinto-opas](http://studyguides.aalto.fi/elec/2017-kand/)
+* [Sähkötekniikan korkeakoulu](https://www.aalto.fi/fi/sahkotekniikan-korkeakoulu)
+* [Aalto-yliopisto](https://www.aalto.fi)
+* [Opinto-opas](https://into.aalto.fi/pages/viewpage.action?pageId=330842)
 
 #### Ylioppilaskunta
 
-* [AYY](http://www.ayy.fi)
+* [AYY](https://www.ayy.fi)
 
 #### Terveydenhoito
 
-* [YTHS](http://www.yths.fi/)
+* [YTHS](https://www.yths.fi/)
 * Otaniemi: Otakaari 12
 * Töölö: Töölönkatu 37 A
 
 #### Liikkuminen
 
-* [Helsingin seudun liikenne](http://www.hsl.fi)
-* [Matkakortti](http://www.hsl.fi/matkakortti)
+* [Helsingin seudun liikenne](https://www.hsl.fi)
+* [Matkakortti](https://www.hsl.fi/matkakortti)
 
 #### Ruokailu
 
@@ -105,6 +105,6 @@ Kannattaa muistaa ottaa mukaan maksukuitti ylioppilaskunnan jäsenmaksusta tai o
 
 #### Asuminen
 
-* [AYY-asumisinfo](http://www.ayy.fi/asuminen)
+* [AYY-asumisinfo](https://www.ayy.fi/asuminen)
 * [Domo-asuntopalvelu (AYY)](https://domo.ayy.fi)
-* [HOAS](http://www.hoas.fi)
+* [HOAS](https://www.hoas.fi)
