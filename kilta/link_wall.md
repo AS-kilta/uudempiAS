@@ -5,7 +5,7 @@ title: Link wall
 
 # Telegram groups
 
-[AS - Telegram](https://t.me/joinchat/Br9ODz_110OZULEAdl0UKQ)<br>
+[AS - Telegram](https://t.me/joinchat/D1ikST_110MuWWh8wI4IQw)<br>
 Chat for all the ASs', free topic. Mainly in Finnish, but everyone is welcome
 
 [AS in English - Telegram](https://t.me/joinchat/BzywAENaOk8UOSc1LreD5A)<br>
