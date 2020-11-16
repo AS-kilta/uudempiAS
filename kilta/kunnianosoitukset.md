@@ -442,6 +442,28 @@ Tämä 2013 phuksi on koko kiltauransa ollut mukana lähes kaikessa. Hänen apuu
 #### Onni Lampi
 Tällä 2013 phuksilla oli vankka kokemus yhdistystoiminnasta jo ennen kiltaan tuloa. Se on näkynyt huomattavana aktiivisuutena koskien erityisesti killan virallisia asioita ja toiminnan kehittämistä. Hän ei tyydy nykytilaan vaan haluaa asioiden olevan aina vähän paremmin. Hänen johdossaan killan ISOtoiminta ottikin ison harppauksen eteenpäin. Hän on ​Onni “Omnez” Lampi​​!
 
+### 2017
+#### Antti-Jussi Inkinen
+Tehnyt huomattavan paljon työtä jo kahtena vuonna sen eteen, että ASkin palvelutaso on yksi Otaniemen kiltahuoneiden parhaista. Ollut myös tärkeässä roolissa nykyisen säätötoiminnan järjestämisessä.
+
+#### Ville Kauhanen
+Vienyt killan yrityssuhdetoimintaa paljon eteenpäin. Hoitanut Master of International Affairs:n virkaa hyvin ja saanut vaihto-opiskelijoita kiinnostumaan killasta. Lisäksi ollut mukana myös killan uusien nettisivujen kehittämisessä sekä serveriprojektissa.
+
+#### Veikka Kähkönen
+Tehnyt paljon työtä uusien nettisivujen eteen. Ollut vahvasti mukana myös säätötoiminnassa.
+
+#### Paul Laihonen
+Ollut monessa vastuullisessa virassa mm. ISOpomona ja rahastonhoitajana. Hoitanut tämän vuoden Stimulaatiota varmoin ottein.
+
+#### Miika Lehtimäki
+Tehnyt ASkin kehittämisen eteen paljon. Tehnyt killalle paljon grafiikkaa.
+
+#### Juuso Mikkonen
+Nostanut GT:n profiilia paljon, mm. tekemällä GT-webin. Suuri tekijä lyhyestä fyysisestä mitastaan huolimatta.
+
+#### Eero Santamala
+Hoitanut sekä isännän että puheenjohtajan hommat jämptisti.
+
 ### 2018
 #### Riikka Nousiainen
 Tämä 2014 phuksi on toiminut killassa erinäisissä toimihenkilöviroissa kiitettävästi jo useamman vuoden ajan. Kyseinen henkilö on toiminut huvi-, kulttuuri- ja yritysyhteistyön saralla ahkerasti ja kuluvana vuonna ottanut vastuulleen useamman vastuutehtävän. Nämä vastuutehtävät ovat näkyneet kiltahuoneen kehityksessä sekä TEKin ja Suomen automaatioseuran kasvaneena yhteistyönä.
