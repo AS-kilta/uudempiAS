@@ -32,9 +32,6 @@ Lautapelaamisesta ja videopeleistä kiinnostuneille
 [ASif - Telegram](https://telegram.me/joinchat/FUsq9RGHt6s8BoeCm6wLMA)<br>
 Killisteille, jotka ovat kiinnostuneita urheilusta
 
-[ELEpaja - Telegram](https://telegram.me/joinchat/Ap55Ez9nPRQzBOzj76nzUw)<br>
-Elektroniikasta ja sen rakentelusta kiinnostuneille
-
 # Sosiaalinen media
 
 [AS - Facebook](https://www.facebook.com/askilta/)<br>

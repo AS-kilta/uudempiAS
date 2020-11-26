@@ -32,9 +32,6 @@ For those interested in board- and videogames
 [ASif - Telegram](https://telegram.me/joinchat/FUsq9RGHt6s8BoeCm6wLMA)<br>
 Chat For those who are interested in sports
 
-[ELEpaja - Telegram](https://telegram.me/joinchat/Ap55Ez9nPRQzBOzj76nzUw)<br>
-Chat for stuff about electronics and building things
-
 # Social media
 
 [AS - Facebook](https://www.facebook.com/askilta/)<br>
