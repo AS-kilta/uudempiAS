@@ -39,7 +39,7 @@ $border-color: #ddd;
 $white-color: #eee;
 
 // Width of the content area
-$content-width:    960px;
+$content-width:    1080px;
 
 $breakpoints: (
   mobile: 480px,
@@ -101,15 +101,16 @@ $font-heading: 'Comfortaa', sans-serif;
 @mixin bulletless-ul {
     list-style-type: none;
     margin-left: 0;
+    padding: 0;
 }
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
-        "normalize",
-        "base",
-        "layout",
-        "as-theme",
-        "contacts",
-        "info",
-        "archive"
+  "normalize",
+  "base",
+  "layout",
+  "as-theme",
+  "contacts",
+  "info",
+  "archive"
 ;

@@ -54,7 +54,7 @@
  * Posts
  */
 .post-header {
-    margin-bottom: $spacing-unit;
+    margin-bottom: 30px;
 }
 
 .post-title {
@@ -68,31 +68,7 @@
 }
 
 .post-content {
-    margin-bottom: $spacing-unit;
-
-    h2 {
-        font-size: 32px;
-
-        @include breakpoint(desktop) {
-            font-size: 28px;
-        }
-    }
-
-    h3 {
-        font-size: 26px;
-
-        @include breakpoint(desktop) {
-            font-size: 22px;
-        }
-    }
-
-    h4 {
-        font-size: 20px;
-
-        @include breakpoint(desktop) {
-            font-size: 18px;
-        }
-    }
+    margin-bottom: $spacing-unit/2;
 }
 
 
@@ -105,5 +81,5 @@
 .flex-item {
     flex: 1;
     min-width: 350px;
-    margin: 5px;
+    margin: 10px;
 }

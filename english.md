@@ -7,7 +7,7 @@ permalink: /english/
 <article class="post">
 
   <div class="info_section flex-item">
-    <h1 class="info_section__title">What is AS?</h1>
+    <h2 class="info_section__title">What is AS?</h2>
       {% capture index_content %}{% include index_content_en.md %}{% endcapture %}
       {{ index_content | markdownify }}
   </div>
@@ -15,7 +15,7 @@ permalink: /english/
   <div class="post-content flex-container">
 
     <div class="info_section flex-item">
-      <h1 class="info_section__title">Important news</h1>
+      <h2 class="info_section__title">Important news</h2>
       {% assign main_category_posts = site.categories[site.main_category] %}
       {%
         include functions/post-list_en.html
@@ -26,7 +26,7 @@ permalink: /english/
     </div>
 
     <div class="info_section flex-item">
-      <h1 class="info_section__title">Incoming events</h1>
+      <h2 class="info_section__title">Incoming events</h2>
       <ul id="upcoming-event-list" class="event_list"></ul>
       <ul id="past-event-list" class="event_list"></ul>
 

@@ -30,17 +30,22 @@ body {
 .site-title {
   grid-area: title;
   text-align: center;
-}
+  
+  h1 {
+    margin: 0;
+  }
 
-.site-title a{
-  &,
-  &:visited,
-  &:hover {
+  a {
+    &,
+    &:visited,
+    &:hover {
       color: $site-title-color;
       text-decoration: none;
+    }
+    font-family: $font-sans;
+    letter-spacing: 1px;
   }
-  font-family: $font-sans;
-  letter-spacing: 1px;
+  
 }
 
 .header__logo {
@@ -93,7 +98,7 @@ body {
     overflow: hidden;
     background: $dark-grey-navi;
     margin: 0;
-    padding: $spacing-unit/3 0;
+    padding: 1em 0;
   }
 
   a, a:visited {
@@ -116,9 +121,7 @@ body {
   margin-bottom: 0 !important;
 
   ul {
-      margin-left: auto;
-      margin-right: auto;
-      margin-bottom: 5px;
+      margin: 5px auto;
   }
 
   a {

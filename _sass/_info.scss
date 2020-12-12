@@ -8,6 +8,7 @@ $info_item_separation: 2em;
     background-color: $purple_color;
     color: white;
     padding: 0.4em;
+    margin-top: 0;
 }
 
 .post_list {
@@ -34,7 +35,7 @@ $info_item_separation: 2em;
 }
 
 .post_list__excerpt {
-    margin-bottom: 0;
+    margin: 0.3em 0 0;
     line-height: 1.5em;
     font-size: 14px;
 }
