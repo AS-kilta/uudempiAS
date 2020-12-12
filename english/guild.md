@@ -15,7 +15,7 @@ The guild maintains multiple channels for internal communications. The most impo
 * **Telegram:** Common discussion channels are maintained in [Telegram](https://telegram.org). There are channels for common discussion as well as for different topics, such as studies or sports activities. In addition, there is a channel for official discussion about the guild called AivanVirallinen.
 * **Discussion forum:** The discussion forum is hosted at [forum.as.fi](https://forum.as.fi). It's mainly used for official discussion about the guild meetings and elections.
 
-In addition, there is a bulletin board for board's announcements and a place for posters in ASki. You can find the links for the discussion channels from the Weekly Newsletters or by asking about them from the Head of Communications. Contact information for the Board can be found from [the bottom of this page](#board).
+In addition, there is a bulletin board for board's announcements and a place for posters in ASki. You can find the links for the discussion channels from the Weekly Newsletters or by asking about them from the Head of Communications. Contact information for the Board can be found from [the end of this page](#board).
 
 ## ASki
 
@@ -31,4 +31,4 @@ ASki also contains the guilds storage room, from which the board and the members
 
 ## The Board
 
-The Guild is run by students for students.
+You can reach the whole board by mailing hallitus\[ät\]as.fi.
