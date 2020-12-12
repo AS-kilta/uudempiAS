@@ -30,8 +30,3 @@ Maarintie 8<br>
 
 * Y-tunnus: 1790153-4
 * Rekisterinumero: 185372
-
-## Sosiaalinen media
-
-* [Facebook](https://www.facebook.com/Automaatio-ja-systeemitekniikan-kilta-200813459931156/)
-* [Instagram](https://www.instagram.com/askilta/)

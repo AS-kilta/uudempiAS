@@ -23,7 +23,3 @@ Maarintie 8<br>
 **BIC**: HANDFIHH<br>
 **Business ID**: 1790153-4<br>
 **Registration number**: 185372
-
-## Social media
-* [Facebook](https://www.facebook.com/Automaatio-ja-systeemitekniikan-kilta-200813459931156/)
-* [Instagram](https://www.instagram.com/askilta/)
