@@ -35,6 +35,5 @@ title: Virallisuudet
 * [Kimblen säännöt](https://as.fi/static/virallisuudet/kimblesaannot.pdf)
 * [Kimblen pelilistasäännöt](https://as.fi/static/virallisuudet/kimblelista.pdf)
 * [3D-kimblen säännöt](https://as.fi/static/virallisuudet/3dkimblesaannot.pdf)
-* [Laulukilpailun säännöt](https://as.fi/static/virallisuudet/laulukilpailu.pdf)
 * [Arkisto](http://as.ayy.fi/arkisto)
 * [Vanha Arkisto](http://aski.hut.fi/otax/arkisto.php)

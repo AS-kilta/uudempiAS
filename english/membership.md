@@ -4,7 +4,7 @@ title: Membership
 ---
 Full guild membership can be admitted to any member of AYY. As a member of the guild you get: vote in guildmeetings, the right to join in guild events and to use the guildroom and access to the guild's mailinglists. You can get membership by following the guide below.
 
-## Fuksi
+## New student
 
 New students of Automation and Information technology program do not have to separately apply for guild membership, paying the membership fee is enough. AS-guilds membership fee is easiest to pay along the AYY's semester enrollment. If you haven't paid the membership fee along the semester enrollment, you can pay it according to guide below.
 

@@ -1,5 +1,5 @@
 committees:
-  - name: Hallopedit 2020
+  - name: 2020
     description:
     positions:
       - description:
@@ -28,67 +28,67 @@ committees:
             picture: static/toimijat/2019/emma_riikonen_19.jpg
           - name: Veeti Kahilainen
             picture: static/toimijat/2020/veeti_kahilainen.jpg
-  - name: Hallopedit 2019
-    description:
-    positions:
-      - description:
-        members:
-          - name: Severi Casserly
-            picture: static/toimijat/2019/severi_casserly_19.jpg
-          - name: Ville Eronen
-            picture: static/toimijat/2019/ville_eronen_19.jpg
-          - name: Lassi Ihalainen
-            picture: static/toimijat/2019/lassi_ihalainen_19.jpg
-          - name: Ville Kauhanen
-            picture: static/toimijat/2018/ville_kauhanen.jpg
-          - name: Juhani Kekoni
-            picture: static/toimijat/2019/juhana_kekoni_19.jpg
-          - name: Akseli Konttas
-            picture: static/toimijat/2019/akseli_konttas_19.jpg
-          - name: Jaakko Majuri
-            picture: static/toimijat/2019/jaakko_majuri_19.jpg
-          - name: Ville Piesala
-            picture: static/toimijat/2019/ville_piesala_19.jpg
-          - name: Arttu Rintala
-            picture: static/toimijat/2019/arttu_rintala_19.jpg
-          - name: Arttu Pohja
-            picture: static/toimijat/2019/arttu_pohja_19.jpg
-          - name: Santeri Salmijärvi
-            picture: static/toimijat/2017/santeri_salmijärvi.jpg
-          - name: Noora Vänttinen
-            picture: static/toimijat/aebaej_placeholder.png
-  - name: Hallopedit 2018
-    description:
-    positions:
-      - description:
-        members:
-          - name: Ilene Blanco
-            picture: static/toimijat/2018/ilene_blanco.jpg
-          - name: Ville Eronen
-            picture: static/toimijat/2018/ville_eronen.jpg
-          - name: Sanna Halmkrona
-            picture: static/toimijat/2018/sanna_halmkrona.jpg
-          - name: Karolina Itäinen
-            picture: static/toimijat/2018/karolina_itäinen.jpg
-          - name: Ville Kauhanen
-            picture: static/toimijat/2018/ville_kauhanen.jpg
-          - name: Ville Piesala
-            picture: static/toimijat/2018/ville_piesala.jpg
-          - name: Santeri Salmijärvi
-            picture: static/toimijat/2017/santeri_salmijärvi.jpg
-          - name: Aku Viitanen
-            picture: static/toimijat/2018/aku_viitanen.jpg
+  # - name: Hallopedit 2019
+  #   description:
+  #   positions:
+  #     - description:
+  #       members:
+  #         - name: Severi Casserly
+  #           picture: static/toimijat/2019/severi_casserly_19.jpg
+  #         - name: Ville Eronen
+  #           picture: static/toimijat/2019/ville_eronen_19.jpg
+  #         - name: Lassi Ihalainen
+  #           picture: static/toimijat/2019/lassi_ihalainen_19.jpg
+  #         - name: Ville Kauhanen
+  #           picture: static/toimijat/2018/ville_kauhanen.jpg
+  #         - name: Juhani Kekoni
+  #           picture: static/toimijat/2019/juhana_kekoni_19.jpg
+  #         - name: Akseli Konttas
+  #           picture: static/toimijat/2019/akseli_konttas_19.jpg
+  #         - name: Jaakko Majuri
+  #           picture: static/toimijat/2019/jaakko_majuri_19.jpg
+  #         - name: Ville Piesala
+  #           picture: static/toimijat/2019/ville_piesala_19.jpg
+  #         - name: Arttu Rintala
+  #           picture: static/toimijat/2019/arttu_rintala_19.jpg
+  #         - name: Arttu Pohja
+  #           picture: static/toimijat/2019/arttu_pohja_19.jpg
+  #         - name: Santeri Salmijärvi
+  #           picture: static/toimijat/2017/santeri_salmijärvi.jpg
+  #         - name: Noora Vänttinen
+  #           picture: static/toimijat/aebaej_placeholder.png
+  # - name: Hallopedit 2018
+  #   description:
+  #   positions:
+  #     - description:
+  #       members:
+  #         - name: Ilene Blanco
+  #           picture: static/toimijat/2018/ilene_blanco.jpg
+  #         - name: Ville Eronen
+  #           picture: static/toimijat/2018/ville_eronen.jpg
+  #         - name: Sanna Halmkrona
+  #           picture: static/toimijat/2018/sanna_halmkrona.jpg
+  #         - name: Karolina Itäinen
+  #           picture: static/toimijat/2018/karolina_itäinen.jpg
+  #         - name: Ville Kauhanen
+  #           picture: static/toimijat/2018/ville_kauhanen.jpg
+  #         - name: Ville Piesala
+  #           picture: static/toimijat/2018/ville_piesala.jpg
+  #         - name: Santeri Salmijärvi
+  #           picture: static/toimijat/2017/santeri_salmijärvi.jpg
+  #         - name: Aku Viitanen
+  #           picture: static/toimijat/2018/aku_viitanen.jpg
 
-  - name: Hallopedit 2017
-    description:
-    positions:
-      - description:
-        members:
-          - name: Titta Saari
-            picture: static/toimijat/2018/titta_saari.jpg
-          - name: Ilkka Malassu
-            picture: static/toimijat/2017/ilkka_malassu.jpg
-          - name: Noora Salminen
-            picture: static/toimijat/2018/noora_salminen.jpg
-          - name: Santeri Salmijärvi
-            picture: static/toimijat/2017/santeri_salmijärvi.jpg
+  # - name: Hallopedit 2017
+  #   description:
+  #   positions:
+  #     - description:
+  #       members:
+  #         - name: Titta Saari
+  #           picture: static/toimijat/2018/titta_saari.jpg
+  #         - name: Ilkka Malassu
+  #           picture: static/toimijat/2017/ilkka_malassu.jpg
+  #         - name: Noora Salminen
+  #           picture: static/toimijat/2018/noora_salminen.jpg
+  #         - name: Santeri Salmijärvi
+  #           picture: static/toimijat/2017/santeri_salmijärvi.jpg

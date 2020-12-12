@@ -2,6 +2,11 @@
 layout: page
 title: Contact information
 ---
+
+## Board of the guild
+* [Board members contact information]({{ "english/guild.html#board" | absolute_url }})
+* E-mail: hallitus [at] as.fi
+
 ## Postal address
 Aalto-yliopisto<br>
 Automaatio- ja systeemitekniikan kilta<br>
@@ -9,12 +14,8 @@ PL 15500<br>
 FI00076 Aalto<br>
 
 ## Guildroom
-Maarintie 8 (previously Otaniementie 17)<br>
+Maarintie 8<br>
 02150 Espoo
-
-## Board of the guild
-* [Board members contant information]({{ "english/guild.html" | absolute_url }})
-* E-mail: hallitus [at] as.fi
 
 ## Payment information
 **Recipient**: Automaatio- ja systeemitekniikan kilta<br>

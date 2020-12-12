@@ -18,24 +18,10 @@ items:
     subnavi:
       directory: kilta
       items:
-        - title: Hallitus
-          href: /hallitus.html
         - title: Toimihenkilöt
           href: /toimihenkilot.html
-        - title: Viestintä
-          href: /viestinta.html
-        - title: Tapahtumat
-          href: /tapahtumat.html
-        - title: Jäsenyys
-          href: /jasenyys.html
         - title: Virallisuudet
           href: /virallisuudet.html
-        - title: ASki
-          href: /aski.html
-        - title: Halloped
-          href: /halloped.html
-        - title: GT
-          href: /gt.html
   - title: Opiskelu
     href: /opiskelu.html
   - title: Fukseille
@@ -50,6 +36,8 @@ items:
     href: /yrityksille.html
   - title: Yhteystiedot
     href: /yhteystiedot.html
+  - title: Jäsenyys
+    href: /jasenyys.html
   - title: In English
     href: /english
     subnavi:
@@ -63,8 +51,6 @@ items:
           href: /studies.html
         - title: For Fuksis
           href: /fuksis.html
-        - title: Events
-          href: /events.html
         - title: Membership
           href: /membership.html
         - title: Contact Information

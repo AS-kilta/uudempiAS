@@ -1,6 +1,8 @@
 ---
-layout: page
+layout: people_generic
 title: Opiskelu
+data: hallopedit
+placeholder_img: static/toimijat/aebaej_placeholder.png
 ---
 Fuksien kannattaa katsoa myös [Fukseille -sivut](fuksit).
 
@@ -14,7 +16,7 @@ Verkkoon kytkettyjen laitteiden määrä kasvaa räjähdysmäisesti ja esineiden
 
 ## Digital Systems and Design
 
-This major covers a range of interdisciplinary topics relevant in the development and design of complex digital systems. It addresses the industry-relevant fields of electrical engineering and automation, computer, communication, and information sciences, as well as electronics. Students of the major will acquire competence in a range of techniques covering the broad areas of mathematics, modeling and analysis of signals and systems, and electronics.
+Tässä englanninkielisessä pääainessa pääset opiskelemaan monialaisia aiheita. Keskityt opiskelemaan kompleksisien digitaalisten systeemien suunnittelua ja tuotantoa. Eniten esille tulevat aiheet ovat sähkötekniikka, automaatio ja elektroniikka sekä tieto-, kommunikaatio-, ja informaatiotieteet. Tämän pääaineen opiskelijoista valmistuu tulevaisuuden huippuosaajia matematiikan, mallintamisen, elektroniikan sekä signaali- ja systeemitieteen aloilla.
 
 ## Sivuaineet
 
@@ -34,3 +36,11 @@ Sivuaineen voit valita minkä tahansa Aalto-yliopiston alaisen korkeakoulun sivu
 
 * [Tenttiarkisto](http://www.tenttiarkisto.fi)
 * [Nyyti ry](https://www.nyyti.fi/)
+
+## Halloped
+
+Yliopiston hallinnossa on yliopistolain mukaisesti oltava myös opiskelijoiden edustajia. Hallinnon opiskelijaedustajat (ns. hallopedit) ovat tavallisia opiskelijoita, jotka osallistuvat yliopiston akateemisten asiain komiteoiden, koulutusneuvostojen sekä erilaisten toimikuntien ja työryhmien toimintaan.
+
+Näissä toimielimissä käsitellään mm. tutkinto-ohjelmien sisältöä, jatkotutkintojen hyväksymiseen liittyviä asioita, virkojen täyttämistä ja rahoitusta. Koulutusneuvostot myös virallisesti myöntävät tekniikan kandidaatin ja diplomi-insinöörin tutkintoja. Lisäksi on erilaisia toimikuntia, jotka käsittelevät esimerkiksi opetuksen laatuun ja kansainvälistymiseen liittyviä asioita.
+
+Alta löydät luettelon killan hallopedeista.

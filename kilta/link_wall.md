@@ -37,7 +37,7 @@ Chat For those who are interested in sports
 [AS - Facebook](https://www.facebook.com/askilta/)<br>
 AS Facebook
 
-[askilta - Instagram](http://www.instagram.com/askilta)<br>
+[askilta - Instagram](https://www.instagram.com/askilta)<br>
 AS instagram
 
 [ASif - Facebook group](https://www.facebook.com/groups/670207043097846/?fref=ts)<br>
@@ -45,5 +45,5 @@ For those who are interested in sports
 
 # Calendars
 
-[AS event calendar – Google Calendar](https://as.fi/english/events.html)<br>
+[AS event calendar – Google Calendar](https://calendar.google.com/calendar/embed?src=as.tiedottaja%40gmail.com&ctz=Europe%2FHelsinki)<br>
 In the event calendar you'll find information about guild's events

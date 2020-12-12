@@ -37,7 +37,7 @@ Killisteille, jotka ovat kiinnostuneita urheilusta
 [AS - Facebook](https://www.facebook.com/askilta/)<br>
 AS:n Facebook
 
-[askilta - Instagram](http://www.instagram.com/askilta)<br>
+[askilta - Instagram](https://www.instagram.com/askilta)<br>
 AS:n Instagram
 
 [ASif - Facebook -ryhmä](https://www.facebook.com/groups/670207043097846/?fref=ts)<br>
@@ -45,5 +45,5 @@ Killisteille, jotka ovat kiinnostuneita urheilusta
 
 # Kalenterit
 
-[AS Tapahtumakalenteri - Google Kalenteri](http://as.fi/tapahtumat.html)<br>
+[AS Tapahtumakalenteri - Google Kalenteri](https://calendar.google.com/calendar/embed?src=as.tiedottaja%40gmail.com&ctz=Europe%2FHelsinki)<br>
 Tapahtumakalenterista löydät tietoa killan tapahtumista

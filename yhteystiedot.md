@@ -3,6 +3,11 @@ layout: page
 title: Yhteystiedot
 ---
 
+## Hallitus
+
+* [Hallituksen jäsenten yhteystiedot]({{ "/kilta#hallitus" | absolute_url }})
+* E-mail: hallitus ät as.fi
+
 ## Postiosoite
 
 <p>Aalto-yliopisto<br>
@@ -12,12 +17,8 @@ PL 15500<br>
 
 ## Kiltahuone
 
-* Käyntiosoite: Maarintie 8 (ent. Otaniementie 17), Espoo ([kartta]({{ "/kilta/askikartta.html" | absolute_url }}))
-
-## Hallitus
-
-* [Hallituksen jäsenten yhteystiedot]({{ "/kilta/hallitus.html" | absolute_url }})
-* E-mail: hallitus ät as.fi
+Maarintie 8<br>
+02150 Espoo
 
 ## Tilitiedot
 

@@ -30,7 +30,7 @@ permalink: /english/
       <ul id="upcoming-event-list" class="event_list"></ul>
       <ul id="past-event-list" class="event_list"></ul>
 
-      <a href="{{ "/events.html" | absolute_url }}">All events</a>
+      <a href="https://calendar.google.com/calendar/embed?src=as.tiedottaja%40gmail.com&ctz=Europe%2FHelsinki" target="_blank">Guild's calendar</a>
     </div>
 
     <!-- SnapWidget -->
