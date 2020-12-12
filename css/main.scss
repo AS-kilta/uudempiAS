@@ -105,13 +105,11 @@ $font-heading: 'Comfortaa', sans-serif;
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
+        "normalize",
         "base",
         "layout",
         "as-theme",
-        // "special",
-        "syntax-highlighting",
         "contacts",
-        // "grid",
         "info",
         "archive"
 ;

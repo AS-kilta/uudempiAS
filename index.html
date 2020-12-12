@@ -15,7 +15,7 @@ layout: default
     <div class="post-content flex-container">
 
       <div class="info_section flex-item">
-        <h1 class="info_section__title">Uutiset</h1>
+        <h2 class="info_section__title">Uutiset</h2>
         {% assign main_category_posts = site.categories[site.main_category] %}
         {%
           include functions/post-list.html
@@ -26,8 +26,8 @@ layout: default
       </div>
 
       <div class="info_section flex-item">
-        <h1 class="info_section__title">Tulevat tapahtumat</h1>
-        <ul id="upcoming-event-list" class="event_list"></ul>
+        <h2 class="info_section__title">Tulevat tapahtumat</h2>
+        <ul class="event_list" id="upcoming-event-list"></ul>
         <!-- <ul id="past-event-list" class="event_list"></ul> -->
 
         <a href="https://calendar.google.com/calendar/embed?src=as.tiedottaja%40gmail.com&ctz=Europe%2FHelsinki" target="_blank">Killan tapahtumakalenteri</a>
@@ -37,8 +37,7 @@ layout: default
 
     <!-- SnapWidget -->
     <script src="https://snapwidget.com/js/snapwidget.js"></script>
-    <iframe src="https://snapwidget.com/embed/787765" class="snapwidget-widget" allowtransparency="true" frameborder="0"
-      scrolling="no" style="border:none; overflow:hidden;  width:100%; "></iframe>
+    <iframe allowtransparency="true" class="snapwidget-widget" frameborder="0" scrolling="no" src="https://snapwidget.com/embed/787765" style="border:none; overflow:hidden;  width:100%; "></iframe>
 
   </article>
 
@@ -55,7 +54,7 @@ layout: default
   var timestamp_end = endDate.toISOString();
 
   formatGoogleCalendar.init({
-    calendarUrl: 'https://www.googleapis.com/calendar/v3/calendars/as.tiedottaja@gmail.com/events?key=AIzaSyCJrtmGOeEFAq912lwijvCmKR33SAtC_qo',
+    calendarUrl: "https://www.googleapis.com/calendar/v3/calendars/as.tiedottaja@gmail.com/events?key=AIzaSyCJrtmGOeEFAq912lwijvCmKR33SAtC_qo",
     past: false,
     upcoming: true,
     sameDayTimes: true,
@@ -63,12 +62,14 @@ layout: default
     pastTopN: -1,
     upcomingTopN: 5,
     recurringEvents: true,
-    itemsTagName: 'li',
-    upcomingSelector: '#upcoming-event-list',
-    pastSelector: '#past-event-list',
-    upcomingHeading: '',
-    pastHeading: '',
-    format: ['*summary*', '*date*', '*description*'],
+    itemsTagName: "li",
+    upcomingSelector: "#upcoming-event-list",
+    pastSelector: "#past-event-list",
+    upcomingHeading: "",
+    pastHeading: "",
+    format: [
+      "*summary*", "*date*", "*description*"
+    ],
     timeMin: timestamp_start,
     timeMax: timestamp_end
   });
