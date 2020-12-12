@@ -89,6 +89,17 @@ body {
     }
 }
 
+.footer__social {
+  display: flex;
+  justify-content: right;
+  margin: 2em 3em 0;
+  i {
+    margin-left: 2em;
+    font-size: 18px;
+    color: white;
+  }
+}
+
 .header__navigation {
   overflow: hidden;
   font-family: $font-heading;
