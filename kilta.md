@@ -40,4 +40,4 @@ Kiltalehdellä on omat verkkosivut osoitteessa [http://gt.as.fi](http://gt.as.fi
 
 ## Hallitus
 
-Hallituksen jäsenten sähköpostiosoitteet ovat muotoa hallitusvirka@as.fi. Koko hallituksen tavoittaa sähköpostiosoitteesta hallitus ät as.fi.
+Hallituksen jäsenten sähköpostiosoitteet ovat muotoa hallitusvirka@as.fi. Koko hallituksen tavoittaa sähköpostiosoitteesta hallitus (at) as.fi.

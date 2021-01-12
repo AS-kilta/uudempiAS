@@ -22,7 +22,7 @@ title: Virallisuudet
 
 - [Laskupohja (PDF)](https://as.fi/static/virallisuudet/laskupohja_2016.pdf)
 - [Laskupohja (DOC)](https://as.fi/static/virallisuudet/laskupohja_2016.doc)
-- [Laskupohja (online)](https://forms.gle/T4SoJEFYA9UiKBNG6)
+- [Laskupohja (online)](https://forms.gle/zFwQQeogC3DB4GZq8)
 - [Esimerkkilasku](https://as.fi/static/virallisuudet/esimerkkilasku.pdf)
 
 ### Killan logo:
