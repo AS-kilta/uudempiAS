@@ -63,6 +63,7 @@ GEM
 
 PLATFORMS
   ruby
+  x86_64-linux
 
 DEPENDENCIES
   bigdecimal
@@ -70,4 +71,4 @@ DEPENDENCIES
   json
 
 BUNDLED WITH
-   2.1.4
+   2.2.1

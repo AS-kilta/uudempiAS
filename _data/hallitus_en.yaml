@@ -14,8 +14,7 @@ people:
     phone: +358 503600041
     username: Viikinkeri
     picture: static/toimijat/2021/juuso_maatta.jpg
-    description: "The secretary is responsible for writing the minutes of the board meetings and guild meetings. In addition, they manage the guild’s membership register and look after the archive.
-    Contact the Secretary in the matters of the guild’s membership fee."
+    description: "The vice chairperson assists the chairperson and acts as the secretary. The vice chairperson is responsible for writing the minutes of the board meetings and guild meetings as well as looking after the archive."
 
   - position_name: Treasurer
     person_name: Helena Kaisanlahti
@@ -57,8 +56,8 @@ people:
     phone: +358 504316878
     username: Helveeti
     picture: static/toimijat/2021/veeti_kahilainen.jpg
-    description: "The International Student Captain is responsible of the international students and the international matters of the guild. They collaborate closely with Freshman Captain. 
-    Contact the International Student Captain if you are confused international student or if your matter concerns international affairs. "
+    description: "The Master and International Student Captain is responsible of fuksi wellbeing and fuksi events for international and master's students. They collaborate closely with the freshman captains and the tutor boss. 
+    Contact the MISC if you are confused international student or if your matter concerns international affairs. "
 
   - position_name: Host
     person_name: Meri Hildén

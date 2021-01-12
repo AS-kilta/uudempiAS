@@ -28,10 +28,10 @@ Koko kiltatoiminta on monen pienen osan summa. Ylläpidämme yliopiston tiloissa
 
 Yritysyhteistyöstä vastaa meidän päässämme yrityssuhdetoimikunta, jota koordinoi yrityssuhdevastaava.
 
-![Yrityssuhdevastaava]({{ "/static/toimijat/2020/matias_vapola.jpg" | absolute_url }} "Yrityssuhdevastaava"){:height="150px" width="150px" style="border-radius:50%;"}
+![Yrityssuhdevastaava]({{ "/static/toimijat/2021/aku_heinonen.jpg" | absolute_url }} "Yrityssuhdevastaava"){:height="150px" width="150px" style="border-radius:50%;"}
 
-Matias Vapola<br>
+Aku Heinonen<br>
 Yrityssuhdevastaava<br>
-[yrityssuhdevastaava](mailto:yrityssuhdevastaava@POISTAas.fi)<br>
-[+358452326632](tel://+358452326632)<br>
-[Telegram: @M4tuV](https://telegram.me/M4tuV)
+[Email: yrityssuhdevastaava](mailto:yrityssuhdevastaava@POISTAas.fi)<br>
+[Tel: +358452326632](tel://+358405927944)<br>
+[Telegram: @Bisnesisukki](https://telegram.me/Bisnesisukki)

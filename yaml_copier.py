@@ -33,10 +33,10 @@ officials_mapping = {
     'ASkivahti': 'ASki Guardian','Abisintti': 'Abisinth', 'Automaatti': 'Automaton',
     'DSDeetti': 'DSDent', 'Depressantti': 'Depressant', 'Dokumentoija': 'Documentator',
     'Excursiovastaava': 'Excursion Coordinator', 'Fuksitoimikunta': 'Freshman committee',
-    'Graafikko': 'Graphics Designer', 'Hattivatti': 'Hattifattener',
+    'Graafikko': 'Graphics Designer', 'Hattivatti': 'Hattifattener','MinIEns':'MinIEns','HupiUkko':'FunGuy',
     'Huvitoimikunta': 'Entertainment Committee', 'Juomanlaskija': 'Cupbearer', 'Jäykkäranne': 'Stiff Wrist',
     'Kultainen päätoimittaja': 'Golden Editor-in-Chief', 'Kultainen toimittaja': 'Golden Editor',
-    'Kultainen toimitus': 'Golden Tomato', 'Kulttuuri- ja liikuntatoimikunta': 'Cultural Affairs Committee',
+    'Kultainen toimitus': 'Golden Tomato', 'Kulttuuri- ja liikuntatoimikunta': 'Cultural Affairs Committee','Kulttuuriartesaani':'Culture artisan',
     'Kulttuurikisälli': 'Cultural Journeyperson', 'Laulukirjatoimikunta': 'Songbook Committee',
     'Liikkuja': 'Sports Manager', 'Mediatoimikunta': 'Media Committee', 'Oltermanni': 'Alderman',
     'Opintotoimikunta': 'Study Committee', 'Pelaaja': 'Gamer', 'Puheenjohtaja': 'Head of Committee',
@@ -48,7 +48,8 @@ officials_mapping = {
     'Toimittaja': 'Editor', 'Varatoiminnantarkastaja': 'Vice-inspector',
     'Visuaalinen ilme': 'Visual Design', 'Yrityssuhdekisälli': 'Corporate Relations Journeyperson',
     'Yrityssuhdeneuvonantaja': 'Corporate Relations Consultant',
-    'Yrityssuhdetoimikunta': 'Corporate Relations Committee', 'rrrRankkavastaava': 'rrrRankka Correspondent'
+    'Yrityssuhdetoimikunta': 'Corporate Relations Committee', 'rrrRankkavastaava': 'rrrRankka Correspondent',
+    'Retkitoimikunta':'Trek Committee','Retkimestari':'Trek master','Toimari':'Official'
 }
 
 

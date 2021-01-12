@@ -15,9 +15,7 @@ Ota yhteyttä puheenjohtajaan, jos asiasi koskee kiltaa tai et tiedä keneen ott
     phone: +358 503600041
     username: Viikinkeri
     picture: static/toimijat/2021/juuso_maatta.jpg
-    description: "Vastaa pöytäkirjojen tekemisestä hallituksen ja killan kokouksista. Sihteerin vastuulla on myös jäsenrekisterin ylläpitäminen sekä kiltaa koskevan materiaalin arkistoinnista huolehtiminen.
-
-Ota yhteyttä sihteeriin jäsenmaksuihin liittyvissä asioissa."
+    description: "Avustaa puheenjohtajaa ja hoitaa sihteerin tehtäviä. Vastaa pöytäkirjojen tekemisestä hallituksen ja killan kokouksista sekä kiltaa koskevan materiaalin arkistoinnista huolehtimisesta."
 
   - position_name: Rahastonhoitaja
     person_name: Helena Kaisanlahti
@@ -61,9 +59,7 @@ Ota yhteyttä viestintämestariin halutessasi tiedottaa killisteille jotakin."
     phone: +358 504316878
     username: Helveeti
     picture: static/toimijat/2021/veeti_kahilainen.jpg
-    description: "Vastaa killan kansainvälisten opiskelijoiden fuksikasvatuksesta ja -toiminnasta. Työskentelee yhteistyössä fuksikapteenin kanssa.
-
-Ota yhteyttä ISC:hen jos asiasi koskee kansainvälistä toimintaa"
+    description: "Vastaa killan kansainvälisten ja maisteriopiskelijoiden fuksikasvatuksesta ja -toiminnasta. Työskentelee yhteistyössä fuksikapteenien ja ISOpomon kanssa. Ota yhteyttä MISC:iin jos asiasi koskee kansainvälistä toimintaa."
 
   - position_name: Isäntä
     person_name: Meri Hildén

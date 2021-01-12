@@ -23,7 +23,7 @@ Some files are being translated or otherwise worked on and will not be available
 
 * [Invoice template (PDF)](https://as.fi/static/virallisuudet/laskupohja_2016.pdf)
 * [Invoice template (DOC)](https://as.fi/static/virallisuudet/laskupohja_2016.doc)
-* [Invoice template (online)](https://forms.gle/T4SoJEFYA9UiKBNG6)
+* [Invoice template (online)](https://forms.gle/zFwQQeogC3DB4GZq8)
 * [Invoice example](https://as.fi/static/virallisuudet/esimerkkilasku.pdf)
 
 * Guilds logo:
