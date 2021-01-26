@@ -79,6 +79,7 @@ committees:
           - name: Sannina Honkaharju
             picture: static/toimijat/aebaej_placeholder.png
           - name: Jaakko Heikkinen
+            picture: static/toimijat/aebaej_placeholder.png
           - name: Elisa Ståhlberg
             picture: static/toimijat/aebaej_placeholder.png
           - name: Linnea Eklund
@@ -89,7 +90,26 @@ committees:
           - name: Venla Tiainen
             picture: static/toimijat/aebaej_placeholder.png
           - name: Marcell Berta
+            picture: static/toimijat/2020/marcell_berta.jpg
+          - name: Meri Hilden
+            picture: static/toimijat/2021/meri_hilden.jpg
           - name: Jesse Lukkarinen
+            picture: static/toimijat/aebaej_placeholder.png
+      - name: Liikuntavastaava
+        description:
+        members:
+          - name: Matias Varonen
+            picture: static/toimijat/2020/matias_varonen.jpg
+      - name: Liikkuja
+        description:
+        members:
+          - name: Ville Hakoniemi
+            picture: static/toimijat/aebaej_placeholder.png
+          - name: Elisa Ståhlberg
+            picture: static/toimijat/aebaej_placeholder.png
+          - name: Linnea Eklund
+            picture: static/toimijat/aebaej_placeholder.png
+          - name: Venla Tiainen
             picture: static/toimijat/aebaej_placeholder.png
       - name: Jäykkäranne
         description:
@@ -297,7 +317,7 @@ committees:
             picture: static/toimijat/2020/leia_nummisalo.jpg
           - name: Akseli Konttas
             picture: static/toimijat/2020/akseli_konttas.jpg
-      - name: Toimari
+      - name: Retkisällit
         description:
         members:
           - name: Elias Haarnoja

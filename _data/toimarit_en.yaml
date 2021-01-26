@@ -89,7 +89,26 @@ committees:
           - name: Venla Tiainen
             picture: static/toimijat/aebaej_placeholder.png
           - name: Marcell Berta
-          - name: Jesse Sextonnen
+            picture: static/toimijat/2020/marcell_berta.jpg
+          - name: Meri Hilden
+            picture: static/toimijat/2021/meri_hilden.jpg
+          - name: Jesse Lukkarinen
+            picture: static/toimijat/aebaej_placeholder.png
+      - name: Sports Manager
+        description:
+        members:
+          - name: Matias Varonen
+            picture: static/toimijat/aebaej_placeholder.png
+      - name: Sports official
+        description:
+        members:
+          - name: Ville Hakoniemi
+            picture: static/toimijat/aebaej_placeholder.png
+          - name: Elisa Ståhlberg
+            picture: static/toimijat/aebaej_placeholder.png
+          - name: Linnea Eklund
+            picture: static/toimijat/aebaej_placeholder.png
+          - name: Venla Tiainen
             picture: static/toimijat/aebaej_placeholder.png
       - name: Stiff Wrist
         description:
@@ -297,7 +316,7 @@ committees:
             picture: static/toimijat/2020/leia_nummisalo.jpg
           - name: Akseli Konttas
             picture: static/toimijat/2020/akseli_konttas.jpg
-      - name: Official
+      - name: Trip-prentices
         description:
         members:
           - name: Elias Haarnoja
