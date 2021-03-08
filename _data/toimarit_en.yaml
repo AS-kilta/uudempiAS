@@ -6,7 +6,7 @@ committees:
         description:
         members: 
           - name: Arttu Pahta
-            picture: static/toimijat/aebaej_placeholder.png
+            picture: static/toimijat/2021/arttu_pahta.jpg
       - name: Uncle Tutor Boss
         description:
         members:
@@ -16,12 +16,12 @@ committees:
         description:
         members:
           - name: Leia Nummisalo
-            picture: static/toimijat/2020/leia_nummisalo.jpg
+            picture: static/toimijat/2021/leia_nummisalo.jpg
       - name: Senior International Student Captain
         description:
         members:
           - name: Henri Toivola
-            picture: static/toimijat/2020/henri_toivola.jpg
+            picture: static/toimijat/2021/henri_toivola.jpg
       - name: DSDaddy
         description:
         members:
@@ -35,12 +35,12 @@ committees:
         description:
         members:
           - name: Pulmu Pietikäinen
-            picture: static/toimijat/2019/pulmu_pietikainen_19.jpg
+            picture: static/toimijat/2021/pulmu_pietikainen.jpg
       - name: Informant
         description:
         members:
           - name: Helmi Takala
-            picture: static/toimijat/2020/helmi_takala.jpg
+            picture: static/toimijat/2021/helmi_takala.jpg
       - name: Master's Informant
         description:
         members:
@@ -55,7 +55,7 @@ committees:
         description:
         members:
           - name: Henri Toivola
-            picture: static/toimijat/2020/henri_toivola.jpg
+            picture: static/toimijat/2021/henri_toivola.jpg
 
   - name: Cultural Affairs Committee
     description:
@@ -64,57 +64,59 @@ committees:
         description:
         members:
           - name: Joonas Törmälä
-            picture: static/toimijat/2020/joonas_tormala.jpg
+            picture: static/toimijat/2021/joonas_tormala.jpg
           - name: Juhani Lehto
-            picture: static/toimijat/2020/juhani_lehto.jpg
+            picture: static/toimijat/2021/juhani_lehto.jpg
       - name: Cultural Journeyperson
         description:
         members:
           - name: Elias Haarnoja
-            picture: static/toimijat/aebaej_placeholder.png
+            picture: static/toimijat/2021/elias_haarnoja.jpg
           - name: Jimi Oksman
-            picture: static/toimijat/2020/jimi_oksman.jpg
+            picture: static/toimijat/2021/jimi_oksman.jpg
           - name: Lotta Makkonen
-            picture: static/toimijat/aebaej_placeholder.png
+            picture: static/toimijat/2021/lotta_makkonen.jpg
           - name: Sannina Honkaharju
-            picture: static/toimijat/aebaej_placeholder.png
+            picture: static/toimijat/2021/sannina_honkaharju.jpg
           - name: Jaakko Heikkinen
+            picture: static/toimijat/2021/jaakko_heikkinen.jpg
           - name: Elisa Ståhlberg
             picture: static/toimijat/aebaej_placeholder.png
           - name: Linnea Eklund
+            picture: static/toimijat/aebaej_placeholder.png
           - name: Katarina Pichnova
             picture: static/toimijat/aebaej_placeholder.png
           - name: Alex Korpela
             picture: static/toimijat/2020/alex_korpela.jpg
           - name: Venla Tiainen
-            picture: static/toimijat/aebaej_placeholder.png
+            picture: static/toimijat/2021/venla_tiainen.jpg
           - name: Marcell Berta
             picture: static/toimijat/2020/marcell_berta.jpg
           - name: Meri Hilden
-            picture: static/toimijat/2021/meri_hilden.jpg
+            picture: static/toimijat/2021/meri_hilden_2.jpg
           - name: Jesse Lukkarinen
-            picture: static/toimijat/aebaej_placeholder.png
-      - name: Sports Manager
+            picture: static/toimijat/2021/jesse_lukkarinen.jpg
+      - name: Liikuntavastaava
         description:
         members:
           - name: Matias Varonen
             picture: static/toimijat/aebaej_placeholder.png
-      - name: Sports official
+      - name: Sports Manager
         description:
         members:
           - name: Ville Hakoniemi
-            picture: static/toimijat/aebaej_placeholder.png
+            picture: static/toimijat/2021/ville_hakoniemi.jpg
           - name: Elisa Ståhlberg
             picture: static/toimijat/aebaej_placeholder.png
           - name: Linnea Eklund
             picture: static/toimijat/aebaej_placeholder.png
           - name: Venla Tiainen
-            picture: static/toimijat/aebaej_placeholder.png
+            picture: static/toimijat/2021/venla_tiainen.jpg
       - name: Stiff Wrist
         description:
         members:
           - name: Taavi Oja
-            picture: static/toimijat/2020/taavi_oja.jpg
+            picture: static/toimijat/2021/taavi_oja.jpg
       - name: Senile Secretary
         description:
         members:
@@ -130,41 +132,41 @@ committees:
           - name: Marcell Berta
             picture: static/toimijat/2020/marcell_berta.jpg
           - name: Lotta Makkonen
-            picture: static/toimijat/2020/lotta_makkonen.jpg
+            picture: static/toimijat/2021/lotta_makkonen.jpg
           - name: Elias Erke
-            picture: static/toimijat/aebaej_placeholder.png
+            picture: static/toimijat/2021/elias_erke.jpg
           - name: Leia Nummisalo
-            picture: static/toimijat/2020/leia_nummisalo.jpg
+            picture: static/toimijat/2021/leia_nummisalo.jpg
           - name: Axel Åberg
-            picture: static/toimijat/aebaej_placeholder.png
+            picture: static/toimijat/2021/axel_aberg.jpg
           - name: Laura Häkkinen 
-            picture: static/toimijat/aebaej_placeholder.png
+            picture: static/toimijat/2021/laura_hakkinen.jpg
           - name: Kiira Metsoila
-            picture: static/toimijat/aebaej_placeholder.png
+            picture: static/toimijat/2021/kiira_metsoila.jpg
           - name: Akseli Konttas
-            picture: static/toimijat/2020/akseli_konttas.jpg
+            picture: static/toimijat/2021/akseli_konttas.jpg
           - name: Niina Tapanainen
             picture: static/toimijat/2020/niina_tapanainen.jpg
           - name: Viivi-Maari Kallinen
-            picture: static/toimijat/aebaej_placeholder.png
+            picture: static/toimijat/2021/viivi-maari_kallinen.jpg
           - name: Jaakko Heikkinen
-            picture: static/toimijat/aebaej_placeholder.png
+            picture: static/toimijat/2021/jaakko_heikkinen.jpg
           - name: Emil Huttunen
             picture: static/toimijat/2020/emil_huttunen.jpg
           - name: Helmi Takala
-            picture: static/toimijat/2020/helmi_takala.jpg
+            picture: static/toimijat/2021/helmi_takala.jpg
           - name: Sannina Honkaharju
-            picture: static/toimijat/aebaej_placeholder.png
+            picture: static/toimijat/2021/sannina_honkaharju.jpg
           - name: Jimi Oksman
-            picture: static/toimijat/2020/jimi_oksman.jpg
+            picture: static/toimijat/2021/jimi_oksman.jpg
           - name: Emilia Kuisma
-            picture: static/toimijat/aebaej_placeholder.png
+            picture: static/toimijat/2021/emilia_kuisma.jpg
           - name: Olli-Pekka Pennanen
-            picture: static/toimijat/2020/olli-pekka_pennanen.jpg
+            picture: static/toimijat/2021/olli-pekka_pennanen.jpg
           - name: Jenna Kerkkänen
             picture: static/toimijat/2020/jenna_kerkkanen.jpg
           - name: Meri Hiipakka
-            picture: static/toimijat/2020/meri_hiipakka.jpg
+            picture: static/toimijat/2021/meri_hiipakka_2.jpg
       - name: FunGuy
         description:
         members:
@@ -178,24 +180,24 @@ committees:
         description:
         members:
           - name: Sakari Ropponen
-            picture: static/toimijat/2020/sakari_ropponen.jpg
+            picture: static/toimijat/2021/sakari_ropponen.jpg
       - name: Sexton
         description:
         members:
           - name: Juhani lehto
-            picture: static/toimijat/2020/juhani_lehto.jpg
+            picture: static/toimijat/2021/juhani_lehto.jpg
           - name: Arttu Rintala
             picture: static/toimijat/2019/arttu_rintala_19.jpg
           - name: Karolina Itäinen
             picture: static/toimijat/2020/karolina_itainen.jpg
           - name: Joonas Törmälä
-            picture: static/toimijat/2020/joonas_tormala.jpg
+            picture: static/toimijat/2021/joonas_tormala.jpg
           - name: Jyri Kolu
             picture: static/toimijat/2020/jyri_kolu.jpg
           - name: Juuso Määttä
             picture: static/toimijat/2021/juuso_maatta.jpg
           - name: Zhibin Yan
-            picture: static/toimijat/2020/zhibin_yan.jpg
+            picture: static/toimijat/2021/zhibin_yan.jpg
           - name: Lassi Ihalainen
             picture: static/toimijat/2020/lassi_ihalainen.jpg
           - name: Jenna Kerkkänen
@@ -210,12 +212,12 @@ committees:
         description:
         members:
         - name: Henri Toivola
-          picture: static/toimijat/2020/henri_toivola.jpg
+          picture: static/toimijat/2021/henri_toivola.jpg
       - name: ASki Guardian
         description:
         members:
         - name: Akseli Konttas
-          picture: static/toimijat/2020/akseli_konttas.jpg
+          picture: static/toimijat/2021/akseli_konttas.jpg
         - name: Arttu Rintala
           picture: static/toimijat/2019/arttu_rintala_19.jpg
         - name: Emil Huttunen
@@ -225,9 +227,9 @@ committees:
         - name: Niina Tapanainen
           picture: static/toimijat/2020/niina_tapanainen.jpg
         - name: Taavi Oja
-          picture: static/toimijat/2020/taavi_oja.jpg
+          picture: static/toimijat/2021/taavi_oja.jpg
         - name: Zhibin Yan
-          picture: static/toimijat/2020/zhibin_yan.jpg
+          picture: static/toimijat/2021/zhibin_yan.jpg
 
   - name: Corporate Relations Committee
     description:
@@ -236,15 +238,15 @@ committees:
         description:
         members:
           - name: Aino Valkama
-            picture: static/toimijat/aebaej_placeholder.png
+            picture: static/toimijat/2021/aino_valkama.jpg
           - name: Emilia Kuisma
-            picture: static/toimijat/aebaej_placeholder.png
+            picture: static/toimijat/2021/emilia_kuisma.jpg
           - name: Roope Järvinen
-            picture: static/toimijat/aebaej_placeholder.png
+            picture: static/toimijat/2021/roope_jarvinen.jpg
           - name: Elise Pitkänen
-            picture: static/toimijat/aebaej_placeholder.png
+            picture: static/toimijat/2021/elise_pitkanen.jpg
           - name: Tommi Arffman
-            picture: static/toimijat/aebaej_placeholder.png
+            picture: static/toimijat/2021/tommi_arffman.jpg
           - name: Toni Jutila
             picture: static/toimijat/aebaej_placeholder.png
           - name: Matias Vapola
@@ -260,19 +262,19 @@ committees:
   - name: Media Committee
     description:
     positions:
-      - name: Communicator
+      - name: Viestijä
         description:
         members:
           - name: Veera Ihalainen
-            picture: static/toimijat/2021/veera_ihalainen.jpg
+            picture: static/toimijat/2021/veera_ihalainen_2.jpg
           - name: Vesta Kulomaa
             picture: static/toimijat/2020/vesta_kulomaa.jpg
           - name: Johan Sarpoma
             picture: static/toimijat/2020/johan_sarpoma.jpg
           - name: Zhibin Yan
-            picture: static/toimijat/2020/zhibin_yan.jpg
+            picture: static/toimijat/2021/zhibin_yan.jpg
           - name: Heikki Penttinen
-            picture: static/toimijat/aebaej_placeholder.png
+            picture: static/toimijat/2021/heikki_penttinen.jpg
 
   - name: Stimulaatio Committee
     description:
@@ -281,52 +283,52 @@ committees:
         description:
         members:
           - name: Viivi-Maari Kallinen
-            picture: static/toimijat/aebaej_placeholder.png
+            picture: static/toimijat/2021/viivi-maari_kallinen.jpg
       - name: Depressant
         description:
         members:
           - name: Taavi Oja
-            picture: static/toimijat/2020/taavi_oja.jpg
+            picture: static/toimijat/2021/taavi_oja.jpg
           - name: Aino Valkama
-            picture: static/toimijat/aebaej_placeholder.png
+            picture: static/toimijat/2021/aino_valkama.jpg
           - name: Emilia Kuisma
-            picture: static/toimijat/aebaej_placeholder.png
+            picture: static/toimijat/2021/emilia_kuisma.jpg
           - name: Jenna Kerkkänen
             picture: static/toimijat/2020/jenna_kerkkanen.jpg
           - name: Sampo Saloriutta
-            picture: static/toimijat/2020/sampo_saloriutta.jpg
+            picture: static/toimijat/2021/sampo_saloriutta.jpg
           - name: Ville Strengell
             picture: static/toimijat/2020/ville_strengell.jpg
           - name: Venla Tiainen
-            picture: static/toimijat/aebaej_placeholder.png
+            picture: static/toimijat/2021/venla_tiainen.jpg
           - name: Helmi Takala
-            picture: static/toimijat/2020/helmi_takala.jpg
+            picture: static/toimijat/2021/helmi_takala.jpg
           - name: Laura Häkkinen
-            picture: static/toimijat/aebaej_placeholder.png
+            picture: static/toimijat/2021/laura_hakkinen.jpg
           - name: Emma Riikonen
-            picture: static/toimijat/2019/emma_riikonen_19.jpg
+            picture: static/toimijat/2021/emma_riikonen.jpg
 
   - name: Trek Committee
     description:
     positions:
-      - name: Trek Master
+      - name: Trek master
         description:
         members:
           - name: Leia Nummisalo
-            picture: static/toimijat/2020/leia_nummisalo.jpg
+            picture: static/toimijat/2021/leia_nummisalo.jpg
           - name: Akseli Konttas
-            picture: static/toimijat/2020/akseli_konttas.jpg
-      - name: Trip-prentices
+            picture: static/toimijat/2021/akseli_konttas.jpg
+      - name: Retkisällit
         description:
         members:
           - name: Elias Haarnoja
-            picture: static/toimijat/aebaej_placeholder.png
+            picture: static/toimijat/2021/elias_haarnoja.jpg
           - name: Axel Åberg
-            picture: static/toimijat/aebaej_placeholder.png
+            picture: static/toimijat/2021/axel_aberg.jpg
           - name: Aino Valkama
-            picture: static/toimijat/aebaej_placeholder.png
+            picture: static/toimijat/2021/aino_valkama.jpg
           - name: Niilo Heinonen
-            picture: static/toimijat/2020/niilo_heinonen.jpg
+            picture: static/toimijat/2021/niilo_heinonen.jpg
           - name: Jenna Kerkkänen
             picture: static/toimijat/2020/jenna_kerkkanen.jpg
           - name: Niina Tapanainen
@@ -334,9 +336,35 @@ committees:
           - name: Ville Strengell
             picture: static/toimijat/2020/ville_strengell.jpg
           - name: Olli-Pekka Pennanen
-            picture: static/toimijat/2020/olli-pekka_pennanen.jpg
+            picture: static/toimijat/2021/olli-pekka_pennanen.jpg
           - name: Rami Ghoniem
+            picture: static/toimijat/2021/rami_ghoniem.jpg
+
+  - name: Golden Tomato
+    description:
+    positions:
+      - name: Golden Editor-in-Chief
+        description:
+        members:
+          - name: Noora Salminen
+            picture: static/toimijat/2019/noora_salminen_19.jpg
+      - name: Golden Editor
+        description:
+        members:
+          - name: Onni Lampi
             picture: static/toimijat/aebaej_placeholder.png
+          - name: Sanna Halmkrona
+            picture: static/toimijat/2019/sanna_halmkrona_2.jpg
+          - name: Kaisa Hynynen
+            picture: static/toimijat/aebaej_placeholder.png
+          - name: Jan Juvonen
+            picture: static/toimijat/2019/jan_juvonen_19.jpg
+          - name: Juuso Mikkonen
+            picture: static/toimijat/aebaej_placeholder.png
+          - name: Karolina Itäinen
+            picture: static/toimijat/2019/karolina_itainen_19.jpg
+          - name: Taavi Oja
+            picture: static/toimijat/2021/taavi_oja.jpg
 
   - name: Outside the Committees
     description:
@@ -352,9 +380,9 @@ committees:
         description:
         members:
           - name: Sakari Ropponen
-            picture: static/toimijat/2020/sakari_ropponen.jpg
+            picture: static/toimijat/2021/sakari_ropponen.jpg
           - name: Taavi Oja
-            picture: static/toimijat/2020/taavi_oja.jpg
+            picture: static/toimijat/2021/taavi_oja.jpg
       - name: Alderman
         description:
         members:

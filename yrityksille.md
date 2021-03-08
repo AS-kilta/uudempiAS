@@ -33,5 +33,5 @@ Yritysyhteistyöstä vastaa meidän päässämme yrityssuhdetoimikunta, jota koo
 Aku Heinonen<br>
 Yrityssuhdevastaava<br>
 [Email: yrityssuhdevastaava](mailto:yrityssuhdevastaava@POISTAas.fi)<br>
-[Tel: +358452326632](tel://+358405927944)<br>
+[Tel: +358405927944](tel://+358405927944)<br>
 [Telegram: @Bisnesisukki](https://telegram.me/Bisnesisukki)
