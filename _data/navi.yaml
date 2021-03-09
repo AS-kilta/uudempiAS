@@ -13,6 +13,8 @@ items:
         - title: Galleria
           href: https://gallery.as.fi/
           absolute: true
+  - title: Abeille
+    href: /abeille.html
   - title: Kilta
     href: /kilta
     subnavi:
