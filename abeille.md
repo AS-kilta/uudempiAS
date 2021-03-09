@@ -183,25 +183,25 @@ Kurssi on DSD-pääaineen kurssi, jossa tutustutaan lähemmin tuotekehityksen er
 
 Kaikkiin tekniikan alan hakukohteisiin kuten myös AIT:lle voit hakea jollain seuraavista tavoista​
 
-* **Todistusvalinta:** Opiskelupaikan voit saada pelkän ylioppilastodistuksen perusteella. Lisää tietoa eri aineiden pisteytyksestä, kynnysehdoista sekä vanhoista pääsyrajoista löydät [DIA-yhteisvalinnan sivuilta​](https://dia.fi/haluan-diplomi-insinooriksi/valinta-di-hakukohteisiin/​).
+* **Todistusvalinta:** Opiskelupaikan voit saada pelkän ylioppilastodistuksen perusteella. Lisää tietoa eri aineiden pisteytyksestä, kynnysehdoista sekä vanhoista pääsyrajoista löydät [DIA-yhteisvalinnan sivuilta​](https://dia.fi/haluan-diplomi-insinooriksi/valinta-di-hakukohteisiin/).
 
-* **Valintakokeet:** Opiskelupaikan voit saada osallistumalla valintakokeeseen, jossa mitataan matematiikan, fysiikan, kemian ja tekniikan alan luovaa ongelmanratkaisukykyä.  Matematiikasta tehtäviä on kolme ja fysiikasta, kemiasta ja ongelmanratkaisusta yhteensä kuusi joista kolmeen vastataan. Lisää tietoa valintakokeista löytyy [DIA-yhteisvalinnan sivuilta​](https://dia.fi/haluan-diplomi-insinooriksi/valinta-di-hakukohteisiin/​).
+* **Valintakokeet:** Opiskelupaikan voit saada osallistumalla valintakokeeseen, jossa mitataan matematiikan, fysiikan, kemian ja tekniikan alan luovaa ongelmanratkaisukykyä.  Matematiikasta tehtäviä on kolme ja fysiikasta, kemiasta ja ongelmanratkaisusta yhteensä kuusi joista kolmeen vastataan. Lisää tietoa valintakokeista löytyy [DIA-yhteisvalinnan sivuilta​](https://dia.fi/haluan-diplomi-insinooriksi/valinta-di-hakukohteisiin/).
 
-* **Avoin väylä:** Opiskelupaikan voit saada myös avoimen yliopiston kautta suorittamalla riittävän määrän opintoja riittävin arvosanoin tietyn ajan sisällä. Lisää tietoa löydät [avoimen yliopiston sivuilta](https://www.aalto.fi/fi/aalto-yliopiston-avoin-yliopisto​).
+* **Avoin väylä:** Opiskelupaikan voit saada myös avoimen yliopiston kautta suorittamalla riittävän määrän opintoja riittävin arvosanoin tietyn ajan sisällä. Lisää tietoa löydät [avoimen yliopiston sivuilta](https://www.aalto.fi/fi/aalto-yliopiston-avoin-yliopisto).
 
 ### Digital Systems and Design
 
 Haku englanninkieliseen DSD-pääaineeseen, kuten muihinkin Aallon *Bachelor's Programme in Science and Technology* –kandidaattiohjelmiin tapahtuu yhteishaun ensimmäisessä vaiheessa tammikuussa. Valinta englanninkielisiin tekniikan kandidaattiopintoihin tapahtuu joko SAT-testin tulosten tai ylioppilas-, IB-, EB- tai DIA-/RP-tutkinnon arvosanojen perusteella.
 
-Lisää tietoa hakemisesta englanninkielisiin kandiohjelmiin löydät Aallon [nettisivuilta](https://www.aalto.fi/fi/opiskelu-aallossa/haku-aalto-bachelors-programme-in-science-and-technology-kandidaattiohjelmaan​) ja [opintopolusta](https://opintopolku.fi/app/#!/korkeakoulu/1.2.246.562.17.83264128444)​.
+Lisää tietoa hakemisesta englanninkielisiin kandiohjelmiin löydät Aallon [nettisivuilta](https://www.aalto.fi/fi/opiskelu-aallossa/haku-aalto-bachelors-programme-in-science-and-technology-kandidaattiohjelmaan) ja [opintopolusta](https://opintopolku.fi/app/#!/korkeakoulu/1.2.246.562.17.83264128444)​.
 
 ## Linkkejä
 
 Jos haluat tutustua alan opintoihin vielä tarkemmin, löydät alta muutamia hyödyllisiä linkkejä:
 
-* [Automaatio- ja informaatioteknologia, Aalto yliopisto​](https://www.aalto.fi/fi/koulutustarjonta/automaatio-ja-informaatioteknologia-tekniikan-kandidaatti-ja-diplomi-insinoori?gclid=Cj0KCQiA1pyCBhCtARIsAHaY_5dA3voDMbCHbruJNnrToyPsVEHR4oOPSN_dAa8Fq7LbcS7Hb-Wk5zMaAhjyEALw_wcB​)
-* [Automaatio- ja systeemitekniikan pääaine​](https://into.aalto.fi/display/fikandelec/Automaatio-+ja+systeemitekniikka+2020-2022​)
-* [Informaatioteknologian pääaine​](https://into.aalto.fi/display/fikandelec/Informaatioteknologia+2020-2022​)
-* [Digital systems and Design -pääaine​](https://into.aalto.fi/display/enbsctech/Digital+Systems+and+Design+2020-2022​)
-* [Sähkötekniikan korkeakoulun etusivu​](https://www.aalto.fi/fi/sahkotekniikan-korkeakoulu​)
+* [Automaatio- ja informaatioteknologia, Aalto yliopisto​](https://www.aalto.fi/fi/koulutustarjonta/automaatio-ja-informaatioteknologia-tekniikan-kandidaatti-ja-diplomi-insinoori?gclid=Cj0KCQiA1pyCBhCtARIsAHaY_5dA3voDMbCHbruJNnrToyPsVEHR4oOPSN_dAa8Fq7LbcS7Hb-Wk5zMaAhjyEALw_wcB)
+* [Automaatio- ja systeemitekniikan pääaine​](https://into.aalto.fi/display/fikandelec/Automaatio-+ja+systeemitekniikka+2020-2022)
+* [Informaatioteknologian pääaine​](https://into.aalto.fi/display/fikandelec/Informaatioteknologia+2020-2022)
+* [Digital systems and Design -pääaine​](https://into.aalto.fi/display/enbsctech/Digital+Systems+and+Design+2020-2022)
+* [Sähkötekniikan korkeakoulun etusivu​](https://www.aalto.fi/fi/sahkotekniikan-korkeakoulu)
 * [Sähkötekniikan korkeakoulu, Into​](https://into.aalto.fi/display/fikandelec/)
