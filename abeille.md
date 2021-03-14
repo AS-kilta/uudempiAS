@@ -19,7 +19,7 @@ title: Abeille
     }
 </style>
 
-Kiinnostaako, miten 5G, esineiden internet ja muut tietoliikenteen innovaatiot mullistavat maailmaa pöhisevien markkinointitermien takana? Tai miten automaatio ja robotiikka parantavat tehtaiden tuotantoa tai vievät raketteja kiertoradalle? Vai olisiko tähtäimessä kansainvälisyys ja suunnittelu? Olet saapunut oikeaan paikkaan! Tältä sivulta saat paljon tarpeellista tietoa opiskelemaan hakemisesta.​
+Kiinnostaako, miten 5G, esineiden internet ja muut tietoliikenteen innovaatiot mullistavat maailmaa pöhisevien markkinointitermien takana? Tai miten automaatio ja robotiikka parantavat tehtaiden tuotantoa tai vievät raketteja kiertoradalle? Vai haluaisitko opiskella digitaalisten järjestelmien saloja aidosti kansainvälisessä ympäristössä? Olet saapunut oikeaan paikkaan! Tältä sivulta saat paljon tarpeellista tietoa opiskelemaan hakemisesta.​
 
 Automaatio- ja systeemitekniikan killan alla on kaksi erillistä hakukohdetta. ​
 
@@ -32,7 +32,7 @@ Hakemalla AIT:lle voit valita pääaineesi ensimmäisen opiskeluvuoden loppupuol
 
 Kaikista näistä pääaineista pääsee jatkamaan maisteriopintoihin ja valmistumaan diplomi-insinööriksi​.
 
-Alta löydät kuvaukset kaikista pääaineista, sekä alan opiskelijoiden haastatteluja.
+Alta löydät kuvaukset kaikista pääaineista sekä alan opiskelijoiden haastatteluja.
 
 ## Automaatio- ja systeemitekniikka
 
@@ -88,7 +88,7 @@ Verkkoon kytkettyjen laitteiden määrä kasvaa räjähdysmäisesti ja esineiden
 
 ## Digital Systems and Design
 
-Tässä englanninkielisessä pääainessa pääset opiskelemaan monialaisia aiheita. Keskityt opiskelemaan kompleksisien digitaalisten systeemien suunnittelua ja tuotantoa. Eniten esille tulevat aiheet ovat sähkötekniikka, automaatio ja elektroniikka sekä tieto-, kommunikaatio- ja informaatiotieteet. Tämän pääaineen opiskelijoista valmistuu tulevaisuuden huippuosaajia matematiikan, mallintamisen, elektroniikan sekä signaali- ja systeemitieteen aloilla.
+Kiinnostaako kansainvälisyys ja mahdollisuus aloittaa opiskelu englanniksi jo kandivaiheessa? Digital Systems and Design on yksi Aallon uusista ja moderneista englanninkielisistä kandipääaineista. Tämän monipuolisen pääaineen opiskelijana pääset tutustumaan esimerkiksi tietoverkkoihin, koneoppimiseen, fotoniikkaan ja käyttäjäkokemuksen (UX) suunnitteluun. Opinnot mahdollistavat sulavan siirtymän moniin eri maisteripääaineisiin sähkö- ja tietotekniikan korkeakouluissa mm. datatieteen, nanoteknologian ja automaation aloille.
 
 <div class="contact-container">
 
@@ -117,6 +117,24 @@ Tässä englanninkielisessä pääainessa pääset opiskelemaan monialaisia aihe
 </div>
 
 </div>
+
+## Hakeminen
+
+### Automaatio- ja informaatioteknologia
+
+Kaikkiin tekniikan alan hakukohteisiin kuten myös AIT:lle voit hakea jollain seuraavista tavoista​
+
+* **Todistusvalinta:** Opiskelupaikan voit saada pelkän ylioppilastodistuksen perusteella. Lisää tietoa eri aineiden pisteytyksestä, kynnysehdoista sekä vanhoista pääsyrajoista löydät [DIA-yhteisvalinnan sivuilta​](https://dia.fi/haluan-diplomi-insinooriksi/valinta-di-hakukohteisiin/).
+
+* **Valintakokeet:** Opiskelupaikan voit saada osallistumalla valintakokeeseen, jossa mitataan matematiikan, fysiikan, kemian ja tekniikan alan luovaa ongelmanratkaisukykyä.  Matematiikasta tehtäviä on kolme ja fysiikasta, kemiasta ja ongelmanratkaisusta yhteensä kuusi joista kolmeen vastataan. Lisää tietoa valintakokeista löytyy [DIA-yhteisvalinnan sivuilta​](https://dia.fi/haluan-diplomi-insinooriksi/valinta-di-hakukohteisiin/).
+
+* **Avoin väylä:** Opiskelupaikan voit saada myös avoimen yliopiston kautta suorittamalla riittävän määrän opintoja riittävin arvosanoin tietyn ajan sisällä. Lisää tietoa löydät [avoimen yliopiston sivuilta](https://www.aalto.fi/fi/aalto-yliopiston-avoin-yliopisto).
+
+### Digital Systems and Design
+
+Haku englanninkieliseen DSD-pääaineeseen, kuten muihinkin Aallon *Bachelor's Programme in Science and Technology* –kandidaattiohjelmiin tapahtuu yhteishaun ensimmäisessä vaiheessa tammikuussa. Valinta englanninkielisiin tekniikan kandidaattiopintoihin tapahtuu joko SAT-testin tulosten tai ylioppilas-, IB-, EB- tai DIA-/RP-tutkinnon arvosanojen perusteella.
+
+Lisää tietoa hakemisesta englanninkielisiin kandiohjelmiin löydät Aallon [nettisivuilta](https://www.aalto.fi/fi/opiskelu-aallossa/haku-aalto-bachelors-programme-in-science-and-technology-kandidaattiohjelmaan) ja [opintopolusta](https://opintopolku.fi/app/#!/korkeakoulu/1.2.246.562.17.83264128444). **Huomioi, että haku DSD-ohjelmaan tapahtuu jo tammikuussa!**
 
 ## Opintojen rakenne
 
@@ -176,24 +194,6 @@ Tietokoneverkot on IT-pääaineen kurssi, jossa opiskelijat pääsevät opiskele
 **Design thinking and Advanced prototyping**​
 
 Kurssi on DSD-pääaineen kurssi, jossa tutustutaan lähemmin tuotekehityksen eri vaiheisiin ja siihen miten eri teknologioita voidaan tässä hyödyntää.​
-
-## Hakeminen
-
-### Automaatio- ja informaatioteknologia
-
-Kaikkiin tekniikan alan hakukohteisiin kuten myös AIT:lle voit hakea jollain seuraavista tavoista​
-
-* **Todistusvalinta:** Opiskelupaikan voit saada pelkän ylioppilastodistuksen perusteella. Lisää tietoa eri aineiden pisteytyksestä, kynnysehdoista sekä vanhoista pääsyrajoista löydät [DIA-yhteisvalinnan sivuilta​](https://dia.fi/haluan-diplomi-insinooriksi/valinta-di-hakukohteisiin/).
-
-* **Valintakokeet:** Opiskelupaikan voit saada osallistumalla valintakokeeseen, jossa mitataan matematiikan, fysiikan, kemian ja tekniikan alan luovaa ongelmanratkaisukykyä.  Matematiikasta tehtäviä on kolme ja fysiikasta, kemiasta ja ongelmanratkaisusta yhteensä kuusi joista kolmeen vastataan. Lisää tietoa valintakokeista löytyy [DIA-yhteisvalinnan sivuilta​](https://dia.fi/haluan-diplomi-insinooriksi/valinta-di-hakukohteisiin/).
-
-* **Avoin väylä:** Opiskelupaikan voit saada myös avoimen yliopiston kautta suorittamalla riittävän määrän opintoja riittävin arvosanoin tietyn ajan sisällä. Lisää tietoa löydät [avoimen yliopiston sivuilta](https://www.aalto.fi/fi/aalto-yliopiston-avoin-yliopisto).
-
-### Digital Systems and Design
-
-Haku englanninkieliseen DSD-pääaineeseen, kuten muihinkin Aallon *Bachelor's Programme in Science and Technology* –kandidaattiohjelmiin tapahtuu yhteishaun ensimmäisessä vaiheessa tammikuussa. Valinta englanninkielisiin tekniikan kandidaattiopintoihin tapahtuu joko SAT-testin tulosten tai ylioppilas-, IB-, EB- tai DIA-/RP-tutkinnon arvosanojen perusteella.
-
-Lisää tietoa hakemisesta englanninkielisiin kandiohjelmiin löydät Aallon [nettisivuilta](https://www.aalto.fi/fi/opiskelu-aallossa/haku-aalto-bachelors-programme-in-science-and-technology-kandidaattiohjelmaan) ja [opintopolusta](https://opintopolku.fi/app/#!/korkeakoulu/1.2.246.562.17.83264128444)​.
 
 ## Linkkejä
 
