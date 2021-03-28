@@ -21,7 +21,10 @@ Tarkoituksensa toteuttamiseksi kilta voi:
 2. järjestää opintoihin, yliopistoon, korkeakoulupoliittisiin ja yhteiskunnallisiin kysymyksiin liittyviä opinto- ja tiedotustilaisuuksia 
 3. hoitaa killan tiedotustoimintaa ja julkaista kiltalehteä 
 4. auttaa uusia jäseniä perehtymään yliopistoon ja sen ilmapiiriin sekä selviytymään opintojen alkuvaiheessa ilmenevistä ongelmista 
-5. pitää yhteyttä alan ammatillisiin järjestöihin ja yrityksiin sekä killan vanhoihin jäseniin 6. välittää voittoa tavoittelematta opintoihin liittyvää materiaalia jäsenistölle 7. pitää yhteyttä ja toimia yhteistyössä Aalto-yliopiston ylioppilaskunnan (AYY), Aalto yliopiston, alan ammatillisten järjestöjen, yritysten sekä muiden sidosryhmien kanssa 8. pyrkiä saavuttamaan tarkoituksensa muita samantapaisia toimintamuotoja harjoittamalla. 
+5. pitää yhteyttä alan ammatillisiin järjestöihin ja yrityksiin sekä killan vanhoihin jäseniin 
+6. välittää voittoa tavoittelematta opintoihin liittyvää materiaalia jäsenistölle 
+7. pitää yhteyttä ja toimia yhteistyössä Aalto-yliopiston ylioppilaskunnan (AYY), Aalto yliopiston, alan ammatillisten järjestöjen, yritysten sekä muiden sidosryhmien kanssa 
+8. pyrkiä saavuttamaan tarkoituksensa muita samantapaisia toimintamuotoja harjoittamalla. 
 
 **3§ Toiminnan tukeminen**
 
@@ -53,7 +56,6 @@ Killan kunniajäseneksi voi killan kokous kolmen neljäsosan (3/4) ääntenenemm
 Esityksen kunniajäseneksi kutsumisesta tekee hallitus, mutta myös yhden kymmenesosan (1/10) killan varsinaisista jäsenistä käsittävällä ryhmällä on siihen oikeus. 
 
 Killalla voi samanaikaisesti olla korkeintaan kymmenen (10) kunniajäsentä.
-
 
 **6§ Jäsenluettelo**
 
