@@ -91,7 +91,7 @@ committees:
           - name: Venla Tiainen
             picture: static/toimijat/2021/venla_tiainen.jpg
           - name: Marcell Berta
-            picture: static/toimijat/2020/marcell_berta.jpg
+            picture: static/toimijat/2021/marcell_berta.jpg
           - name: Meri Hilden
             picture: static/toimijat/2021/meri_hilden_2.jpg
           - name: Jesse Lukkarinen
@@ -100,7 +100,7 @@ committees:
         description:
         members:
           - name: Matias Varonen
-            picture: static/toimijat/aebaej_placeholder.png
+            picture: static/toimijat/2021/matias_varonen.jpg
       - name: Liikkuja
         description:
         members:
@@ -121,7 +121,7 @@ committees:
         description:
         members:
           - name: Mari Pulkkinen
-            picture: static/toimijat/2020/mari_pulkkinen.jpg
+            picture: static/toimijat/2021/mari_pulkkinen.jpg
 
   - name: Huvitoimikunta
     description:
@@ -130,7 +130,7 @@ committees:
         description:
         members:
           - name: Marcell Berta
-            picture: static/toimijat/2020/marcell_berta.jpg
+            picture: static/toimijat/2021/marcell_berta.jpg
           - name: Lotta Makkonen
             picture: static/toimijat/2021/lotta_makkonen.jpg
           - name: Elias Erke
@@ -199,7 +199,7 @@ committees:
           - name: Zhibin Yan
             picture: static/toimijat/2021/zhibin_yan.jpg
           - name: Lassi Ihalainen
-            picture: static/toimijat/2020/lassi_ihalainen.jpg
+            picture: static/toimijat/2021/lassi_ihalainen.jpg
           - name: Jenna Kerkkänen
             picture: static/toimijat/2020/jenna_kerkkanen.jpg
           - name: Mikko Hokkanen
@@ -223,7 +223,7 @@ committees:
         - name: Emil Huttunen
           picture: static/toimijat/2020/emil_huttunen.jpg
         - name: Marcell Berta
-          picture: static/toimijat/2020/marcell_berta.jpg
+          picture: static/toimijat/2021/marcell_berta.jpg
         - name: Niina Tapanainen
           picture: static/toimijat/2020/niina_tapanainen.jpg
         - name: Taavi Oja
@@ -248,7 +248,7 @@ committees:
           - name: Tommi Arffman
             picture: static/toimijat/2021/tommi_arffman.jpg
           - name: Toni Jutila
-            picture: static/toimijat/aebaej_placeholder.png
+            picture: static/toimijat/2021/toni_jutila.jpg
           - name: Matias Vapola
             picture: static/toimijat/2021/matias_vapola.jpg
       - name: rrrRankkavastaava
@@ -257,7 +257,7 @@ committees:
           - name: Alex Korpela
             picture: static/toimijat/2020/alex_korpela.jpg
           - name: Lassi Ihalainen
-            picture: static/toimijat/2020/lassi_ihalainen.jpg
+            picture: static/toimijat/2021/lassi_ihalainen.jpg
 
   - name: Mediatoimikunta
     description:
@@ -268,7 +268,7 @@ committees:
           - name: Veera Ihalainen
             picture: static/toimijat/2021/veera_ihalainen_2.jpg
           - name: Vesta Kulomaa
-            picture: static/toimijat/2020/vesta_kulomaa.jpg
+            picture: static/toimijat/2021/vesta_kulomaa.jpg
           - name: Johan Sarpoma
             picture: static/toimijat/2020/johan_sarpoma.jpg
           - name: Zhibin Yan
@@ -373,7 +373,7 @@ committees:
         description:
         members:
           - name: Severi Casserly
-            picture: static/toimijat/2020/severi_casserly.jpg
+            picture: static/toimijat/2021/severi_casserly.jpg
           - name: Ville Eronen
             picture: static/toimijat/2019/ville_eronen_19.jpg
       - name: Varatoiminnantarkastaja
