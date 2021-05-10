@@ -91,10 +91,23 @@ body {
 
 .footer__social {
   display: flex;
-  justify-content: right;
-  margin: 2em 3em 0;
+  flex-direction: column;
+  margin: 2em 2em 0;
+
+  & > * {
+    margin: 1rem auto;
+  }
+  
+  @media screen and (min-width: 700px) {
+    justify-content: right;
+    margin: 2em 0;
+    
+    & > * {
+      margin: 1rem;
+    }
+  }
+
   i {
-    margin-left: 2em;
     font-size: 18px;
     color: white;
   }
