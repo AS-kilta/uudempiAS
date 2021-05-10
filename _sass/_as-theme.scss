@@ -99,6 +99,7 @@ body {
   }
   
   @media screen and (min-width: 700px) {
+    flex-direction: row;
     justify-content: right;
     margin: 2em 0;
     
