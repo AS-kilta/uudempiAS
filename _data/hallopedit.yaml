@@ -1,33 +1,68 @@
 committees:
-  - name: 2020
+  - name: 2021
     description:
     positions:
       - description:
         members:
-          - name: Niina Tapanainen
-            picture: static/toimijat/2020/niina_tapanainen.jpg
+          - name: Mari Pulkkinen
+            picture: static/toimijat/2021/mari_pulkkinen.jpg
           - name: Emil Huttunen
             picture: static/toimijat/2020/emil_huttunen.jpg
-          - name: Ville Eronen
-            picture: static/toimijat/2019/ville_eronen_19.jpg
-          - name: Severi Casserly
-            picture: static/toimijat/2020/severi_casserly.jpg
-          - name: Akseli Konttas
-            picture: static/toimijat/2020/akseli_konttas.jpg
-          - name: Leia Nummisalo
-            picture: static/toimijat/2020/leia_nummisalo.jpg
+          - name: Antti Regelin
+            picture: static/toimijat/2021/antti_regelin_2.jpg
+          - name: Santeri Sipilä
+            picture: static/toimijat/2021/santeri_sipila.jpg
+          - name: Kalle Rantala
+            picture: static/toimijat/2021/kalle_rantala.jpg
+          - name: Juuso Määttä
+            picture: static/toimijat/2021/juuso_maatta.jpg
           - name: Henri Toivola
-            picture: static/toimijat/2020/henri_toivola.jpg
-          - name: Verneri Hirvonen
-            picture: static/toimijat/2020/verneri_hirvonen.jpg
+            picture: static/toimijat/2021/henri_toivola.jpg
+          - name: Sakari Ropponen
+            picture: static/toimijat/2021/sakari_ropponen.jpg
+          - name: Veeti Kahilainen
+            picture: static/toimijat/2021/veeti_kahilainen_2.jpg
           - name: Arttu Pohja
             picture: static/toimijat/2020/arttu_pohja.jpg
-          - name: Helena Kaisanlahti
-            picture: static/toimijat/2020/helena_kaisanlahti.jpg
-          - name: Emma Riikonen
-            picture: static/toimijat/2019/emma_riikonen_19.jpg
-          - name: Veeti Kahilainen
-            picture: static/toimijat/2020/veeti_kahilainen.jpg
+          - name: Veera Ihalainen
+            picture: static/toimijat/2021/veera_ihalainen.jpg
+          - name: Niina Tapanainen
+            picture: static/toimijat/2020/niina_tapanainen.jpg
+          - name: Akseli Konttas
+            picture: static/toimijat/2021/akseli_konttas.jpg
+          - name: Frans Welin
+            picture: static/toimijat/aebaej_placeholder.png
+
+#committees:
+#  - name: 2020
+#    description:
+#    positions:
+#      - description:
+#        members:
+#          - name: Niina Tapanainen
+#            picture: static/toimijat/2020/niina_tapanainen.jpg
+#          - name: Emil Huttunen
+#            picture: static/toimijat/2020/emil_huttunen.jpg
+#          - name: Ville Eronen
+#            picture: static/toimijat/2019/ville_eronen_19.jpg
+#          - name: Severi Casserly
+#            picture: static/toimijat/2020/severi_casserly.jpg
+#          - name: Akseli Konttas
+#            picture: static/toimijat/2020/akseli_konttas.jpg
+#          - name: Leia Nummisalo
+#            picture: static/toimijat/2020/leia_nummisalo.jpg
+#          - name: Henri Toivola
+#          picture: static/toimijat/2020/henri_toivola.jpg
+#          - name: Verneri Hirvonen
+#            picture: static/toimijat/2020/verneri_hirvonen.jpg
+#          - name: Arttu Pohja
+#            picture: static/toimijat/2020/arttu_pohja.jpg
+#          - name: Helena Kaisanlahti
+#            picture: static/toimijat/2020/helena_kaisanlahti.jpg
+#          - name: Emma Riikonen
+#            picture: static/toimijat/2019/emma_riikonen_19.jpg
+#          - name: Veeti Kahilainen
+#            picture: static/toimijat/2020/veeti_kahilainen.jpg
   # - name: Hallopedit 2019
   #   description:
   #   positions:

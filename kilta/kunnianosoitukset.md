@@ -90,8 +90,13 @@ Ei jaettu
 - [Noora Salminen](#noora-salminen)
 
 **2019**
-- Karolina Itäinen
-- Eero Santamala
+- [Karolina Itäinen](#karolina-itäinen)
+- [Eero Santamala](#eero-santamala)
+
+**2020**
+- [Roope Pääkkönen](#roope-pääkkönen)
+- [Severi Casserly](#severi-casserly)
+- [Mari Pulkkinen](#mari-pulkkinen)
 
 #### Hopeisen pränikän saajat
 **2016**
@@ -123,11 +128,20 @@ Ei jaettu
 - [Titta Saari](#titta-saari)
 
 **2019**
-- Ville Eronen
-- Roope Pääkkönen
-- Emma Riikonen
-- Helena Kaisanlahti
-- Taru Virtanen
+- [Ville Eronen](#ville-eronen)
+- [Roope Pääkkönen](#roope-pääkkönen)
+- [Emma Riikonen](#emma-riikonen)
+- [Helena Kaisanlahti](#helena-kaisanlahti)
+- [Taru Virtanen](#taru-virtanen)
+
+**2020**
+- [Iivo Yrjölä](#iivo-yrjölä)
+- [Vesta Kulomaa](#vesta-kulomaa)
+- [Alex Korpela](#alex-korpela)
+- [Juuso Määttä](#juuso-määttä)
+- [Mikko Hokkanen](#mikko-hokkanen)
+- [Akseli Konttas](#akseli-konttas)
+- [Emil Huttunen](#emil-huttunen)
 
 ## Perustelut
 
@@ -407,6 +421,26 @@ Illan toinen kultaisen pränikän saaja on ollut killan toiminnassa mukana tii
 
 Hallituksessa ja sen ulkopuolella tämä henkilö on huokunut tsemppaavaa asennetta ja hoitanut tehtävänsä aina tunnollisesti maaliin. Positiivinen asenne ja pohjaton jaksaminen on kannustanut myös muita tekijöitä kantamaan tehtävät kunnialla loppuun saakka.
 
+### 2019
+
+#### Karolina Itäinen
+Ensimmäinen Kultaisen Pränikän saaja ei pidä itsestään kovaa meteliä. Hän on rauhallinen ja luotettava niin tekijänä kuin kaverinakin. Hän on monipuolisesti killassa enemmän taustalla toiminut, mutta ollut myös näkyvissä lukkarin tehtävissä. Juhlavuonna hän kantoi suuren vastuun, kun killan tulevaisuutta horjuutti lähes kolminkertainen liikevaihto sekä killan historian suurimman tapahtuman toteutumisen epävarmuus. Rahaliikenteen hoidon lisäksi hän hoiti juhlavuonna varapuheenjohtajan tehtävän kunnialla tavallista suuremmista vastuista huolimatta. Hän on Karolina Itäinen. 
+
+#### Eero Santamala
+Tämä pitkän linjan kilta-aktiivi on ehtinyt tehdä monenlaista. Hänet tunnetaan tekemisen ihmisenä, joka ei pelkää tarttua sen enempää työkaluihin kuin tekstieditoriinkaan. Vastuunsa hän on aina hoitanut ilman meteliä. Vuodet huvitoimikunnassa saivat jatkoa puheenjohtajana, jonka aikana uudistettiin niin ohjesääntöjä kuin killan organisaatiotakin. Valmistumisen jo häämöttäessä tulevaisuudessa lähti hän vielä juhlavuotta tekemään ja olikin takuumies 20. Stilliksen takana. Hän on Eero Santamala. 
+
+
+### 2020
+
+#### Roope Pääkkönen
+Tämä kiltalainen on toiminut killassa pitkään ja ansiokkaasti. Hän on kannustava persoona, joka on reippaalla otteellaan ollut mukana edistämässä killassa tekemisen meininkiä. Hän on kantanut killassa vastuuta monella osa-alueella niin kulttuurin, liikunnan, kuin phuksikasvatuksenkin parissa. Hän on kantanut vastuuta sekä hallituksessa että sen ulkopuolella. Vielä valmistumisen häämöttäessäkin hän on ottanut tehtäväkseen tuoda killan laulukulttuurin uudelle vuosikymmenelle laulukirjatoimikunnan päätoimittajan roolissa. Hän on Roope Pääkkönen.
+ 
+#### Severi Casserly
+Tämä henkilö on tehnyt killassa niin paljon että siitä kirjoittaisi vaikka romaanin. Hän on aina valmis auttamaan, ja itsestään meteliä pitämättä hoitaa ja korjailee asioita kaikilla killan osa-alueilla. Jos olet joskus miettinyt, ”kukahan tuonkin pitkään rikki olleen asian on korjannut”, asialla on enemmän kuin todennäköisesti ollut tämä henkilö. Hän on phuksivuodestaan asti ollut kiltaa rakentamassa ja kanssakillistejä tukemassa, ja kantamassa killan lippua eteenpäin niin kuvainnollisesti kuin sananmukaisestikin. Hän kuuluu jo keittiön vakiovarustukseen lähes jokaisessa killan tapahtumassa, ja on sekä puheenjohtajana, ysvinä, säätömestarina, kuin yleisenä mouhonakin saanut aivan valtavasti aikaan. Hän on Severi Casserly.
+ 
+#### Mari Pulkkinen
+Tämä henkilö on ollut phuksivuodestaan asti kehittämässä kiltaa positiiviseen suuntaan. Hän on edistänyt killan toimintakulttuuria niin hallituksessa kuin toimihenkilönäkin, tehnyt kovaa työtä kiltalaisten hyvinvoinnin eteen esimerkiksi yhdenvertaisuustyöryhmässä ja toimihenkilökoulutuksia kehittämällä. Tämä killan tapahtumien korvaamaton järjestäjä on toiminut killassa IE:n puolella niin isäntä kuin smurffinakin. IE-vuoden jälkeenkin hän on ollut aina apuna, kun keittiössä sitä tarvitaan. Kilta on saanut ihastella hänen kättensä jälkeä myös Stimulaatiotoimikunnan johdossa, kuten olemme tänään saaneet todistaa. Hän on Mari Pulkkinen.
+
 ### Hopeiset pränikät
 ### 2016
 #### Aapo Oksman
@@ -476,3 +510,44 @@ Tämä 2013 phuksi on ollut mukana killan tapahtuma- ja kulttuuripuolella phuk
 
 #### Titta Saari
 Tämä 2013 phuksi on tehnyt pitkän kiltauran, josta merkittävän osan hallituksessa. Tämä henkilö on avoin kaikkia kohtaan ja huokuu AS-henkeä. Hän on hoitanut tehtävänsä innostuneella asenteella, osaavasti ja aikataulussa. Vuosien varrella hän toiminut Kulttuuri-mestarina, rahastonhoitajana ja puheenjohtajana.
+
+### 2019
+
+#### Roope Pääkkönen
+Illan ensimmäisen hopeisen pränikän saaja on vaikuttanut vuosien ajan vahvasti niin killan kulttuurin kuin käytänteidenkin saralla. Hän on vienyt kiltaa askeleen eteenpäin kaikessa mihin on ryhtynyt. Hän on viihdyttänyt ja johdattanut kiltalaisia, mm. GT:ssä, sitseillä, rrrRankalla ja jopa jokaisen AS-phuksin ensimmäisenä päivänä Otaniemessä. Toivottakaamme lavalle ensimmäinnen hopeisen pränikän saaja - Roope Pääkkönen
+
+#### Ville Eronen
+Tämä täsmällisyyden ja luotettavuuden perikuva huolehtii siitä, että asiat hoidetaan aina kunnolla. Hän pyytämättä auttamassa kun tapahtumajärjestelyt on kesken ja osallistujat kolkuttavat ovelle tai kun käyt kolmatta kertaa samaa matikankurssia ja et ole katsonut opintosuunnitelmaasi sitten phuksikevään. Hän taistelee teidän puolesta koulun vääryyksiä vastaan, meidän opintojen puolesta. Hän on Ville Eronen.
+
+#### Emma Riikonen
+Tämän toistaiseksi enemmän taustalla toimineen kiltalaisen kädenjäljet ovat ehkä huomaamattomasti piristäneet killan ilmettä ja ulkoasua lähiaikoina. Hän on ollut olennainen osa uutta vahvaa somepresenssiä. Bittiavaruuden ulkopuolella silmämme ovat saaneet kiittää myös kauniista 20-vuotis historiikistä ja samaa silmänruokaa nautimme jopa tänään siellä pöydissänne. Tämän hopeisin pränikän saa - Emma Riikonen
+
+#### Helena Kaisanlahti
+Tämä toinen nouseva tekijä on ollut phuksivuodestaan aktiivinen ja innokas monella eri osa-alueella. Hän on osaltaan ollut mukana uudistamassa kiltaa abimarkkinoinnin osalta. Tämä henkilö on aina täysillä mukana ja täynnä räväkkää tekemisen meininkiä. Pränikän saa - Helena Kaisanlahti.
+
+#### Taru Virtanen
+Illan viimeisen hopeisen pränikän saaja luo puhdasta iloa ja lämpöä ympärilleen. Hän on positiivinen ja huolehtii siitä, että muilla on hyvä olla.  Tämä killan viimeinen tiedottaja toi myös viikoittain söpöt kissakuvat kiltalaisille. Hänen kanssaan on aina tehdä hommia on se sitten rankkaa työtä tai rankkaa huvia. Tämän hopeisen ansiomerkin saa - Taru Virtanen.
+
+### 2020
+
+#### Iivo Yrjölä
+Illan ensimmäisen hopeisen ansiomerkin saaja on toiminut kulttuuri- ja liikuntatoimikunnan alaisuudessa usean vuoden ajan ja liikuttaen toiminnallaan useita killan jäseniä. Jo heti kiltauransa alussa hän näki killan killan liikuntatoimikunnassa kehitettävää ja tämä henkilö otti haasteen vastaan. Siinä hän on myös onnistunut. Onkin aika osoittaa hänelle meidän, killan, kiitokset liikuntatoiminnan kehittämisestä. Ansiomerkin saaja on Iivo Yrjölä.
+
+#### Vesta Kulomaa
+Tämä henkilö on tehnyt killassa monenlaista arvokasta työtä. Hän on toiminut killassa niin smurffina kuin myöhemmin Isäntänäkin. Hän on hallitusvuotensa jälkeen edistänyt killan toimintaa hyvällä asenteella dokumentoijana ja Stimulaatiotoimikunnan jäsenenä. Hänen lämmin innokkuutensa tarttuu taatusti läsnäolijoihin. Hän on Vesta Kulomaa.
+
+#### Alex Korpela
+Seuraava palkittava on ollut aktiivisesti mukana killan toiminnassa vaikka onkin myös muissa toimikunnissa ja järjestöissä ollut jäsenenä. Smurffivuoden jälkeen hän otti emännän hommat haltuun ja tänä vuonna ollut järjestämässä näitä juhlia! Stigulanttina hän on ollut tuomassa kiltaan uudenlaista pilke silmäkulmassa tapahtuvaa keskustelukulttuuria. Hän on Alex Korpela.
+
+#### Juuso Määttä
+Tämä henkilö on aina auttamassa, kun häntä tarvitaan. Hän on rauhallinen ja äärimmäisen luotettava kiltalainen, joka paneutuu sydämellä kaikkeen, mitä hän tekee. Hän on fuksista asti tehnyt kiltaan vaikutuksen nohevalla toiminnallaan, tehnyt erinomaista työtä ISOna, lukkarina, ja auttanut killan ulkoexcutoimintaa.  Hän on Juuso Määttä. 
+
+#### Mikko Hokkanen
+Tämä kiltalainen on toiminut killassa monipuolisesti eri tehtävissä niin hallituksessa kuin toimihenkilönäkin. Hän on tuonut kiltaan positiivista, hyvää tekemisen meininkiä. Aina ISOna toimimisesta lähtien hän on välittänyt aidosti phukseistaan ja ollut helposti lähestyttävissä. Hänen johdollaan ulkomailta tulleet opiskelijat tunsivat itsensä erittäin tervetulleiksi ja osallistuivat killan tapahtumiin sankoin joukoin. Hän on Mikko Hokkanen. 
+
+#### Akseli Konttas
+Illan toiseksi viimeisen hopeisen ansiomerkin saaja on kiltavuosiensa varrella keskittynyt killan toiminnan pyörittämisen kannalta tärkeimpään kokonaisuuteen, eli hallintoon. Hänen käsissään taikka taskuissaan on välillä ollut killan rahat ja myös killan jäsenten edunvalvonnan kehittäminen opintomestarina ja Hallopedinä. Hän on myös ollut huolehtimassa rakkaasta kiltahuoneestamme askivahtina ja hänen ansiostaan killan kululaskuja voi nykyisin tehdä sähköisesti. Kiitos Akseli toiminnastasi killan hyväksi.
+
+
+#### Emil Huttunen
+Illan viimeisen ansiomerkin saaja on toiminut aina fuksivuodesta lähtien hyvällä asenteella mukana killan toiminnassa, aina Otatarhan ajojen ajokista lähtien. Häntä kiinnosti killan ISO-toiminta ja päätyikin ISOpomon asemaan. ISOpomovuoden aikana esille tulleista haasteista huolimatta hän suoritti tehtävänsä kunniakkaasti loppuun. Pelkkä ISOilun ei kuitenkaan riittäny hänelle, vaan hän halusi myös kehittää yhteistyötä killan ja korkeakoulun välillä. Hän ottikin vastaan Opintomestarin viran, jota hän vieläkin kantaa. Emil, kiitos tekemästäsi työstä!

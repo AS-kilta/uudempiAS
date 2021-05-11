@@ -262,7 +262,7 @@ committees:
   - name: Media Committee
     description:
     positions:
-      - name: Viestijä
+      - name: Communicator
         description:
         members:
           - name: Veera Ihalainen
@@ -275,6 +275,8 @@ committees:
             picture: static/toimijat/2021/zhibin_yan.jpg
           - name: Heikki Penttinen
             picture: static/toimijat/2021/heikki_penttinen.jpg
+          - name: Jiro Tanabe
+            picture: static/toimijat/aebaej_placeholder.png
 
   - name: Stimulaatio Committee
     description:
