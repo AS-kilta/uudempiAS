@@ -3,11 +3,6 @@ layout: page
 permalink: /fuksit/
 title: Fukseille
 ---
-## Opintojen aloitus
-
-Hei uusi Fuksi ja tervetuloa Automaatio- ja systeemitekniikan kiltaan! Näille sivuille on pyritty kokoamaan kaikkea materiaalia, josta on apua opintojesi alussa ja ehkäpä jopa koko ensimmäisen vuoden ajan.
-
-Hyödyllistä tietoa ja vinkkejä koulun alkuun löytyy killan Fuksioppaasta. Jos tietoa ei löydy täältä, kysy tarkempaa tietoa Fuksikapteeniltasi.
 
 <style>
     #phopas_wrapper {
@@ -24,22 +19,56 @@ Hyödyllistä tietoa ja vinkkejä koulun alkuun löytyy killan Fuksioppaasta. Jo
         height: 100%;
         border: 0;
     }
+
+    .photo {
+        width: 200px;
+        height: 200px;
+        border-radius: 50%;
+    }
+
+    .person {
+        display: inline-block;
+        flex-grow: 1;
+        flex-shrink: 1;
+        margin: 0 0 3em 0;
+        padding: 0 1em 0 1em;
+    }
+
 </style>
 
-<div id="phopas_wrapper">
-    <iframe id="phopas_frame" src="https://drive.google.com/file/d/180S_Kluc1J54A6RhfoZkfj-T7j4pduml/preview"></iframe>
+## Opintojen aloitus
+
+Hei uusi Fuksi ja tervetuloa Automaatio- ja systeemitekniikan kiltaan! Näille sivuille kootaan pitkin kesää kaikkea materiaalia, josta on apua opintojesi alussa ja ehkäpä jopa koko ensimmäisen vuoden ajan.
+
+Fuksikapteenit on ne tyypit, joihin otat yhteyttä kun ihan mikä tahansa on huonosti tai muuten vaan :)
+
+<div class="contact-container">
+
+<div class="person" markdown="1">
+
+![Fuksikapteeni]({{ "/static/toimijat/2021/kalle_fuksikapteeni.jpg" | absolute_url }} "Fuksikapteeni"){:class="photo"}
+
+**Fuksikapteeni**<br>
+Kalle Rantala<br>
+[Email: fuksikapteenit@as.fi](mailto:fuksikapteenit@POISTAas.fi)<br>
+[Tel: +358 407641007](tel://+358 407641007)<br>
+[Telegram: @Rantakal](https://telegram.me/Rantakal)
+
 </div>
-<br>
-[Lataa pdf](https://drive.google.com/uc?export=download&id=180S_Kluc1J54A6RhfoZkfj-T7j4pduml)
 
-Fuksikapteeni on se tyyppi johon otat yhteyttä kun ihan mikä tahansa on huonosti tai muuten vaan :)
+<div class="person" markdown="1">
 
-![Fuksikapteeni]({{ "/static/toimijat/2020/leia_nummisalo.jpg" | absolute_url }} "Fuksikapteeni"){:height="200px" width="200px" style="border-radius:50%;"}
+![Fuksikapteeni]({{ "/static/toimijat/2021/veera_fuksikapteeni.jpg" | absolute_url }} "Fuksikapteeni"){:class="photo"}
 
-Leia Nummisalo<br>
-[phuksikapteeni](mailto:phuksikapteeni@POISTAas.fi)<br>
-[050 572 4080](tel://050 572 4080)<br>
-[Telegram: @phuksikapteeni](https://telegram.me/phuksikapteeni)
+**Fuksikapteeni**<br>
+Veera Ihalainen<br>
+[Email: fuksikapteenit@as.fi](mailto:fuksikapteenit@POISTAas.fi)<br>
+[Tel: +358 407457138](tel://+358 407457138)<br>
+[Telegram: @veliih](https://telegram.me/veliih)
+
+</div>
+
+</div>
 
 Koski asia sitten pientä juttua tai jotakin isompaa huolta, vastaa Fuksikapteeni parhaansa mukaan vaikka keskellä yötä. (Suositellaan kuitenkin yhteydenottoa päivisin.)
 
@@ -51,27 +80,8 @@ Koski asia sitten pientä juttua tai jotakin isompaa huolta, vastaa Fuksikapteen
 * Hae asuntoa [AYY:ltä](https://domo.ayy.fi) tai [HOASilta](https://www.hoas.fi)
 * Hae [opintotukea](https://www.kela.fi/opintotuki)
 * Hanki [matkakortti](https://www.hsl.fi/liput-ja-hinnat/matkakortti)
-* Liity AS:n 20 fuksien Telegram-ryhmään [bit.ly/fuksit20](https://bit.ly/fuksit20)
-* Suorita [Aalto-yliopiston alkuorientaatio](https://mycourses.aalto.fi/course/view.php?id=26858)
+* Liity AS:n 21 fuksien Telegram-ryhmään [bit.ly/fuksit21](https://bit.ly/fuksit21)
 
-### VarASlähtö
-
-Joko alkoi kiinnostaa minkälaista porukkaa AS:lla aloittaa nyt syksyllä? Onko viikonloppu tyhjänä ilman jännittävää ohjelmaa? Pidätkö retorisista kysymyksistä? No en minäkään, mutta jos vastasit ensimmäiseen kahteen kysymykseen kyllä, saavu ihmeessä varASlähtöön 22.8!
-
-VarASlähdössä sinulla on mahdollisuus tutustua sinun kanssasi samaan aikaan opiskelun aloittaviin fukseihin sekä vanhempiin tieteenharjoittajiin. Kyseessä on rentoa tutustumista ja hengailua.
-
-VarASlähtö järjestetään Otaniemessä 22.8. Tavataan Alvarin aukiolla, tunnistat liilahaalariset ISOt varmasti joukosta.
-
-**Mitä:** Hengailua uusien AS-tyyppien kanssa!  
-**Missä:** Otaniemi, Alvarin aukio  
-**Milloin:** 22.8., klo 14 eteenpäin.  
-**Miksi:** Koska kivaa!  
-
-### Orientaatioviikko 31.8. - 4.9.
-
-Orientaatioviikko järjestetään ennen opiskelun alkua. Viikolla tutustutaan muihin opiskelijoihin, tiloihin ja hoidetaan pakolliset asiat kuntoon. Uusi paikka ja ihmiset voivat jännittää jokaista! Ei kuitenkaan tule huolehtia sillä jokaisella fuksilla on kasa ISOja pitämässä teistä huolta. Orientaatioviikon ohjelmaan kuuluu yliopiston tervetuliaistapahtumia, hengailua hyvässä hengessä sekä kampukseen ja opiskelijatovereihin tutustumista.
-
-Kannattaa muistaa ottaa mukaan maksukuitti ylioppilaskunnan jäsenmaksusta tai opiskelijakortti, jotta saa ruuan opiskelijahintaan. Mukaan kannattaa varata myös hieman käteistä ja roppakaupalla iloista ja avointa mieltä!
 
 ### Hyödyllisiä yhteystietoja / linkkejä
 

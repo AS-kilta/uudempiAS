@@ -15,7 +15,7 @@ Muista, että haalareita ei saa pestä! Jokainen tahra ja naarmu kertoo kokemuks
 
 ### Tilaaminen
 
-Vuosimallin 2020 haalareita voi tilata orientaatioviikon ensimmäienä päivänä (31.8.). Lisätilaukset tulevat kalliiksi, joten jos aiot tilata, se kannattaa tehdä heti! Tilaus on sitova.
+Vuosimallin 2021 haalareita voi tilata orientaatioviikolla. Lisätilaukset tulevat kalliiksi, joten jos aiot tilata, se kannattaa tehdä heti! Tilaus on sitova.
 
 Haalareiden arvo on noin 60 €, mutta kilta tukee fuksien haalaritilauksia siten, että fukseille ensimmäiset haalarit maksavat noin 25 €. Maksat haalarit sitten, kun saat ne. Muista hankkia hieno vyö itse. 
 
@@ -31,7 +31,7 @@ Törkeästä teekkarihengen vastaisesta törttöilystä saa sikapisteen, joka jo
 
 Halutessasi voit suorittaa Normaalin vaikeustason (130 pistettä), joka oikeuttaa Superfuksin tutkintoon. Jos otat haasteen vastaan, voit suorittaa Vaikean vaikeustason (180), joka oikeuttaa Hyperfuksin tutkintoon.
 
-Merkkaa suoritetut pisteet kynällä, ja pyydä niihin allekirjoitusta Fuksikapteenilta, ISOpomolta, KV-kapteenilta tai DSD-kapteenilta. Kysy lisää pisteistä keneltä tahansa kiltalaiselta. 
+Merkkaa suoritetut pisteet kynällä, ja pyydä niihin allekirjoitusta Fuksikapteenilta, ISOpomolta tai KV-kapteenilta. Kysy lisää pisteistä keneltä tahansa kiltalaiselta. 
 
 ## Teekkarilakki
 

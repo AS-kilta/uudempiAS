@@ -3,10 +3,6 @@ layout: page
 title: For Fuksis
 ---
 
-Hello new Fuksi! Welcome to the Guild of Automation and Systems Technology! These pages are a collection of all kinds of useful information and materials to help you with the start of your studies and maybe even the whole first year.
-
-Useful information and tips can be found in the Fuksi guide. If the info you are looking for is not there don’t be afraid to contact your DSD Captain, International Captain or the Fuksi Captain.
-
 <style>
     #phopas_wrapper {
         position: relative;
@@ -39,11 +35,7 @@ Useful information and tips can be found in the Fuksi guide. If the info you are
 
 </style>
 
-<div id="phopas_wrapper">
-    <iframe id="phopas_frame" src="https://drive.google.com/file/d/1t9M_JgilL_qzmaNY20zlAVk7-o7qd4bs/preview"></iframe>
-</div>
-<br>
-[Download pdf](https://drive.google.com/uc?export=download&id=1t9M_JgilL_qzmaNY20zlAVk7-o7qd4bs)
+Hello new Fuksi! Welcome to the Guild of Automation and Systems Technology! These pages will be updated during the summer and are a collection of all kinds of useful information and materials to help you with the start of your studies and maybe even the whole first year.
 
 Depending on your studies these are the people to contact in case of emergency or any other case.
 
@@ -51,37 +43,37 @@ Depending on your studies these are the people to contact in case of emergency o
 
 <div class="person" markdown="1">
 
-![DSD Captain]({{ "/static/toimijat/2020/verneri_hirvonen.jpg" | absolute_url }} "DSD Captain"){:class="photo"}
+![Master's and International Student Captain]({{ "/static/toimijat/2021/veeti_fuksikapteeni.jpg" | absolute_url }} "Master's and International Student Captain"){:class="photo"}
 
-**DSD Captain**  
-Verneri Hirvonen<br>
-[dsdcaptain](mailto:dsdcaptain@REMOVEas.fi)<br>
-[+358 50 540 8950](tel://+358505408950)<br>
-[Telegram: @DSDaddy](https://telegram.me/DSDaddy)
-
-</div>
-
-<div class="person" markdown="1">
-
-![International Student Captain]({{ "/static/toimijat/2020/henri_toivola.jpg" | absolute_url }} "International Student Captain"){:class="photo"}
-
-**International Student Captain**  
-Henri Toivola<br>
-[isc](mailto:isc@REMOVEas.fi)<br>
-[+358 40 820 6771](tel://+358408206771)<br>
-[Telegram: @ISCofAS](https://telegram.me/ISCofAS)
+**Master's and International Student Captain**<br>
+Veeti Kahilainen<br>
+[Email: isc@as.fi](mailto:isc@REMOVEas.fi)<br>
+[Tel: +358 504316878](tel://+358 504316878)<br>
+[Telegram: @Helveeti](https://telegram.me/Helveeti)
 
 </div>
 
 <div class="person" markdown="1">
 
-![Fuksi Captain]({{ "/static/toimijat/2020/leia_nummisalo.jpg" | absolute_url }} "Fuksi Captain"){:class="photo"}
+![Fuksi Captain]({{ "/static/toimijat/2021/kalle_fuksikapteeni.jpg" | absolute_url }} "Fuksi Captain"){:class="photo"}
 
-**Fuksi Captain**  
-Leia Nummisalo<br>
-[phuksikapteeni](mailto:phuksikapteeni@REMOVEas.fi)<br>
-[+358 50 572 4080](tel://+358505724080)<br>
-[Telegram: @phuksikapteeni](https://telegram.me/phuksikapteeni)
+**Fuksi Captain**<br>
+Kalle Rantala<br>
+[Email: fuksikapteenit@as.fi](mailto:fuksikapteenit@POISTAas.fi)<br>
+[Tel: +358 407641007](tel://+358 407641007)<br>
+[Telegram: @Rantakal](https://telegram.me/Rantakal)
+
+</div>
+
+<div class="person" markdown="1">
+
+![Fuksi Captain]({{ "/static/toimijat/2021/veera_fuksikapteeni.jpg" | absolute_url }} "Fuksi Captain"){:class="photo"}
+
+**Fuksi Captain**<br>
+Veera Ihalainen<br>
+[Email: fuksikapteenit@as.fi](mailto:fuksikapteenit@POISTAas.fi)<br>
+[Tel: +358 407457138](tel://+358 407457138)<br>
+[Telegram: @veliih](https://telegram.me/veliih)
 
 </div>
 
@@ -98,26 +90,7 @@ Whatever the reason you need to contact us for we will try to get back to you AS
 * Apply for [study grants](https://www.kela.fi/web/en/financial-aid-for-students-study-grant) from KELA
 * Buy [HSL travel card](https://www.hsl.fi/en/information/hsl-card)
 * Join the relevant Telegram groups
-* Complete [Aalto University Online Orientation](https://mycourses.aalto.fi/course/view.php?id=26858)
 
-## VarASlähtö / HeadStart
-
-Already interested in who your peers are? Do you have a weekend free without any exciting plans? Do you like rhetorical questions? Me neither, but if you answered YES to the first two questions, come join us at VarASlähtö 22.8!
-
-In VarASlähtö you have the opportunity to meet other people who are starting their studies in AS and veteran students and tutors (likely they are the same person). The event consists of chilling out, hanging out and meeting new people.
-
-VarASlähtö will be held in Otaniemi 22.8. We will be meeting in the Alvarin aukio (Alvari Square), you will surely spot your tutors in purple overalls!
-
-**What:** Hanging out with new AS people!  
-**Where:** Otaniemi, Alvarin aukio  
-**When:** 22.8., 14.00 onwards  
-**Why:** Because fun!
-
-## Orientation Week 31.8. - 4.9.
-
-Orientation week is before the start of studies. During the week you will get to know other students, study spaces and get your running affairs in order. New place and new people are sure to cause some nervousness but do not fret! Tutors will be there for you to show you the ropes. Orientation will entail Welcome ceremonies, chilling out, exploring campus and getting to know your peers and guildmates.
-
-Remember to take a receipt from AYY membership fee or the student card so you can get food at student prices. You should also prepare yourself with some cash and truckload of happy open mindedness!
 
 ## Useful links / contacts
 
