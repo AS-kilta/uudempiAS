@@ -80,7 +80,7 @@ Koski asia sitten pientä juttua tai jotakin isompaa huolta, vastaa Fuksikapteen
 * Hae asuntoa [AYY:ltä](https://domo.ayy.fi) tai [HOASilta](https://www.hoas.fi)
 * Hae [opintotukea](https://www.kela.fi/opintotuki)
 * Hanki [matkakortti](https://www.hsl.fi/liput-ja-hinnat/matkakortti)
-* Liity AS:n 21 fuksien Telegram-ryhmään [bit.ly/fuksit21](https://bit.ly/fuksit21)
+* Liity AS:n 21 fuksien Telegram-ryhmään [bit.ly/fuksit21](https://bit.ly/fuksit21) tai DSD -fuksien Telegram-ryhmään [bit.ly/DSDfuksit21](https://bit.ly/DSDfuksit21)
 
 
 ### Hyödyllisiä yhteystietoja / linkkejä

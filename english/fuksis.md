@@ -83,13 +83,13 @@ Whatever the reason you need to contact us for we will try to get back to you AS
 
 ## I’m coming to Aalto. What to do?
 
-* Accept your application
+* Accept your study place
 * Set yourself as present for the semester and pay the AYY membership fee. At the same time you can pay the membership fee for the guild.
 * Apply for [student card](https://www.frank.fi/en/studentcard/)
 * Apply for housing for example from [AYY](https://domo.ayy.fi/en) or [HOAS](https://www.hoas.fi/en)
-* Apply for [study grants](https://www.kela.fi/web/en/financial-aid-for-students-study-grant) from KELA
+* Apply for [study grants](https://www.kela.fi/web/en/financial-aid-for-students-study-grant) from KELA, if you are a Finnish citizen.
 * Buy [HSL travel card](https://www.hsl.fi/en/information/hsl-card)
-* Join the relevant Telegram groups
+* Join the relevant Telegram groups, follow [this link](https://bit.ly/DSDfuksit21) to join the group for first year DSD students
 
 
 ## Useful links / contacts
