@@ -89,7 +89,7 @@ Whatever the reason you need to contact us for we will try to get back to you AS
 * Apply for housing for example from [AYY](https://domo.ayy.fi/en) or [HOAS](https://www.hoas.fi/en)
 * Apply for [study grants](https://www.kela.fi/web/en/financial-aid-for-students-study-grant) from KELA, if you are a Finnish citizen.
 * Buy [HSL travel card](https://www.hsl.fi/en/information/hsl-card)
-* Join the relevant Telegram groups, follow [this link](https://bit.ly/DSDfuksit21) to join the group for first year DSD students
+* Join the relevant Telegram groups, follow [this link](https://bit.ly/DSDfuksis21) to join the group for first year DSD students
 
 
 ## Useful links / contacts
