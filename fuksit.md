@@ -4,6 +4,8 @@ permalink: /fuksit/
 title: Fukseille
 ---
 
+## Fuksiopas
+
 <style>
     #phopas_wrapper {
         position: relative;
@@ -35,6 +37,12 @@ title: Fukseille
     }
 
 </style>
+
+<div id="phopas_wrapper">
+    <iframe id="phopas_frame" src="https://drive.google.com/file/d/1icKB-DGaJKiSBvCxG8LuANE50Unirvzw/preview"></iframe>
+</div>
+<br>
+[Lataa pdf](https://drive.google.com/file/d/1icKB-DGaJKiSBvCxG8LuANE50Unirvzw)
 
 ## Opintojen aloitus
 
