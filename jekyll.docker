@@ -1,9 +1,9 @@
-FROM alpine
+FROM alpine:3.13
 MAINTAINER Your Name "your@name.com"
 
 VOLUME ["/usr/share/nginx/html"]
 
-RUN apk update && apk add ruby ruby-dev libffi-dev build-base git
+RUN apk update && apk add ruby ruby-dev ruby-etc libffi-dev build-base git
 RUN gem install bundler --no-document
 
 # If this argument has changed, Docker will only use cached data until this
