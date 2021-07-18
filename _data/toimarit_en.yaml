@@ -1,5 +1,5 @@
 committees:
-  - name: Freshman committee
+  - name: Fuksi committee
     description:
     positions:
       - name: Tutor Boss
@@ -12,7 +12,7 @@ committees:
         members:
           - name: Tiia-Maria Hyvönen
             picture: static/toimijat/2020/tiia_hyvonen.jpg
-      - name: Great Freshman Captain
+      - name: Great Fuksi Captain
         description:
         members:
           - name: Leia Nummisalo
@@ -173,15 +173,15 @@ committees:
           - name: Kalle Rantala
             picture: static/toimijat/2021/kalle_rantala.jpg
 
-  - name: Sexton Committee
+  - name: Song Leader Committee
     description:
     positions:
-      - name: Sexton Master
+      - name: Master Song Leader
         description:
         members:
           - name: Sakari Ropponen
             picture: static/toimijat/2021/sakari_ropponen.jpg
-      - name: Sexton
+      - name: Song Leaders
         description:
         members:
           - name: Juhani lehto
@@ -262,7 +262,7 @@ committees:
   - name: Media Committee
     description:
     positions:
-      - name: Communicator
+      - name: Viestijä
         description:
         members:
           - name: Veera Ihalainen

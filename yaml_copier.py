@@ -27,12 +27,12 @@ dst_path = '_data/toimarit_en.yaml'
 officials_mapping = {
     'Tosi ISOpomo': 'Uncle Tutor Boss', 'ISOpomo': 'Tutor Boss',
     '''Maisteri-informaatti''': '''Master's Informant''', 'Informaatti': 'Informant',
-    'Lukkaritoimikunta': 'Sexton Committee','Lukkarimestari': 'Sexton Master', 'Lukkari': 'Sexton',
+    'Lukkaritoimikunta': 'Song Leader Committee','Lukkarimestari': 'Master Song Leader', 'Lukkari': 'Song Leader',
     
     'ASkimestari': 'ASkimaster', 'ASkitoimikunta': 'ASki Committee',
     'ASkivahti': 'ASki Guardian','Abisintti': 'Abisinth', 'Automaatti': 'Automaton',
     'DSDeetti': 'DSDent', 'Depressantti': 'Depressant', 'Dokumentoija': 'Documentator',
-    'Excursiovastaava': 'Excursion Coordinator', 'Fuksitoimikunta': 'Freshman committee',
+    'Excursiovastaava': 'Excursion Coordinator', 'Fuksitoimikunta': 'Fuksi committee',
     'Graafikko': 'Graphics Designer', 'Hattivatti': 'Hattifattener','MinIEns':'MinIEns','HupiUkko':'FunGuy',
     'Huvitoimikunta': 'Entertainment Committee', 'Juomanlaskija': 'Cupbearer', 'Jäykkäranne': 'Stiff Wrist',
     'Kultainen päätoimittaja': 'Golden Editor-in-Chief', 'Kultainen toimittaja': 'Golden Editor',
@@ -42,7 +42,7 @@ officials_mapping = {
     'Opintotoimikunta': 'Study Committee', 'Pelaaja': 'Gamer', 'Puheenjohtaja': 'Head of Committee',
     'Seniilisihteeri': 'Senile Secretary', 'Somevastaava': 'Social Media Manager', 'Stigulantti': 'Stigulant',
     'Stigutoimikunta': 'Stigu Committee', 'Stiguäbäj': 'Stiguäbäj', 'Stimulaatio-toimikunta': 'Stimulaatio Committee',
-    'Stimulantti': 'Stimulant', 'SuurPhuksikapteeni': 'Great Freshman Captain', 'Säätömestari': 'Head of Technology',
+    'Stimulantti': 'Stimulant', 'SuurPhuksikapteeni': 'Great Fuksi Captain', 'Säätömestari': 'Head of Technology',
     'Säätötoimikunta': 'Technology Committee', 'TEKSAS Ranger': 'TEKSAS Ranger',
     'Toimikuntien ulkopuolelta': 'Outside the Committees', 'Toiminnantarkastaja': 'Inspector',
     'Toimittaja': 'Editor', 'Varatoiminnantarkastaja': 'Vice-inspector',
