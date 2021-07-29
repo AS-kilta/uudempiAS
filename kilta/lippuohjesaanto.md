@@ -8,9 +8,9 @@ Tällä ohjesäännöllä määrätään Automaatio- ja systeemitekniikan kilta 
 
 **1§ Lippu**
 
-Killan virallisen lipun pohjaväri on violetti ja sen keskellä on hopeanvärinen kuva killan Pränikästä. Lipun ulommaisessa alakulmassa on killan perustamisvuosi 1998, myös hopeanvärisenä. Lipun leveyden suhde korkeuteen on 25/18. Merkin halkaisijan suhde lipun korkeuteen on 20/27.
+Killan virallisen lipun pohjaväri on violetti ja sen keskellä on kuva killan hopeisesta ansiomerkistä. Lipun ulommaisessa alakulmassa on killan perustamisvuosi 1998, myös hopeanvärisenä. Lipun leveyden suhde korkeuteen on 25/18. Merkin halkaisijan suhde lipun korkeuteen on 20/27. 
 
-Killan kokous voi hyväksyä myös edustuslipun. Edustuslippua voidaan käyttää kiltaa edustettaessa erilaisissa tilaisuuksissa. Edustuslipun tulee erota selvästi killan virallisesta lipusta.
+Killan kokous voi hyväksyä myös edustuslipun. Edustuslippua voidaan käyttää kiltaa edustettaessa erilaisissa tilaisuuksissa. Edustuslipun tulee erota selvästi killan virallisesta lipusta. 
 
 **2§ Lipun käyttö**
 
@@ -40,4 +40,4 @@ Käytöstä poistettava lippu hävitetään polttamalla etanolilla kostutettuna.
 
 ---
 <br>
-Tämä lippuohjesääntö on vahvistettu Automaatio- ja systeemitekniikan kilta ry:n kokouksessa 2.10.2013 ja se on tullut voimaan välittömästi.
+Tämä lippuohjesääntö on vahvistettu Automaatio- ja systeemitekniikan kilta ry:n kokouksessa 20.7.2021 ja se on tullut voimaan välittömästi.

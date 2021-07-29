@@ -4,46 +4,106 @@ title: "Merkkiohjesääntö"
 ---
 ### Automaatio- ja systeemitekniikan killan merkkiohjesääntö
 
-**1§**
+**Luku 1: Ansiomerkit ja kunnianosoitukset** 
 
-Pränikkä on Automaatio- ja systeemitekniikan killan (myöhemmin kilta) virallinen rintamerkki. Se on laadultaan Kultainen, Hopeinen, Pronssinen tai hopeisenvärinen Hallituspränikkä. Kultaista Pränikkää käytetään kiinnitettynä violettiin nauhaan. Kultainen Pränikkä on halkaisijaltaan 22 mm. Hopeinen Pränikkä on halkaisijaltaan 18 mm. Pronssinen ja Hallituspränikkä ovat halkaisijaltaan 11 mm.
+**1 § Killan ansiomerkit, kunnianosoitukset ja tunnukset** 
 
-**2§**
+Automaatio- ja systeemitekniikan kilta ry myöntää ansioituneille henkilöille seuraavia kunnianosoituksia ja tunnuksia:  
+● Kultainen ansiomerkki  
+● Hopeinen ansiomerkki  
+● Arvonimi  
+● Kunniajäsenyys  
+● RatAS  
+● Toimihenkilötunnus  
+● Hallitustunnus  
 
-Killan sekä nykyisillä että entisillä varsinaisilla, ulko- ja kannatusjäsenillä on oikeus halutessaan käyttää Pronssista Pränikkää.
+Kunnianosoitusten saajat julkaistaan killan nettisivuilla ja hallitus pitää kirjaa niiden saajista. Tarkempia yksityiskohtia liittyen ansiomerkkeihin, kunnianosoituksiin ja tunnuksiin löytyy seuraavista pykälistä. Killan ansiomerkeistä ja tunnuksista on aikaisemmin käytetty yhteistä nimitystä pränikkä. Kyseistä nimitystä voi halutessaan yhä käyttää. 
 
-**3§**
+**2 § Ansiomerkit** 
 
-Killan sekä nykyisillä että entisillä hallituksen jäsenillä ja sekä nykyisillä että entisillä oltermanneilla on oikeus halutessaan käyttää Hallituspränikkää.
+Killalla on kultainen ja hopeinen ansiomerkki. 
 
-**4§**
+Kultainen ansiomerkki voidaan myöntää killan jäsenelle tai muulle henkilölle erityisen esimerkillisestä ja ansiokkaasta pitkäaikaisesta toiminnasta killan tarkoitusperien hyväksi. Kultaisia ansiomerkkejä voidaan vuosittain myöntää enintään kolme (3) kappaletta. Kultainen ansiomerkki on halkaisijaltaan 22 mm. 
 
-Hopeinen Pränikkä voidaan myöntää killan nykyiselle tai entiselle varsinaiselle, ulko- tai kannatusjäsenelle toiminnasta killan tarkoitusperien hyväksi. Hopeisia Präniköitä voidaan vuosittain myöntää enintään viisi (5) kappaletta ja ne luovutetaan killan vuosijuhlassa. Tästä voidaan kuitenkin tehdä poikkeus, mikäli killan hallitus päättää siitä yksimielisesti.
+Kultaista ansiomerkkiä käytetään kiinnitettynä nauhaan. Nauha on 25 mm leveä. Nauhan väri on violetti. 
 
-**5§**
+Hopeinen ansiomerkki voidaan myöntää killan jäsenelle tai muulle henkilölle esimerkillisestä toiminnasta killan tarkoitusperien hyväksi. Hopeisia ansiomerkkejä voidaan vuosittain myöntää enintään seitsemän (7) kappaletta. Hopeinen ansiomerkki on halkaisijaltaan 18 mm. 
+Ansiomerkkien enimmäismäärästä voidaan kuitenkin poiketa, mikäli killan hallitus päättää siitä yksimielisesti. 
 
-Kultainen Pränikkä voidaan myöntää killan nykyiselle tai entiselle varsinaiselle, ulko- tai kannatusjäsenelle erityisen esimerkillisestä ja ansiokkaasta pitkäaikaisesta toiminnasta killan tarkoitusperien hyväksi. Kultaisia Präniköitä voidaan vuosittain myöntää enintään kaksi (2) kappaletta ja ne luovutetaan killan vuosijuhlassa. Tästä voidaan kuitenkin tehdä poikkeus, mikäli killan hallitus päättää siitä yksimielisesti. Myös killan kunniajäsenet ovat oikeutettuja käyttämään Kultaista Pränikkää.
+**3 § Arvonimet** 
 
-**6§**
+Killan vuosi- ja vaalikokouksella on oikeus myöntää arvonimiä viiden kuudesosan (5/6) enemmistöllä. Killan jäsenillä on oikeus ehdottaa arvonimeä ja sen saajaa.
 
-Hopeista ja Kultaista Pränikkää ehdottaa killan varsinainen jäsen hallituksen varapuheenjohtajan kokoamalle ansiomerkkityöryhmälle. Työryhmä tekee esitykset Kultaisten ja Hopeisten Präniköiden saajista hallitukselle, joka joko hyväksyy ne vähintään kahden kolmasosan (2/3) ääntenenemmistöllä tai palauttaa hylkäämänsä esitykset työryhmän valmisteltavaksi. Minkään Pränikän myöntämisen ehtona ei ole aiemmin myönnetty toisen Pränikän käyttöoikeus.
+**4 § Kunniajäsenet** 
 
-**7§**
+Henkilö voidaan kutsua killan kunniajäseneksi killan säännöissä määrätyllä tavalla. Kunniajäsenelle myönnetään killan kultainen ansiomerkki. Kunniajäsenelle myönnettävää kultaista ansiomerkkiä ei huomioida merkin vuosittaisessa kiintiössä. Kunniajäsenten kultaisen ansiomerkin nauhassa on kultainen alareunus, joka on 1/4 nauhan leveydestä. 
 
-Akateemisissa juhlissa Präniköitä käytetään akateemisten kunniamerkkien tavoin. Samanaikaisesti saa käyttää vain yhtä Pränikkää. Henkilö voi käyttää mitä vain hänelle myönnettyä Pränikkää.
+**5 § RatAS, eli Ratkaisija aASi** 
 
-**8§**
+RatAS-kunnianosoitus voidaan myöntää ansiokkaasta toiminnasta killan tarkoitusperien hyväksi. Kunnianosoitus voidaan myöntää joko pitkäjänteisestä työstä tai poikkeuksellisen ahkerasta lyhytaikaisesta toiminnasta. RatAS kunnianosoitus voidaan myöntää kerran killan nykyiselle tai entiselle jäsenelle, mutta ei kunniajäsenelle. 
 
-Pränikkää myydään vain sen käyttöön oikeutetuille henkilöille. Pränikän hinnan vahvistaa killan hallitus.
+Kunnianosoitusta ei voida myöntää killan hopeisen tai kultaisen ansiomerkin saaneille eikä hallituslaisille heidän toimikautensa aikana. Kunnianosoitukset julkaistaan ja, mikäli mahdollista, myös jaetaan Eskalaatiossa tai Wappusitseillä. 
 
-**9§**
+RatAS-kunnianosoitukset myöntää hallitus, joka päättää myös kunnianosoituksen vuotuisesta sisällöstä ja niiden määrästä. 
 
-Pränikkää on aina kohdeltava sen arvoa kunnioittavasti. Killan hallitus voi evätä määräajaksi tai toistaiseksi Pränikän käyttöoikeuden henkilöltä, joka toistuvasti ja törkeällä tavalla on halventanut Pränikkää, eikä ole ottanut huomautuksista ojentuakseen.
+**Luku 2: Virkatunnukset** 
 
-**10§**
+**6 § Toimihenkilötunnus** 
 
-Niistä asioista, joista säännöissä ei ole määrätty, päättää killan hallitus.
+Toimihenkilötunnus on halkaisijaltaan 11 mm ja se on pronssisen värinen. Killan nykyisillä ja entisillä toimihenkilöillä on oikeus käyttää pronssista tunnusta. Sitä tulee kantaa akateemisen kunniamerkin tavoin. Toimihenkilötunnusta ei tule käyttää yhdessä ansiomerkin tai hallitustunnuksen kanssa. 
+
+**7 § Hallitustunnus** 
+
+Hallitustunnus on halkaisijaltaan 11 mm ja se on hopean värinen. Killan nykyisillä ja entisillä hallituksen jäsenillä, sekä nykyisillä ja entisillä oltermanneilla on oikeus käyttää hallitustunnusta. Sitä tulee kantaa akateemisen kunniamerkin tavoin. Hallitustunnusta ei tule käyttää yhdessä ansiomerkin kanssa.
+
+**Luku 3: Ansiomerkkien ehdottaminen ja myöntäminen** 
+
+**8 § Ansiomerkkien ehdottaminen** 
+
+Killan jäsenet voivat tehdä ehdotuksen killan ansiomerkin saajasta. Ehdotuksia voi osoittaa hallituksen varapuheenjohtajalle ympäri vuoden. 
+Varapuheenjohtaja tiedottaa jäsenistölle mahdollisuudesta ehdottaa killan ansiomerkkejä viimeistään kaksi kuukautta ennen ansiomerkkien jakamista. 
+Ehdotuksen tulee olla kirjallinen ja sisältää vähintäänkin seuraavaa: ehdotuksen tekijä, ansiomerkin saaja, ansiomerkin laatu ja perustelut ehdotukselle. 
+
+**9 § Ansiomerkkityöryhmän järjestäytyminen** 
+
+Hallituksen varapuheenjohtaja kokoaa ympärilleen ansiomerkkityöryhmän, jonka puheenjohtajana hän toimii. Työryhmän puheenjohtaja ilmoittaa työryhmän perustamisesta ja kokoonpanosta killan hallitukselle. 
+
+Työryhmän jäsenten tulee edustaa kiltalaisia laajasti ja omata kattava ymmärrys killan toiminnasta kokonaisvaltaisesti. Työryhmän kokoonpano ei ole julkinen toimikautensa aikana ja työryhmän toiminta on luottamuksellista. 
+
+Työryhmä valmistelee esitykset killan ansiomerkkien saajista killan hallitukselle killan jäsenten tekemien ehdotusten perusteella. Työryhmän perustamisen jälkeen se ei käsittele uusia ehdotuksia toimintansa aikana. Poikkeuksena tähän on työryhmän sisältä tulevat ehdotukset. 
+
+**10 § Ansiomerkkien myöntäminen** 
+
+Killan ansiomerkkejä voidaan myöntää ainoastaan hallituksen hyväksymän ansiomerkkityöryhmän esityksen perusteella. Poikkeuksena tähän on killan kokouksen kutsuman kunniajäsenen kultaisen ansiomerkin myöntäminen. Ainoastaan killan kokous myöntää kunniajäsenelle kyseisen ansiomerkin kunniajäseneksi kutsumisen yhteydessä. 
+
+Ansiomerkkityöryhmän jäsenelle taikka killan istuvalle puheenjohtajalle ei voida esittää ansiomerkkiä. 
+
+Työryhmä toimittaa hallitukselle ensimmäisen esityksen ansiomerkin saajista viimeistään kolme viikkoa ennen ansiomerkkien jakamista. Työryhmällä on vain yksi voimassa oleva esitys. Ennen seuraavaan esityksen toimittamista työryhmän on saatava ilmoitus hallituksen tekemästä päätöksestä.
+Hallitus voi hyväksyä esityksen kahden kolmasosan (2/3) äänienemmistöllä tai hylätä sen. Hylätyn esityksen yhteydessä hallituksella on velvollisuus perustella tekemäänsä päätöstä työryhmälle. 
+
+**Luku 4: Ansiomerkkien jakaminen ja käyttöohjeet** 
+
+**11 § Ansiomerkkien jakaminen** 
+
+Ansiomerkit jaetaan niiden käyttöön oikeutetuille henkilöille killan vuosijuhlassa, mikäli mahdollista. Kultaisen ansiomerkin jakamisen yhteydessä luovutetaan myös sen kantamiseen tarkoitettu nauha. 
+
+**12 § Käyttöohjeet** 
+
+Kaikkia tässä asiakirjassa määriteltyjä kiltatunnuksia ja -merkkejä tulisi käyttää niitä kunnioittavissa tilaisuuksissa. Näitä kannetaan esimerkiksi akateemisissa juhlissa tai edustaessa kiltaa. 
+
+Ansiomerkeistä käytetään ainoastaan arvokkainta, johon on käyttöoikeus. Merkkejä käytetään akateemisten kunniamerkkien tavoin. 
+Kultaisen ansiomerkin sekä kunniajäsenen tunnuksen nauhan ei tule kannettaessa koskettaa paljasta ihoa. Nauhaa kannetaan oikealta olalta alas vasemmalle lantiolle. Sitä voi myös kantaa ruusukkeessa, jota käytetään puvun oikeassa miehustassa. Ruusukkeessa tulee olla 2-3 silmukkaa molemmin puolin. 
+
+**Luku 5: Muut ohjeistukset** 
+
+**13 § Killan ulkopuoliset kunnianosoitukset**
+
+Killan hallituksen vastuulla on pyytää vuosittain syyskuussa ehdotuksia kiltalaisilta Pyöreän Tornin Killan (PTK) jäseniksi ehdotettavista henkilöistä ja huolehtia esitysten toimittamisesta Aalto-yliopiston ylioppilaskunnalle (AYY). 
+
+**14 §** 
+
+Niistä asioista, joista tässä ohjesäännössä ei ole määrätty, päättää killan hallitus.
 
 ---
 <br>
-Tämä merkkiohjesääntö on vahvistettu Automaatio- ja systeemitekniikan kilta ry:n kokouksessa 19.10.2016 ja se on tullut voimaan välittömästi.
+Tämä merkkiohjesääntö on vahvistettu Automaatio- ja systeemitekniikan kilta ry:n kokouksessa 20.7.2021 ja se on tullut voimaan välittömästi.
