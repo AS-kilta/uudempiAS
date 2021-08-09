@@ -3,6 +3,9 @@ layout: page
 title: For Fuksis
 ---
 
+
+## Fuksiguide
+
 <style>
     #phopas_wrapper {
         position: relative;
@@ -34,6 +37,14 @@ title: For Fuksis
     }
 
 </style>
+
+<div id="phopas_wrapper">
+    <iframe id="phopas_frame" src="https://drive.google.com/file/d/1prpL2GPLdmbwIBOZ6w1lJuXx5aspQSzB/preview"></iframe>
+</div>
+<br>
+[Lataa pdf](https://drive.google.com/file/d/1prpL2GPLdmbwIBOZ6w1lJuXx5aspQSzB)
+
+## Starting your studies
 
 Hello new Fuksi! Welcome to the Guild of Automation and Systems Technology! These pages will be updated during the summer and are a collection of all kinds of useful information and materials to help you with the start of your studies and maybe even the whole first year.
 
