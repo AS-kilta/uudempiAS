@@ -6,6 +6,8 @@ title: Fukseille
 
 ## Fuksiopas
 
+[Tämän linkin](https://drive.google.com/file/d/1mDNotrpoI-bnpAdZnsTpI0pfTYicyGqu/view) takaa löydät DSD-opiskelijoille suunnatun oppaan!
+
 <style>
     #phopas_wrapper {
         position: relative;

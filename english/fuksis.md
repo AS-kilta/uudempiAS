@@ -6,6 +6,8 @@ title: For Fuksis
 
 ## Fuksiguide
 
+Follow [this link](https://drive.google.com/file/d/1mDNotrpoI-bnpAdZnsTpI0pfTYicyGqu/view) for the guide aimed at DSD students!
+
 <style>
     #phopas_wrapper {
         position: relative;
