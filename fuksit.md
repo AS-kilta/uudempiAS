@@ -6,7 +6,7 @@ title: Fukseille
 
 ## Fuksiopas
 
-[Tämän linkin](https://drive.google.com/file/d/1mDNotrpoI-bnpAdZnsTpI0pfTYicyGqu/view) takaa löydät DSD-opiskelijoille suunnatun oppaan!
+Follow [this link](https://as.fi/english/fuksis.html) for the guide aimed at DSD students!
 
 <style>
     #phopas_wrapper {

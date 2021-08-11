@@ -4,9 +4,7 @@ title: For Fuksis
 ---
 
 
-## Fuksiguide
-
-Follow [this link](https://drive.google.com/file/d/1mDNotrpoI-bnpAdZnsTpI0pfTYicyGqu/view) for the guide aimed at DSD students!
+## DSD fuksiguide
 
 <style>
     #phopas_wrapper {
@@ -39,6 +37,14 @@ Follow [this link](https://drive.google.com/file/d/1mDNotrpoI-bnpAdZnsTpI0pfTYic
     }
 
 </style>
+
+<div id="phopas_wrapper">
+    <iframe id="phopas_frame" src="https://drive.google.com/file/d/1mDNotrpoI-bnpAdZnsTpI0pfTYicyGqu/preview"></iframe>
+</div>
+<br>
+[Lataa pdf](https://drive.google.com/file/d/1mDNotrpoI-bnpAdZnsTpI0pfTYicyGqu)
+
+## Fuksiguide
 
 <div id="phopas_wrapper">
     <iframe id="phopas_frame" src="https://drive.google.com/file/d/1prpL2GPLdmbwIBOZ6w1lJuXx5aspQSzB/preview"></iframe>
