@@ -36,6 +36,7 @@ title: Virallisuudet
 ### Kimble
 
 - [Kimblen säännöt](https://as.fi/static/virallisuudet/kimblesaannot.pdf)
+- [Kimblen säännöt](https://as.fi/static/virallisuudet/kimble_english.pdf)
 - [Kimblen pelilistasäännöt](https://as.fi/static/virallisuudet/kimblelista.pdf)
 - [3D-kimblen säännöt](https://as.fi/static/virallisuudet/3dkimblesaannot.pdf)
 
