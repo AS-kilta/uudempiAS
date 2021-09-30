@@ -35,7 +35,7 @@ Some files are being translated or otherwise worked on and will not be available
 
 * [guilds flag](http://old.as.fi/files/lippu2.jpg)
 * [guilds badges of honour](http://old.as.fi/files/pranikat3.jpg)
-* [Rules: Kimble](https://as.fi/static/virallisuudet/kimblerules.pdf)
+* [Rules: Kimble](https://as.fi/static/virallisuudet/kimble_english.pdf)
 * [Rules: Kimble gamelist](https://as.fi/static/virallisuudet/kimblelist.pdf)
 * [Rules: 3D-kimble](https://as.fi/static/virallisuudet/3dkimblerules.pdf)
 * [Rules: song contest](https://as.fi/static/virallisuudet/songcontest.pdf)
