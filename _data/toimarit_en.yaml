@@ -320,7 +320,7 @@ committees:
             picture: static/toimijat/2021/leia_nummisalo.jpg
           - name: Akseli Konttas
             picture: static/toimijat/2021/akseli_konttas.jpg
-      - name: Retkisällit
+      - name: Trip-prentices
         description:
         members:
           - name: Elias Haarnoja

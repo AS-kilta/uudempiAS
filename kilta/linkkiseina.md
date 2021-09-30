@@ -11,7 +11,7 @@ Kaikkien aASien kannu, aihe vapaa
 [AS in English - Telegram](https://t.me/joinchat/BzywAENaOk8UOSc1LreD5A)<br>
 AS:n englannin kielinen kannu
 
-[Tiedotuskanava - Telegram](https://telegram.me/joinchat/AcGE6Tv4Xz6eKgB3GHVcow)<br>
+[Tiedotuskanava - Telegram](https://t.me/automit)<br>
 Kanavalle lähetetään muistutuksia killan tapahtumista sekä muita tiedotuksia.
 
 [AivanVirallinen - Telegram](https://telegram.me/aivansama)<br>
@@ -29,7 +29,7 @@ Killisteille, joita kiinnostaa kulttuuri
 [Pelimieliset - Telegram](https://t.me/joinchat/Ba4qAlR4Yt9KYmSppEyU3w)<br>
 Lautapelaamisesta ja videopeleistä kiinnostuneille
 
-[ASif - Telegram](https://telegram.me/joinchat/FUsq9RGHt6s8BoeCm6wLMA)<br>
+[ASif - Telegram](https://t.me/joinchat/JYItDU9J7cVfpnAKShYmAA)<br>
 Killisteille, jotka ovat kiinnostuneita urheilusta
 
 # Sosiaalinen media

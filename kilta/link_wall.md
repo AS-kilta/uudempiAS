@@ -11,7 +11,7 @@ Chat for all the ASs', free topic. Mainly in Finnish, but everyone is welcome
 [AS in English - Telegram](https://t.me/joinchat/BzywAENaOk8UOSc1LreD5A)<br>
 ASs’ chat in english, free topic.
 
-[Information channel – Telegram](https://telegram.me/joinchat/AcGE6Tv4Xz6eKgB3GHVcow)<br>
+[Information channel – Telegram](https://t.me/automit)<br>
 Reminders of guild's events and other releases will be sent here
 
 [AivanVirallinen - Telegram](https://telegram.me/aivansama)<br>
@@ -29,7 +29,7 @@ Chat for stuff about culture
 [Gamingminded - Telegram](https://t.me/joinchat/Ba4qAlR4Yt9KYmSppEyU3w)<br>
 For those interested in board- and videogames
 
-[ASif - Telegram](https://telegram.me/joinchat/FUsq9RGHt6s8BoeCm6wLMA)<br>
+[ASif - Telegram](https://t.me/joinchat/JYItDU9J7cVfpnAKShYmAA)<br>
 Chat For those who are interested in sports
 
 # Social media
