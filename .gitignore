@@ -7,3 +7,4 @@ _site
 *.sw[pon]
 **/.DS_Store
 *.temp
+homebrew
