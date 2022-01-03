@@ -33,5 +33,5 @@ Yritysyhteistyöstä vastaa meidän päässämme yrityssuhdetoimikunta, jota koo
 Roope Järvinen<br>
 Yrityssuhdevastaava<br>
 [Email: yrityssuhdevastaava](mailto:yrityssuhdevastaava@POISTAas.fi)<br>
-[Tel: +358 403584060](tel://+358405927944)<br>
-[Telegram: @roopej](https://telegram.me/Bisnesisukki)
+[Tel: +358 403584060](tel://+358403584060)<br>
+[Telegram: @roopej](https://telegram.me/roopej)
