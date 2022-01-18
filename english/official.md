@@ -21,10 +21,7 @@ Some files are being translated or otherwise worked on and will not be available
 * [Operational model for events](http://old.as.fi/kilta/virallisuudet/toimintamalli/)
 * [Standing orders: Crisis](https://as.fi/static/virallisuudet/kriisiohje.pdf)
 
-* [Invoice template (PDF)](https://as.fi/static/virallisuudet/laskupohja_2016.pdf)
-* [Invoice template (DOC)](https://as.fi/static/virallisuudet/laskupohja_2016.doc)
-* [Invoice template (online)](https://forms.gle/zFwQQeogC3DB4GZq8)
-* [Invoice example](https://as.fi/static/virallisuudet/esimerkkilasku.pdf)
+* [Invoice template](https://as.kululaskut.fi)
 
 * Guilds logo:
     - [.CDR](https://as.fi/static/virallisuudet/as_plain_BW.cdr)
