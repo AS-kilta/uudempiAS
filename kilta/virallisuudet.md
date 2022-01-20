@@ -20,7 +20,7 @@ title: Virallisuudet
 
 ### Laskut
 
-- [Kulukorvaus lomake](https://as.kululaskut.fi)
+- [Kulukorvauslomake](https://as.kululaskut.fi)
 
 ### Killan logo:
 

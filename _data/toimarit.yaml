@@ -45,6 +45,12 @@ committees:
         members:
           - name: Santeri Sipilä
             picture: static/toimijat/2021/santeri_sipila.jpg
+      - name: Maisteri-automaatti
+        description:
+        members:
+          - name: Lasse Wittke
+            picture: static/toimijat/aebaej_placeholder.png
+            
       - name: Opintowanhus
         description:
         members:
@@ -281,6 +287,8 @@ committees:
             picture: static/toimijat/aebaej_placeholder.png
           - name: Henrik Turtinen
             pictures: static/toimijat/aebaej_placeholder.png
+          - name: Lucas Käldström
+            picture: static/toimijat/2022/lucas_kaldstrom.jpg
       - name: rrrRankkavastaava
         description:
         members:
@@ -327,6 +335,8 @@ committees:
             picture: static/toimijat/2021/elias_haarnoja.jpg
           - name: Jimi Oksman 
             picture: static/toimijat/2021/jimi_oksman.jpg
+          - name: Tiitus Mustajoki
+            picture: static/toimijat/aebaej_placeholder.png
 
   - name: Säätötoimikunta
     description: 
@@ -338,6 +348,40 @@ committees:
           picture: static/toimijat/2020/jyri_kolu.jpg
         - name: Verneri Hirvonen
           picture: static/toimijat/2020/verneri_hirvonen.jpg
+      - name: Säätökisälli
+        description:
+        members:
+        - name: Henrik Turtinen
+          picture: static/toimijat/aebaej_placeholder.png
+        - name: Veeti Kahilainen
+          picture: static/toimijat/2021/veeti_kahilainen.jpg
+        - name: Pinja Mäkeläinen
+          picture: static/toimijat/2022/pinja_makelainen.jpg
+        - name: Henri Toivola
+          picture: static/toimijat/2021/henri_toivola.jpg
+        - name: Matias Rantala
+          picture: static/toimijat/aebaej_placeholder.png
+        - name: Topias Malinen
+          picture: static/toimijat/aebaej_placeholder.png
+        - name: Petrik Räsänen
+          picture: static/toimijat/aebaej_placeholder.png
+        - name: Jakob Sjöblom
+          picture: static/toimijat/aebaej_placeholder.png
+        - name: Kasperi Kaivola
+          picture: static/toimijat/aebaej_placeholder.png
+        - name: Tuan Anh Nguyen
+          picture: static/toimijat/aebaej_placeholder.png
+        - name: Sakari Ropponen
+          picture: static/toimijat/2021/sakari_ropponen.jpg
+        - name: Akseli Konttas
+          picture: static/toimijat/2021/akseli_konttas
+        - name: Severi Casserly
+          picture: static/toimijat/2021/severi_casserly.jpg
+        - name: Zhibin Yan
+          picture: static/toimijat/2021/zhibin_yan.jpg
+
+
+          
   
   - name: Stimulaatio-toimikunta
     description:
@@ -393,6 +437,12 @@ committees:
             picture: static/toimijat/2020/niina_tapanainen.jpg
           - name: Vesta Kulomaa
             picture: static/toimijat/2020/vesta_kulomaa.jpg
+          - name: Mari Pulkkinen
+            picture: static/toimijat/2020/mari_pulkkinen.jpg
+          - name: Henri Toivola
+            picture: static/toimijat/2021/henri_toivola.jpg
+          - name: Helmi Takala
+            picture: static/toimijat/2021/helmi_takala.jpg
 
   - name: Retkitoimikunta
     description:
@@ -407,6 +457,59 @@ committees:
       - name: Retkisällit
         description:
         members:
+          - name: Tuan Anh Nguyen Con
+            picture: static/toimijat/aebaej_placeholder.png
+          - name: Ville Strengell
+            picture: static/toimijat/2020/ville_strengell.jpg
+          - name: Lassi Ihalainen
+            picture: static/toimijat/2021/lassi_ihalainen.jpg
+          - name: David Rombach
+            picture: static/toimijat/aebaej_placeholder.png
+          - name: Karla Rodriguez
+            picture: static/toimijat/aebaej_placeholder.png
+          - name: Tiia-Maria Hyvönen
+            picture: static/toimijat/2020/tiia_hyvonen.jpg
+          - name: Apollo Ailud
+            picture: static/toimijat/aebaej_placeholder.png
+          - name: Mimi Määttä
+            picture: static/toimijat/aebaej_placeholder.png
+          - name: Mohammad Shahidul
+            picture: static/toimijat/aebaej_placeholder.png
+          - name: Marko Koskinen
+            picture: static/toimijat/2020/marko_koskinen.jpg
+          - name: Oskari Mattila
+            picture: static/toimijat/aebaej_placeholder.png
+          - name: Iivo Angerpuro
+            picture: static/toimijat/aebaej_placeholder.png
+          - name: Katarina Pichnova
+            picture: static/toimijat/aebaej_placeholder.png
+          - name: Joonatan Tammisto
+            picture: static/toimijat/aebaej_placeholder.png
+          - name: Akseli Konttas
+            picture: static/toimijat/2021/akseli_konttas.jpg
+          - name: Lucas Käldström
+            picture: static/toimijat/2022/lucas_kaldstrom.jpg
+          - name: Olli-Pekka Pennanen
+            picture: static/toimijat/2021/olli-pekka_pennanen.jpg
+
+  - name: Ulkoexcutoimikunta
+    description:
+    positions:
+      - name: Ulkoexcumestari
+        description:
+        members:
+          - name: Sakari Ropponen
+            picture: static/toimijat/2021/sakari_ropponen.jpg
+          - name: Arttu Rintala
+            picture: static/toimijat/2019/arttu_rintala.jpg
+      - name: Toimihenkilö
+        description:
+        members:
+          - name: Jaakko Majuri
+            picture: static/toimijat/2019/jaakko_majuri_19.jpg
+          - name: Marcell Berta
+            picture: static/toimijat/2021/marcell_berta.jpg
+
 
   - name: Kultainen Toimitus
     description:
@@ -419,6 +522,16 @@ committees:
       - name: Kultainen Toimittaja
         description:
         members:
+          - name: Antti Regelin
+            picture: static/toimijat/2021/antti_regelin.jpg
+          - name: Veeti Kahilainen
+            picture: static/toimijat/2021/veeti_kahilainen.jpg
+          - name: Joonas Törmälä
+            picture: static/toimijat/2022/joonas_tormala.jpg
+          - name: Meri Hildén
+            picture: static/toimijat/2022/meri_hilden.jpg
+          - name: Leevi Hormaluoma
+            picture: static/toimijat/2022/leevi_hormaluoma.jpg
 
   - name: Bränditoimikunta
     description:
@@ -445,6 +558,8 @@ committees:
             picture: static/toimijat/2021/leevi_hormaluoma.jpg
           - name: Meri Hiipakka
             picture: static/toimijat/2022/meri_hiipakka.jpg
+          - name: Veeti Kahilainen
+            picture: static/toimijat/2021/veeti_kahilainen.jpg
   - name: Stigutoimikunta
     description:
     positions:
