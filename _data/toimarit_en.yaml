@@ -372,7 +372,7 @@ committees:
         - name: Sakari Ropponen
           picture: static/toimijat/2021/sakari_ropponen.jpg
         - name: Akseli Konttas
-          picture: static/toimijat/2021/akseli_konttas
+          picture: static/toimijat/2021/akseli_konttas.jpg
         - name: Severi Casserly
           picture: static/toimijat/2021/severi_casserly.jpg
         - name: Zhibin Yan
@@ -495,7 +495,7 @@ committees:
           - name: Sakari Ropponen
             picture: static/toimijat/2021/sakari_ropponen.jpg
           - name: Arttu Rintala
-            picture: static/toimijat/2019/arttu_rintala.jpg
+            picture: static/toimijat/2019/arttu_rintala_19.jpg
       - name: Journeyperson
         description:
         members:
