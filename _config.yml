@@ -18,7 +18,8 @@ main_category: 'pääuutiset'
 markdown: kramdown
 
 # Exclude project files from build
-exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'yaml_copier.py']
+exclude: ['README.md', 'Gemfile.lock', 'Gemfile']
+exclude_patterns: [update_officials/]
 
 lang: fi
 
