@@ -42,6 +42,7 @@ title: Virallisuudet
 - [Kunnianosoitukset](http://as.fi/kilta/kunnianosoitukset.html)
 
 - [Pöytäkirjat](https://drive.google.com/drive/folders/1ggK-LWjm4-FSW_4yNRBhzp7lJZ9Uyga9?usp=sharing)
+- - [Esityslistat](https://drive.google.com/drive/u/1/folders/1S7kn-8pqntZ4XfhY42wrwtbLPkAN531s?usp=sharing)
 - [Toimintasuunnitelma 2018](https://as.fi/static/virallisuudet/Toimintasuunnitelma_2018.pdf)
 - [Talousarvio 2019](https://as.fi/static/virallisuudet/Talousarvio_2019.xlsx)
 
