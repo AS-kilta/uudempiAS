@@ -2,6 +2,13 @@ committees:
   - name: Fuksitoimikunta
     description:
     positions:
+      - name: Fuksikapteeni
+        description:
+        members:
+          - name: Joonas Törmälä
+            picture: static/toimijat/2022/joonas_tormala.jpg
+          - name: Arttu Pahta
+            picture: static/toimijat/2021/arttu_pahta.jpg
       - name: Tosi ISOpomo
         description:
         members:
@@ -23,6 +30,11 @@ committees:
   - name: Opintotoimikunta
     description:
     positions:
+      - name: Opintomestari
+        description:
+        members:
+          - name: Pinja Mäkeläinen
+            picture: static/toimijat/2022/pinja_makelainen.jpg
       - name: Automaatti
         description:
         members:
@@ -64,6 +76,11 @@ committees:
   - name: Kulttuuritoimikunta
     description:
     positions:
+      - name: Kulttuurimestari
+        description:
+        members:
+          - name: Juha Lehto
+            picture: static/toimijat/2022/juha_lehto.jpg
       - name: Kulttuuriartesaani
         description:
         members:
@@ -131,6 +148,13 @@ committees:
   - name: Huvitoimikunta
     description:
     positions:
+      - name: Isäntä ja Emäntä
+        description:
+        members:
+          - name: Kiira Metsoila
+            picture: static/toimijat/2022/kiira_metsoila.jpg
+          - name: Jimi Oksman
+            picture: static/toimijat/2022/jimi_oksman.jpg
       - name: MinIEns
         description:
         members:
@@ -261,6 +285,11 @@ committees:
   - name: Yrityssuhdetoimikunta
     description:
     positions:
+      - name: Yrityssuhdevastaava
+        description:
+        members:
+          - name: Roope Järvinen
+            picture: static/toimijat/2022/roope_jarvinen.jpg
       - name: Account Manager
         description:
         members:
@@ -309,6 +338,11 @@ committees:
   - name: Mediatoimikunta
     description:
     positions:
+      - name: Viestintämestari
+        description:
+        members:
+          - name: Meri Hildén
+            picture: static/toimijat/2022/meri_hilden.jpg
       - name: Viestijä
         description:
         members:

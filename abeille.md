@@ -21,20 +21,19 @@ title: Abeille
 
 Kiinnostaako, miten 5G, esineiden internet ja muut tietoliikenteen innovaatiot mullistavat maailmaa pöhisevien markkinointitermien takana? Tai miten automaatio ja robotiikka parantavat tehtaiden tuotantoa tai vievät raketteja kiertoradalle? Vai haluaisitko opiskella digitaalisten järjestelmien saloja aidosti kansainvälisessä ympäristössä? Olet saapunut oikeaan paikkaan! Tältä sivulta saat paljon tarpeellista tietoa opiskelemaan hakemisesta.​
 
-Automaatio- ja systeemitekniikan killan alla on kaksi erillistä hakukohdetta. ​
+Automaatio- ja systeemitekniikan killan alla on kolme erillistä hakukohdetta. ​
 
-* **Automaatio- ja informaatioteknologia**, eli AIT​
+* **Automaatio ja robotiikka**, eli AR​
+* **Informaatioteknologia**, eli IT​
 * **Digital Systems and Design**, eli DSD​
 
-Edellämainituissa hakukohteissa opetuskielet ovat AIT:llä suomi ja DSD:llä englanti.​
-
-Hakemalla AIT:lle voit valita pääaineesi ensimmäisen opiskeluvuoden loppupuolella.  ​
+Edellämainituissa hakukohteissa opetuskielet ovat AR:llä ja IT:llä suomi ja DSD:llä englanti.​
 
 Kaikista näistä pääaineista pääsee jatkamaan maisteriopintoihin ja valmistumaan diplomi-insinööriksi​.
 
 Alta löydät kuvaukset kaikista pääaineista sekä alan opiskelijoiden haastatteluja.
 
-## Automaatio- ja systeemitekniikka
+## Automaatio ja robotiikka
 
 Kiinnostaako, miten teollisuuden robottikäsivarret ja automaatiojärjestelmät toimivat? Haluatko päästä koodaamaan lähelle rautaa? Automaation piirissä pääsee tutustumaan mm. tietokoneiden ja koneiden väliseen rajapintaan ja itseohjautuviin järjestelmiin. Opintojen loppuvaiheessa onkin mahdollista erikoistua automaatio-ohjelmistojen, tehdasautomaation sekä robotiikan lisäksi myös ns. älykkäisiin tuotteisiin tai vaikka yhdistellä alueita oman kiinnostuksen mukaan.
 
@@ -120,9 +119,9 @@ Kiinnostaako kansainvälisyys ja mahdollisuus aloittaa opiskelu englanniksi jo k
 
 ## Hakeminen
 
-### Automaatio- ja informaatioteknologia
+### Automaatio ja robotiikka sekä Informaatioteknologia
 
-Kaikkiin tekniikan alan hakukohteisiin kuten myös AIT:lle voit hakea jollain seuraavista tavoista​
+Kaikkiin tekniikan alan hakukohteisiin kuten myös AR:lle ja IT:lle voit hakea jollain seuraavista tavoista​
 
 * **Todistusvalinta:** Opiskelupaikan voit saada pelkän ylioppilastodistuksen perusteella. Lisää tietoa eri aineiden pisteytyksestä, kynnysehdoista sekä vanhoista pääsyrajoista löydät [DIA-yhteisvalinnan sivuilta​](https://dia.fi/haluan-diplomi-insinooriksi/valinta-di-hakukohteisiin/).
 
@@ -169,19 +168,15 @@ Mekaniikan kurssilla pääset laajentamaan fysiikan osaamistasi sekä opit yhdis
 
 Kurssilla opetellaan signaali- ja järjestelmäanalyysin perusteita, sekä sitä miten erilaisia suodattimia, muuntimia ja kuvausparametreja voidaan hyödyntää eri sovelluksissa.​
 
-**Automaation ja informaatioteknologian peruskurssit​**
-
-Näillä kahdella kurssilla pääset tutustumaan molempien pääaineiden perusteisiin automaation ja robotiikan, sekä verkkoteknologian saralla. Kurssit auttavat myös suuresti pääainevalinnassa.​
-
 ### Esimerkkejä pääainekursseista
 
 **Robotiikka**​
 
-Robotiikka on AS-pääaineen kurssi, jossa tutustutaan ja syvennytään robottien toimintaan sekä ohjelmoinnin että matematiikan tasolla.​
+Robotiikka on AR-pääaineen kurssi, jossa tutustutaan ja syvennytään robottien toimintaan sekä ohjelmoinnin että matematiikan tasolla.​
 
 **Säätötekniikka​**
 
-Säätötekniikka on AS-pääaineen kurssi, jossa syvennytään säätö- ja systeemiteorian alkeisiin, jotka muodostavatkin vahvan pohjan erilaisiin automaatiojärjestelmiin.​
+Säätötekniikka on AR-pääaineen kurssi, jossa syvennytään säätö- ja systeemiteorian alkeisiin, jotka muodostavatkin vahvan pohjan erilaisiin automaatiojärjestelmiin.​
 
 **Ohjelmistoradio**​
 
@@ -199,9 +194,8 @@ Kurssi on DSD-pääaineen kurssi, jossa tutustutaan lähemmin tuotekehityksen er
 
 Jos haluat tutustua alan opintoihin vielä tarkemmin, löydät alta muutamia hyödyllisiä linkkejä:
 
-* [Automaatio- ja informaatioteknologia, Aalto yliopisto​](https://www.aalto.fi/fi/koulutustarjonta/automaatio-ja-informaatioteknologia-tekniikan-kandidaatti-ja-diplomi-insinoori?gclid=Cj0KCQiA1pyCBhCtARIsAHaY_5dA3voDMbCHbruJNnrToyPsVEHR4oOPSN_dAa8Fq7LbcS7Hb-Wk5zMaAhjyEALw_wcB)
-* [Automaatio- ja systeemitekniikan pääaine​](https://into.aalto.fi/display/fikandelec/Automaatio-+ja+systeemitekniikka+2020-2022)
-* [Informaatioteknologian pääaine​](https://into.aalto.fi/display/fikandelec/Informaatioteknologia+2020-2022)
-* [Digital systems and Design -pääaine​](https://into.aalto.fi/display/enbsctech/Digital+Systems+and+Design+2020-2022)
+* [Automaatio ja robotiikka, Aalto yliopisto​](https://www.aalto.fi/fi/koulutustarjonta/automaatio-ja-robotiikka-tekniikan-kandidaatti-ja-diplomi-insinoori)
+* [Informaatioteknologia, Aalto yliopisto​](https://www.aalto.fi/fi/koulutustarjonta/informaatioteknologia-tekniikan-kandidaatti-ja-diplomi-insinoori)
+* [Digital systems and Design, Aalto yliopisto​](https://www.aalto.fi/fi/koulutustarjonta/aalto-bachelors-programme-in-science-and-technology-digital-systems-and-design)
 * [Sähkötekniikan korkeakoulun etusivu​](https://www.aalto.fi/fi/sahkotekniikan-korkeakoulu)
 * [Sähkötekniikan korkeakoulu, Into​](https://into.aalto.fi/display/fikandelec/)

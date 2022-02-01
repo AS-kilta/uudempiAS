@@ -2,6 +2,13 @@ committees:
   - name: Fuksi Committee
     description:
     positions:
+      - name: Fuksi Captain
+        description:
+        members:
+          - name: Joonas Törmälä
+            picture: static/toimijat/2022/joonas_tormala.jpg
+          - name: Arttu Pahta
+            picture: static/toimijat/2021/arttu_pahta.jpg
       - name: Uncle Tutor Boss
         description:
         members:
@@ -23,6 +30,11 @@ committees:
   - name: Study Committee
     description:
     positions:
+      - name: Master of Studies
+        description:
+        members:
+          - name: Pinja Mäkeläinen
+            picture: static/toimijat/2022/pinja_makelainen.jpg
       - name: Automaton
         description:
         members:
@@ -64,6 +76,11 @@ committees:
   - name: Cultural Affairs Committee
     description:
     positions:
+      - name: Master of Culture
+        description:
+        members:
+          - name: Juha Lehto
+            picture: static/toimijat/2022/juha_lehto.jpg
       - name: Culture artisan
         description:
         members:
@@ -111,7 +128,7 @@ committees:
   - name: Sports Committee
     description:
     positions:
-        - name: Liikuntavastaava
+        - name: Master of Sports
           description:
           members:
             - name: Ville Hakoniemi
@@ -131,6 +148,13 @@ committees:
   - name: Entertainment Committee
     description:
     positions:
+      - name: Host and Hostess
+        description:
+        members:
+          - name: Kiira Metsoila
+            picture: static/toimijat/2022/kiira_metsoila.jpg
+          - name: Jimi Oksman
+            picture: static/toimijat/2022/jimi_oksman.jpg
       - name: MinIEns
         description:
         members:
@@ -261,6 +285,11 @@ committees:
   - name: Corporate Relations Committee
     description:
     positions:
+      - name: Head of Corporate Relations
+        description:
+        members:
+          - name: Roope Järvinen
+            picture: static/toimijat/2022/roope_jarvinen.jpg
       - name: Account Manager
         description:
         members:
@@ -309,7 +338,12 @@ committees:
   - name: Media Committee
     description:
     positions:
-      - name: Viestijä
+      - name: Head of Communications
+        description:
+        members:
+          - name: Meri Hildén
+            picture: static/toimijat/2022/meri_hilden.jpg
+      - name: Communicator
         description:
         members:
           - name: Veera Ihalainen
