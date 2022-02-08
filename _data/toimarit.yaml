@@ -48,7 +48,7 @@ committees:
       - name: DSDeetti
         description:
         members:
-          - name: Apollo Ailius
+          - name: Apollo Ailus
             picture: static/toimijat/aebaej_placeholder.png
           - name: Khanh Nguyen
             picture: static/toimijat/aebaej_placeholder.png
@@ -72,6 +72,25 @@ committees:
         members:
           - name: Henri Toivola
             picture: static/toimijat/2021/henri_toivola.jpg
+  - name: Abitoimikunta
+    description:
+    positions:
+      - name: Abimarkkinointivastaata
+        description:
+        members:
+          - name: Nadja Jensen
+            picture: static/toimijat/aebaej_placeholder.png
+      - name: Abisintti
+        description:
+        members:
+          - name: Aaro Saastamoinen
+            picture: static/toimijat/aebaej_placeholder.png
+          - name: Veera Ihalainen
+            picture: static/toimijat/2021/veera_ihalainen.jpg
+          - name: Emil Huttunen
+            picture: static/toimijat/2020/emil_huttunen.jpg
+          - name: Sakari Ropponen
+            picture: static/toimijat/2021/sakari_ropponen.jpg
 
   - name: Kulttuuritoimikunta
     description:
@@ -301,7 +320,7 @@ committees:
             picture: static/toimijat/aebaej_placeholder.png
           - name: Linda Åström
             picture: static/toimijat/aebaej_placeholder.png
-          - name: Susanna Vilkaa
+          - name: Susanna Vilkka
             picture: static/toimijat/aebaej_placeholder.png
           - name: Lasse Wittke
             picture: static/toimijat/aebaej_placeholder.png
@@ -500,7 +519,7 @@ committees:
             picture: static/toimijat/aebaej_placeholder.png
           - name: Tiia-Maria Hyvönen
             picture: static/toimijat/2020/tiia_hyvonen.jpg
-          - name: Apollo Ailud
+          - name: Apollo Ailus
             picture: static/toimijat/aebaej_placeholder.png
           - name: Mimi Määttä
             picture: static/toimijat/aebaej_placeholder.png
