@@ -47,7 +47,7 @@ people:
     email: phuksikapteeni@as.fi
     phone: +358 400581499
     username: arupto
-    picture: static/toimijat/2021/arttu_pahta.jpg
+    picture: static/toimijat/2022/arttu_pahta.jpg
     description: "The Fuksi Captain is responsible for all fuksi wellbeing and fuksi events. They organize events for fuksis with other guild members, the University and other Fuksi Captains. Collaborates closely with the Tutor Coordinator."
 
   - position_name: Master and International Student Captain
@@ -55,7 +55,7 @@ people:
     email: misc@as.fi
     phone: +358 404126758
     username: helosuo
-    picture: static/toimijat/aebaej_placeholder.png
+    picture: static/toimijat/2022/oskari_helosuo.jpg
     description: "The Master and International Student Captain is responsible of fuksi wellbeing and fuksi events for international and master's students. They collaborate closely with the freshman captains and the tutor boss. 
     Contact the MISC if you are confused international student or if your matter concerns international affairs. "
     
@@ -73,7 +73,7 @@ people:
     email: ie@as.fi
     phone: +358 451373142
     username: Kiiraiitu
-    picture: static/toimijat/2022/kiira_metsoila.jpg
+    picture: static/toimijat/2022/kiira_metsoila_uusi.jpg
     description: "The Host arranges various events together with the hostess for the guild members. Together with Hostess they lead the Entertainment Committee and work towards even better events.
     Contact the Host or the Hostess if your matter concerns a guild event."
 
