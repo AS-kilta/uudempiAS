@@ -26,6 +26,19 @@ committees:
         members:
           - name: Veeti Kahilainen
             picture: static/toimijat/2021/veeti_kahilainen.jpg
+      - name: Tosi ISO
+        description: 
+        members:
+          - name: Axel Åberg
+            picture: static/toimijat/2022/axel_aberg.jpg
+          - name: Lotta Makkonen
+            picture: static/toimijat/2022/lotta_makkonen.jpg
+          - name: Katarina Pichna
+            picture: static/toimijat/aebaej_placeholder.png
+          - name: Pessi Lyytikäinen
+            picture: static/toimijat/aebaej_placeholder.png
+          - name: Erkka Multanen
+            picture: static/toimijat/2022/erkka_multanen.jpg
 
   - name: Opintotoimikunta
     description:
@@ -296,6 +309,8 @@ committees:
           picture: static/toimijat/2021/veeti_kahilainen.jpg
         - name: Mohammad Shahidul
           picture: static/toimijat/2022/mohammad_shahidul.jpg
+        - name: Mimi Määttä
+          picture: static/toimijat/2022/mimi_maatta.jpg
       - name: Takapihajumala
         description:
         members:
@@ -432,6 +447,8 @@ committees:
           picture: static/toimijat/2021/severi_casserly.jpg
         - name: Zhibin Yan
           picture: static/toimijat/2022/zhibin_yan.jpg
+        - name: Ilene Blaco
+          picture: static/toimijat/aebaej_placeholder.png
 
   - name: Stimulaatio-toimikunta
     description:
@@ -532,7 +549,7 @@ committees:
             picture: static/toimijat/aebaej_placeholder.png
           - name: Iivo Angerpuro
             picture: static/toimijat/2022/iivo_angerpuro.jpg
-          - name: Katarina Pichnova
+          - name: Katarina Pichna
             picture: static/toimijat/aebaej_placeholder.png
           - name: Joonatan Tammisto
             picture: static/toimijat/2022/joonatan_tammisto.jpg
@@ -542,6 +559,8 @@ committees:
             picture: static/toimijat/2022/lucas_kaldstrom.jpg
           - name: Olli-Pekka Pennanen
             picture: static/toimijat/2021/olli-pekka_pennanen.jpg
+          - name: Dovlat Ibragimow
+            picture: static/toimijat/aebaej_placeholder.png
 
   - name: Ulkoexcutoimikunta
     description:
@@ -560,6 +579,9 @@ committees:
             picture: static/toimijat/2019/jaakko_majuri_19.jpg
           - name: Marcell Berta
             picture: static/toimijat/2022/marcel_berta.jpg
+          - name: Tia-Maria Hyvönen
+            picture: static/toimijat/2020/tiia_hyvonen.jpg
+
 
   - name: Kultainen Toimitus
     description:
