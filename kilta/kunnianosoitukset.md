@@ -164,8 +164,8 @@ Kunnianosoitusta ei voida myöntää killan hopeisen tai kultaisen ansiomerkin s
 
 **2021**
 - [Matias Varonen](#matias-varonen)
-- [Jenna Kerkkänen](#jenna-kerkkanen)
-- [Joonas Törmälä](#joonas-tormala)
+- [Jenna Kerkkänen](#jenna-kerkkänen)
+- [Joonas Törmälä](#joonas-törmälä)
 - [Viivi-Maari Kallinen](#viivi-maari-kallinen)
 - [Juhani Lehto](#juhani-lehto)
 - [Sampo Saloriutta](#sampo-saloriutta)
