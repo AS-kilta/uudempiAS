@@ -26,7 +26,7 @@ committees:
         members:
           - name: Veeti Kahilainen
             picture: static/toimijat/2021/veeti_kahilainen.jpg
-      - name: Tosi ISO
+      - name: Tosi-ISO
         description: 
         members:
           - name: Axel Åberg

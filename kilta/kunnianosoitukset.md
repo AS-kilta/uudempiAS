@@ -176,7 +176,8 @@ Kunnianosoitusta ei voida myöntää killan hopeisen tai kultaisen ansiomerkin s
 - [Lassi Ihalainen](#lassi-ihalainen)
 - [Lotta Makkonen](#lotta-makkonen)
 - [Ville Strengell](#ville-strengell)
-- [Lotta Makkonen](#lotta-makkonen)
+- [Aino Valkama](#aino-valkama)
+
 ## Perustelut
 
 ### Kunniajäsenistä
