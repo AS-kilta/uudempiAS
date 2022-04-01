@@ -1,7 +1,7 @@
 people:
   - position_name: Chairperson
     person_name: Meri Hiipakka
-    email: puheenjohtaja@as.fi
+    email: chair@as.fi
     phone: +358 451239772
     username: Merisku
     picture: static/toimijat/2022/meri_hiipakka.jpg
@@ -10,7 +10,7 @@ people:
 
   - position_name: Vice Chairperson
     person_name: Aino Valkama
-    email: varapuheenjohtaja@as.fi
+    email: vicechair@as.fi
     phone: +358 445100902
     username: kuningasaino
     picture: static/toimijat/2022/aino_valkama.jpg
@@ -18,7 +18,7 @@ people:
 
   - position_name: Treasurer
     person_name: Lucas Käldström
-    email: rahastonhoitaja@as.fi
+    email: cfo@as.fi
     phone: +358 458911847
     username: luxask
     picture: static/toimijat/2022/lucas_kaldstrom.jpg
@@ -36,7 +36,7 @@ people:
 
   - position_name: Fuksi Captain
     person_name: Joonas Törmälä
-    email: phuksikapteeni@as.fi
+    email: fukcicaptain@as.fi
     phone: +358 405690098
     username: miljoonas
     picture: static/toimijat/2022/joonas_tormala.jpg
@@ -44,7 +44,7 @@ people:
 
   - position_name: Fuksi Captain
     person_name: Arttu Pahta
-    email: phuksikapteeni@as.fi
+    email: fuksicaptain@as.fi
     phone: +358 400581499
     username: arupto
     picture: static/toimijat/2022/arttu_pahta.jpg
@@ -97,7 +97,7 @@ people:
 
   - position_name: Head of Corporate Relations
     person_name: Roope Järvinen
-    email: yrityssuhdevastaava@as.fi
+    email: corporaterelations@as.fi
     phone: +358 403584060
     username: roopej
     picture: static/toimijat/2022/roope_jarvinen.jpg
