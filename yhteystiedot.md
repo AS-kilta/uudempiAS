@@ -30,3 +30,15 @@ Maarintie 8<br>
 
 * Y-tunnus: 1790153-4
 * Rekisterinumero: 185372
+
+## Paperilaskujen skannauksen osoite
+
+* Automaatio- ja systeemitekniikan kilta ry (Apix skannauspalvelu) 
+* PL 16112
+* 00021 LASKUTUS
+
+## Verkkolaskutuksen yhteystiedot
+
+* Verkkolaskutustunnus: 003717901534
+* Operaattorin välittäjätunnus: 003717901534
+* Verkkolaskuoperaattori: Apix Messaging Oy (003723327487)
