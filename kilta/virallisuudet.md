@@ -11,6 +11,7 @@ title: Virallisuudet
 - [Haalariohjesääntö](https://as.fi/kilta/haalariohjesaanto.html)
 - [Lippuohjesääntö](https://as.fi/kilta/lippuohjesaanto.html)
 - [Merkkiohjesääntö](https://as.fi/kilta/merkkiohjesaanto.html)
+- [Sijoitusohjesääntö](https://as.fi/kilta/sijoitusohjesaanto.html)
 
 ### Selosteet
 
