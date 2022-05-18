@@ -1,3 +1,8 @@
+---
+layout: page
+title: "Sijoitusohjesääntö"
+---
+
 ### Automaatio- ja systeemitekniikan killan sijoitusohjesääntö
 
 
