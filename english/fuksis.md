@@ -6,21 +6,9 @@ title: For Fuksis
 
 ## DSD fuksiguide
 
-<style>
-    #phopas_wrapper {
-        position: relative;
-        overflow: hidden;
-        padding-top: 60%;
-    }
+Fuksiguide coming soon!
 
-    #phopas_frame {
-        position: absolute;
-        top: 0;
-        left: 0;
-        width: 100%;
-        height: 100%;
-        border: 0;
-    }
+<style>
 
     .photo {
         width: 200px;
@@ -38,19 +26,10 @@ title: For Fuksis
 
 </style>
 
-<div id="phopas_wrapper">
-    <iframe id="phopas_frame" src="https://drive.google.com/file/d/1mDNotrpoI-bnpAdZnsTpI0pfTYicyGqu/preview"></iframe>
-</div>
-<br>
-[Lataa pdf](https://drive.google.com/file/d/1mDNotrpoI-bnpAdZnsTpI0pfTYicyGqu)
 
 ## Fuksiguide
 
-<div id="phopas_wrapper">
-    <iframe id="phopas_frame" src="https://drive.google.com/file/d/1prpL2GPLdmbwIBOZ6w1lJuXx5aspQSzB/preview"></iframe>
-</div>
-<br>
-[Lataa pdf](https://drive.google.com/file/d/1prpL2GPLdmbwIBOZ6w1lJuXx5aspQSzB)
+Coming soon!
 
 ## Starting your studies
 
@@ -62,37 +41,37 @@ Depending on your studies these are the people to contact in case of emergency o
 
 <div class="person" markdown="1">
 
-![Master's and International Student Captain]({{ "/static/toimijat/2021/veeti_fuksikapteeni.jpg" | absolute_url }} "Master's and International Student Captain"){:class="photo"}
+![Master's and International Student Captain]({{ "/static/toimijat/2022/Oskari_MISC.jpg" | absolute_url }} "Master's and International Student Captain"){:class="photo"}
 
 **Master's and International Student Captain**<br>
-Veeti Kahilainen<br>
+Oskari Helosuo<br>
 [Email: isc@as.fi](mailto:isc@REMOVEas.fi)<br>
-[Tel: +358 504316878](tel://+358 504316878)<br>
-[Telegram: @Helveeti](https://telegram.me/Helveeti)
+[Tel: +358 404126758](tel://+358 404126758)<br>
+[Telegram: @helosuo](https://telegram.me/helosuo)
 
 </div>
 
 <div class="person" markdown="1">
 
-![Fuksi Captain]({{ "/static/toimijat/2021/kalle_fuksikapteeni.jpg" | absolute_url }} "Fuksi Captain"){:class="photo"}
+![Fuksi Captain]({{ "/static/toimijat/2022/Joonas_fuksikapteeni.jpg" | absolute_url }} "Fuksi Captain"){:class="photo"}
 
 **Fuksi Captain**<br>
-Kalle Rantala<br>
+Joonas Törmälä<br>
 [Email: fuksikapteenit@as.fi](mailto:fuksikapteenit@POISTAas.fi)<br>
-[Tel: +358 407641007](tel://+358 407641007)<br>
-[Telegram: @Rantakal](https://telegram.me/Rantakal)
+[Tel: +358 405690098](tel://+358 405690098)<br>
+[Telegram: @miljoonas](https://telegram.me/miljoonas)
 
 </div>
 
 <div class="person" markdown="1">
 
-![Fuksi Captain]({{ "/static/toimijat/2021/veera_fuksikapteeni.jpg" | absolute_url }} "Fuksi Captain"){:class="photo"}
+![Fuksi Captain]({{ "/static/toimijat/2022/Arttu_fuksikapteeni.jpg" | absolute_url }} "Fuksi Captain"){:class="photo"}
 
 **Fuksi Captain**<br>
-Veera Ihalainen<br>
+Arttu Pahta<br>
 [Email: fuksikapteenit@as.fi](mailto:fuksikapteenit@POISTAas.fi)<br>
-[Tel: +358 407457138](tel://+358 407457138)<br>
-[Telegram: @veliih](https://telegram.me/veliih)
+[Tel: +358 400581499](tel://+358 400581499)<br>
+[Telegram: @arupto](https://telegram.me/arupto)
 
 </div>
 
@@ -108,7 +87,7 @@ Whatever the reason you need to contact us for we will try to get back to you AS
 * Apply for housing for example from [AYY](https://domo.ayy.fi/en) or [HOAS](https://www.hoas.fi/en)
 * Apply for [study grants](https://www.kela.fi/web/en/financial-aid-for-students-study-grant) from KELA, if you are a Finnish citizen.
 * Buy [HSL travel card](https://www.hsl.fi/en/information/hsl-card)
-* Join the relevant Telegram groups, follow [this link](https://bit.ly/DSDfuksis21) to join the group for first year DSD students
+* Join the relevant Telegram groups, follow [this link](https://bit.ly/DSDfuksis22) to join the group for first year DSD students and [this link](https://bit.ly/ASmint22) to join the group for Master's and International students.
 
 
 ## Useful links / contacts
@@ -116,7 +95,7 @@ Whatever the reason you need to contact us for we will try to get back to you AS
 ### Studies
 
 * [MyCourses](https://mycourses.aalto.fi/) (Coursework and information)
-* [WebOodi](https://oodi.aalto.fi) (Enrollment for courses, midterms and exams)
+* [Sisu](https://sisu.aalto.fi) (Enrollment for courses, midterms and exams)
 * [School of Electrical Engineering](https://www.aalto.fi/en/school-of-electrical-engineering)
 * [Aalto University](https://www.aalto.fi)
 * [Study Guide (Into)](https://into.aalto.fi/display/en/Homepage)

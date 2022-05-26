@@ -6,23 +6,10 @@ title: Fukseille
 
 ## Fuksiopas
 
-Follow [this link](https://as.fi/english/fuksis.html) for the guide aimed at DSD students!
+Fuksiopas tulossa pian! 
+
 
 <style>
-    #phopas_wrapper {
-        position: relative;
-        overflow: hidden;
-        padding-top: 60%;
-    }
-
-    #phopas_frame {
-        position: absolute;
-        top: 0;
-        left: 0;
-        width: 100%;
-        height: 100%;
-        border: 0;
-    }
 
     .photo {
         width: 200px;
@@ -40,11 +27,6 @@ Follow [this link](https://as.fi/english/fuksis.html) for the guide aimed at DSD
 
 </style>
 
-<div id="phopas_wrapper">
-    <iframe id="phopas_frame" src="https://drive.google.com/file/d/1icKB-DGaJKiSBvCxG8LuANE50Unirvzw/preview"></iframe>
-</div>
-<br>
-[Lataa pdf](https://drive.google.com/file/d/1icKB-DGaJKiSBvCxG8LuANE50Unirvzw)
 
 ## Opintojen aloitus
 
@@ -56,25 +38,25 @@ Fuksikapteenit on ne tyypit, joihin otat yhteyttä kun ihan mikä tahansa on huo
 
 <div class="person" markdown="1">
 
-![Fuksikapteeni]({{ "/static/toimijat/2021/kalle_fuksikapteeni.jpg" | absolute_url }} "Fuksikapteeni"){:class="photo"}
+![Fuksikapteeni]({{ "/static/toimijat/2022/Joonas_fuksikapteeni.jpg" | absolute_url }} "Fuksikapteeni"){:class="photo"}
 
 **Fuksikapteeni**<br>
-Kalle Rantala<br>
+Joonas Törmälä<br>
 [Email: fuksikapteenit@as.fi](mailto:fuksikapteenit@POISTAas.fi)<br>
-[Tel: +358 407641007](tel://+358 407641007)<br>
-[Telegram: @Rantakal](https://telegram.me/Rantakal)
+[Tel: +358 405690098](tel://+358 405690098)<br>
+[Telegram: @Rantakal](https://telegram.me/miljoonas)
 
 </div>
 
 <div class="person" markdown="1">
 
-![Fuksikapteeni]({{ "/static/toimijat/2021/veera_fuksikapteeni.jpg" | absolute_url }} "Fuksikapteeni"){:class="photo"}
+![Fuksikapteeni]({{ "/static/toimijat/2022/Arttu_fuksikapteeni.jpg" | absolute_url }} "Fuksikapteeni"){:class="photo"}
 
 **Fuksikapteeni**<br>
-Veera Ihalainen<br>
+Arttu Pahta<br>
 [Email: fuksikapteenit@as.fi](mailto:fuksikapteenit@POISTAas.fi)<br>
-[Tel: +358 407457138](tel://+358 407457138)<br>
-[Telegram: @veliih](https://telegram.me/veliih)
+[Tel: +358 400581499](tel://+358 400581499)<br>
+[Telegram: @veliih](https://telegram.me/arupto)
 
 </div>
 
@@ -90,7 +72,7 @@ Koski asia sitten pientä juttua tai jotakin isompaa huolta, vastaa Fuksikapteen
 * Hae asuntoa [AYY:ltä](https://domo.ayy.fi) tai [HOASilta](https://www.hoas.fi)
 * Hae [opintotukea](https://www.kela.fi/opintotuki)
 * Hanki [matkakortti](https://www.hsl.fi/liput-ja-hinnat/matkakortti)
-* Liity AS:n 21 fuksien Telegram-ryhmään [bit.ly/fuksit21](https://bit.ly/fuksit21) tai DSD -fuksien Telegram-ryhmään [bit.ly/DSDfuksis21](https://bit.ly/DSDfuksis21)
+* Liity AS:n 22 fuksien Telegram-ryhmään [bit.ly/fuksit22](https://bit.ly/fuksit22) tai DSD -fuksien Telegram-ryhmään [bit.ly/DSDfuksis22](https://bit.ly/DSDfuksis22)
 
 
 ### Hyödyllisiä yhteystietoja / linkkejä
@@ -98,7 +80,7 @@ Koski asia sitten pientä juttua tai jotakin isompaa huolta, vastaa Fuksikapteen
 #### Opinnot
 
 * [MyCourses](https://mycourses.aalto.fi/) (Täältä löytyy tietoa kursseista)
-* [WebOodi](https://oodi.aalto.fi) (Täällä tapahtuu kursseille, välikokeisiin ja tentteihin ilmoittautuminen)
+* [Sisu](https://sisu.aalto.fi) (Täällä tapahtuu kursseille, välikokeisiin ja tentteihin ilmoittautuminen)
 * [Sähkötekniikan korkeakoulu](https://www.aalto.fi/fi/sahkotekniikan-korkeakoulu)
 * [Aalto-yliopisto](https://www.aalto.fi)
 * [Opinto-opas](https://into.aalto.fi/pages/viewpage.action?pageId=330842)
