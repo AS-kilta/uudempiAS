@@ -5,7 +5,7 @@ title: Linkkiseinä
 
 # Telegram-ryhmät
 
-[AS - Telegram](https://t.me/joinchat/D1ikST_110MuWWh8wI4IQw)<br>
+[AS - Telegram](https://t.me/+P_XXQ3jtlGG1VI77)<br>
 Kaikkien aASien kannu, aihe vapaa
 
 [AS in English - Telegram](https://t.me/joinchat/BzywAENaOk8UOSc1LreD5A)<br>
