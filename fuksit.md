@@ -44,7 +44,7 @@ Fuksikapteenit on ne tyypit, joihin otat yhteyttä kun ihan mikä tahansa on huo
 Joonas Törmälä<br>
 [Email: fuksikapteenit@as.fi](mailto:fuksikapteenit@POISTAas.fi)<br>
 [Tel: +358 405690098](tel://+358 405690098)<br>
-[Telegram: @Rantakal](https://telegram.me/miljoonas)
+[Telegram: @miljoonas](https://telegram.me/miljoonas)
 
 </div>
 
@@ -56,7 +56,7 @@ Joonas Törmälä<br>
 Arttu Pahta<br>
 [Email: fuksikapteenit@as.fi](mailto:fuksikapteenit@POISTAas.fi)<br>
 [Tel: +358 400581499](tel://+358 400581499)<br>
-[Telegram: @veliih](https://telegram.me/arupto)
+[Telegram: @arupto](https://telegram.me/arupto)
 
 </div>
 
