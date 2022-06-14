@@ -372,6 +372,50 @@ committees:
           - name: Henri Toivola
             picture: static/toimijat/2021/henri_toivola.jpg
 
+  - name: Finance Committee
+    description:
+    positions:
+      - name: Treasurer
+        description:
+        members:
+          - name: Lucas Käldström
+            picture: static/toimijat/2022/lucas_kaldstrom.jpg
+      - name: Member of Committee
+        description:
+        members:
+          - name: Huy Do
+            picture: static/toimijat/aebaej_placeholder.png
+          - name: Joona Harju
+            picture: static/toimijat/aebaej_placeholder.png
+          - name: Topias Malinen
+            picture: static/toimijat/2022/topias_malinen.jpg
+          - name: Linda Åström
+            picture: static/toimijat/2022/linda_astrom.jpg
+          - name: Matias Vapola
+            picture: static/toimijat/2022/matias_vapola.jpg
+          - name: Thanh Vo
+            picture: static/toimijat/aebaej_placeholder.png
+          - name: Deepanker Kanjarla
+            picture: static/toimijat/aebaej_placeholder.png
+          - name: David Rombach
+            picture: static/toimijat/aebaej_placeholder.png
+          - name: Mimi Määttä
+            picture: static/toimijat/2022/mimi_maatta.jpg
+          - name: Pinja Mäkeläinen
+            picture: static/toimijat/2022/pinja_makelainen.jpg
+          - name: Rafael Majaharju
+            pictures: static/toimijat/aebaej_placeholder.png
+          - name: Saku Kovanen
+            picture: static/toimijat/aebaej_placeholder.png
+          - name: Ville Eronen
+            picture: static/toimijat/2019/ville_eronen_19.jpg
+          - name: Kabir Bissessar
+            picture: static/toimijat/2022/kabir_bissessar.jpg
+          - name: Marcell Berta
+            picture: static/toimijat/2022/marcel_berta.jpg
+          - name: Laura Rautiainen
+            picture: static/toimijat/aebaej_placeholder.png
+
   - name: Media Committee
     description:
     positions:

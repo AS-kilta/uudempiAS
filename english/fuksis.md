@@ -45,7 +45,7 @@ Depending on your studies these are the people to contact in case of emergency o
 
 **Master's and International Student Captain**<br>
 Oskari Helosuo<br>
-[Email: isc@as.fi](mailto:isc@REMOVEas.fi)<br>
+[Email: misc@as.fi](mailto:misc@REMOVEas.fi)<br>
 [Tel: +358 404126758](tel://+358 404126758)<br>
 [Telegram: @helosuo](https://telegram.me/helosuo)
 
