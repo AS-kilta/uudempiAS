@@ -40,11 +40,10 @@ title: Fukseille
 </style>
 
 <div id="phopas_wrapper">
-    <iframe id="phopas_frame" src="https://drive.google.com/file/d/11zsTiKBez4lftp5-8t29w7IUrR_3FHJN/view?usp=sharing"></iframe>
+    <iframe id="phopas_frame" src="https://drive.google.com/file/d/11zsTiKBez4lftp5-8t29w7IUrR_3FHJN/preview"></iframe>
 </div>
 <br>
 [Lataa pdf](https://drive.google.com/file/d/11zsTiKBez4lftp5-8t29w7IUrR_3FHJN/view?usp=sharing)
-
 
 
 ## Opintojen aloitus

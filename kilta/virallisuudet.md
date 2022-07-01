@@ -6,12 +6,15 @@ title: Virallisuudet
 ### Säännöt
 
 - [Säännöt](https://as.fi/kilta/saannot.html)
+- [Eettinen ohjesääntö eli Conde of Conduct](https://as.fi/kilta/code_of_conduct.html)
 - [Vaalijärjestys](https://as.fi/static/virallisuudet/as_vaalijarjestys.pdf)
 - [Excursio-ohjesääntö](https://as.fi/kilta/excursio-ohjesaanto.html)
 - [Haalariohjesääntö](https://as.fi/kilta/haalariohjesaanto.html)
 - [Lippuohjesääntö](https://as.fi/kilta/lippuohjesaanto.html)
 - [Merkkiohjesääntö](https://as.fi/kilta/merkkiohjesaanto.html)
 - [Sijoitusohjesääntö](https://as.fi/kilta/sijoitusohjesaanto.html)
+
+
 
 ### Selosteet
 
