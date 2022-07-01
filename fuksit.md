@@ -6,10 +6,22 @@ title: Fukseille
 
 ## Fuksiopas
 
-Fuksiopas tulossa pian! 
-
 
 <style>
+    #phopas_wrapper {
+        position: relative;
+        overflow: hidden;
+        padding-top: 60%;
+    }
+
+    #phopas_frame {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        border: 0;
+    }
 
     .photo {
         width: 200px;
@@ -26,6 +38,13 @@ Fuksiopas tulossa pian!
     }
 
 </style>
+
+<div id="phopas_wrapper">
+    <iframe id="phopas_frame" src="https://drive.google.com/file/d/11zsTiKBez4lftp5-8t29w7IUrR_3FHJN/view?usp=sharing"></iframe>
+</div>
+<br>
+[Lataa pdf](https://drive.google.com/file/d/11zsTiKBez4lftp5-8t29w7IUrR_3FHJN/view?usp=sharing)
+
 
 
 ## Opintojen aloitus
