@@ -6,6 +6,7 @@ title: Fukseille
 
 ## Fuksiopas
 
+Follow [this link](https://as.fi/english/fuksis.html) for the guide aimed at DSD students!
 
 <style>
     #phopas_wrapper {

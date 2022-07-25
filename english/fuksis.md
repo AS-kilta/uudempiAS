@@ -6,9 +6,21 @@ title: For Fuksis
 
 ## DSD fuksiguide
 
-Fuksiguide coming soon!
-
 <style>
+    #phopas_wrapper {
+        position: relative;
+        overflow: hidden;
+        padding-top: 60%;
+    }
+
+    #phopas_frame {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        border: 0;
+    }
 
     .photo {
         width: 200px;
@@ -26,10 +38,12 @@ Fuksiguide coming soon!
 
 </style>
 
+<div id="phopas_wrapper">
+    <iframe id="phopas_frame" src="https://drive.google.com/file/d/12fNHS8iN6hG_EG0rGuZs2jCcsFcM-M8P/preview"></iframe>
+</div>
+<br>
+[Lataa pdf](https://drive.google.com/file/d/12fNHS8iN6hG_EG0rGuZs2jCcsFcM-M8P/view?usp=sharing)
 
-## Fuksiguide
-
-Coming soon!
 
 ## Starting your studies
 
