@@ -32,7 +32,7 @@ Membership fee is 8 euros and it is payed to the guild's account.
 
 * recipient: Guild of Automation and Systems technology
 * IBAN: FI84 3131 3001 8081 61
-* Reference number: RF02 6774 2
+* Message: First name + Last name
 * Sum: 8 euros
 
 ## Membership application
