@@ -11,27 +11,21 @@ Haalarit on luotu kovaan käyttöön ja etenkin wapun tienoilla ne ovat lähes v
 
 Haalarit luovat yhteenkuuluvuutta ja herättävät huomiota. Muista kuitenkin, että haalareissa edustat kaikkia teekkareita ja teekkariutta, joten käytöksesi tulee myös olla sen mukaista. Automaatio- ja systeemitekniikan opiskelijoilla on violetit haalarit, joissa on musta hiha. Kun AS-ohjelmaa perustettiin tietotekniikan alle, ensimmäiset aASit hankkivat Tietokillan mustiin haalareihin violetit hihat erottuakseen omana joukkonaan. Seuraavana vuonna, kun aASit perustivat oman kiltansa, päätettiin ottaa killalle violetit haalarit mustalla hihalla muistoksi juuristamme Tietokillassa.
 
-Muista, että haalareita ei saa pestä! Jokainen tahra ja naarmu kertoo kokemuksista. Uudet fuksit saavat AS:n kauniin violetit haalarit Haalarigaalassa, joka järjestetään syyskuun lopulla.
+Muista, että haalareita ei saa pestä! Jokainen tahra ja naarmu kertoo kokemuksista. Uudet fuksit saavat AS:n kauniin violetit haalarit Haalariseikkailussa, joka järjestetään syyskuun lopulla.
 
 ### Tilaaminen
 
-Vuosimallin 2021 haalareita voi tilata orientaatioviikolla. Lisätilaukset tulevat kalliiksi, joten jos aiot tilata, se kannattaa tehdä heti! Tilaus on sitova.
+Haalareita voi tilata orientaatioviikolla. Lisätilaukset tulevat kalliiksi, joten jos aiot tilata, se kannattaa tehdä heti! Tilaus on sitova.
 
-Haalareiden arvo on noin 60 €, mutta kilta tukee fuksien haalaritilauksia siten, että fukseille ensimmäiset haalarit maksavat noin 25 €. Maksat haalarit sitten, kun saat ne. Muista hankkia hieno vyö itse. 
+Haalareiden arvo on noin 70 €, mutta kilta tukee fuksien haalaritilauksia siten, että fukseille ensimmäiset haalarit maksavat noin 25 €. Maksat haalarit sitten, kun saat ne. Muista hankkia hieno vyö itse. 
 
 Jos havaitset haalareissa jotain vikaa tai valitettavaa, niin ilmoitathan asiasta heti. Valmistusvirheistä johtuvat viat korjataan kyllä. Kaikki osat, kuten napit ja vetoketju, eivät välttämättä kestä kovaa menoa, mutta ne on sangen helppo korjailla itse. Kysy vinkkejä vanhemmilta killisteiltä.
 
 ## Pistekortti
 
-Ylioppilaskunnan fuksipistejärjestelmän tehtävänä on tutustuttaa fuksi ylioppilaskuntaan ja teekkaritoimintaan. Suoritettuaan vaaditut fuksipisteet kunnialla saa fuksi ennen fuksiwappuaan esteettömystodistuksen, joka oikeuttaa teekkarilakin käyttöön Wappupäivästä alkaen.
+Pistekorttiin tarpeeksi pisteitä kerännyt fuksi on oikeutettu teekkarilakin saamiseen mahdollisesti järjestettävänä Wappuna. Pisteitä kertyy useasta kategoriasta, joista mainittakoon esimerkiksi teekkarikulttuuriin tutustuminen, opintoaiheiset tapahtumat sekä erilaiset vapaaehtoistoimet killan parissa ja muualla. Pistekorttia täyttäessä on hieno mahdollisuus tutustua kaikkeen siihen, mitä Aalto-yliopisto, AYY, killat ja Otaniemi opiskelijoille tarjoavat.
 
-Ansaitaksesi teekkarin arvonimen on sinun suoritettava pakolliset pisteet, sekä vaikeustaso: Helppo (80 pistettä). Pisteitä pitää saada tasoilta 1-4. 
-
-Törkeästä teekkarihengen vastaisesta törttöilystä saa sikapisteen, joka johtaa lakkitutkinnon hylkäämiseen.
-
-Halutessasi voit suorittaa Normaalin vaikeustason (130 pistettä), joka oikeuttaa Superfuksin tutkintoon. Jos otat haasteen vastaan, voit suorittaa Vaikean vaikeustason (180), joka oikeuttaa Hyperfuksin tutkintoon.
-
-Merkkaa suoritetut pisteet kynällä, ja pyydä niihin allekirjoitusta Fuksikapteenilta, ISOpomolta tai KV-kapteenilta. Kysy lisää pisteistä keneltä tahansa kiltalaiselta. 
+Pistekortit jaetaan orientaatioviikon ensimmäisenä päivänä. Mikäli fuksi ei pääse paikalle, saa hän pistekortin kippareilta myöhemmin kysymällä. Pistekorttiin tehdyt merkinnät hyväksyvät kipparit, ja heiltä voi aina tilaisuuden tullen kysellä pisteistä. Pisteistä ei kannata stressata, sillä asioista innostumalla niitä tuntuu tulevan vähän joka suunnasta!
 
 ## Teekkarilakki
 
