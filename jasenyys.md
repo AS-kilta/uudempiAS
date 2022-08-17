@@ -32,7 +32,7 @@ Jäsenmaksun suuruus on 8 euroa ja se maksetaan killan tilille.
 
 * Saaja: Automaatio- ja systeemitekniikan kilta
 * IBAN: FI84 3131 3001 8081 61
-* Viesti: Etunimi + Sukunimi
+* Viesti: "jäsenyys" + oma nimi
 * Summa: 8 euroa
 
 ## Jäsenhakemuslomake
