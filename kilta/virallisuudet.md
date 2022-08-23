@@ -7,7 +7,6 @@ title: Virallisuudet
 
 - [Säännöt](https://as.fi/kilta/saannot.html)
 - [Eettinen ohjesääntö eli Code of Conduct](https://as.fi/kilta/code_of_conduct.html)
-- [Yhdenvertaisuussuunnitelma](https://as.fi/kilta/yhdenvertaisuussuunnitelma.html)
 - [Vaalijärjestys](https://as.fi/static/virallisuudet/as_vaalijarjestys.pdf)
 - [Excursio-ohjesääntö](https://as.fi/kilta/excursio-ohjesaanto.html)
 - [Haalariohjesääntö](https://as.fi/kilta/haalariohjesaanto.html)
@@ -15,8 +14,12 @@ title: Virallisuudet
 - [Merkkiohjesääntö](https://as.fi/kilta/merkkiohjesaanto.html)
 - [Sijoitusohjesääntö](https://as.fi/kilta/sijoitusohjesaanto.html)
 
+### Muut
 
+- [Yhdenvertaisuussuunnitelma](https://as.fi/kilta/yhdenvertaisuussuunnitelma.html)
+- [AS:n yleinen ohjeistus häirintätilanteisiin](https://drive.google.com/file/d/1v1tEe6WB_bpGYZwu66TZoSyov71b-Xhe/view?usp=sharing)
 
+ 
 ### Selosteet
 
 - [Rekisteriseloste](https://as.fi/kilta/rekisteriseloste.html)
