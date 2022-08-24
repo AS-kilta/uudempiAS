@@ -18,6 +18,7 @@ title: Virallisuudet
 
 - [Yhdenvertaisuussuunnitelma](https://as.fi/kilta/yhdenvertaisuussuunnitelma.html)
 - [AS:n yleinen ohjeistus häirintätilanteisiin](https://drive.google.com/file/d/1v1tEe6WB_bpGYZwu66TZoSyov71b-Xhe/view?usp=sharing)
+- Mikäli haluat ilmoittaa häirintätapauksesta, voit tehdä sen suoraan häirintäyhdyshenkilöille tai [tämän lomakkeen](https://forms.gle/Qb7zRTrodpU4YFRH9) kautta, jolloin ilmoituksen teko onnistuu myös täysin anonyymisti.
 
  
 ### Selosteet
