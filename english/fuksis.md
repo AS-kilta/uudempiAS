@@ -4,7 +4,7 @@ title: For Fuksis
 ---
 
 
-## DSD fuksiguide
+## DSD fuksi guide
 
 <style>
     #phopas_wrapper {
@@ -43,6 +43,46 @@ title: For Fuksis
 </div>
 <br>
 [Lataa pdf](https://drive.google.com/file/d/12fNHS8iN6hG_EG0rGuZs2jCcsFcM-M8P/view?usp=sharing)
+
+## MINT fuksi guide
+
+<style>
+    #phopas_wrapper {
+        position: relative;
+        overflow: hidden;
+        padding-top: 60%;
+    }
+
+    #phopas_frame {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        border: 0;
+    }
+
+    .photo {
+        width: 200px;
+        height: 200px;
+        border-radius: 50%;
+    }
+
+    .person {
+        display: inline-block;
+        flex-grow: 1;
+        flex-shrink: 1;
+        margin: 0 0 3em 0;
+        padding: 0 1em 0 1em;
+    }
+
+</style>
+
+<div id="phopas_wrapper">
+    <iframe id="phopas_frame" src="https://drive.google.com/file/d/1D1WTEKXhftkGOGw4_a2W8wKeG8WngkDg/preview"></iframe>
+</div>
+<br>
+[Lataa pdf](https://drive.google.com/file/d/1D1WTEKXhftkGOGw4_a2W8wKeG8WngkDg/view?usp=sharing)
 
 
 ## Starting your studies
