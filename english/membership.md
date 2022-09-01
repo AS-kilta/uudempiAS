@@ -26,15 +26,7 @@ Guild's old membership can be applied by a person, who has been a full guild mem
 
 Guild's associate membership can be applied by a person, who's interested in the guild's functions, but can not be accepted as a full or old member. Associate membership can be applied by the same methods as full membership and the membership fee is the same.
 
-## Guildfee and it's payment
-
-Membership fee is 8 euros and it is payed to the guild's account.
-
-* recipient: Guild of Automation and Systems technology
-* IBAN: FI84 3131 3001 8081 61
-* Message: "membership" + your name
-* Sum: 8 euros
 
 ## Membership application
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfTRrDzSNKXDLqmvuQp7EJswBgpeBMrvCPGqnI6P2Jl6IjQHA/viewform?embedded=true" width="100%" height="1500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+- [You can purchase guild membership from kide.app](https://kide.app/memberships/9864c555-8dbe-40c8-9246-064ca682e587)

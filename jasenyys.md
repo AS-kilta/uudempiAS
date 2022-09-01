@@ -26,15 +26,7 @@ Killan vanhaksi jäseneksi voi hakea henkilö, joka on ollut killan varsinainen 
 
 Killan ulkojäseneksi voidaan hyväksyä killan toiminnasta kiinnostunut henkilö, jota ei voida hyväksyä varsinaiseksi tai vanhaksi jäseneksi. Jäseneksi haetaan samoin kuin varsinaiseksi jäseneksi ja jäsenmaksun suuruus on sama.
 
-## Jäsenmaksu ja sen maksaminen 
-
-Jäsenmaksun suuruus on 8 euroa ja se maksetaan killan tilille.
-
-* Saaja: Automaatio- ja systeemitekniikan kilta
-* IBAN: FI84 3131 3001 8081 61
-* Viesti: "jäsenyys" + oma nimi
-* Summa: 8 euroa
 
 ## Jäsenhakemuslomake
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfTRrDzSNKXDLqmvuQp7EJswBgpeBMrvCPGqnI6P2Jl6IjQHA/viewform?embedded=true" width="100%" height="1500" frameborder="0" marginheight="0" marginwidth="0">Ladataan...</iframe>
+- [Voit ostaa killan jäsenyyden kide.app:ista](https://kide.app/memberships/9864c555-8dbe-40c8-9246-064ca682e587)
