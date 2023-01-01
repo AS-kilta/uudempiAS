@@ -1,120 +1,112 @@
 people:
   - position_name: Puheenjohtaja
-    person_name: Meri Hiipakka
+    person_name: Aino Valkama
     email: puheenjohtaja@as.fi
-    phone: +358 451239772
-    username: Merisku
-    picture: static/toimijat/2022/meri_hiipakka.jpg
+    phone: +358 445100902
+    username: kuningasaino
+    picture: static/toimijat/2023/aino_valkama.jpg
     description: "Johtaa hallitusta ja sitä kautta koko killan toimintaa.
 
 Ota yhteyttä puheenjohtajaan, jos asiasi koskee kiltaa tai et tiedä keneen ottaa yhteyttä."
 
   - position_name: Varapuheenjohtaja
-    person_name: Aino Valkama
+    person_name: Jimi Oksman
     email: varapuheenjohtaja@as.fi
-    phone: +358 445100902
-    username: kuningasaino
-    picture: static/toimijat/2022/aino_valkama.jpg
+    phone: +358 451240250
+    username: jimboksman
+    picture: static/toimijat/2023/jimi_oksman.jpg
     description: "Toimii puheenjohtajan työparina ja hoitaa sihteerin tehtäviä. Vastaa pöytäkirjojen tekemisestä hallituksen ja killan kokouksista, kiltaa koskevan materiaalin arkistoinnista ja kiltalaisten palkitsemisesta."
 
   - position_name: Rahastonhoitaja
-    person_name: Lucas Käldström
+    person_name: Linda Åström
     email: rahastonhoitaja@as.fi
-    phone: +358 458911847
-    username: luxask
-    picture: static/toimijat/2022/lucas_kaldstrom.jpg
+    phone: +358 401720020
+    username: Lindaastrom
+    picture: static/toimijat/2023/linda_astrom.jpg
     description: "Huolehtii killan raha-asioista, kuten laskujen maksamisesta ja kirjanpidosta.
 
 Ota yhteyttä rahastonhoitajaan raha-asioissa."
 
   - position_name: Viestintämestari
-    person_name: Meri Hildén
+    person_name: Elias Erke
     email: viestintamestari@as.fi
-    phone: +358 505390911
-    username: merinomainen
-    picture: static/toimijat/2022/meri_hilden.jpg
+    phone: +358 443071808
+    username: eliasjuhani
+    picture: static/toimijat/2023/elias_erke.jpg
     description: "Vastaa jäsenistön tiedottamisesta lähettämällä tiedotteita ja ylläpitämällä kalenteria. Viestintämestari pitää ajan tasalla myös killan sähköpostilistoja ja nettisivujen sisältöä.
 
 Ota yhteyttä viestintämestariin halutessasi tiedottaa killisteille jotakin."
 
   - position_name: Fuksikapteeni
-    person_name: Joonas Törmälä
+    person_name: Tuomas Nykänen
     email: fuksikapteeni@as.fi
-    phone: +358 405690098
-    username: miljoonas
-    picture: static/toimijat/2022/joonas_tormala.jpg
-    description: "Vastaa killan fuksikasvatuksesta ja -toiminnasta. Järjestää fuksitapahtumia killan, korkeakoulun sekä yliopiston muiden fuksikapteenien kanssa. Toimii esimerkkinä ja tukena fukseille. Työskentelee yhteistyössä ISOpomon kanssa."
-
-  - position_name: Fuksikapteeni
-    person_name: Arttu Pahta
-    email: fuksikapteeni@as.fi
-    phone: +358 400581499
-    username: arupto
-    picture: static/toimijat/2022/arttu_pahta.jpg
+    phone: +358 440160401
+    username: Ykanen
+    picture: static/toimijat/2023/tuomas_nykanen.jpg
     description: "Vastaa killan fuksikasvatuksesta ja -toiminnasta. Järjestää fuksitapahtumia killan, korkeakoulun sekä yliopiston muiden fuksikapteenien kanssa. Toimii esimerkkinä ja tukena fukseille. Työskentelee yhteistyössä ISOpomon kanssa."
 
   - position_name: Master and International Student Captain
-    person_name: Oskari Helosuo
+    person_name: Anthony Reineck
     email: misc@as.fi
-    phone: +358 404126758
-    username: helosuo
-    picture: static/toimijat/2022/oskari_helosuo.jpg
+    phone: +358 453218202
+    username: AnthonyReineck
+    picture: static/toimijat/2023/anthony_reineck.jpg
     description: "Vastaa killan kansainvälisten ja maisteriopiskelijoiden fuksikasvatuksesta ja -toiminnasta. Työskentelee yhteistyössä fuksikapteenien ja ISOpomon kanssa. Ota yhteyttä MISC:iin jos asiasi koskee kansainvälistä toimintaa."
 
   - position_name: ISOpomo
-    person_name: Leevi Hormaluoma
+    person_name: Maria Saranpää
     email: isopomo@as.fi
-    phone: +358 400366690
-    username: leevihormaluoma
-    picture: static/toimijat/2022/leevi_hormaluoma.jpg
+    phone: +358 452701007
+    username: sarashead
+    picture: static/toimijat/2023/maria_saranpaa.jpg
     description: "Organisoi ISOhenkilöiden rekryämisen, koulutuksen ja yleisen toiminnan. Työskentelee yhteistyössä fuksikapteenien kanssa."
 
   - position_name: Isäntä
-    person_name: Kiira Metsoila
+    person_name: Emilia Kuisma
     email: ie@as.fi
-    phone: +358 451373142
-    username: Kiiraiitu
-    picture: static/toimijat/2022/kiira_metsoila_uusi.jpg
+    phone: +358 405846096
+    username: epkk1
+    picture: static/toimijat/2023/emilia_kuisma.jpg
     description: "Järjestää yhdessä Emännän kanssa kiltalaisille mitä moninaisimpia tapahtumia ja huolehtii elintarvikkeiden välittämisestä killistien vatsalaukkuihin. Organisoi huvitoimikunnan toimintaa ja kehittää killan tapahtumakulttuuria.
 
 Ota yhteyttä IE:hen, jos asiasi koskee killan tapahtumia."
 
   - position_name: Emäntä
-    person_name: Jimi Oksman
+    person_name: Elina Leiniö
     email: ie@as.fi
-    phone: +358 451240250
-    username: jimboksman
-    picture: static/toimijat/2022/jimi_oksman.jpg
+    phone: +358 505753380
+    username: elunaheluna
+    picture: static/toimijat/2023/elina_leinio.jpg
     description: "Järjestää yhdessä Isännän kanssa kiltalaisille mitä moninaisimpia tapahtumia ja huolehtii elintarvikkeiden välittämisestä killistien vatsalaukkuihin. Organisoi huvitoimikunnan toimintaa ja kehittää killan tapahtumakulttuuria.
 
 Ota yhteyttä IE:hen, jos asiasi koskee killan tapahtumia."
 
   - position_name: Opintomestari
-    person_name: Pinja Mäkeläinen
+    person_name: Maria Salmensaari
     email: opintomestari@as.fi
-    phone: +358 451295527
-    username: Pinjaatti
-    picture: static/toimijat/2022/pinja_makelainen.jpg
+    phone: +358 451530301
+    username: mariabestt
+    picture: static/toimijat/2023/maria_salmensaari.jpg
     description: "Ylläpitää yhteyttä koulun henkilökuntaan, pitää itsensä tietoisena tutkinto-ohjelmassa tapahtuvista muutoksista ja vastaa kiltalaisten edunvalvonnasta. Johtaa killan opintotoimikuntaa.
 
 Opintomestariin voi ottaa yhteyttä opintoihin liittyvissä asioissa."
 
   - position_name: Yrityssuhdevastaava
-    person_name: Roope Järvinen
+    person_name: Lucas Käldström
     email: yrityssuhdevastaava@as.fi
-    phone: +358 403584060
-    username: roopej
-    picture: static/toimijat/2022/roope_jarvinen.jpg
+    phone: +358 458911847
+    username: luxask
+    picture: static/toimijat/2023/lucas_kaldstrom.jpg
     description: "Vastaa killan suhteista yrityksiin ja excursioiden järjestämisestä. Organisoi killan mainosmyyntiä sekä kehittää killan mainetta ja kunniaa yritysten silmissä. Johtaa killan yrityssuhdetoimikuntaa. 
 
 Ota yhteyttä yrityssuhdemestariin, jos asiasi liittyy yrityssuhteisiin."
 
   - position_name: Kulttuurimestari
-    person_name: Juha Lehto
+    person_name: Lotta Makkonen
     email: kulttuurimestari@as.fi
-    phone: +358 451105095
-    username: juhaab
-    picture: static/toimijat/2022/juha_lehto.jpg
+    phone: +358 442764000
+    username: kellottaa
+    picture: static/toimijat/2023/lotta_makkonen.jpg
     description: "Pitää yllä killan vanhoja ulkosuhteita sekä luo uusia. Johtaa kulttuuritoimikuntaa ja järjestää sen jäsenten kanssa killale kulttuuritapahtumia. Tykkää pitää yhteyttä moneen eri tahoon ja hengailla myös muun kuin violetin väristen ihmisten kanssa.
 
 Ota yhteyttä kulttuurimestariin, jos asiasi liittyy kulttuuriasioihin."
