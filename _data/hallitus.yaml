@@ -20,7 +20,7 @@ Ota yhteyttä puheenjohtajaan, jos asiasi koskee kiltaa tai et tiedä keneen ott
   - position_name: Rahastonhoitaja
     person_name: Linda Åström
     email: rahastonhoitaja@as.fi
-    phone: +358 ?????????
+    phone: +358 401720020
     username: Lindaastrom
     picture: static/toimijat/2023/linda_astrom.jpg
     description: "Huolehtii killan raha-asioista, kuten laskujen maksamisesta ja kirjanpidosta.
@@ -48,7 +48,7 @@ Ota yhteyttä viestintämestariin halutessasi tiedottaa killisteille jotakin."
   - position_name: Master and International Student Captain
     person_name: Anthony Reineck
     email: misc@as.fi
-    phone: +358 ????????
+    phone: +358 453218202
     username: AnthonyReineck
     picture: static/toimijat/2023/anthony_reineck.jpg
     description: "Vastaa killan kansainvälisten ja maisteriopiskelijoiden fuksikasvatuksesta ja -toiminnasta. Työskentelee yhteistyössä fuksikapteenien ja ISOpomon kanssa. Ota yhteyttä MISC:iin jos asiasi koskee kansainvälistä toimintaa."
@@ -58,13 +58,13 @@ Ota yhteyttä viestintämestariin halutessasi tiedottaa killisteille jotakin."
     email: isopomo@as.fi
     phone: +358 452701007
     username: sarashead
-    picture: static/toimijat/2023/leevi_hormaluoma.jpg
+    picture: static/toimijat/2023/maria_saranpaa.jpg
     description: "Organisoi ISOhenkilöiden rekryämisen, koulutuksen ja yleisen toiminnan. Työskentelee yhteistyössä fuksikapteenien kanssa."
 
   - position_name: Isäntä
     person_name: Emilia Kuisma
     email: ie@as.fi
-    phone: +358 ????????
+    phone: +358 405846096
     username: epkk1
     picture: static/toimijat/2023/emilia_kuisma.jpg
     description: "Järjestää yhdessä Emännän kanssa kiltalaisille mitä moninaisimpia tapahtumia ja huolehtii elintarvikkeiden välittämisestä killistien vatsalaukkuihin. Organisoi huvitoimikunnan toimintaa ja kehittää killan tapahtumakulttuuria.

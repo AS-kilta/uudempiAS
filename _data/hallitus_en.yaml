@@ -19,7 +19,7 @@ people:
   - position_name: Treasurer
     person_name: Linda Åström
     email: cfo@as.fi
-    phone: +358 ?????????
+    phone: +358 401720020
     username: Lindaastrom
     picture: static/toimijat/2023/linda_astrom.jpg
     description: "The treasurer is responsible for taking care of the guild’s finances, for instance, paying bills and bookkeeping.
@@ -30,7 +30,7 @@ people:
     email: viestintamestari@as.fi
     phone: +358 443071808
     username: eliasjuhani
-    picture: static/toimijat/2021/elias_erke.jpg
+    picture: static/toimijat/2023/elias_erke.jpg
     description: "The Master of Communication keeps guild members informed about various events and other interesting and important matters. They take care of the guild’s channels of communication, email lists, calendar and website, in addition to which they also send a weekly bulletin that explain what is happening and where.
     Contact the Master of Communication when you want to share information to the guild members."
 
@@ -45,7 +45,7 @@ people:
   - position_name: Master and International Student Captain
     person_name: Anthony Reineck
     email: misc@as.fi
-    phone: +358 ????????
+    phone: +358 453218202
     username: AnthonyReineck
     picture: static/toimijat/2023/anthony_reineck.jpg
     description: "The Master and International Student Captain is responsible of fuksi wellbeing and fuksi events for international and master's students. They collaborate closely with the freshman captains and the tutor boss. 
@@ -56,14 +56,14 @@ people:
     email: isopomo@as.fi
     phone: +358 452701007
     username: sarashead
-    picture: static/toimijat/2023/leevi_hormaluoma.jpg
+    picture: static/toimijat/2023/maria_saranpaa.jpg
     description: "The Tutor Boss is responsible of recruitment, preparation and general operation of tutors. They collaborate closely with the freshman captains.
     Contact the Tutor Boss if your matter concerns tutors. "
 
   - position_name: Host
     person_name: Emilia Kuisma
     email: ie@as.fi
-    phone: +358 ????????
+    phone: +358 405846096
     username: epkk1
     picture: static/toimijat/2023/emilia_kuisma.jpg
     description: "The Host arranges various events together with the hostess for the guild members. Together with Hostess they lead the Entertainment Committee and work towards even better events.
