@@ -17,7 +17,7 @@ title: Virallisuudet
 ### Muut
 
 - [Yhdenvertaisuussuunnitelma](https://as.fi/kilta/yhdenvertaisuussuunnitelma.html)
-- [AS:n yleinen ohjeistus häirintätilanteisiin](https://drive.google.com/file/d/1v1tEe6WB_bpGYZwu66TZoSyov71b-Xhe/view?usp=sharing)
+- [AS:n yleinen ohjeistus häirintätilanteisiin](https://docs.google.com/document/d/1tBKj3Tubb69xrBqJgMfTf5D2Fh-9PjOdSDbBzW4Icx0/edit?usp=sharing)
 - Mikäli haluat ilmoittaa häirintätapauksesta, voit tehdä sen suoraan häirintäyhdyshenkilöille tai [tämän lomakkeen](https://forms.gle/Qb7zRTrodpU4YFRH9) kautta, jolloin ilmoituksen teko onnistuu myös täysin anonyymisti.
 
  
@@ -33,11 +33,9 @@ title: Virallisuudet
 
 ### Killan logo:
 
-- [CDR-muodossa](https://as.fi/static/virallisuudet/as_plain_BW.cdr)
-- [PS-muodossa](https://as.fi/static/virallisuudet/as_plain_BW.eps)
-- [JPG-muodossa](https://as.fi/static/virallisuudet/as_plain_BW_150.jpg)
-- [GIF-muodossa](https://as.fi/static/virallisuudet/as_plain_BW.gif)
+- [JPG-muodossa](https://as.fi/static/virallisuudet/as_plain_bw.jpg)
 - [PNG-muodossa](https://as.fi/static/virallisuudet/as_plain_bw.png)
+- [SVG-muodossa](https://as.fi/static/virallisuudet/as_plain_bw.svg)
 
 ### Kimble
 

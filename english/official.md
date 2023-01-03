@@ -20,15 +20,8 @@ Some files are being translated or otherwise worked on and will not be available
 * [Honours](http://old.as.fi/kilta/virallisuudet/kunnia/)
 * [Operational model for events](http://old.as.fi/kilta/virallisuudet/toimintamalli/)
 * [Standing orders: Crisis](https://as.fi/static/virallisuudet/kriisiohje.pdf)
-
 * [Invoice template](https://as.kululaskut.fi)
-
-* Guilds logo:
-    - [.CDR](https://as.fi/static/virallisuudet/as_plain_BW.cdr)
-    - [.EPS](https://as.fi/static/virallisuudet/as_plain_BW.eps)
-    - [.JPG](https://as.fi/static/virallisuudet/as_plain_BW_150.jpg)
-    - [.GIF](https://as.fi/static/virallisuudet/as_plain_BW.gif)
-    - [.PNG](https://as.fi/static/virallisuudet/as_plain_bw.png)
+* [AS General instructions for harassment cases](https://docs.google.com/document/d/1bSkkn892-E__nLBUPHQqh4-saGbn1VcwnxPwyiT1XBA/edit?usp=sharing)
 
 * [guilds flag](http://old.as.fi/files/lippu2.jpg)
 * [guilds badges of honour](http://old.as.fi/files/pranikat3.jpg)
@@ -36,3 +29,8 @@ Some files are being translated or otherwise worked on and will not be available
 * [Rules: Kimble gamelist](https://as.fi/static/virallisuudet/kimblelist.pdf)
 * [Rules: 3D-kimble](https://as.fi/static/virallisuudet/3dkimblerules.pdf)
 * [Rules: song contest](https://as.fi/static/virallisuudet/songcontest.pdf)
+
+* Guilds logo:
+    - [.JPG](https://as.fi/static/virallisuudet/as_plain_bw.jpg)
+    - [.PNG](https://as.fi/static/virallisuudet/as_plain_bw.png)
+    - [.SVG](https://as.fi/static/virallisuudet/as_plain_bw.svg)
