@@ -28,10 +28,10 @@ Koko kiltatoiminta on monen pienen osan summa. Ylläpidämme yliopiston tiloissa
 
 Yritysyhteistyöstä vastaa meidän päässämme yrityssuhdetoimikunta, jota koordinoi yrityssuhdevastaava.
 
-![Yrityssuhdevastaava]({{ "/static/toimijat/2022/roope_jarvinen.jpg" | absolute_url }} "Yrityssuhdevastaava"){:height="150px" width="150px" style="border-radius:50%;"}
+![Yrityssuhdevastaava]({{ "/static/toimijat/2023/lucas_kaldstrom.jpg" | absolute_url }} "Yrityssuhdevastaava"){:height="150px" width="150px" style="border-radius:50%;"}
 
-Roope Järvinen<br>
+Lucas Käldström<br>
 Yrityssuhdevastaava<br>
 [Email: yrityssuhdevastaava](mailto:yrityssuhdevastaava@POISTAas.fi)<br>
-[Tel: +358 403584060](tel://+358403584060)<br>
-[Telegram: @roopej](https://telegram.me/roopej)
+[Tel: +358 458911847](tel://+358458911847)<br>
+[Telegram: @luxask](https://telegram.me/luxask)

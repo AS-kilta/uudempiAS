@@ -48,7 +48,7 @@ people:
     phone: +358 453218202
     username: AnthonyReineck
     picture: static/toimijat/2023/anthony_reineck.jpg
-    description: "The Master and International Student Captain is responsible of fuksi wellbeing and fuksi events for international and master's students. Collaborates closely with the Tutor Coordinator (ISOboss). 
+    description: "The Master and International Student Captain is responsible for fuksi wellbeing and fuksi events for international and master's students. Collaborates closely with the Tutor Coordinator (ISOboss). 
     Contact the MISC if you are confused international student or if your matter concerns international affairs. "
     
   - position_name: ISOboss
@@ -57,7 +57,7 @@ people:
     phone: +358 452701007
     username: sarashead
     picture: static/toimijat/2023/maria_saranpaa.jpg
-    description: "The ISOboss is responsible of recruitment, preparation and general operation of tutors. They collaborate closely with the freshman captains.
+    description: "The ISOboss is responsible for recruitment, preparation and general operation of tutors. They collaborate closely with the freshman captains.
     Contact the ISOboss if your matter concerns tutors. "
 
   - position_name: Host
