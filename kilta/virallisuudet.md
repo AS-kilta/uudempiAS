@@ -32,6 +32,10 @@ title: Virallisuudet
 
 - [Kulukorvauslomake](https://as.kululaskut.fi)
 
+### Esityslistat
+
+- [Hallituksen kokousten esityslistat](https://drive.google.com/drive/folders/1-wj0vY4rN7WK6Ei6W1P4ih-Ft73x8RWo)
+
 ### Killan logo:
 
 - [JPG-muodossa](https://as.fi/static/virallisuudet/as_plain_bw.jpg)
