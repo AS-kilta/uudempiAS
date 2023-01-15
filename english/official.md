@@ -21,7 +21,7 @@ Some files are being translated or otherwise worked on and will not be available
 * [Operational model for events](http://old.as.fi/kilta/virallisuudet/toimintamalli/)
 * [Standing orders: Crisis](https://as.fi/static/virallisuudet/kriisiohje.pdf)
 * [Invoice template](https://as.kululaskut.fi)
-* [AS General instructions for harassment cases](https://docs.google.com/document/d/1bSkkn892-E__nLBUPHQqh4-saGbn1VcwnxPwyiT1XBA/edit?usp=sharing)
+* [AS General instructions for harassment cases and contact information](https://as.fi/english/harassment.html)
 
 * [guilds flag](http://old.as.fi/files/lippu2.jpg)
 * [guilds badges of honour](http://old.as.fi/files/pranikat3.jpg)

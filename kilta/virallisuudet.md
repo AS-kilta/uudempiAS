@@ -14,10 +14,11 @@ title: Virallisuudet
 - [Merkkiohjesääntö](https://as.fi/kilta/merkkiohjesaanto.html)
 - [Sijoitusohjesääntö](https://as.fi/kilta/sijoitusohjesaanto.html)
 
-### Muut
+### Häirintätilanteet ja yhdenvertaisuus
 
 - [Yhdenvertaisuussuunnitelma](https://as.fi/kilta/yhdenvertaisuussuunnitelma.html)
-- [AS:n yleinen ohjeistus häirintätilanteisiin](https://docs.google.com/document/d/1tBKj3Tubb69xrBqJgMfTf5D2Fh-9PjOdSDbBzW4Icx0/edit?usp=sharing)
+- [Häirintätilanteet](https://as.fi/kilta/hairinta.html)
+- [Häirintäyhdyshenkilöt](https://as.fi/kilta/haryt.html)
 - Mikäli haluat ilmoittaa häirintätapauksesta, voit tehdä sen suoraan häirintäyhdyshenkilöille tai [tämän lomakkeen](https://forms.gle/Qb7zRTrodpU4YFRH9) kautta, jolloin ilmoituksen teko onnistuu myös täysin anonyymisti.
 
  

@@ -1,0 +1,43 @@
+people:
+  - position_name: Häirintäyhdyshenkilö
+    person_name: Arttu Pahta
+    email: arttu.pahta@as.fi
+    username: arupto
+    picture: static/toimijat/2023/aino_valkama.jpg
+
+  - position_name: Häirintäyhdyshenkilö
+    person_name: Meri Hiipakka
+    email: meri.hiipakka@as.fi
+    username: Merisku
+    picture: static/toimijat/2023/jimi_oksman.jpg
+
+  - position_name: Häirintäyhdyshenkilö
+    person_name: Pessi Lyytikäinen
+    email: pessi.lyytikainen@as.fi
+    username: Pessimismi
+    picture: static/toimijat/2023/linda_astrom.jpg
+
+  - position_name: Häirintäyhdyshenkilö
+    person_name: Iida Jauhola
+    email: iida.jauhola@as.fi
+    username: iidajau
+    picture: static/toimijat/2023/elias_erke.jpg
+
+  - position_name: Häirintäyhdyshenkilö
+    person_name: Mimi Määttä
+    email: mimi.maatta@as.fi
+    username: Mimi_Maatta
+    picture: static/toimijat/2023/tuomas_nykanen.jpg
+    description: Contact only in English
+
+  - position_name: Häirintäyhdyshenkilö
+    person_name: Vesta Kulomaa
+    email: vesta.kulomaa@as.fi
+    username: vestaaja
+    picture: static/toimijat/2023/anthony_reineck.jpg
+
+  - position_name: Vastuuhäirintäyhdyshenkilö
+    person_name: Kiira Metsoila
+    email: kiira.metsoila@as.fi
+    username: Kiiraiitu
+    picture: static/toimijat/2023/maria_saranpaa.jpg
