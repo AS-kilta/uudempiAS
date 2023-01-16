@@ -19,7 +19,7 @@ title: Virallisuudet
 - [Yhdenvertaisuussuunnitelma](https://as.fi/kilta/yhdenvertaisuussuunnitelma.html)
 - [Häirintätilanteet](https://as.fi/kilta/hairinta.html)
 - [Häirintäyhdyshenkilöt](https://as.fi/kilta/haryt.html)
-- Mikäli haluat ilmoittaa häirintätapauksesta, voit tehdä sen suoraan häirintäyhdyshenkilöille tai [tämän lomakkeen](https://forms.gle/Qb7zRTrodpU4YFRH9) kautta, jolloin ilmoituksen teko onnistuu myös täysin anonyymisti.
+- Mikäli haluat ilmoittaa häirintätapauksesta, voit tehdä sen suoraan häirintäyhdyshenkilöille tai [tämän lomakkeen](https://docs.google.com/forms/d/e/1FAIpQLScY-bBOg5rZOx9arP64TvQq-a67WVKCePlVg6zObCKcq9M5Bw/viewform) kautta, jolloin ilmoituksen teko onnistuu myös täysin anonyymisti.
 
  
 ### Selosteet
