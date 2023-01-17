@@ -28,9 +28,9 @@ title: Virallisuudet
 - [Tietosuojaseloste: Jäsenrekisteri](https://as.fi/kilta/tietosuojaseloste_jasen.html)
 - [Tietosuojaseloste: Ilmomasiina](https://as.fi/kilta/tietosuojaseloste_ilmo.html)
 
-### Laskut
+### Kulukorvaukset
 
-- [Kulukorvauslomake](https://as.kululaskut.fi)
+- AS käyttää kulukorvauksiin [eTasku](https://www.etasku.fi/)-palvelua. Kiltalaisille ohjeet tunnuksen pyytämiseen ja kulukorvauksen tekemiseen löytyvät [tästä linkistä](https://drive.google.com/file/d/1sBUF3gsEltB4ZN6PpCeCJh8pQgV2tGjb/view?usp=sharing).
 
 ### Esityslistat
 
