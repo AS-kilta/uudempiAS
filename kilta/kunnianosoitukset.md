@@ -5,7 +5,6 @@ title: Kunnianosoitukset
 Tällä sivulla olevat kunnianosoitusten perustelut ovat niiden alkuperäisessä muodossa.
 
 #### Kunniajäsenet
-- [Aarne Halme](#aarne-halme)
 - [Annika Salama](#annika-salama)
 
 #### Vuoden kilta-alumni
@@ -103,6 +102,11 @@ Ei jaettu
 - [Ville Eronen](#ville-eronen)
 - [Akseli Konttas](#akseli-konttas)
 
+**2022**
+- [Helena Kaisanlahti](#helena-kaisanlahti)
+- [Niina Tapanainen](#niina-tapanainen)
+- [Arttu Rintala](#arttu-rintala)
+
 #### Hopeisen pränikän saajat
 **2016**
 - [Aapo Oksman](#aapo-oksman)
@@ -157,11 +161,19 @@ Ei jaettu
 - [Leia Nummisalo](#leia-nummisalo)
 - [Marcell Berta](#marcell-berta)
 
+**2022**
+- [Antti Regelin](#antti-regelin)
+- [Matias Vapola](#matias-vapola)
+- [Tiia-Maria Hyvönen](#tiia-maria-hyvönen)
+- [Jyri Kolu](#jyri-kolu)
+- [Lotta Makkonen](#lotta-makkonen)
+- [Jenna Kerkkänen](#jenna-kerkkänen)
+
 #### RATAS-kunnianosoitus
 RATAS-kunnianosoitus voidaan myöntää ansiokkaasta toiminnasta killan tarkoitusperien hyväksi. Kunnianosoitus voidaan myöntää joko pitkäjänteisestä työstä tai poikkeuksellisen ahkerasta lyhytaikaisesta toiminnasta. KUNNIAKAS kunnianosoitus voidaan myöntää kerran killan nykyiselle tai entiselle jäsenelle, mutta ei kunniajäsenelle.
 
 Kunnianosoitusta ei voida myöntää killan hopeisen tai kultaisen ansiomerkin saaneille eikä hallituslaisille heidän toimikautensa aikana.
-
+#### RATAS-kunnianosoituksen saajat
 **2021**
 - [Matias Varonen](#matias-varonen)
 - [Jenna Kerkkänen](#jenna-kerkkänen)
@@ -178,12 +190,23 @@ Kunnianosoitusta ei voida myöntää killan hopeisen tai kultaisen ansiomerkin s
 - [Ville Strengell](#ville-strengell)
 - [Aino Valkama](#aino-valkama)
 
+**2022**
+- [Elias Erke](#elias-erke)
+- [Kasperi Kaivola](#kasperi-kaivola)
+- [Laura Häkkinen](#laura-häkkinen)
+- [Rosa Phan](#rosa-phan)
+- [Erkka Multanen](#erkka-multanen)
+- [Sannina Honkaharju](#sannina-honkaharju)
+- [Elias Haarnoja](#elias-haarnoja)
+- [Pessi Lyytikäinen](#pessi-lyytikäinen)
+- [Elina Leiniö](#elina-leiniö)
+- [Mohammad Shahidul](#mohammad-shahidul)
+- [Niilo Heinonen](#niilo-heinonen)
+- [Mimi Määttä](#mimi-määttä)
+
 ## Perustelut
 
 ### Kunniajäsenistä
-#### Aarne Halme
-Aarne Halme on toiminut killan oltermannina jo useita vuosia. Hän on koko killan olemassaolon ajan ansiokkaasti tukenut kiltaa ja sen toimintaa. Viimeisin näkyvä ja killan kannalta erittäin merkittävä projekti (vuonna 2002-2003), jossa hän on ollut mukana, on killan excursio Japaniin, joka toteutunee vuoden päästä syksyllä. Niinpä Aarne Halme on valittu vuoden 2002 alussa kiltakokouksessa killan kunniajäseneksi ja on siis siten oikeutettu käyttämään Automaatio- ja systeemitekniikan killan Kultaista Pränikkää.
-
 #### Annika Salama
 Tämä varsinkin usealle hieman vanhemmalle opiskelijalle tuttu nainen on muodostunut monelle killistille ehkä hieman jonkinlaiseksi äitihahmoksi, joka varjelee viatonta opiskelijaa ison instituution byrokratialta, ja löytää helposti ratkaisun ongelmaan kuin ongelmaan silloin kun hätä on suurin. Tälle leppoisalle ja maanläheiselle henkilölle meidän opiskelijoiden asiat ovat ihan oikeasti tärkeitä - voisi jopa leikkimielisesti sanoa, että moni tässäkin killassa on valmistumisensa tälle henkilölle velkaa.
 
@@ -476,6 +499,37 @@ Tämä henkilö on tehnyt killassa niin paljon että siitä kirjoittaisi vaikka 
 #### Mari Pulkkinen
 Tämä henkilö on ollut phuksivuodestaan asti kehittämässä kiltaa positiiviseen suuntaan. Hän on edistänyt killan toimintakulttuuria niin hallituksessa kuin toimihenkilönäkin, tehnyt kovaa työtä kiltalaisten hyvinvoinnin eteen esimerkiksi yhdenvertaisuustyöryhmässä ja toimihenkilökoulutuksia kehittämällä. Tämä killan tapahtumien korvaamaton järjestäjä on toiminut killassa IE:n puolella niin isäntä kuin smurffinakin. IE-vuoden jälkeenkin hän on ollut aina apuna, kun keittiössä sitä tarvitaan. Kilta on saanut ihastella hänen kättensä jälkeä myös Stimulaatiotoimikunnan johdossa, kuten olemme tänään saaneet todistaa. Hän on Mari Pulkkinen.
 
+### 2021
+
+#### Henri Toivola
+Tämän kultaisen ansiomerkin saajan kädenjälki on näkynyt pitkään ja hyvällä lopputuloksella killan toiminnassa. Kyseinen henkilö on ajanut etenkin kansainvälisten opiskelijoiden etuja, auttanut kansainvälisiä opiskelijoita sopeutumaan kiltaan ja kehittänyt kiltaa kansainvälisestä näkökulmasta. Tämä henkilö on toiminut killassa muun muassa KV-ISOna, KV-kipparina, ASki vahtina ja TEKSAS yhteyshenkilönä. Kaikissa rooleissaan työskennellessään on tullut kuitenkin jotain yhteistä selville: se että tämä henkilö saa oma-aloitteisesti asioita tapahtumaan, joita ei välttämättä ole edellisinä vuosina ajateltu laisinkaan. Tämä kultaisen ansiomerkin saaja on killan TEKSAS ranger eli Henri Toivola.
+
+
+#### Ville Eronen
+Tämä kultaisen ansiomerkin saaja on edustanut killassa jo pidemmän aikaa täsmällisyyttä ja huolellisuutta killan asioden suhteen. Kiltauransa alkupuolella hän keskittyi ennen kaikkea opintoasioihin. Hän on toiminut opintomestarina sekä tullut tunnetuksi killan omana assarina, joka on aina valmis auttamaan kiltalaisia pääsemaan kursseista läpi. Hän on myös toiminut useiden vuosien ajan ensin informaattina ja sittemmin maisteri-informaattina. Opintopuolelta hän laajensi toimialuettaan killan hallinnon pariin. Toisena hallituspestinään hän toimi rahastonhoitajana, jonka jälkeen hän on siirtynyt toimimaan killan toiminnantarkastuksen parissa. Toiminnantarkastaja vuotenaan on toiminut erityisen läheisesti hallituksen tukena, jonka myötä killan hallinto on pystynyt nousemaan aivan uudelle tasolle. Tämä täsmällisyyden perikuva on tietysti Ville Eronen.
+
+#### Akseli Konttas
+Tämä kiltalainen on toiminut killassa pitkään ja ansiokkaasti. Hän on hoitanut aina kiltahommansa huolella ja hyvällä tekemisen meiningillä, joka tarttuu kanssakillisteihinkin. Tämä kiltalainen on aina valmis auttamaan muita, ja on luotettava tekijä niin yleisissä nakkihommissa kuin killan hallinnon ääressäkin. Tämän kiltalaisen kädenjälki on näkynyt korkeakoulun puolella edunvalvonnassa, ja killan sisällä rahakirstun hoidossa. Rahastonhoitajana hän päivitti killan rahahallintoa nykypäivään. Tuplahallitusvuoden jälkeenkin tällä kiltalaisella on riittänyt intoa uuden toimikunnan perustamiseen ennennäkemättömän retkitoiminnan muodossa. Hän on Akseli Konttas.
+
+
+### 2022
+
+#### Helena Kaisanlahti
+Tämän kilta-aktiivin osallistuminen kiltatoimintaan on ollut laajaa ja pitkäaikaista: vuosien aikana hänet on löytänyt niin keittiöstä, kameran takaa kuin hallinnon parista. Vastuita on ollut paljon, mutta vielä enemmän tätä henkilöä kuvaa se, miten hän on ne hoitanut. Hän on lähtenyt mukaan kaikkeen toimintaan täysillä ja erinomaisella asenteella, jättämättä mitään puolitiehen. Hän on lämmin, aurinkoinen ja luotettava toimija, joka edistää kiltahenkeä ja luo ympärilleen hyvää ilmapiiriä, mitä ikinä tekeekään. Lisäksi hän on osoittanut työskentelyssään erinomaista harkintaa sen suhteen, milloin haastaa vanhoja tapoja ja uudistaa toimintaa, ja milloin ylläpitää perinteitä.Tämä killisti on jäänyt vielä hyvin hoidettujen IE- ja rahisvuosien jälkeenkin aktiivisesti kiltaan. Hän on toiminnantarkastamisen lisäksi ollut Kvartaalimestarina varmistamassa, että kilta saa arvoisensa 25. juhlavuoden. Tämä kiltalainen on tietenkin Helena Kaisanlahti.
+
+#### Niina Tapanainen
+Tämä kultaisen pränikän saaja on kiltavuosiensa aikana loistanut monissa tehtävissä killassa, sekä aivan killan näkyvimmillä ja keskeisimmillä paikoilla, mutta myös tehtävissä, jotka jäävät helposti huomaamatta. Hänet on vuosien aikana tavattu niin johtamasta killan viestintää kuin koko killan hallitustakin. 
+
+Isoimpana ansiona tällä killistillä on ollut hänen panoksensa killan brändityön aloittajana. Muutaman viime vuoden aikana killassa on tapahtunut suuria muutoksia ja uudistuksia. Muutoksen keskellä voi olla vaikea nähdä sitä, mikä on muuttunut ja mihin suuntaan. Jälkikäteen tämä on kuitenkin helpompi huomata. Näkyvimpänä ja selkeimpänä on päivitetty ohjesääntöjä ja otettu esimerkiksi uusi Code of Conduct käyttöön, mutta työ on ulottunut paljon laajemmalle: killassa ollaan alettu entistä enemmän miettimään, miten asioita tehdään ja millaista ilmapiiriä killassa halutaan ylläpitää. Tämä henkilö on ollut avainasemassa sen pohdinnassa, millainen kilta haluamme olla.
+
+Uudistunut kilta on laajan yhteisen työn tulosta, mutta ilman tämän henkilön panosta monia tärkeitä asioita ei olisi mietitty lainkaan, tai se olisi tehty paljon pienemmin kuin mitä nyt on tehty. Kilta olisi tänä päivänä varsin erilainen ilman: Niina Tapanaista.
+
+#### Arttu Rintala
+Tämä kiltalainen on vaikuttanut vahvasti niin killan tapahtuma- ja laulukulttuuriin kuin fuksitoimintaankin. Hän on onnistunut toiminnallaan luomaan kiltalaisille mahtavia kokemuksia ja muistamisen arvoisia elämyksiä, ja kohtaa jokaisen kiltalaisen aina yksilönä riippumatta ympäristöstä, tai tilanteesta.
+Tämän AS:n ensimmäisen DSD Captainin johdolla on saatettu alkuun killan uusimman pääaineen onnistunut integroituminen. Hänen toiminnassaan englannin kieli ja kansainvälisyys on näkynyt fuksitoiminnan lisäksi myös killan tapahtuma- ja laulukulttuurissa. Tapahtumapuolella hän on antanut panoksensa sekä kansainvälisyyttä korostavana kulttuurimestarina että kaksinkertaisena ulkoexcursion järjestäjänä. Sekä lukkarimestarina että pitkäaikaisena lukkarina hän on ansioituneesti ollut luotsaamassa englanninkielisten laulujen asemaa luontevaksi osaksi killan laulukulttuuria, ja myös Aasinsillassa näkyy hänen kädenjälkensä.
+Tämän killan ikioman DSDaddy pitää sitseillä tempoa yllä vaikka suuri puulasta kädessään. Hän on tietenkin Arttu Rintala.
+
+
 ### Hopeiset pränikät
 ### 2016
 #### Aapo Oksman
@@ -589,16 +643,6 @@ Illan viimeisen ansiomerkin saaja on toiminut aina fuksivuodesta lähtien hyväl
 
 ### 2021
 
-#### Henri Toivola
-Tämän kultaisen ansiomerkin saajan kädenjälki on näkynyt pitkään ja hyvällä lopputuloksella killan toiminnassa. Kyseinen henkilö on ajanut etenkin kansainvälisten opiskelijoiden etuja, auttanut kansainvälisiä opiskelijoita sopeutumaan kiltaan ja kehittänyt kiltaa kansainvälisestä näkökulmasta. Tämä henkilö on toiminut killassa muun muassa KV-ISOna, KV-kipparina, ASki vahtina ja TEKSAS yhteyshenkilönä. Kaikissa rooleissaan työskennellessään on tullut kuitenkin jotain yhteistä selville: se että tämä henkilö saa oma-aloitteisesti asioita tapahtumaan, joita ei välttämättä ole edellisinä vuosina ajateltu laisinkaan. Tämä kultaisen ansiomerkin saaja on killan TEKSAS ranger eli Henri Toivola.
-
-
-#### Ville Eronen
-Tämä kultaisen ansiomerkin saaja on edustanut killassa jo pidemmän aikaa täsmällisyyttä ja huolellisuutta killan asioden suhteen. Kiltauransa alkupuolella hän keskittyi ennen kaikkea opintoasioihin. Hän on toiminut opintomestarina sekä tullut tunnetuksi killan omana assarina, joka on aina valmis auttamaan kiltalaisia pääsemaan kursseista läpi. Hän on myös toiminut useiden vuosien ajan ensin informaattina ja sittemmin maisteri-informaattina. Opintopuolelta hän laajensi toimialuettaan killan hallinnon pariin. Toisena hallituspestinään hän toimi rahastonhoitajana, jonka jälkeen hän on siirtynyt toimimaan killan toiminnantarkastuksen parissa. Toiminnantarkastaja vuotenaan on toiminut erityisen läheisesti hallituksen tukena, jonka myötä killan hallinto on pystynyt nousemaan aivan uudelle tasolle. Tämä täsmällisyyden perikuva on tietysti Ville Eronen.
-
-#### Akseli Konttas
-Tämä kiltalainen on toiminut killassa pitkään ja ansiokkaasti. Hän on hoitanut aina kiltahommansa huolella ja hyvällä tekemisen meiningillä, joka tarttuu kanssakillisteihinkin. Tämä kiltalainen on aina valmis auttamaan muita, ja on luotettava tekijä niin yleisissä nakkihommissa kuin killan hallinnon ääressäkin. Tämän kiltalaisen kädenjälki on näkynyt korkeakoulun puolella edunvalvonnassa, ja killan sisällä rahakirstun hoidossa. Rahastonhoitajana hän päivitti killan rahahallintoa nykypäivään. Tuplahallitusvuoden jälkeenkin tällä kiltalaisella on riittänyt intoa uuden toimikunnan perustamiseen ennennäkemättömän retkitoiminnan muodossa. Hän on Akseli Konttas.
-
 #### Sakari Ropponen
 Tämä kiltalainen on toiminnallaan esimerkillisesti edistänyt kiltakulttuurin kasvua ja kehittymistä. Hän on kulttuurimestarina ja myöhemmin lukkarimestarin virassa tuonut killan kulttuuri- ja laulutoimintaan uusia tuulia. Hän on ollut positiivisena vaikutteena kaikessa, mihin on killassa ryhtynyt. Lukkarimestarina hän on laulukulttuurin ylläpitämisen lisäksi nostanut killan lukkaritoimikunnan aktiivisuuden uudelle tasolle ja tehnyt lukkarina toimimisesta entistäkin palkitsevampaa. Tämä kiltakulttuurin monitoimimies on Sakari Ropponen. 
 
@@ -619,6 +663,31 @@ Tämä henkilö on tehnyt kovasti töitä killan brändityön alkuvaiheessa ja t
 
 #### Marcell Berta
 This active and influential guild member has shown an encouraging example for all English speaking guild members to join events and find their own place in Aalto’s teekkari community. As a tutor this person is always ready to help and answer all questions thoroughly. Being one of the first English speaking hattivattis and culture committee members, this person has effectively shown the way for English speakers to join the guild’s committees. They have also had a strong influence in building and creating Digital systems and Design students’ culture and sense of community. This person is Marcell Berta
+
+### 2022
+#### Antti Regelin
+Tämän hopeisen pränikän saajan tulisi hakea rahastonhoitajaksi, sillä se on ainoa hallintopesti, mikä häneltä vielä uupuu. Omien sanojensa mukaan häntä kiihottaa hallinto, ja tämän erityislaatuisen intohimon ansiosta moni asia tehdään tänä päivänä killassa äärimmäisen kunnollisesti.
+
+Killan varapuheenjohtajana ja sihteerinä hän näki, että kasvava kilta tarvitsee uudenlaisen hallintorakenteen, ja oli avainasemassa luomassa sitä. Puheenjohtajana hän jatkoi killan kehittämistä johtamalla omalla esimerkillään keskustelukulttuurin muutosta avoimempaan ja rakentavampaan suuntaan. 
+Tämä kiltalainen hohkaa itsevarmuutta ja auttaa muita löytämään sen itsestään. Hän tunnetusti välittömällä ja varmalla tavalla tarjoaa aina apuaan kiltalaisille, niin pienissä kuin suurissakin ongelmissa. Hän on tietenkin Antti Regelin.
+
+#### Matias Vapola
+Jo fuksivuonna tämä kiltalainen onnistui yhdistämään omat intohimonsa yrityssuhteisiin ja sijoituksiin niin, että koko kilta pääsi hyötymään siitä. Hän on sekä kehittänyt yrityssuhdetoimintaa että potkaissut käyntiin killan sijoitustoiminnan, minkä ansiosta killalla on nykyään oma sijoitusohjesääntö. Tämä sekä rahan-  että sitsiruoannälkäisiä kiltalaisia ansiokkaasti ensin yrityssuhdevastaavana, sitten IE:nä ruokkinut kiltalainen on Matias Vapola.
+
+#### Tiia-Maria Hyvönen
+Tämä aktiivisesti erityisesti uusien aASien parissa hommia paiskinut kiltalainen on aina enemmän kuin mielellään auttamassa ja hänen toiminnallaan on ollut ISO vaikutus kiltaan. Hänen kiltauransa alkoi smurffin ja ISOn tehtävistä. Pelkkä ISOilu ei hänelle kuitenkaan riittänyt vaan hän tarttui ISOmpiin saappaisiin siirtyessään ISOpomon rooliin. Rooli ei ollut koronan myötä helppo, mutta tämä tekijä päätti edistää killan ISOkulttuuria ISOvalan, AS:n omien ISOsitsien, ja fuksiryhmien sisäisten ISOhengausten muodossa. ISOpomovuoden jälkeen ISOilu on edelleen ollut tämän aktiivin sydäntä lähellä ja hänet voi löytää yhä puuhailemasta uusien opiskelijoiden kanssa maisteri-ISOna sekä toimimassa kiltayhteisön eteen ASki- sekä retkitoimikunnassa. Tämä killan suoranainen ISO-standardi on Tiia-Maria Hyvönen.
+
+#### Jyri Kolu
+Tämä aktiivinen kiltatoimija on ollut pitkään mukana usein taka-alalla, mutta silti hyvin tärkeissä tehtävissä. Kahden hallitusvuoden jälkeen hän on ottanut vastuuta killan IT-puolesta muun muassa killan nettisivujen ja ASkin tietotekniikan ylläpidon muodossa, ja edelleen vaikuttaa muun muassa säätömestarina sekä uusien nettisivujen arkkitehtinä. Hän on tietenkin Jyri Kolu.
+
+#### Lotta Makkonen
+Tältä kiltatoimijalta löytyy todella pitkä lista toimaripestejä usean vuoden ajalta. Nämä lukuisat pestit hän on hoitanut aina samalla aktiivisella ja tehokkaalla otteella ja mitään ei ole jätetty puolitiehen. Tämän killistin käsissä pysyy niin sipulinpilkkomisveitsi sitsikeittiössä, fuksitapahtumien punaiset langat tosi-ISOillessa, kuin näppäimistökin hänen oikolukiessaan ja kääntäessään killan tiedotusta. Taitaa tuo ISOmpien pirskeidenkin järjestäminen kiinnostaa, koska hänen ansiostaan pääsemme nauttimaan myös näistä juhlista tänä hienona iltana. Kiitos upeasta otteestasi kiltahommiin ja siitä, että tänään saamme juhlia - Lotta Makkonen!
+
+#### Jenna Kerkkänen
+Tämän palkinnonsaajan vitsit ovat niin huonoja, että ne itsessään ovat jo palkitsemisen arvoisia. Tämä kiltalainen tutustuttaa vuosi toisensa jälkeen uudet kiltalaiset kiltakulttuuriin lämpimästi ja persoonallisesti. Hänen toimintansa on killan henkeä uhkuvaa ja aurinkoista, ja harva jää häneltä moikkaamatta killan tapahtumissa. Hän on toiminut laajasti kulttuuritoiminnassa, ilahduttanut fukseja ISOna ja tänä vuonna johtanut lukkaritoimikuntaa. Huonojen vitsien ja hyvän kiltahengen kuningatar, Jenna Kerkkänen!
+
+### RATAS-kunnianosoitukset
+### 2021
 
 #### Matias Varonen
 Tämä kaksi vuotta aktiivisena ISOhenkilönä toiminut saa kiltalaiset liikkumaan, ja kokosi ASif urheilujoukkueen hurjaan nousuun keskellä pandemiaa. Kyseessä on tänään paikalle estynyt, jo toista vuotta liikuntavastaavanamme toimiva Matias Varonen tietenkin! 
@@ -673,3 +742,41 @@ Tämä moneen mukaan lähtenyt tupsufuksi on esimerkillään vienyt fuksitoimint
 
 #### Arttu Pahta
 Kilta on muuttunut lähiaikoina ISOsti, ja erityisesti ISOista. Suurempi kilta tarvitsee aina yksilöä lähelle menevämpää ISOtoimintaa, jolla on rohkea ja selkeä raami ja lisää resursseja. Seuraavan RatAS palinnon saaja on ISOtoimintamme edistäjä, meidän oma ISOpomo Arttu Pahta! 
+
+### 2022
+
+#### Elias Erke
+Ensimmäiseksi nostamme esiin henkilön, jota näkee harvoin sitsaamassa mutta usein sitsikansalle tarjoilemassa. Tämä kiltalainen on aktiivisesti aina mukana auttamassa, kun kaljaa täytyy kantaa tai vanukkaita tarjoilla. Pieni IE, iso sydän: Elias Erke.
+
+#### Kasperi Kaivola
+Seuraavaksi haluamme osoittaa kiitollisuutta kiltalaiselle, joka on valmis auttamaan aivan kaikissa kiltajutuissa pyydettäessä. Oli projektina hienon vuosijuhlalahjan nikkaroiminen TuomAs-veturin naamasta, palkintoplakaattien suunnittelu, Stimulaation nettisivujen tuottaminen tai mikä tahansa juokseva asia missä kiltalaiset keksivät pyytää apua, niin tämä tyyppi vastaa aina nopeasti hoitavansa asian mielellään. Meidän luottomies, Kasperi Kaivola!
+
+#### Laura Häkkinen
+Sipulia on pilkottu keittiössä ja juomaa on laskettu kiltalaisille. Tämän joidenkin mielestä varmastikin depressoivan toiminnan ohella on myös noustu depressantista Stimulantiksi kunniakkaasti. Haluamme kiittää Laura Häkkistä useamman vuoden kilta-aktiivisuudesta - stimuloikoon hän kiltatoimintaa vielä pitkään!
+
+#### Rosa Phan
+Eräs kiltalainen on osoittanut pitkäjänteisesti, miten aASius on sydämen, ei haalareiden värin asia. Tällä monessa toimikunnassa aktiivisella tyypillä on asenne aina kohdallaan ja hymy huulilla, ja nakit sekä muutkin vastuut hän hoitaa ansiokkaasti henkilökohtaisella, iloisella ja tarkalla tyylillään. Todellinen AS-hengen perikuva, Rosa Phan!
+
+#### Erkka Multanen
+Tämä killan nouseva tupsutähti on ehtinyt hyperfuksiutensa ja fuksipeijaiskapteeniutensa lisäksi toimia tosi-ISOna ja lukkarina. Kilta kiittää ja erityisesti kannustaa häntä jatkamaan hyvän kiltahengen ylläpitoa ja killan toiminnassa vaikuttamista: Erkka Multanen!
+
+#### Sannina Honkaharju
+Haluamme kiittää killassa jo monta vuotta tärkeissä rooleissa toiminutta henkilöä. Hän on toiminut 3 vuotta ISOna ja lisäksi mahdollistanut killan toimintaa aina lämpimällä asenteella minIEninä, Depressanttina, ja kulttuurikisällinä. RatAS-palkinnon saa: Sannina Honkaharju.
+
+#### Elias Haarnoja
+Tämä aurinkoinen herrasmies on vaikuttanut erityisesti aktiivisena kulttuurikisällinä useamman vuoden, ja sen lisäksi toiminut ISOna ja mediatoimikuntalaisena. Tämä kiltalainen on aina valmis saapumaan paikalle kamera kaulassa, oli kyseessä sitten laulukilpailuvideo, fuksikuvat tai tapahtumissa kuvaaminen. Kilta kiittää ratAS-palkinnolla Elias Haarnojaa!
+
+#### Pessi Lyytikäinen
+Mitä saadaan, kun yhdistetään ihailtava ja ansiokas fukseista välittäminen, aktiivinen DSD-ISOilu ja sitäkin aktiivisempi ja kiitettävämpi toiminta tosi-ISOna, jolle voi luottavaisin mielin antaa paljonkin vastuuta ja hommia hoidettavaksi - koska ne varmasti tulee hoidettua? No Pessi Lyytikäinen, tietenkin.
+
+#### Elina Leiniö
+Pieneenkin pakettiin mahtuu paljon kiltahenkeä ja iso violetti sydän. Tämän on osoittanut aina iloinen kolmannen vuoden opiskelija, joka innokkaasti on toiminut sekä aktiivisena KV-ISOna kaksi vuotta putkeen että kulttuurikisällinä, minIEniä ja depressanttina. Kiitos kiltainnostasi, Elina Leiniö!
+
+#### Mohammad Shahidul
+The next awardee is known to always upkeep a positive, happy vibe in the guild. He has also been active in several different parts of the guild: as an ISO and also a vastuuISO, cultural journeyperson, sports manager and an aski guardian. This is someone who will always approach everything he does with a big smile and an extremely warm attitude: Mohammad Shahidul!
+
+#### Niilo Heinonen
+Tämä iloinen tyyppi on ollut pitkään killassa aktiivinen erinäisissä rooleissa. Hän on toiminut esimerkiksi hattivattina (eli pikku-IEnä), ISOna, ja valokuvannut erinäisiä kiltatapahtumia - ja nykyään hän vetää ja kehittää ansiokkaasti Retkitoimikuntaa. RatAS-palkinnon saa: Niilo Heinonen!
+
+#### Mimi Määttä
+This responsible and active guild member always handles her responsibilites with a good attitude. She has acted as a vastuuISO, aski guardian, cultural journeyperson and finance committee member, and is known to take on different responsibilities without having to be specifically asked, whether it be an inventory of guild merch or organizing DSDevening. The RatAS award goes to Mimi Määttä!

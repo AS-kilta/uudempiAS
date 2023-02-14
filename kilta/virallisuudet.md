@@ -34,7 +34,7 @@ title: Virallisuudet
 
 ### Esityslistat
 
-- [Hallituksen kokousten esityslistat](https://drive.google.com/drive/folders/1-wj0vY4rN7WK6Ei6W1P4ih-Ft73x8RWo)
+- [Hallituksen kokousten esityslistat](https://drive.google.com/drive/folders/1eiCAypEm50P10ECT2bkTrbkNKnVqYz9Q?usp=sharing)
 
 ### Killan logo:
 

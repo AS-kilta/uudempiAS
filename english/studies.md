@@ -11,6 +11,8 @@ This major covers a range of interdisciplinary topics relevant in the developmen
 
 ## Useful links
 
+* [Digital Systems and Design major](https://www.aalto.fi/en/study-options/digital-systems-and-design-bachelor-of-science-technology-master-of-science-technology)
+
 * [Department of Electrical Engineering and Automation](http://eea.aalto.fi/en/)
 * [Department of Signal Processing and Acoustics](http://spa.aalto.fi/en/)
 * [Department of Communications and Networking](http://comnet.aalto.fi/en/)

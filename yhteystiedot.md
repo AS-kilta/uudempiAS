@@ -11,7 +11,7 @@ title: Yhteystiedot
 ## Postiosoite
 
 <p>Aalto-yliopisto<br>
-Automaatio- ja systeemitekniikan kilta<br>
+Automaatio- ja systeemitekniikan kilta ry<br>
 PL 15500<br>
 00076 Aalto</p>
 

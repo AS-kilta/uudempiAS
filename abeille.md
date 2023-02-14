@@ -23,9 +23,9 @@ Kiinnostaako, miten 5G, esineiden internet ja muut tietoliikenteen innovaatiot m
 
 Automaatio- ja systeemitekniikan killan alla on kolme erillistä hakukohdetta. ​
 
-* **Automaatio ja robotiikka**, eli AR​
-* **Informaatioteknologia**, eli IT​
-* **Digital Systems and Design**, eli DSD​
+* **[Automaatio ja robotiikka](https://www.aalto.fi/fi/koulutustarjonta/automaatio-ja-robotiikka-tekniikan-kandidaatti-ja-diplomi-insinoori)**, eli AR​
+* **[Informaatioteknologia](https://www.aalto.fi/fi/koulutustarjonta/informaatioteknologia-tekniikan-kandidaatti-ja-diplomi-insinoori)**, eli IT
+* **[Digital Systems and Design](https://www.aalto.fi/en/study-options/digital-systems-and-design-bachelor-of-science-technology-master-of-science-technology)**, eli DSD​
 
 Edellämainituissa hakukohteissa opetuskielet ovat AR:llä ja IT:llä suomi ja DSD:llä englanti.​
 
