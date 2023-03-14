@@ -9,11 +9,36 @@ committees:
             picture: static/toimijat/2022/leevi_hormaluoma.jpg
           - name: Tuomas Nykänen
             picture: static/toimijat/2022/tuomas_nykanen.jpg
-      - name: Tosi ISOpomo
+      - name: Master's and International Student Captain (MISC)
         description:
         members:
-          - name: Arttu Pahta
-            picture: static/toimijat/2022/arttu_pahta.jpg
+          - name: Anthony Reineck
+            picture: static/toimijat/2023/anthony_reineck.jpg
+      - name: ISOpomo
+        description:
+        members:
+          - name: Maria Saranpää
+            picture: static/toimijat/2023/maria_saranpaa.jpg
+      - name: DSDeputy
+        description:
+        members:
+          - name: Beatriz Glaser
+            picture: static/toimijat/2022/beatriz_glaser.jpg
+
+      - name: Tosi-ISO
+        description: 
+        members:
+          - name: Mimi Määttä
+            picture: static/toimijat/2023/mimi_maatta.jpg
+          - name: Tiitus Mustajoki
+            picture: static/toimijat/2022/tiitus_mustajoki.jpg
+          - name: Pessi Lyytikäinen
+            picture: static/toimijat/2023/pessi_lyytikainen_2.jpg
+          - name: Mikko Vanhanen
+            picture: static/toimijat/2023/mikko_vanhanen.jpg
+          - name: Sophia Lee
+            picture: static/toimijat/2023/sophia_lee.jpg
+
       - name: SuurFuksikapteeni
         description:
         members:
@@ -21,14 +46,29 @@ committees:
             picture: static/toimijat/2022/arttu_pahta.jpg
           - name: Joonas Törmälä
             picture: static/toimijat/2022/joonas_tormala.jpg
-      - name: Senior Master's and International Student Captain (Old)
+      - name: Senior Executive Master's and International Student Captain (SEMISC)
         description:
         members:
           - name: Oskari Helosuo
             picture: static/toimijat/2022/oskari_helosuo.jpg
-      - name: Tosi-ISO
+      - name: IIIIISOpomo
+        description:
+        members:
+          - name: Leevi Hormaluoma
+            picture: static/toimijat/2022/leevi_hormaluoma.jpg
+      - name: Himo-ISO
         description: 
         members:
+          - name: Axel Åberg
+            picture: static/toimijat/2022/axel_aberg.jpg
+          - name: Lotta Makkonen
+            picture: static/toimijat/2023/lotta_makkonen.jpg
+          - name: Katarina Pichna
+            picture: static/toimijat/aebaej_placeholder.png
+          - name: Pessi Lyytikäinen
+            picture: static/toimijat/2023/pessi_lyytikainen_2.jpg
+          - name: Erkka Multanen
+            picture: static/toimijat/2022/erkka_multanen.jpg
 
   - name: Opintotoimikunta
     description:
@@ -384,6 +424,10 @@ committees:
             picture: static/toimijat/2022/kabir_bissessar.jpg
           - name: Jaakko Aalto
             picture: static/toimijat/2023/jaakko_aalto.jpg
+          - name: Nia Lehtonen
+            picture: static/toimijat/2022/nia_lehtonen.jpg
+          - name: Erkka Multanen
+            picture: static/toimijat/2022/erkka_multanen.jpg
       - name: Sijoitusvastaava
         description:
         members:
@@ -439,6 +483,12 @@ committees:
             picture: static/toimijat/2022/lotta_makkonen.jpg
           - name: Helmi Takala
             picture: static/toimijat/2021/helmi_takala.jpg
+
+      - name: Somettaja
+        description:
+        members:
+          - name: Sophia Lee
+            picture: static/toimijat/2023/sophia_lee.jpg
 
   - name: Säätötoimikunta
     description: 
@@ -618,8 +668,11 @@ committees:
             picture: static/toimijat/2019/jaakko_majuri_19.jpg
           - name: Marcell Berta
             picture: static/toimijat/2022/marcel_berta.jpg
-          - name: Tia-Maria Hyvönen
+          - name: Tiia-Maria Hyvönen
             picture: static/toimijat/2020/tiia_hyvonen.jpg
+          - name: Alex korpela
+            picture: static/toimijat/2020/alex_korpela.jpg
+          
 
 
   - name: Kultainen Toimitus
@@ -745,6 +798,76 @@ committees:
             picture: static/toimijat/2021/lassi_ihalainen.jpg
           - name: Arttu Pahta
             picture: static/toimijat/2023/arttu_pahta.jpg
+
+  - name: International Committee
+    description:
+    positions:
+      - name: Master's and International Student Captain (MISC)
+        description:
+        members:
+          - name: Anthony Reineck
+            picture: static/toimijat/2023/anthony_reineck.jpg
+      - name: DSDeputy
+        description:
+        members:
+          - name: Beatriz Glaser
+            picture: static/toimijat/2022/beatriz_glaser.jpg
+      - name: International Committee Member
+        description:
+        members:
+          - name: Mimi Määttä
+            picture: static/toimijat/2023/mimi_maatta.jpg
+          - name: Amr Abass
+            picture: static/toimijat/aebaej_placeholder.png
+          - name: Lucas Käldström
+            picture: static/toimijat/2023/lucas_kaldstrom.jpg
+          - name: Oskari Helosuo
+            picture: static/toimijat/2022/oskari_helosuo.jpg
+          - name: Mohammad Shahidul
+            picture: static/toimijat/2022/mohammad_shahidul.jpg
+          - name: Kabir Bissessar
+            picture: static/toimijat/2022/kabir_bissessar.jpg
+          - name: Sylvia Cressman
+            picture: static/toimijat/2023/sylvia_cressman.jpg
+
+  - name: N-toimikunta
+    description:
+    positions:
+      - name: Seniilisihteeri
+        description:
+        members:
+          - name: Sakari Ropponen
+            picture: static/toimijat/2022/sakari_ropponen.jpg
+          - name: Veeti Kahilainen
+            picture: static/toimijat/2021/veeti_kahilainen.jpg
+      - name: 1 (yksi)
+        description:
+        members:
+          - name: Alex korpela
+            picture: static/toimijat/2020/alex_korpela.jpg
+          - name: Santeri Sipilä
+            picture: static/toimijat/2021/santeri_sipila.jpg
+          - name: Taavi Oja
+            picture: static/toimijat/2021/taavi_oja.jpg
+          - name: Tiia-Maria Hyvönen
+            picture: static/toimijat/2020/tiia_hyvonen.jpg
+          - name: Akseli Konttas
+            picture: static/toimijat/2022/akseli_konttas.jpg
+          - name: Henri Toivola
+            picture: static/toimijat/2021/henri_toivola.jpg
+          - name: Emil Huttunen
+            picture: static/toimijat/2022/emil_huttunen.jpg
+          - name: Leo Talsta
+            picture: static/toimijat/aebaej_placeholder.png
+      - name: Wanhainhoitaja
+        description:
+        members:
+          - name: Meri Hiipakka
+            picture: static/toimijat/2023/meri_hiipakka.jpg
+          - name: Meri Hildén
+            picture: static/toimijat/2022/meri_hilden.jpg
+          - name: Joonas Törmälä
+            picture: static/toimijat/2022/joonas_tormala.jpg
 
   - name: Toimikuntien ulkopuolelta
     description:
