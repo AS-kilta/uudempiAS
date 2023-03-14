@@ -5,10 +5,10 @@ committees:
       - name: Fuksikapteeni
         description:
         members:
-          - name: Joonas Törmälä
-            picture: static/toimijat/2022/joonas_tormala.jpg
-          - name: Arttu Pahta
-            picture: static/toimijat/2022/arttu_pahta.jpg
+          - name: Leevi Hormaluoma
+            picture: static/toimijat/2022/leevi_hormaluoma.jpg
+          - name: Tuomas Nykänen
+            picture: static/toimijat/2022/tuomas_nykanen.jpg
       - name: Tosi ISOpomo
         description:
         members:
@@ -17,28 +17,18 @@ committees:
       - name: SuurFuksikapteeni
         description:
         members:
-          - name: Kalle Rantala
-            picture: static/toimijat/2022/kalle_rantala.jpg
-          - name: Veera Ihalainen
-            picture: static/toimijat/2021/veera_ihalainen.jpg
+          - name: Arttu Pahta
+            picture: static/toimijat/2022/arttu_pahta.jpg
+          - name: Joonas Törmälä
+            picture: static/toimijat/2022/joonas_tormala.jpg
       - name: Senior Master's and International Student Captain (Old)
         description:
         members:
-          - name: Veeti Kahilainen
-            picture: static/toimijat/2021/veeti_kahilainen.jpg
+          - name: Oskari Helosuo
+            picture: static/toimijat/2022/oskari_helosuo.jpg
       - name: Tosi-ISO
         description: 
         members:
-          - name: Axel Åberg
-            picture: static/toimijat/2022/axel_aberg.jpg
-          - name: Lotta Makkonen
-            picture: static/toimijat/2022/lotta_makkonen.jpg
-          - name: Katarina Pichna
-            picture: static/toimijat/aebaej_placeholder.png
-          - name: Pessi Lyytikäinen
-            picture: static/toimijat/aebaej_placeholder.png
-          - name: Erkka Multanen
-            picture: static/toimijat/2022/erkka_multanen.jpg
 
   - name: Opintotoimikunta
     description:
@@ -46,45 +36,43 @@ committees:
       - name: Opintomestari
         description:
         members:
-          - name: Pinja Mäkeläinen
-            picture: static/toimijat/2022/pinja_makelainen.jpg
+          - name: Maria Salmensaari
+            picture: static/toimijat/2023/maria_salmensaari.jpg
       - name: Automaatti
         description:
         members:
-          - name: Juho Määttä
-            picture: static/toimijat/aebaej_placeholder.png
+          - name: Iida Jauhola
+            picture: static/toimijat/2023/iida_jauhola.jpg
       - name: Informaatti
         description:
         members:
-          - name: Juho Kerminen
-            picture: static/toimijat/2022/juho_kerminen.jpg
+          - name: Onni Bernström
+            picture: static/toimijat/2022/onni_bernstrom.jpg
       - name: DSDeetti
         description:
         members:
-          - name: Apollo Ailus
-            picture: static/toimijat/2022/apollo_ailus.jpg
-          - name: Khanh Nguyen
-            picture: static/toimijat/2022/khanh_nguyen.jpg
+          - name: Hajiba Legrara
+            picture: static/toimijat/2023/hajiba_legrara.jpg
       - name: Maisteri-informaatti
         description:
         members:
-          - name: Santeri Sipilä
-            picture: static/toimijat/2021/santeri_sipila.jpg
+          - name: Meri Hiipakka
+            picture: static/toimijat/2023/meri_hiipakka.jpg
       - name: Maisteri-automaatti
         description:
         members:
-          - name: Lasse Wittke
-            picture: static/toimijat/2022/lasse_wittke.jpg
+          - name: Tapani Pärssinen
+            picture: static/toimijat/2020/tapani_parssinen.jpg
       - name: Opintowanhus
         description:
         members:
-          - name: Santeri Sipilä
-            picture: static/toimijat/2021/santeri_sipila.jpg
-      - name: SAS yhdyshenkilö
+          - name: Pinja Mäkeläinen
+            picture: static/toimijat/2022/pinja_makelainen.jpg
+      - name: TEKSAS yhdyshenkilö
         description:
         members:
-          - name: Henri Toivola
-            picture: static/toimijat/2021/henri_toivola.jpg
+          - name: Pinja Mäkeläinen
+            picture: static/toimijat/2022/pinja_makelainen.jpg
   - name: Abitoimikunta
     description:
     positions:
@@ -111,51 +99,49 @@ committees:
       - name: Kulttuurimestari
         description:
         members:
-          - name: Juha Lehto
-            picture: static/toimijat/2022/juha_lehto.jpg
-      - name: Kulttuuriartesaani
-        description:
-        members:
-          - name: Joonas Törmälä
-            picture: static/toimijat/2022/joonas_tormala.jpg
-      - name: Kulttuurikisälli
-        description:
-        members:
-          - name: Elias Haarnoja
-            picture: static/toimijat/2022/elias_haarnoja.jpg
-          - name: Rosa Phan
-            picture: static/toimijat/2022/rosa_phan.jpg
           - name: Lotta Makkonen
-            picture: static/toimijat/2022/lotta_makkonen.jpg
-          - name: Sannina Honkaharju
-            picture: static/toimijat/2022/sannina_honkaharju.jpg
+            picture: static/toimijat/2023/lotta_makkonen.jpg
+      - name: Wappuministeri
+        description:
+        members:
+          - name: Roope Järvinen
+            picture: static/toimijat/2022/roope_jarvinen.jpg
+          - name: Ville Hakoniemi
+            picture: static/toimijat/2021/ville_hakoniemi.jpg
+      - name: Jäykkäranne
+        description:
+        members:
+          - name: Axel Åberg
+            picture: static/toimijat/2022/axel_aberg.jpg
+          - name: Mikko Hokkanen
+            picture: static/toimijat/2019/mikko_hokkanen_19.jpg
+      - name: Kultsi
+        description:
+        members:
           - name: Jaakko Heikkinen
             picture: static/toimijat/2021/jaakko_heikkinen.jpg
-          - name: Tuomas Nykänen
-            picture: static/toimijat/2022/tuomas_nykanen.jpg
-          - name: Peetu Vuorela
-            picture: static/toimijat/2022/peetu_vuorela.jpg
+          - name: Ariana Marta
+            picture: static/toimijat/2023/ariana_marta.jpg
+          - name: Kiira Metsoila
+            picture: static/toimijat/2023/kiira_metsoila.jpg
+          - name: Antti Tiusanen
+            picture: static/toimijat/aebaej_placeholder.png
+          - name: Aleksanteri Pitkenin
+            picture: static/toimijat/2023/aleksanteri_pitkenin.jpg
+          - name: Joonas Törmälä
+            picture: static/toimijat/2022/joonas_tormala.jpg
+          - name: Pinja Mäkeläinen
+            picture: static/toimijat/2022/pinja_makelainen.jpg
+          - name: Elias Haarnoja
+            picture: static/toimijat/2022/elias_haarnoja.jpg
           - name: Mohammad Shahidul
             picture: static/toimijat/2022/mohammad_shahidul.jpg
-          - name: Emilia Kuisma
-            picture: static/toimijat/2021/emilia_kuisma.jpg
-          - name: Veeti Kahilainen
-            picture: static/toimijat/2021/veeti_kahilainen.jpg
-          - name: Marcell Berta
-            picture: static/toimijat/2022/marcel_berta.jpg
-          - name: Mimi Määttä
-            picture: static/toimijat/2022/mimi_maatta.jpg
-          - name: Beatriz Glaser
-            picture: static/toimijat/2022/beatriz_glaser.jpg
-          - name: Elina Leiniö
-            picture: static/toimijat/2022/elina_leinio.jpg
+          - name: Paavo Nissinen
+            picture: static/toimijat/aebaej_placeholder.png
+          - name: Nia Lehtonen
+            picture: static/toimijat/2022/nia_lehtonen.jpg
           - name: Laura Häkkinen
-            picture: static/toimijat/2022/laura_hakkinen.jpg
-      - name: Seniilisihteeri
-        description:
-        members:
-          - name: Vesta Kulomaa
-            picture: static/toimijat/2021/vesta_kulomaa.jpg
+            picture: static/toimijat/2023/laura_hakkinen.jpg
 
   - name: Liikuntatoimikunta
     description:
@@ -163,19 +149,27 @@ committees:
         - name: Liikuntavastaava
           description:
           members:
-            - name: Ville Hakoniemi
-              picture: static/toimijat/2021/ville_hakoniemi.jpg
+            - name: Elias Haarnoja
+              picture: static/toimijat/2022/elias_haarnoja.jpg
         - name: Liikkuja
           description:
           members:
             - name: Mohammad Shahidul
               picture: static/toimijat/2022/mohammad_shahidul.jpg
-            - name: Tõnis Pärtel
-              picture: static/toimijat/aebaej_placeholder.png
-            - name: Leevi Hormaluoma
-              picture: static/toimijat/2022/leevi_hormaluoma.jpg
+            - name: Akseli Leino
+              picture: static/toimijat/2023/akseli_leino.jpg
+            - name: Meri Hildén
+              picture: static/toimijat/2022/meri_hilden.jpg
             - name: Aleksi Palomäki
-              picture: static/toimijat/aebaej_placeholder.png
+              picture: static/toimijat/2023/aleksi_palomaki.jpg
+            - name: Iida Jauhola
+              picture: static/toimijat/2023/iida_jauhola.jpg
+            - name: Jenny Ruokolainen
+              picture: static/toimijat/2023/jenny_ruokolainen.jpg
+            - name: Meri Hiipakka
+              picture: static/toimijat/2023/meri_hiipakka.jpg
+            - name: Miikka Joutsela
+              picture: static/toimijat/2023/miikka_joutsela.jpg
 
   - name: Huvitoimikunta
     description:
@@ -183,65 +177,55 @@ committees:
       - name: Isäntä ja Emäntä
         description:
         members:
-          - name: Kiira Metsoila
-            picture: static/toimijat/2022/kiira_metsoila_uusi.jpg
-          - name: Jimi Oksman
-            picture: static/toimijat/2022/jimi_oksman.jpg
+          - name: Elina Leiniö
+            picture: static/toimijat/2023/elina_leinio.jpg
+          - name: Emilia Kuisma
+            picture: static/toimijat/2023/emilia_kuisma.jpg
       - name: MinIEns
         description:
         members:
-          - name: Juuso Määttä
-            picture: static/toimijat/2022/juuso_maatta.jpg
-          - name: Lotta Makkonen
-            picture: static/toimijat/2022/lotta_makkonen.jpg
-          - name: Elias Erke
-            picture: static/toimijat/2021/elias_erke.jpg
-          - name: Elina Leiniö
-            picture: static/toimijat/2022/elina_leinio.jpg
-          - name: Axel Åberg
-            picture: static/toimijat/2022/axel_aberg.jpg
-          - name: Laura Häkkinen 
-            picture: static/toimijat/2022/laura_hakkinen.jpg
-          - name: Arttu Pahta
-            picture: static/toimijat/2022/arttu_pahta.jpg
-          - name: Akseli Konttas
-            picture: static/toimijat/2022/akseli_konttas.jpg
-          - name: Veera Ihalainen
-            picture: static/toimijat/2021/veera_ihalainen.jpg
-          - name: Rosa Phan
-            picture: static/toimijat/2022/rosa_phan.jpg
-          - name: Jaakko Heikkinen
-            picture: static/toimijat/2021/jaakko_heikkinen.jpg
-          - name: Petteri Lahkela
-            picture: static/toimijat/2022/petteri_lahkela.jpg
-          - name: Tõnis Pärtel
-            picture: static/toimijat/aebaej_placeholder.png
-          - name: Sannina Honkaharju
-            picture: static/toimijat/2022/sannina_honkaharju.jpg
-          - name: Aaro Saastamoinen
-            picture: static/toimijat/2022/aaro_saastamoinen.jpg
-          - name: Emilia Kuisma
-            picture: static/toimijat/2021/emilia_kuisma.jpg
-          - name: Maria Salmensaari
-            picture: static/toimijat/aebaej_placeholder.png
-          - name: Maria Saranpää
-            picture: static/toimijat/aebaej_placeholder.png
-          - name: Nia Lehtonen
-            picture: static/toimijat/2022/nia_lehtonen.jpg
           - name: Onni Bernström
             picture: static/toimijat/2022/onni_bernstrom.jpg
+          - name: Laura Häkkinen
+            picture: static/toimijat/2023/laura_hakkinen.jpg
+          - name: Iida Jauhola
+            picture: static/toimijat/2023/iida_jauhola.jpg
+          - name: Emilia Junnonen
+            picture: static/toimijat/2023/emilia_junnonen.jpg
+          - name: Eeva Järvenpää
+            picture: static/toimijat/2023/eeva_jarvenpaa.jpg
+          - name: Leena Jääskeläinen 
+            picture: static/toimijat/2023/leena_jaaskelainen.jpg
+          - name: Viivi-Maari Kallinen
+            picture: static/toimijat/2021/viivi-maari_kallinen.jpg
+          - name: Janina Kemppainen
+            picture: static/toimijat/2023/janina_kemppainen.jpg
+          - name: Leila Lavonen
+            picture: static/toimijat/2023/leila_lavonen.jpg
+          - name: Nia Lehtonen
+            picture: static/toimijat/2022/nia_lehtonen.jpg
+          - name: Pessi Lyytikäinen
+            picture: static/toimijat/2023/pessi_lyytikainen_2.jpg
+          - name: Ariana Marta
+            picture: static/toimijat/2023/ariana_marta.jpg
+          - name: Erkka Multanen
+            picture: static/toimijat/2022/erkka_multanen.jpg
+          - name: Pinja Mäkeläinen
+            picture: static/toimijat/2022/pinja_makelainen.jpg
+          - name: Paavo Nissinen
+            picture: static/toimijat/aebaej_placeholder.png
+          - name: Arttu Pahta
+            picture: static/toimijat/2023/arttu_pahta.jpg
+          - name: Tõnis Pärtel
+            picture: static/toimijat/2023/tonis_partel.jpg
+          - name: Aleksanteri Pitkenin
+            picture: static/toimijat/2023/aleksanteri_pitkenin.jpg
+          - name: Antti Tiusanen
+            picture: static/toimijat/aebaej_placeholder.png
           - name: Annina Toimela
             picture: static/toimijat/2022/annina_toimela.jpg
-          - name: Beatriz Glaser
-            picture: static/toimijat/2022/beatriz_glaser.jpg
-          - name: Kabir Bissessar
-            picture: static/toimijat/2022/kabir_bissessar.jpg
-          - name: Apollo Ailus
-            picture: static/toimijat/2022/apollo_ailus.jpg
-          - name: Linda Åström
-            picture: static/toimijat/2022/linda_astrom.jpg
-          - name: Susanna Vilkka
-            picture: static/toimijat/2022/susanna_vilkka.jpg
+          - name: Mikko Vanhanen
+            picture: static/toimijat/2023/mikko_vanhanen.jpg
 
   - name: Lukkaritoimikunta
     description:
@@ -249,32 +233,39 @@ committees:
       - name: Lukkarimestari
         description:
         members:
-          - name: Jenna Kerkkänen
-            picture: static/toimijat/2020/jenna_kerkkanen.jpg
+          - name: Kalle Rantala
+            picture: static/toimijat/2023/kalle_rantala.jpg
       - name: Lukkari
         description:
         members:
-          - name: Apollo Ailus
-            picture: static/toimijat/2022/apollo_ailus.jpg
-          - name: Onni Bernström
-            picture: static/toimijat/2022/onni_bernstrom.jpg
-          - name: Ville Hakoniemi
-            picture: static/toimijat/2021/ville_hakoniemi.jpg
-          - name: Aku Heinonen
-            picture: static/toimijat/2021/aku_heinonen.jpg
-          - name: Juho Kerminen
-            picture: static/toimijat/2022/juho_kerminen.jpg
-          - name: Ville Lähteenkorva
-            picture: static/toimijat/2022/ville_lahteenkorva.jpg
           - name: Erkka Multanen
             picture: static/toimijat/2022/erkka_multanen.jpg
-          - name: Tuomas Nykänen
-            picture: static/toimijat/2022/tuomas_nykanen.jpg
-          - name: Arttu Rintala
-            picture: static/toimijat/2022/arttu_rintala.jpg
-          - name: Axel Åberg
-            picture: static/toimijat/2022/axel_aberg.jpg
-
+          - name: Tiitus Mustajoki
+            picture: static/toimijat/2022/tiitus_mustajoki.jpg
+          - name: Aaro Saastamoinen
+            picture: static/toimijat/2023/aaro_saastamoinen.jpg
+          - name: Henrik Starck
+            picture: static/toimijat/2023/henrik_starck.jpg
+          - name: Tõnis Pärtel
+            picture: static/toimijat/2023/tonis_partel.jpg
+          - name: Ariana Marta
+            picture: static/toimijat/2023/ariana_marta.jpg
+          - name: Marcell Berta
+            picture: static/toimijat/2021/marcell_berta.jpg
+          - name: Juho Komulainen
+            picture: static/toimijat/2023/juho_komulainen.jpg
+          - name: Verneri Hakkarainen
+            picture: static/toimijat/2023/verneri_hakkarainen.jpg
+          - name: Roope Järvinen
+            picture: static/toimijat/2022/roope_jarvinen.jpg
+          - name: Jenna Kerkkänen
+            picture: static/toimijat/2020/jenna_kerkkanen.jpg
+          - name: Patrik Linnanen
+            picture: static/toimijat/aebaej_placeholder.png
+          - name: Ville Hakoniemi
+            picture: static/toimijat/2021/ville_hakoniemi.jpg
+          - name: Apollo Ailus
+            picture: static/toimijat/2023/apollo_ailus.jpg
 
   - name: ASkitoimikunta
     description:
@@ -282,40 +273,42 @@ committees:
       - name: ASkimestari
         description:
         members:
-        - name: Sakari Ropponen
-          picture: static/toimijat/2022/sakari_ropponen.jpg
+        - name: Meri Hildén
+          picture: static/toimijat/2022/meri_hilden.jpg
       - name: ASkivahti
         description:
         members:
-        - name: Akseli Konttas
-          picture: static/toimijat/2022/akseli_konttas.jpg
-        - name: Tiia-Maria Hyvönen
-          picture: static/toimijat/2020/tiia_hyvonen.jpg
-        - name: Emil Huttunen
-          picture: static/toimijat/2022/emil_huttunen.jpg
-        - name: Marcell Berta
-          picture: static/toimijat/2022/marcel_berta.jpg
-        - name: Jakob Sjöblom
-          picture: static/toimijat/2022/jakob_sjoblom.jpg
+        - name: Veera Ihalainen
+          picture: static/toimijat/2021/veera_ihalainen.jpg
+        - name: Lotta Makkonen
+          picture: static/toimijat/2023/lotta_makkonen.jpg
+        - name: Joonas Törmälä
+          picture: static/toimijat/2022/joonas_tormala.jpg
+        - name: Elina Leiniö
+          picture: static/toimijat/2023/elina_leinio.jpg
+        - name: Emil Lintunen
+          picture: static/toimijat/aebaej_placeholder.png
         - name: Juho Kerminen
           picture: static/toimijat/2022/juho_kerminen.jpg
-        - name: Zhibin Yan
-          picture: static/toimijat/2022/zhibin_yan.jpg
+        - name: Jimi Oksman
+          picture: static/toimijat/2023/jimi_oksman.jpg
         - name: Pinja Mäkeläinen
           picture: static/toimijat/2022/pinja_makelainen.jpg
-        - name: Henri Toivola
-          picture: static/toimijat/2021/henri_toivola.jpg
-        - name: Veeti Kahilainen
-          picture: static/toimijat/2021/veeti_kahilainen.jpg
-        - name: Mohammad Shahidul
-          picture: static/toimijat/2022/mohammad_shahidul.jpg
-        - name: Mimi Määttä
-          picture: static/toimijat/2022/mimi_maatta.jpg
-      - name: Takapihajumala
+        - name: Meri Hiipakka
+          picture: static/toimijat/2023/meri_hiipakka.jpg
+        - name: Zhibin Yan
+          picture: static/toimijat/2020/zhibin_yan.jpg
+        - name: Janina Kemppainen
+          picture: static/toimijat/2023/janina_kemppainen.jpg
+        - name: Eeva Järvenpää
+          picture: static/toimijat/2023/eeva_jarvenpaa.jpg
+        - name: Elias Haarnoja
+          picture: static/toimijat/2022/elias_haarnoja.jpg
+      - name: Vakooja
         description:
         members:
-        - name: Taavi Oja
-          picture: static/toimijat/2021/taavi_oja.jpg
+        - name: Kiira Metsoila
+          picture: static/toimijat/2023/kiira_metsoila.jpg
 
   - name: Yrityssuhdetoimikunta
     description:
@@ -323,8 +316,8 @@ committees:
       - name: Yrityssuhdevastaava
         description:
         members:
-          - name: Roope Järvinen
-            picture: static/toimijat/2022/roope_jarvinen.jpg
+          - name: Lucas Käldström
+            picture: static/toimijat/2023/lucas_kaldstrom.jpg
       - name: Account Manager
         description:
         members:
@@ -376,43 +369,32 @@ committees:
       - name: Rahastonhoitaja
         description:
         members:
-          - name: Lucas Käldström
-            picture: static/toimijat/2022/lucas_kaldstrom.jpg
-      - name: Toimikunnanjäsenet
+          - name: Linda Åström
+            picture: static/toimijat/2023/linda_astrom.jpg
+      - name: Kolikonkiertäjä
         description:
         members:
-          - name: Huy Do
-            picture: static/toimijat/aebaej_placeholder.png
-          - name: Joona Harju
-            picture: static/toimijat/aebaej_placeholder.png
-          - name: Topias Malinen
-            picture: static/toimijat/2022/topias_malinen.jpg
-          - name: Linda Åström
-            picture: static/toimijat/2022/linda_astrom.jpg
-          - name: Matias Vapola
-            picture: static/toimijat/2022/matias_vapola.jpg
-          - name: Thanh Vo
-            picture: static/toimijat/aebaej_placeholder.png
-          - name: Deepanker Kanjarla
-            picture: static/toimijat/aebaej_placeholder.png
+          - name: Susanna Vilkka
+            picture: static/toimijat/2022/susanna_vilkka.jpg
           - name: David Rombach
-            picture: static/toimijat/aebaej_placeholder.png
-          - name: Mimi Määttä
-            picture: static/toimijat/2022/mimi_maatta.jpg
-          - name: Pinja Mäkeläinen
-            picture: static/toimijat/2022/pinja_makelainen.jpg
-          - name: Rafael Majaharju
-            pictures: static/toimijat/aebaej_placeholder.png
-          - name: Saku Kovanen
-            picture: static/toimijat/aebaej_placeholder.png
-          - name: Ville Eronen
-            picture: static/toimijat/2019/ville_eronen_19.jpg
+            picture: static/toimijat/2023/david_rombach.jpg
+          - name: Tõnis Pärtel
+            picture: static/toimijat/2023/tonis_partel.jpg
           - name: Kabir Bissessar
             picture: static/toimijat/2022/kabir_bissessar.jpg
-          - name: Marcell Berta
-            picture: static/toimijat/2022/marcel_berta.jpg
-          - name: Laura Rautiainen
+          - name: Jaakko Aalto
+            picture: static/toimijat/2023/jaakko_aalto.jpg
+      - name: Sijoitusvastaava
+        description:
+        members:
+          - name: Rafael Majaharju
             picture: static/toimijat/aebaej_placeholder.png
+      - name: Vararahastonhoitaja
+        description:
+        members:
+          - name: Lucas Käldström
+            picture: static/toimijat/2023/lucas_kaldstrom.jpg
+
 
   - name: Mediatoimikunta
     description:
@@ -420,35 +402,43 @@ committees:
       - name: Viestintämestari
         description:
         members:
-          - name: Meri Hildén
-            picture: static/toimijat/2022/meri_hilden.jpg
-      - name: Viestijä
+          - name: Elias Erke
+            picture: static/toimijat/2023/elias_erke.jpg
+      - name: Dokumentoija
         description:
         members:
-          - name: Veera Ihalainen
-            picture: static/toimijat/2021/veera_ihalainen.jpg
-          - name: Lotta Makkonen
-            picture: static/toimijat/2022/lotta_makkonen.jpg
-          - name: Johan Sarpoma
-            picture: static/toimijat/2020/johan_sarpoma.jpg
-          - name: Leevi Hormaluoma
-            picture: static/toimijat/2022/leevi_hormaluoma.jpg
-          - name: Rosa Phan
-            picture: static/toimijat/2022/rosa_phan.jpg
-          - name: Jiro Tanabe
-            picture: static/toimijat/aebaej_placeholder.png
-          - name: Axel Åberg
-            picture: static/toimijat/2022/axel_aberg.jpg
-          - name: Joonatan Tammisto
-            picture: static/toimijat/2022/joonatan_tammisto.jpg
-          - name: Maximus De Niro
-            picture: static/toimijat/aebaej_placeholder.png
+          - name: Jimi Oksman 
+            picture: static/toimijat/2023/jimi_oksman.jpg
           - name: Elias Haarnoja
             picture: static/toimijat/2022/elias_haarnoja.jpg
-          - name: Jimi Oksman 
-            picture: static/toimijat/2022/jimi_oksman.jpg
-          - name: Tiitus Mustajoki
-            picture: static/toimijat/2022/tiitus_mustajoki.jpg
+          - name: Leevi Hormaluoma
+            picture: static/toimijat/2022/leevi_hormaluoma.jpg
+          - name: Aino Valkama
+            picture: static/toimijat/2023/aino_valkama.jpg
+          - name: Akseli Hilander
+            picture: static/toimijat/2023/akseli_hilander.jpg
+          - name: Amanda Huttunen
+            picture: static/toimijat/2023/amanda_huttunen.jpg
+          - name: Rika Lintunen
+            picture: static/toimijat/2023/rika_lintunen.jpg
+          - name: Mikko Vanhanen
+            picture: static/toimijat/2023/mikko_vanhanen.jpg
+      - name: Graafikko
+        description:
+        members:
+          - name: Leena Jääskeläinen
+            picture: static/toimijat/2023/leena_jaaskelainen.jpg
+          - name: Meri Hildén
+            picture: static/toimijat/2022/meri_hilden.jpg
+          - name: Viivi-Maari Kallinen
+            picture: static/toimijat/2021/viivi-maari_kallinen.jpg
+      - name: Kääntäjä/Oikolukija
+        description:
+        members:
+          - name: Lotta Makkonen
+            picture: static/toimijat/2022/lotta_makkonen.jpg
+          - name: Helmi Takala
+            picture: static/toimijat/2021/helmi_takala.jpg
 
   - name: Säätötoimikunta
     description: 
@@ -456,43 +446,41 @@ committees:
       - name: Säätömestari
         description:
         members:
-        - name: Jyri Kolu
-          picture: static/toimijat/2020/jyri_kolu.jpg
-        - name: Verneri Hirvonen
-          picture: static/toimijat/2020/verneri_hirvonen.jpg
+        - name: Kasperi Kaivola
+          picture: static/toimijat/2022/kasperi_kaivola.jpg
+        - name: Henrik Turtinen
+          picture: static/toimijat/2022/henrik_turtinen.jpg
       - name: Säätökisälli
         description:
         members:
-        - name: Henrik Turtinen
-          picture: static/toimijat/2022/henrik_turtinen.jpg
-        - name: Veeti Kahilainen
-          picture: static/toimijat/2021/veeti_kahilainen.jpg
-        - name: Pinja Mäkeläinen
-          picture: static/toimijat/2022/pinja_makelainen.jpg
-        - name: Henri Toivola
-          picture: static/toimijat/2021/henri_toivola.jpg
-        - name: Matias Rantala
-          picture: static/toimijat/2022/matias_rantala.jpg
-        - name: Topias Malinen
-          picture: static/toimijat/2022/topias_malinen.jpg
-        - name: Petrik Räsänen
-          picture: static/toimijat/2022/petrik_rasanen.jpg
-        - name: Jakob Sjöblom
-          picture: static/toimijat/2022/jakob_sjoblom.jpg
-        - name: Kasperi Kaivola
-          picture: static/toimijat/2022/kasperi_kaivola.jpg
-        - name: Tuan Anh Nguyen
+        - name: Akseli Leino
+          picture: static/toimijat/2023/akseli_leino.jpg
+        - name: Niilo Saharinen
+          picture: static/toimijat/2023/niilo_saharinen.jpg
+        - name: Otso Luukkanen
           picture: static/toimijat/aebaej_placeholder.png
+        - name: Juho Kerminen
+          picture: static/toimijat/2022/juho_kerminen.jpg
+        - name: Rika Lintunen
+          picture: static/toimijat/2023/rika_lintunen.jpg
         - name: Sakari Ropponen
           picture: static/toimijat/2022/sakari_ropponen.jpg
-        - name: Akseli Konttas
-          picture: static/toimijat/2022/akseli_konttas.jpg
+        - name: Pinja Mäkeläinen
+          picture: static/toimijat/2022/pinja_makelainen.jpg
+        - name: Jyri Kolu
+          picture: static/toimijat/2020/jyri_kolu.jpg
+        - name: Emil Lintunen
+          picture: static/toimijat/aebaej_placeholder.png
+        - name: Leo Suojärvi Nguyen
+          picture: static/toimijat/2023/leo_suojarvi.jpg
+        - name: Miska Mynttinen
+          picture: static/toimijat/2022/miska_mynttinen.jpg
         - name: Severi Casserly
           picture: static/toimijat/2021/severi_casserly.jpg
         - name: Zhibin Yan
           picture: static/toimijat/2022/zhibin_yan.jpg
-        - name: Ilene Blanco
-          picture: static/toimijat/aebaej_placeholder.png
+        - name: Elias Mäntykoski
+          picture: static/toimijat/2022/elias_mantykoski.jpg
 
   - name: Stimulaatio-toimikunta
     description:
@@ -500,61 +488,88 @@ committees:
       - name: Stimulantti
         description:
         members:
-          - name: Lotta Makkonen
-            picture: static/toimijat/2022/lotta_makkonen.jpg
-          - name: Laura Häkkinen
-            picture: static/toimijat/2022/laura_hakkinen.jpg
+          - name: Meri Hiipakka
+            picture: static/toimijat/2023/meri_hiipakka.jpg
+          - name: Meri Hildén
+            picture: static/toimijat/2022/meri_hilden.jpg
       - name: Depressantti
         description:
         members:
-          - name: Aku Heinonen
-            picture: static/toimijat/2021/aku_heinonen.jpg
+          - name: Rosa Phan
+            picture: static/toimijat/2022/rosa_phan.jpg
           - name: Sannina Honkaharju
             picture: static/toimijat/2022/sannina_honkaharju.jpg
-          - name: Elina Leiniö
-            picture: static/toimijat/2022/elina_leinio.jpg
-          - name: Henrik Hyvärinen
-            picture: static/toimijat/2022/henrik_hyvarinen.jpg
+          - name: Kalle Rantala
+            picture: static/toimijat/2023/kalle_rantala.jpg
+          - name: Arttu Pahta
+            picture: static/toimijat/2022/arttu_pahta.jpg
           - name: Kasperi Kaivola
             picture: static/toimijat/2022/kasperi_kaivola.jpg
-          - name: Joonas Törmälä
-            picture: static/toimijat/2022/joonas_tormala.jpg
-          - name: Juha Lehto
-            picture: static/toimijat/2022/juha_lehto.jpg
-          - name: Kiira Metsoila
-            picture: static/toimijat/2022/kiira_metsoila_uusi.jpg
+          - name: Lotta Makkonen
+            picture: static/toimijat/2023/lotta_makkonen.jpg
+          - name: Pinka Mäkeläinen
+            picture: static/toimijat/2022/pinja_makelainen.jpg
+          - name: Paavo Nissinen
+            picture: static/toimijat/aebaej_placeholder.png
           - name: Rosa Phan
             picture: static/toimijat/2022/rosa_phan.jpg
 
-  - name: Kvartaalitoimikunta
+  - name: AS25-toimikunta
     description:
     positions:
-      - name: Puheenjohtaja
+      - name: Kvartaalimestari
         description:
         members:
-          - name: Helena Kaisanlahti
-            picture: static/toimijat/2022/helena_kaisanlahti.jpg
-      - name: Toimikunnan jäsenet
+          - name: Kiira Metsoila
+            picture: static/toimijat/2023/kiira_metsoila.jpg
+      - name: Tapahtumavastaava
+        description:
+        members:
+          - name: Lotta Makkonen
+            picture: static/toimijat/2022/lotta_makkonen.jpg
+          - name: Kalle Rantala
+            picture: static/toimijat/2023/kalle_rantala.jpg
+          - name: Laura Häkkinen
+            picture: static/toimijat/2023/laura_hakkinen.jpg
+          - name: Axel Åberg
+            picture: static/toimijat/2022/axel_aberg.jpg
+          - name: Jaakko Heikkinen
+            picture: static/toimijat/2021/jaakko_heikkinen.jpg
+          - name: Tiitus Mustajoki
+            picture: static/toimijat/2022/tiitus_mustajoki.jpg
+      - name: Markkinointivastaava
+        description:
+        members:
+          - name: Veera Ihalainen
+            picture: static/toimijat/2021/veera_ihalainen.jpg
+          - name: Sannina Honkaharju
+            picture: static/toimijat/2022/sannina_honkaharju.jpg
+          - name: Arttu Pahta
+            picture: static/toimijat/2023/arttu_pahta.jpg
+      - name: Stimuvastaavat
         description:
         members:
           - name: Meri Hildén
             picture: static/toimijat/2022/meri_hilden.jpg
           - name: Meri Hiipakka
-            picture: static/toimijat/2022/meri_hiipakka.jpg
-          - name: Lotta Makkonen
-            picture: static/toimijat/2022/lotta_makkonen.jpg
-          - name: Kiira Metsoila
-            picture: static/toimijat/2022/kiira_metsoila_uusi.jpg
-          - name: Niina Tapanainen
-            picture: static/toimijat/2020/niina_tapanainen.jpg
-          - name: Vesta Kulomaa
-            picture: static/toimijat/2021/vesta_kulomaa.jpg
-          - name: Mari Pulkkinen
-            picture: static/toimijat/2021/mari_pulkkinen.jpg
-          - name: Henri Toivola
-            picture: static/toimijat/2021/henri_toivola.jpg
-          - name: Helmi Takala
-            picture: static/toimijat/2021/helmi_takala.jpg
+            picture: static/toimijat/2023/meri_hiipakka.jpg
+      - name: Dokumentointivastaava
+        description:
+        members:
+          - name: Rosa Phan
+            picture: static/toimijat/2022/rosa_phan.jpg
+          - name: Kasperi Kaivola
+            picture: static/toimijat/2022/kasperi_kaivola.jpg
+      - name: Sponsorivastaava
+        description:
+        members:
+          - name: Nia Lehtonen
+            picture: static/toimijat/2022/nia_lehtonen.jpg
+      - name: Web-vastaava
+        description:
+        members:
+          - name: Juha Lehto
+            picture: static/toimijat/2022/juha_lehto.jpg
 
   - name: Retkitoimikunta
     description:
@@ -569,42 +584,22 @@ committees:
       - name: Retkisällit
         description:
         members:
-          - name: Tuan Anh Nguyen Con
-            picture: static/toimijat/aebaej_placeholder.png
-          - name: Ville Strengell
-            picture: static/toimijat/2020/ville_strengell.jpg
-          - name: Lassi Ihalainen
-            picture: static/toimijat/2021/lassi_ihalainen.jpg
-          - name: David Rombach
-            picture: static/toimijat/aebaej_placeholder.png
-          - name: Karla Rodriguez
-            picture: static/toimijat/aebaej_placeholder.png
-          - name: Tiia-Maria Hyvönen
-            picture: static/toimijat/2020/tiia_hyvonen.jpg
-          - name: Apollo Ailus
-            picture: static/toimijat/2022/apollo_ailus.jpg
-          - name: Mimi Määttä
-            picture: static/toimijat/2022/mimi_maatta.jpg
-          - name: Mohammad Shahidul
-            picture: static/toimijat/2022/mohammad_shahidul.jpg
-          - name: Marko Koskinen
-            picture: static/toimijat/2022/marko_koskinen.jpg
-          - name: Oskari Mattila
-            picture: static/toimijat/aebaej_placeholder.png
           - name: Iivo Angerpuro
             picture: static/toimijat/2022/iivo_angerpuro.jpg
-          - name: Katarina Pichna
-            picture: static/toimijat/aebaej_placeholder.png
           - name: Joonatan Tammisto
             picture: static/toimijat/2022/joonatan_tammisto.jpg
           - name: Akseli Konttas
             picture: static/toimijat/2022/akseli_konttas.jpg
           - name: Lucas Käldström
-            picture: static/toimijat/2022/lucas_kaldstrom.jpg
-          - name: Olli-Pekka Pennanen
-            picture: static/toimijat/2021/olli-pekka_pennanen.jpg
+            picture: static/toimijat/2023/lucas_kaldstrom.jpg
           - name: Dovlat Ibragimow
             picture: static/toimijat/aebaej_placeholder.png
+          - name: Ariana Marta
+            picture: static/toimijat/2023/ariana_marta.jpg
+          - name: David Rombach
+            picture: static/toimijat/2023/david_rombach.jpg
+          - name: Okko Siipola
+            picture: static/toimijat/2023/okko_siipola.jpg
 
   - name: Ulkoexcutoimikunta
     description:
@@ -633,21 +628,25 @@ committees:
       - name: Kultainen Päätoimittaja
         description:
         members:
-          - name: Kalle Rantala
-            picture: static/toimijat/2022/kalle_rantala.jpg
+          - name: Jyri Kolu
+            picture: static/toimijat/2020/jyri_kolu.jpg
       - name: Kultainen Toimittaja
         description:
         members:
-          - name: Antti Regelin
-            picture: static/toimijat/2021/antti_regelin.jpg
-          - name: Veeti Kahilainen
-            picture: static/toimijat/2021/veeti_kahilainen.jpg
-          - name: Joonas Törmälä
-            picture: static/toimijat/2022/joonas_tormala.jpg
-          - name: Meri Hildén
-            picture: static/toimijat/2022/meri_hilden.jpg
-          - name: Leevi Hormaluoma
-            picture: static/toimijat/2022/leevi_hormaluoma.jpg
+          - name: Kiira Metsoila
+            picture: static/toimijat/2023/kiira_metsoila.jpg
+          - name: Roope Järvinen
+            picture: static/toimijat/2022/roope_jarvinen.jpg
+          - name: Aino Valkama
+            picture: static/toimijat/2023/aino_valkama.jpg
+          - name: Ville Lähteenkorva
+            picture: static/toimijat/2022/ville_lahteenkorva.jpg
+          - name: Roope Pääkkönen
+            picture: static/toimijat/2020/roope_paakkonen.jpg
+          - name: Arttu Rintala
+            picture: static/toimijat/2022/arttu_rintala.jpg
+          - name: Sakari Ropponen
+            picture: static/toimijat/2022/sakari_ropponen.jpg
 
   - name: Bränditoimikunta
     description:
@@ -655,27 +654,37 @@ committees:
       - name: Brändivastaava
         description:
         members:
-          - name: Emil Huttunen
-            picture: static/toimijat/2022/emil_huttunen.jpg
+          - name: Meri Hiipakka
+            picture: static/toimijat/2023/meri_hiipakka.jpg
       - name: Brändääjä
         description:
         members:
-          - name: Meri Hilden
+          - name: Meri Hildén
             picture: static/toimijat/2022/meri_hilden.jpg
           - name: Joonas Törmälä
             picture: static/toimijat/2022/joonas_tormala.jpg
           - name: Axel Åberg
             picture: static/toimijat/2022/axel_aberg.jpg
+          - name: Elias Erke
+            picture: static/toimijat/2023/elias_erke.jpg
           - name: Aino Valkama
             picture: static/toimijat/2022/aino_valkama.jpg
           - name: Jyri Kolu
             picture: static/toimijat/2020/jyri_kolu.jpg
-          - name: Leevi Hormaluoma
-            picture: static/toimijat/2022/leevi_hormaluoma.jpg
-          - name: Meri Hiipakka
-            picture: static/toimijat/2022/meri_hiipakka.jpg
-          - name: Veeti Kahilainen
-            picture: static/toimijat/2021/veeti_kahilainen.jpg
+          - name: Kiira Metsoila
+            picture: static/toimijat/2023/kiira_metsoila.jpg
+          - name: Jimi Oksman
+            picture: static/toimijat/2023/jimi_oksman.jpg
+          - name: Arttu Pahta
+            picture: static/toimijat/2023/arttu_pahta.jpg
+          - name: Emil Huttunen
+            picture: static/toimijat/2022/emil_huttunen.jpg
+          - name: Niina Tapanainen
+            picture: static/toimijat/2020/niina_tapanainen.jpg
+          - name: Lotta Makkonen
+            picture: static/toimijat/2023/lotta_makkonen.jpg
+          - name: Tiitus Mustajoki
+            picture: static/toimijat/2022/tiitus_mustajoki.jpg
 
   - name: Stigutoimikunta
     description:
@@ -683,50 +692,63 @@ committees:
       - name: Stigulantti
         description:
         members:
-          - name: Ville Lähteenkorva
-            picture: static/toimijat/2022/ville_lahteenkorva.jpg
-          - name: Henrik Turtinen
-            picture: static/toimijat/2022/henrik_turtinen.jpg
+          - name: Aaro Saastamoinen
+            picture: static/toimijat/2022/aaro_saastamoinen.jpg
+          - name: Okko Siipola
+            picture: static/toimijat/2023/okko_siipola.jpg
       - name: Stikkerisälli
         description:
         members:
-          - name: Lassi Ihalainen
-            picture: static/toimijat/2021/lassi_ihalainen.jpg
+          - name: Alex korpela
+            picture: static/toimijat/2020/alex_korpela.jpg
           - name: Axel Åberg
             picture: static/toimijat/2022/axel_aberg.jpg
-          - name: Tuomas Nykänen
-            picture: static/toimijat/2022/tuomas_nykanen.jpg
-          - name: Aino Valkama
-            picture: static/toimijat/2022/aino_valkama.jpg
-          - name: Marko Koskinen
-            picture: static/toimijat/2022/marko_koskinen.jpg
-          - name: Ville Hakoniemi
-            picture: static/toimijat/2021/ville_hakoniemi.jpg
-          - name: Alex Korpela
-            picture: static/toimijat/2020/alex_korpela.jpg
-          - name: Tõnis Pärtel
-            picture: static/toimijat/aebaej_placeholder.png
-          - name: Rosa Phan
-            picture: static/toimijat/2022/rosa_phan.jpg
-          - name: Petteri Lahkela
-            picture: static/toimijat/2022/petteri_lahkela.jpg
+          - name: Eetu Kurkinen
+            picture: static/toimijat/2023/eetu_kurkinen.jpg
+          - name: Eeva Järvenpää 
+            picture: static/toimijat/2023/eeva_jarvenpaa.jpg
           - name: Elias Mäntykoski
             picture: static/toimijat/2022/elias_mantykoski.jpg
-          - name: Elina Leiniö
-            picture: static/toimijat/2022/elina_leinio.jpg
+          - name: Erkka Multanen 
+            picture: static/toimijat/2022/erkka_multanen.jpg
+          - name: Henrik Turtinen
+            picture: static/toimijat/2022/henrik_turtinen.jpg
+          - name: Janina Kemppainen
+            picture: static/toimijat/2023/janina_kemppainen.jpg
+          - name: Joonatan Tammisto
+            picture: static/toimijat/2022/joonatan_tammisto.jpg
           - name: Kasperi Kaivola
             picture: static/toimijat/2022/kasperi_kaivola.jpg
-          - name: Lauri Korkee
-            picture: static/toimijat/2022/lauri_korkee.jpg
+          - name: Leena Jääskeläinen
+            picture: static/toimijat/2023/leena_jaaskelainen.jpg
+          - name: Mika Viirret
+            picture: static/toimijat/aebaej_placeholder.png
+          - name: Mikko Vanhanen
+            picture: static/toimijat/2023/mikko_vanhanen.jpg
+          - name: Petteri Lahkela
+            picture: static/toimijat/2022/petteri_lahkela.jpg
+          - name: Roope Järvinen
+            picture: static/toimijat/2022/roope_jarvinen.jpg
+          - name: Tõnis Pärtel
+            picture: static/toimijat/2023/tonis_partel.jpg
+          - name: Tuomas Luotamo
+            picture: static/toimijat/aebaej_placeholder.png
+          - name: Tuomas Nykänen
+            picture: static/toimijat/2023/tuomas_nykanen.jpg
+          - name: Ville Hakoniemi
+            picture: static/toimijat/2021/ville_hakoniemi.jpg
+          - name: Ville Lähteenkorva
+            picture: static/toimijat/2022/ville_lahteenkorva.jpg
+          - name: Panu Tamminen
+            picture: static/toimijat/aebaej_placeholder.png
+          - name: Lassi Ihalainen
+            picture: static/toimijat/2021/lassi_ihalainen.jpg
+          - name: Arttu Pahta
+            picture: static/toimijat/2023/arttu_pahta.jpg
 
   - name: Toimikuntien ulkopuolelta
     description:
     positions:
-      - name: Sijoitusvastaava
-        description:
-        members:
-          - name: Matias Vapola
-            picture: static/toimijat/2022/matias_vapola.jpg
       - name: Toiminnantarkastaja
         description:
         members:
