@@ -4,7 +4,7 @@ $contact-vspacing: 2em;
 .contact {
     text-align: center;
     display: inline-block;
-    flex:0 1 $content-width/4.4;
+    flex:0 1 calc($content-width/4.4);
     min-width: 200px;
     margin: 0 0 $contact-vspacing 0;
 }

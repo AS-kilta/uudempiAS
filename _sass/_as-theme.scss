@@ -200,7 +200,7 @@ body {
 
 .post {
   overflow: auto;
-  padding: $spacing-unit / 2;
+  padding: calc($spacing-unit / 2);
   @include breakpoint(mobile) {
     padding: $spacing-unit;
   }
