@@ -139,20 +139,6 @@ committees:
         members:
           - name: Lotta Makkonen
             picture: static/toimijat/2023/lotta_makkonen.jpg
-      - name: Wappuministeri
-        description:
-        members:
-          - name: Roope Järvinen
-            picture: static/toimijat/2022/roope_jarvinen.jpg
-          - name: Ville Hakoniemi
-            picture: static/toimijat/2021/ville_hakoniemi.jpg
-      - name: Jäykkäranne
-        description:
-        members:
-          - name: Axel Åberg
-            picture: static/toimijat/2022/axel_aberg.jpg
-          - name: Mikko Hokkanen
-            picture: static/toimijat/2019/mikko_hokkanen_19.jpg
       - name: Kultsi
         description:
         members:
@@ -180,6 +166,20 @@ committees:
             picture: static/toimijat/2022/nia_lehtonen.jpg
           - name: Laura Häkkinen
             picture: static/toimijat/2023/laura_hakkinen.jpg
+      - name: Wappuministeri
+        description:
+        members:
+          - name: Roope Järvinen
+            picture: static/toimijat/2022/roope_jarvinen.jpg
+          - name: Ville Hakoniemi
+            picture: static/toimijat/2021/ville_hakoniemi.jpg
+      - name: Jäykkäranne
+        description:
+        members:
+          - name: Axel Åberg
+            picture: static/toimijat/2022/axel_aberg.jpg
+          - name: Mikko Hokkanen
+            picture: static/toimijat/2019/mikko_hokkanen_19.jpg
 
   - name: Liikuntatoimikunta
     description:
