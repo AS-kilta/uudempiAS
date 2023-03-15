@@ -446,12 +446,11 @@ committees:
         members:
           - name: Rafael Majaharju
             picture: static/toimijat/aebaej_placeholder.png
-      - name: Vararahastonhoitaja
+      - name: Vanha rahastonhoitaja
         description:
         members:
           - name: Lucas Käldström
             picture: static/toimijat/2023/lucas_kaldstrom.jpg
-
 
   - name: Mediatoimikunta
     description:
