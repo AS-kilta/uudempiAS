@@ -119,7 +119,7 @@ committees:
         description:
         members:
           - name: Meri Hiipakka
-            picture: static/toimijat/2023/meri_hiipakka.jpg
+            picture: static/toimijat/2022/meri_hiipakka.jpg
       - name: Maisteri-automaatti
         description:
         members:
@@ -205,7 +205,7 @@ committees:
             - name: Jenny Ruokolainen
               picture: static/toimijat/2023/jenny_ruokolainen.jpg
             - name: Meri Hiipakka
-              picture: static/toimijat/2023/meri_hiipakka.jpg
+              picture: static/toimijat/2022/meri_hiipakka.jpg
             - name: Miikka Joutsela
               picture: static/toimijat/2023/miikka_joutsela.jpg
             - name: Joonas Törmälä
@@ -337,7 +337,7 @@ committees:
         - name: Pinja Mäkeläinen
           picture: static/toimijat/2022/pinja_makelainen.jpg
         - name: Meri Hiipakka
-          picture: static/toimijat/2023/meri_hiipakka.jpg
+          picture: static/toimijat/2022/meri_hiipakka.jpg
         - name: Zhibin Yan
           picture: static/toimijat/2020/zhibin_yan.jpg
         - name: Janina Kemppainen
@@ -551,7 +551,7 @@ committees:
         description:
         members:
           - name: Meri Hiipakka
-            picture: static/toimijat/2023/meri_hiipakka.jpg
+            picture: static/toimijat/2022/meri_hiipakka.jpg
           - name: Meri Hildén
             picture: static/toimijat/2022/meri_hilden.jpg
       - name: Depressantti
@@ -569,12 +569,10 @@ committees:
             picture: static/toimijat/2023/kasperi_kaivola.jpg
           - name: Lotta Makkonen
             picture: static/toimijat/2023/lotta_makkonen.jpg
-          - name: Pinka Mäkeläinen
+          - name: Pinja Mäkeläinen
             picture: static/toimijat/2022/pinja_makelainen.jpg
-          - name: Paavo Nissinen
-            picture: static/toimijat/aebaej_placeholder.png
-          - name: Rosa Phan
-            picture: static/toimijat/2022/rosa_phan.jpg
+          - name: Laura Häkkinen
+            picture: static/toimijat/2023/laura_hakkinen.jpg
 
   - name: AS25-toimikunta
     description:
@@ -614,7 +612,7 @@ committees:
           - name: Meri Hildén
             picture: static/toimijat/2022/meri_hilden.jpg
           - name: Meri Hiipakka
-            picture: static/toimijat/2023/meri_hiipakka.jpg
+            picture: static/toimijat/2022/meri_hiipakka.jpg
       - name: Dokumentointivastaava
         description:
         members:
@@ -698,7 +696,7 @@ committees:
         description:
         members:
           - name: Meri Hiipakka
-            picture: static/toimijat/2023/meri_hiipakka.jpg
+            picture: static/toimijat/2022/meri_hiipakka.jpg
       - name: Brändääjä
         description:
         members:
@@ -859,7 +857,7 @@ committees:
         description:
         members:
           - name: Meri Hiipakka
-            picture: static/toimijat/2023/meri_hiipakka.jpg
+            picture: static/toimijat/2022/meri_hiipakka.jpg
           - name: Meri Hildén
             picture: static/toimijat/2022/meri_hilden.jpg
           - name: Joonas Törmälä
