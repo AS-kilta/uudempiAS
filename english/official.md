@@ -34,3 +34,4 @@ Some files are being translated or otherwise worked on and will not be available
     - [.JPG](https://as.fi/static/virallisuudet/as_plain_bw.jpg)
     - [.PNG](https://as.fi/static/virallisuudet/as_plain_bw.png)
     - [.SVG](https://as.fi/static/virallisuudet/as_plain_bw.svg)
+    - [All variants](https://drive.google.com/drive/folders/1Cas84zny-b8Z-os7HorN-8k9a67Wq4k5?usp=sharing)

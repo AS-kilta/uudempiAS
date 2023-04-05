@@ -93,6 +93,8 @@ committees:
             picture: static/toimijat/2023/arttu_pahta_2.jpg
           - name: Joonas Törmälä
             picture: static/toimijat/2022/joonas_tormala.jpg
+          - name: Apollo Ailus
+            picture: static/toimijat/2023/apollo_ailus.jpg
       - name: Abisintti
         description:
         members:
@@ -100,7 +102,9 @@ committees:
             picture: static/toimijat/2023/mikaela_rautavirta.jpg
           - name: Miikka Joutsela
             picture: static/toimijat/2023/miikka_joutsela.jpg
-      - name: Automaatti
+          - name: Apollo Ailus
+            picture: static/toimijat/2023/apollo_ailus.jpg
+      - name:
         description:
         members:
           - name: Iida Jauhola
@@ -395,7 +399,7 @@ committees:
         description:
         members:
           - name: Aino Valkama
-            picture: static/toimijat/2023/aino_valkama_2.jpg
+            picture: static/toimijat/2023/aino_valkama.jpg
       - name: AS Rahastonhoitaja
         description:
         members:
@@ -470,7 +474,7 @@ committees:
           - name: Leevi Hormaluoma
             picture: static/toimijat/2023/leevi_hormaluoma_2.jpg
           - name: Aino Valkama
-            picture: static/toimijat/2023/aino_valkama_2.jpg
+            picture: static/toimijat/2023/aino_valkama.jpg
           - name: Akseli Hilander
             picture: static/toimijat/2023/akseli_hilander.jpg
           - name: Amanda Huttunen
@@ -679,7 +683,7 @@ committees:
           - name: Roope Järvinen
             picture: static/toimijat/2022/roope_jarvinen.jpg
           - name: Aino Valkama
-            picture: static/toimijat/2023/aino_valkama_2.jpg
+            picture: static/toimijat/2023/aino_valkama.jpg
           - name: Ville Lähteenkorva
             picture: static/toimijat/2022/ville_lahteenkorva.jpg
           - name: Roope Pääkkönen
@@ -709,7 +713,7 @@ committees:
           - name: Elias Erke
             picture: static/toimijat/2023/elias_erke.jpg
           - name: Aino Valkama
-            picture: static/toimijat/2023/aino_valkama_2.jpg
+            picture: static/toimijat/2023/aino_valkama.jpg
           - name: Jyri Kolu
             picture: static/toimijat/2023/jyri_kolu.jpg
           - name: Kiira Metsoila
