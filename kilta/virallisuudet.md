@@ -41,6 +41,7 @@ title: Virallisuudet
 - [JPG-muodossa](https://as.fi/static/virallisuudet/as_plain_bw.jpg)
 - [PNG-muodossa](https://as.fi/static/virallisuudet/as_plain_bw.png)
 - [SVG-muodossa](https://as.fi/static/virallisuudet/as_plain_bw.svg)
+- [Kaikki erilaiset variantit](https://drive.google.com/drive/folders/1Cas84zny-b8Z-os7HorN-8k9a67Wq4k5?usp=sharing)
 
 ### Kimble
 

@@ -93,6 +93,8 @@ committees:
             picture: static/toimijat/2022/arttu_pahta.jpg
           - name: Joonas Törmälä
             picture: static/toimijat/2022/joonas_tormala.jpg
+          - name: Apollo Ailus
+            picture: static/toimijat/2023/apollo_ailus.jpg
       - name: Abisinth
         description:
         members:
@@ -100,6 +102,8 @@ committees:
             picture: static/toimijat/2023/mikaela_rautavirta.jpg
           - name: Miikka Joutsela
             picture: static/toimijat/2023/miikka_joutsela.jpg
+          - name: Apollo Ailus
+            picture: static/toimijat/2023/apollo_ailus.jpg
       - name: Automaton
         description:
         members:

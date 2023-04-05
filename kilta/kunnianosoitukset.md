@@ -170,7 +170,7 @@ Ei jaettu
 - [Jenna Kerkkänen](#jenna-kerkkänen)
 
 #### RATAS-kunnianosoitus
-RATAS-kunnianosoitus voidaan myöntää ansiokkaasta toiminnasta killan tarkoitusperien hyväksi. Kunnianosoitus voidaan myöntää joko pitkäjänteisestä työstä tai poikkeuksellisen ahkerasta lyhytaikaisesta toiminnasta. KUNNIAKAS kunnianosoitus voidaan myöntää kerran killan nykyiselle tai entiselle jäsenelle, mutta ei kunniajäsenelle.
+RATAS-kunnianosoitus voidaan myöntää ansiokkaasta toiminnasta killan tarkoitusperien hyväksi. Kunnianosoitus voidaan myöntää joko pitkäjänteisestä työstä tai poikkeuksellisen ahkerasta lyhytaikaisesta toiminnasta. RATAS-kunnianosoitus voidaan myöntää kerran killan nykyiselle tai entiselle jäsenelle, mutta ei kunniajäsenelle.
 
 Kunnianosoitusta ei voida myöntää killan hopeisen tai kultaisen ansiomerkin saaneille eikä hallituslaisille heidän toimikautensa aikana.
 #### RATAS-kunnianosoituksen saajat
