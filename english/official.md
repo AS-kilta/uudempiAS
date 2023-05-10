@@ -9,6 +9,7 @@ Some files are being translated or otherwise worked on and will not be available
 
 * [Minutes of Board Meetings](https://drive.google.com/drive/folders/1ggK-LWjm4-FSW_4yNRBhzp7lJZ9Uyga9?usp=sharing)
 
+* [eTasku](https://www.etasku.fi/) and its [instructions](https://drive.google.com/file/d/1_OGfwUXxugBYNFsS1IKSjqoqpnbJvFq1/view?usp=sharing)
 * [Rules](https://as.fi/kilta/rules.html)
 * [Privacy policy](http://old.as.fi/kilta/virallisuudet/rekisteriseloste/)
 * [Privacy policy: Membership registry](https://as.fi/kilta/tietosuojaseloste_jasen.html)
@@ -20,7 +21,6 @@ Some files are being translated or otherwise worked on and will not be available
 * [Honours](http://old.as.fi/kilta/virallisuudet/kunnia/)
 * [Operational model for events](http://old.as.fi/kilta/virallisuudet/toimintamalli/)
 * [Standing orders: Crisis](https://as.fi/static/virallisuudet/kriisiohje.pdf)
-* [Invoice template](https://as.kululaskut.fi)
 * [AS General instructions for harassment cases and contact information](https://as.fi/english/harassment.html)
 
 * [guilds flag](http://old.as.fi/files/lippu2.jpg)

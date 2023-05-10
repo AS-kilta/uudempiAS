@@ -30,7 +30,7 @@ title: Virallisuudet
 
 ### Kulukorvaukset
 
-- AS käyttää kulukorvauksiin [eTasku](https://www.etasku.fi/)-palvelua. Kiltalaisille ohjeet tunnuksen pyytämiseen ja kulukorvauksen tekemiseen löytyvät [tästä linkistä](https://drive.google.com/file/d/1sBUF3gsEltB4ZN6PpCeCJh8pQgV2tGjb/view?usp=sharing).
+- AS käyttää kulukorvauksiin [eTasku](https://www.etasku.fi/)-palvelua. Kiltalaisille ohjeet tunnuksen pyytämiseen ja kulukorvauksen tekemiseen löytyvät [tästä linkistä](https://drive.google.com/file/d/1_OGfwUXxugBYNFsS1IKSjqoqpnbJvFq1/view?usp=sharing).
 
 ### Esityslistat
 
