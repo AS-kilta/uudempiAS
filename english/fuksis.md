@@ -3,48 +3,11 @@ layout: page
 title: For Fuksis
 ---
 
+## Fuksi guides
 
-## DSD fuksi guide
+[Old DSD fuksi guide](https://drive.google.com/file/d/12fNHS8iN6hG_EG0rGuZs2jCcsFcM-M8P/view?usp=sharing)
 
-<style>
-    #phopas_wrapper {
-        position: relative;
-        overflow: hidden;
-        padding-top: 60%;
-    }
-
-    #phopas_frame {
-        position: absolute;
-        top: 0;
-        left: 0;
-        width: 100%;
-        height: 100%;
-        border: 0;
-    }
-
-    .photo {
-        width: 200px;
-        height: 200px;
-        border-radius: 50%;
-    }
-
-    .person {
-        display: inline-block;
-        flex-grow: 1;
-        flex-shrink: 1;
-        margin: 0 0 3em 0;
-        padding: 0 1em 0 1em;
-    }
-
-</style>
-
-<div id="phopas_wrapper">
-    <iframe id="phopas_frame" src="https://drive.google.com/file/d/12fNHS8iN6hG_EG0rGuZs2jCcsFcM-M8P/preview"></iframe>
-</div>
-<br>
-[Lataa pdf](https://drive.google.com/file/d/12fNHS8iN6hG_EG0rGuZs2jCcsFcM-M8P/view?usp=sharing)
-
-## MINT fuksi guide
+[Old MINT fuksi guide](https://drive.google.com/file/d/1D1WTEKXhftkGOGw4_a2W8wKeG8WngkDg/view?usp=sharing)
 
 <style>
     #phopas_wrapper {
@@ -77,12 +40,6 @@ title: For Fuksis
     }
 
 </style>
-
-<div id="phopas_wrapper">
-    <iframe id="phopas_frame" src="https://drive.google.com/file/d/1D1WTEKXhftkGOGw4_a2W8wKeG8WngkDg/preview"></iframe>
-</div>
-<br>
-[Lataa pdf](https://drive.google.com/file/d/1D1WTEKXhftkGOGw4_a2W8wKeG8WngkDg/view?usp=sharing)
 
 
 ## Starting your studies
@@ -95,37 +52,38 @@ Depending on your studies these are the people to contact in case of emergency o
 
 <div class="person" markdown="1">
 
-![Master's and International Student Captain]({{ "/static/toimijat/2022/Oskari_MISC.jpg" | absolute_url }} "Master's and International Student Captain"){:class="photo"}
+![Master's and International Student Captain]({{ "/static/toimijat/2023/anthony_reineck.jpg" | absolute_url }} "Master's and International Student Captain"){:class="photo"}
 
 **Master's and International Student Captain**<br>
-Oskari Helosuo<br>
+Anthony Reineck<br>
 [Email: misc@as.fi](mailto:misc@REMOVEas.fi)<br>
 [Tel: +358 404126758](tel://+358 404126758)<br>
-[Telegram: @helosuo](https://telegram.me/helosuo)
+[Telegram: @AnthonyReineck](https://telegram.me/AnthonyReineck)
 
 </div>
 
 <div class="person" markdown="1">
 
-![Fuksi Captain]({{ "/static/toimijat/2022/Joonas_fuksikapteeni.jpg" | absolute_url }} "Fuksi Captain"){:class="photo"}
+![Fuksi Captain]({{ "/static/toimijat/2023/leevi_hormaluoma.jpg" | absolute_url }} "Fuksi Captain"){:class="photo"}
 
 **Fuksi Captain**<br>
-Joonas Törmälä<br>
-[Email: fuksikapteenit@as.fi](mailto:fuksikapteenit@POISTAas.fi)<br>
-[Tel: +358 405690098](tel://+358 405690098)<br>
-[Telegram: @miljoonas](https://telegram.me/miljoonas)
+Leevi Hormaluoma<br>
+[Email: aspu@as.fi](mailto:aspu@POISTAas.fi)<br>
+[Tel: +358 400366690](tel://+358 400366690)<br>
+[Telegram: @naccicone](https://telegram.me/naccicone)
 
 </div>
 
 <div class="person" markdown="1">
 
-![Fuksi Captain]({{ "/static/toimijat/2022/Arttu_fuksikapteeni.jpg" | absolute_url }} "Fuksi Captain"){:class="photo"}
+![Fuksi Captain]({{ "/static/toimijat/2023/tuomas_nykanen.jpg" | absolute_url }} "Fuksi Captain"){:class="photo"}
 
 **Fuksi Captain**<br>
-Arttu Pahta<br>
-[Email: fuksikapteenit@as.fi](mailto:fuksikapteenit@POISTAas.fi)<br>
-[Tel: +358 400581499](tel://+358 400581499)<br>
-[Telegram: @arupto](https://telegram.me/arupto)
+Tuomas Nykänen<br>
+[Email: aspu@as.fi](mailto:aspu@POISTAas.fi)<br>
+[Tel: +358 440160401](tel://+358 440160401)<br>
+[Telegram: @Ykanen](https://telegram.me/Ykanen)
+
 
 </div>
 
@@ -171,7 +129,6 @@ Whatever the reason you need to contact us for we will try to get back to you AS
 
 ### Food and Cantines
 
-* [Ruokalistat.net](http://ruokalistat.net)
 * [Kanttiinit.fi](https://kanttiinit.fi)
 
 ### Housing
