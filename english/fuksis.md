@@ -70,7 +70,7 @@ Anthony Reineck<br>
 Leevi Hormaluoma<br>
 [Email: aspu@as.fi](mailto:aspu@POISTAas.fi)<br>
 [Tel: +358 400366690](tel://+358 400366690)<br>
-[Telegram: @naccicone](https://telegram.me/naccicone)
+[Telegram: @pelleevi](https://telegram.me/pelleevi)
 
 </div>
 
