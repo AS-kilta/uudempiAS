@@ -68,7 +68,7 @@ Anthony Reineck<br>
 
 **Fuksi Captain**<br>
 Leevi Hormaluoma<br>
-[Email: aspu@as.fi](mailto:aspu@POISTAas.fi)<br>
+[Email: fuksikapteenit@as.fi](mailto:fuksikapteenit@POISTAas.fi)<br>
 [Tel: +358 400366690](tel://+358 400366690)<br>
 [Telegram: @pelleevi](https://telegram.me/pelleevi)
 
@@ -80,7 +80,7 @@ Leevi Hormaluoma<br>
 
 **Fuksi Captain**<br>
 Tuomas Nykänen<br>
-[Email: aspu@as.fi](mailto:aspu@POISTAas.fi)<br>
+[Email: fuksikapteenit@as.fi](mailto:fuksikapteenit@POISTAas.fi)<br>
 [Tel: +358 440160401](tel://+358 440160401)<br>
 [Telegram: @Ykanen](https://telegram.me/Ykanen)
 
@@ -99,7 +99,7 @@ Whatever the reason you need to contact us for we will try to get back to you AS
 * Apply for housing for example from [AYY](https://domo.ayy.fi/en) or [HOAS](https://www.hoas.fi/en)
 * Apply for [study grants](https://www.kela.fi/web/en/financial-aid-for-students-study-grant) from KELA, if you are a Finnish citizen.
 * Buy [HSL travel card](https://www.hsl.fi/en/information/hsl-card)
-* Join the relevant Telegram groups, follow [this link](https://bit.ly/DSDfuksis22) to join the group for first year DSD students and [this link](https://bit.ly/ASmint22) to join the group for Master's and International students.
+* If you're coming to study DSD, join our Telegram chat at [bit.ly/DSDfuksis23](http://bit.ly/DSDfuksis23). The exchange student chat will be published shortly!
 
 
 ## Useful links / contacts

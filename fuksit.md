@@ -53,7 +53,7 @@ Fuksikapteenit on ne tyypit, joihin otat yhteyttä kun ihan mikä tahansa on huo
 
 **Fuksikapteeni**<br>
 Leevi Hormaluoma<br>
-[Email: aspu@as.fi](mailto:aspu@POISTAas.fi)<br>
+[Email: fuksikapteenit@as.fi](mailto:fuksikapteenit@POISTAas.fi)<br>
 [Tel: +358 400366690](tel://+358 400366690)<br>
 [Telegram: @pelleevi](https://telegram.me/pelleevi)
 
@@ -65,7 +65,7 @@ Leevi Hormaluoma<br>
 
 **Fuksikapteeni**<br>
 Tuomas Nykänen<br>
-[Email: aspu@as.fi](mailto:aspu@POISTAas.fi)<br>
+[Email: fuksikapteenit@as.fi](mailto:fuksikapteenit@POISTAas.fi)<br>
 [Tel: +358 440160401](tel://+358 440160401)<br>
 [Telegram: @Ykanen](https://telegram.me/Ykanen)
 
