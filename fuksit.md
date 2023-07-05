@@ -39,7 +39,11 @@ Follow [this link](https://as.fi/english/fuksis.html) for the guide aimed at DSD
 </style>
 
 ## Fuksiopas
-Julkaistaan piakkoin!
+<div id="phopas_wrapper">
+    <iframe id="phopas_frame" src="https://drive.google.com/file/d/14Ew0gsN5HKbIRWwXVne50ICVLe5d35TC/preview"></iframe>
+</div>
+<br>
+[Lataa pdf](https://drive.google.com/file/d/14Ew0gsN5HKbIRWwXVne50ICVLe5d35TC/view?usp=sharing)
 
 ## Opintojen aloitus
 Hei uusi Fuksi ja tervetuloa Automaatio- ja systeemitekniikan kiltaan! Näille sivuille kootaan pitkin kesää kaikkea materiaalia, josta on apua opintojesi alussa ja ehkäpä jopa koko ensimmäisen vuoden ajan.
