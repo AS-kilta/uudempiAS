@@ -204,6 +204,21 @@ Kunnianosoitusta ei voida myöntää killan hopeisen tai kultaisen ansiomerkin s
 - [Niilo Heinonen](#niilo-heinonen)
 - [Mimi Määttä](#mimi-määttä)
 
+**2023**
+- [Leena Jääskeläinen](#leena-jääskeläinen)
+- [Pinja Mäkeläinen](#pinja-mäkeläinen)
+- [Tõnis pärtel](#tonis-partel)
+- [Veeti Kahilainen](#veeti-kahilainen)
+- [Aleksanteri Pitkenin](#aleksanteri-pitkenin)
+- [Axel Åberg](#axel-åberg)
+- [Iida Jauhola](#iida-jauhola)
+- [Roope Järvinen](#roope-järvinen)
+- [Rami Ghoniem](#rami-ghoniem)
+- [Tiitus Mustajoki](#tiitus-mustajoki)
+- [Bia Glazer](#bia-glaser)
+- [Ville Hakoniemi](#ville-hakoniemi)
+- [Henrik Turtinen](#henrik-turtinen)
+
 ## Perustelut
 
 ### Kunniajäsenistä
@@ -780,3 +795,59 @@ Tämä iloinen tyyppi on ollut pitkään killassa aktiivinen erinäisissä roole
 
 #### Mimi Määttä
 This responsible and active guild member always handles her responsibilites with a good attitude. She has acted as a vastuuISO, aski guardian, cultural journeyperson and finance committee member, and is known to take on different responsibilities without having to be specifically asked, whether it be an inventory of guild merch or organizing DSDevening. The RatAS award goes to Mimi Määttä!
+
+### 2023
+
+#### Leena Jääskeläinen
+
+Aloitetaan palkintojen jako grafiikoiden nousevasta tähdestä. Toimareilla on tänä vuonna uskomattoman hienot läystäkkeet, hallituksella on aivan upeat paidat ja vyölaukut, ja toivottavasti tämän kiltalaisen kädenjälkeä pääsemme näkemään monissa muissakin tulevissa projekteissa. Kiitos valtavasta työpanoksestasi, Leena Jääskeläinen!
+
+#### Pinja Mäkeläinen
+
+Seuraavan RatAS-palkinnon saaja on aina luotettava, iloinen ja valmiina auttamaan missä tahansa hommassa. Tämän aurinkoisen ja hyvää mieltä ympärilleen luovalla aasilla on ihailtava työote ja aika usein hänen hallitusvuonnaan opintomestarina hänen suustaan kuului: “mä voin hoitaa”. Aina menossa mukana ja hymy huulilla, Pinja Mäkeläinen!
+
+#### Tõnis Pärtel
+
+Tämä ratkaisija-aasi on fuksista lähtien ollut hyvällä asenteella mukana kaikissa niissä kiltapesteissä, mihin hän on lähtenyt. Päivisin keittiössä, iltaisin lukkaroimassa, ja ISOlla asenteella ISOna - Tõnis Pärtel!
+
+#### Veeti Kahilainen
+
+Letkee, rento, hauska mies ja hyvä asenne. Siitä on esimerkillinen aasi tehty. Pitemmittä puheitta, Veeti Kahilainen!
+
+#### Aleksanteri Pitkenin
+
+Tiedättekin jo, että mikään tässä killassa ei toimisi ilman toimareita. Esimerkiksi joskus, kun IE:llä palaa pullat kesken sitsien tai vegaaniset viinit unohtuvat kauppaan, tarvitaan ratkaisija-aASeja kuskaamaan heitä ympäriinsä. Seuraava palkinnonsaaja onkin sitsien pelastamisen lisäksi tehnyt esimerkillistä duunia muissakin apueIE- ja kulttuuritoimarihommissaan. Kiitos hyvästä työstä, Aleksanteri Pitkenin!
+
+#### Axel Åberg
+
+Tämä killisti on kerännyt toimarinakkeja kuin kauniita kesäkukkasia, ja kilta haluaakin nyt ojentaa hänelle niistä kudotun kuvitteellisen nakkiseppeleen. Hän on ollut fuksista asti aktiivisesti ympäri kiltaa kaikessa menossa mukana - voisi jopa sanoa, että hän on pyörinyt AS:n axelin ympäri.. :D 
+Jäykkäranteen henkinen tukieläin, Axel Åberg!
+
+#### Iida Jauhola
+
+Tässä killassa osataan pyörittää persettä - ja se pyöritys vaatii ASSASS:in onnistunutta pyöritystä. Ja onhan tämä seuraavan RatAS-palkinnon saaja pyörinyt menestyksekkäästi muissakin killan toimarirooleissa, kuin mahtavan tanssiryhmämme vetovastuussa. Kiitos kun vedät hyvin, Iida Jauhola!
+
+#### Roope Järvinen
+
+Aina hyvät vibat ja vielä paremmat soittolistat. Tämä mies nostattaa aina biletunnelman kattoon ja on tehnyt näin aivan ensimmäisistä fuksiviikoista alkaen. Hän on aina ihailtavan rehellinen, sanavalmis, innostava ja kannustava, valmiina auttamaan ja oikeastaan ihan mitä vaan, niin hän on imus.
+Kultainen mies ja pornot viikset, Roope Järvinen!
+
+#### Rami Ghoniem
+
+Seuraavan RatAS-palkinnon saaja on menestyksekkäästi ollut luotsaamassa ihanaa retkitoimikuntaamme jo toista vuotta putkeen. Toimikunta on ollut yksi killan suosituimmista ja toteuttanut todella siistejä reissuja, haasteita ja elämyksiä kiltalaisille. Kiitos meidän vahvistetusti Ensimmäinen Retkimestarimme, Rami Ghoniem!
+
+#### Tiitus Mustajoki
+
+Tällä mahtavalla kiltalaisella on sormet pelissä vaikka ja missä killan toiminnassa. Jo fuksivuonna hän lähti innolla killan toimintaan ja viihtyi hyvin esimerkiksi kameran takana. Juhlavuoden suunnittelun ja killan brändäyksen ohella on tämä TOSI toimija myös mukana ISOSTI ISO- ja fuksitoiminnassa. Häneltä löytyy äärettömästi kiinnostusta kehittää killan eri osa-alueita ja osaamista mixata vaikkapa ASSASS:in musiikit. Seuraava RatAS-palkinnon saaja on tietenkin Tiitus Mustajoki!
+
+#### Bia Glazer
+
+This guild member has been extremely active since she was a fuksi, and she’s really never seen without a smile on her face and an amazing attitude in everything she does. She’s worn many hats in different committees, but she’s made the most visible impact on the guild’s DSD and international culture. Currently, as our first ever DSDeputy, she’s helping to make the guild better than ever for all international and DSD students. The next awardee is of course Bia Glazer!
+
+#### Ville Hakoniemi
+
+Jos jollain kiltalaisella on Aivan Sama-henkeä, niin se on tämä aasi. Oli duunina sitten liikkatoimikunnan vetäminen, lukkarointi tai Ulliksella AS:n teltan pystyttäminen aamuviideltä, niin se hoituu kunnialla. Kiitos Wappuministeri ilman pensseleitä, Ville Hakoniemi!
+
+#### Henrik Turtinen
+
+Kiltamme säätö- ja stigukulttuuri ovat voimissaan ja äärimmäisen tärkeä osa AS:ää. Säätää ei voi kuitenkaan killassa ilman Säätömestareita eikä kokonainen toimikunta voi saada aikaiseksi tasan yhtä stigupäkkiä vuodessa ilman Stigulantteja. Niinpä laitamme RatAkSen pyörimään Henrik Turtiselle!

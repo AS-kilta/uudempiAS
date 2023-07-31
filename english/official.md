@@ -18,7 +18,7 @@ Some files are being translated or otherwise worked on and will not be available
 * [Standing orders: Overalls](https://as.fi/kilta/haalariohjesaanto.html)
 * [Standing orders: Badges of honour](https://as.fi/kilta/merkkiohjesaanto.html)
 * [Standing orders: Flag](https://as.fi/kilta/lippuohjesaanto.html)
-* [Honours](http://old.as.fi/kilta/virallisuudet/kunnia/)
+* [Honours](https://as.fi/kilta/kunnianosoitukset.html)
 * [Operational model for events](http://old.as.fi/kilta/virallisuudet/toimintamalli/)
 * [Standing orders: Crisis](https://as.fi/static/virallisuudet/kriisiohje.pdf)
 * [AS General instructions for harassment cases and contact information](https://as.fi/english/harassment.html)
