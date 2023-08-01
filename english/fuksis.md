@@ -5,9 +5,11 @@ title: For Fuksis
 
 ## Fuksi guides
 
-[Old DSD fuksi guide](https://drive.google.com/file/d/12fNHS8iN6hG_EG0rGuZs2jCcsFcM-M8P/view?usp=sharing)
+<div id="phopas_wrapper">
+    <iframe id="phopas_frame" src="https://drive.google.com/file/d/1pgZRF3xgids06hv_BGdpZhYR0FbFg-Zt/preview"></iframe>
+</div>
 
-[Old MINT fuksi guide](https://drive.google.com/file/d/1D1WTEKXhftkGOGw4_a2W8wKeG8WngkDg/view?usp=sharing)
+[Download PDF](https://drive.google.com/file/d/12fNHS8iN6hG_EG0rGuZs2jCcsFcM-M8P/view?usp=sharing)
 
 <style>
     #phopas_wrapper {
