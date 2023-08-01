@@ -685,8 +685,6 @@ committees:
             picture: static/toimijat/2023/kiira_metsoila.jpg
           - name: Roope Järvinen
             picture: static/toimijat/2022/roope_jarvinen.jpg
-          - name: Aino Valkama
-            picture: static/toimijat/2023/aino_valkama.jpg
           - name: Ville Lähteenkorva
             picture: static/toimijat/2022/ville_lahteenkorva.jpg
           - name: Roope Pääkkönen
