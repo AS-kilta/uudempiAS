@@ -14,8 +14,6 @@ Automaatio- ja systeemitekniikan kilta ei hyväksy häirintää missään muodos
 
 Kaikki häirintäyhdyshenkilöille ilmoitetut tapaukset käsitellään asianomaisen ehdoin ja CoC:n määrittelemin toimin. AS:n häirintäyhdyshenkilöt ovat sitoutuneet toimimaan häirintätapauksissa luottamuksellisesti sekä kaikkia osapuolia kunnioittaen. Häirintäyhdyshenkilö ei jaa mitään tietoja tai ryhdy toimenpiteisiin ilman häirintää kokeneen suostumusta. Keskenään häirintäyhdyshenkilöt voivat keskustella vain ja ainoastaan häirintää kokeneiden suostumuksella. CoC:ssa on määritelty, mitä toimenpiteitä kilta voi tehdä, kun olet tehnyt ilmoituksen häirintätilanteesta härylle. 
 
-Kaikissa killan tapahtumissa yleinen vastuu on tapahtuman järjestäjällä, mutta häirintään puuttuminen ja turvallinen ympäristö on jokaisen kiltalaisen ja tapahtumaan osallistuvan vastuulla. Tapauksien puitteissa tähdätään harkittuihin ja matalan profiilin toimenpiteisiin.
-
 Kaikissa killan tapahtumissa vastuu on tapahtuman järjestäjällä, mutta häirintään puuttuminen ja turvallinen ympäristö on jokaisen kiltalaisen ja tapahtumaan osallistuvan vastuulla. Tapauksien puitteissa tähdätään harkittuihin ja matalan profiilin toimenpiteisiin, jotta häirintätapausten käsittely pysyy luottamuksellisena ja lähtökohtaisesti vain osallisten välisenä.
 
 ## Miten toimia häirintätilanteissa
