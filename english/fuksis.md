@@ -9,7 +9,7 @@ title: For Fuksis
     <iframe id="phopas_frame" src="https://drive.google.com/file/d/1pgZRF3xgids06hv_BGdpZhYR0FbFg-Zt/preview"></iframe>
 </div>
 
-[Download PDF](https://drive.google.com/file/d/12fNHS8iN6hG_EG0rGuZs2jCcsFcM-M8P/view?usp=sharing)
+[Download PDF](https://drive.google.com/file/d/1pgZRF3xgids06hv_BGdpZhYR0FbFg-Zt/view?usp=sharing)
 
 <style>
     #phopas_wrapper {
