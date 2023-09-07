@@ -59,8 +59,6 @@ committees:
       - name: REALLY ISO
         description: 
         members:
-          - name: Axel Åberg
-            picture: static/toimijat/2022/axel_aberg.jpg
           - name: Lotta Makkonen
             picture: static/toimijat/2023/lotta_makkonen.jpg
           - name: Katarina Pichna
@@ -143,20 +141,6 @@ committees:
         members:
           - name: Lotta Makkonen
             picture: static/toimijat/2023/lotta_makkonen.jpg
-      - name: Wappu Minister
-        description:
-        members:
-          - name: Roope Järvinen
-            picture: static/toimijat/2022/roope_jarvinen.jpg
-          - name: Ville Hakoniemi
-            picture: static/toimijat/2021/ville_hakoniemi.jpg
-      - name: Jäykkäranne
-        description:
-        members:
-          - name: Axel Åberg
-            picture: static/toimijat/2022/axel_aberg.jpg
-          - name: Mikko Hokkanen
-            picture: static/toimijat/2019/mikko_hokkanen_19.jpg
       - name: Cultural Journeyperson
         description:
         members:
@@ -184,6 +168,18 @@ committees:
             picture: static/toimijat/2022/nia_lehtonen.jpg
           - name: Laura Häkkinen
             picture: static/toimijat/2023/laura_hakkinen.jpg
+      - name: Wappu Minister
+        description:
+        members:
+          - name: Roope Järvinen
+            picture: static/toimijat/2022/roope_jarvinen.jpg
+          - name: Ville Hakoniemi
+            picture: static/toimijat/2021/ville_hakoniemi.jpg
+      - name: Jäykkäranne
+        description:
+        members:
+          - name: Mikko Hokkanen
+            picture: static/toimijat/2019/mikko_hokkanen_19.jpg
 
   - name: Sports Committee
     description:
@@ -598,8 +594,6 @@ committees:
             picture: static/toimijat/2023/kalle_rantala.jpg
           - name: Laura Häkkinen
             picture: static/toimijat/2023/laura_hakkinen.jpg
-          - name: Axel Åberg
-            picture: static/toimijat/2022/axel_aberg.jpg
           - name: Jaakko Heikkinen
             picture: static/toimijat/2021/jaakko_heikkinen.jpg
           - name: Tiitus Mustajoki
@@ -709,8 +703,6 @@ committees:
             picture: static/toimijat/2022/meri_hilden.jpg
           - name: Joonas Törmälä
             picture: static/toimijat/2022/joonas_tormala.jpg
-          - name: Axel Åberg
-            picture: static/toimijat/2022/axel_aberg.jpg
           - name: Elias Erke
             picture: static/toimijat/2023/elias_erke.jpg
           - name: Aino Valkama
@@ -749,8 +741,6 @@ committees:
         members:
           - name: Alex korpela
             picture: static/toimijat/2020/alex_korpela.jpg
-          - name: Axel Åberg
-            picture: static/toimijat/2022/axel_aberg.jpg
           - name: Eetu Kurkinen
             picture: static/toimijat/2023/eetu_kurkinen.jpg
           - name: Eeva Järvenpää 
