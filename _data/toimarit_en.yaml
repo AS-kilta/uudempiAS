@@ -162,8 +162,6 @@ committees:
             picture: static/toimijat/2022/elias_haarnoja.jpg
           - name: Mohammad Shahidul
             picture: static/toimijat/2022/mohammad_shahidul.jpg
-          - name: Paavo Nissinen
-            picture: static/toimijat/aebaej_placeholder.png
           - name: Nia Lehtonen
             picture: static/toimijat/2022/nia_lehtonen.jpg
           - name: Laura Häkkinen
@@ -252,8 +250,6 @@ committees:
             picture: static/toimijat/2022/erkka_multanen.jpg
           - name: Pinja Mäkeläinen
             picture: static/toimijat/2022/pinja_makelainen.jpg
-          - name: Paavo Nissinen
-            picture: static/toimijat/aebaej_placeholder.png
           - name: Arttu Pahta
             picture: static/toimijat/2023/arttu_pahta.jpg
           - name: Tõnis Pärtel
@@ -338,8 +334,6 @@ committees:
           picture: static/toimijat/2022/pinja_makelainen.jpg
         - name: Meri Hiipakka
           picture: static/toimijat/2023/meri_hiipakka.jpg
-        - name: Zhibin Yan
-          picture: static/toimijat/2020/zhibin_yan.jpg
         - name: Janina Kemppainen
           picture: static/toimijat/2023/janina_kemppainen.jpg
         - name: Eeva Järvenpää
@@ -373,8 +367,6 @@ committees:
             picture: static/toimijat/2022/beatriz_glaser.jpg
           - name: Hajiba Legrara
             picture: static/toimijat/2023/hajiba_legrara.jpg
-          - name: Samuel Mikkola
-            picture: static/toimijat/aebaej_placeholder.png
           - name: Noora Virtanen
             picture: static/toimijat/aebaej_placeholder.png
           - name: Viljami Pirttijärvi
@@ -540,8 +532,6 @@ committees:
           picture: static/toimijat/2022/miska_mynttinen.jpg
         - name: Severi Casserly
           picture: static/toimijat/2021/severi_casserly.jpg
-        - name: Zhibin Yan
-          picture: static/toimijat/2022/zhibin_yan.jpg
         - name: Elias Mäntykoski
           picture: static/toimijat/2022/elias_mantykoski.jpg
 
@@ -572,8 +562,6 @@ committees:
             picture: static/toimijat/2023/lotta_makkonen.jpg
           - name: Pinka Mäkeläinen
             picture: static/toimijat/2022/pinja_makelainen.jpg
-          - name: Paavo Nissinen
-            picture: static/toimijat/aebaej_placeholder.png
           - name: Rosa Phan
             picture: static/toimijat/2022/rosa_phan.jpg
 
@@ -769,10 +757,6 @@ committees:
             picture: static/toimijat/2022/roope_jarvinen.jpg
           - name: Tõnis Pärtel
             picture: static/toimijat/2023/tonis_partel.jpg
-          - name: Tuomas Luotamo
-            picture: static/toimijat/aebaej_placeholder.png
-          - name: Tuomas Nykänen
-            picture: static/toimijat/2023/tuomas_nykanen.jpg
           - name: Ville Hakoniemi
             picture: static/toimijat/2021/ville_hakoniemi.jpg
           - name: Ville Lähteenkorva
