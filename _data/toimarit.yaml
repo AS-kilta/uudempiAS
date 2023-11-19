@@ -93,6 +93,8 @@ committees:
             picture: static/toimijat/2022/joonas_tormala.jpg
           - name: Apollo Ailus
             picture: static/toimijat/2023/apollo_ailus.jpg
+          - name: Kiira Metsoila
+            picture: static/toimijat/2023/kiira_metsoila_2.jpg
       - name: Abisintti
         description:
         members:
