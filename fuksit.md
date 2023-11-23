@@ -4,7 +4,7 @@ permalink: /fuksit/
 title: Fukseille
 ---
 
-Follow [this link](https://as.fi/english/fuksis.html) for the guide aimed at DSD students!
+Follow [this link](https://old.as.fi/english/fuksis.html) for the guide aimed at DSD students!
 
 <style>
     #phopas_wrapper {
