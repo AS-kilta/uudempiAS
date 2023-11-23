@@ -8,7 +8,7 @@ title: Meeting invitation
 
 The statutory meeting of the guild of Automation and Systems technology ry will be held on Wednesday 31.10.2018 starting at 16:15 at TUAS-buildings hall TU1.
 
-In the election meeting the board, officials, inspectors and alderman will be chosen for the year 2019. More information about the positions, applying for positions and committees can be found at the guild’s forum’s vaalit (election) section (<https://as.fi/foorumi/>) and the election page (<https://as.fi/vaalit>).
+In the election meeting the board, officials, inspectors and alderman will be chosen for the year 2019. More information about the positions, applying for positions and committees can be found at the guild’s forum’s vaalit (election) section (<https://old.as.fi/foorumi/>) and the election page (<https://old.as.fi/vaalit>).
 
 The board proposes an official selection process that differs from the guild’s electoral system. Further information can by found in the board’s proposal. Applying for the positions is open until 31.10.2018 16 o’clock. If the boards proposal is adopted, applying for the committees will be opened up again and it will end 11.11.2018 23:59.
 

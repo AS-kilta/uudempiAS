@@ -12,8 +12,8 @@ The application period for the board and official positions 2019 has been opened
 
 Current boards proposal for the next years board and official structure can be found at:
 
-<https://as.fi/static/virallisuudet/2019boardproposal.pdf><br>
-<https://as.fi/static/virallisuudet/2019committeeproposal.pdf>
+<https://old.as.fi/static/virallisuudet/2019boardproposal.pdf><br>
+<https://old.as.fi/static/virallisuudet/2019committeeproposal.pdf>
 
 Timetable for elections:
 

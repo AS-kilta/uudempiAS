@@ -4,7 +4,7 @@ title: AS General Instructions for harassment cases
 ---
 
 ## General
-The guild defines harassment in [Code of Conduct](https://as.fi/kilta/code_of_conduct.html) (CoC) sections 1 and 2, and these sections are explained more in the [equality plan](https://as.fi/kilta/yhdenvertaisuussuunnitelma.html).  
+The guild defines harassment in [Code of Conduct](https://old.as.fi/kilta/code_of_conduct.html) (CoC) sections 1 and 2, and these sections are explained more in the [equality plan](https://old.as.fi/kilta/yhdenvertaisuussuunnitelma.html).  
 
 All cases reported to the Confidential Counselors are processed
 under the conditions of the person concerned and the sections defined by the CoC. Confidential Counselors from AS are committed to act in cases of harassment confidentially and with respect for all parties.  

@@ -10,7 +10,7 @@ Hei uusi phuksi!
 
 Tervetuloa opiskelemaan Automaatio- ja informaatioteknologiaa tai Digital Systems and Designia!
 
-Loistavaa, että olet löytänyt killan nettisivuille jo! Näiltä sivuilta löydät paljon luettavaa ennen opintojen aloitusta! Valitsemalla ylävalikosta [Uudet opiskelijat](https://as.fi/phuksit) löydät phuksioppaan ja muuta oleellista informaatiota koskien erityisesti uusia phukseja.
+Loistavaa, että olet löytänyt killan nettisivuille jo! Näiltä sivuilta löydät paljon luettavaa ennen opintojen aloitusta! Valitsemalla ylävalikosta [Uudet opiskelijat](https://old.as.fi/phuksit) löydät phuksioppaan ja muuta oleellista informaatiota koskien erityisesti uusia phukseja.
 
 Erityisesti opintoja koskevissa kysymyksissä kannattaa suunnata Aalto-yliopiston [Into - Uudet opiskelijat](https://into.aalto.fi/display/fiuudet) sivulle. Killan sivuilta löydät todennäköisemmin vastauksen muihin oleellisiin kysymyksiin :)
 
