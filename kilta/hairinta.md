@@ -8,7 +8,7 @@ title: Häirintätilanteet
 ## Yleistä
 
 
-Kilta määrittelee häirinnän AS:n [Code of Conductin](https://as.fi/kilta/code_of_conduct.html) eli eettisen ohjesäännön pykälissä 1 ja 2, ja avaa näitä pykäliä [yhdenvertaisuussuunnitelmassa](https://as.fi/kilta/yhdenvertaisuussuunnitelma.html). Code of Conduct koskee jokaista killan yhteisössä toimivaa henkilöä. Kaikki killan tapahtumiin osallistuvat henkilöt luetaan osaksi killan yhteisöä. 
+Kilta määrittelee häirinnän AS:n [Code of Conductin](https://old.as.fi/kilta/code_of_conduct.html) eli eettisen ohjesäännön pykälissä 1 ja 2, ja avaa näitä pykäliä [yhdenvertaisuussuunnitelmassa](https://old.as.fi/kilta/yhdenvertaisuussuunnitelma.html). Code of Conduct koskee jokaista killan yhteisössä toimivaa henkilöä. Kaikki killan tapahtumiin osallistuvat henkilöt luetaan osaksi killan yhteisöä. 
 
 Automaatio- ja systeemitekniikan kilta ei hyväksy häirintää missään muodossa. Kilta kehittyy jatkuvasti ja sen tärkein tehtävä on taata jäsenilleen turvallinen ja tervetullut olo kaikissa killan tapahtumissa sukupuoleen, seksuaaliseen suuntautumiseen, etniseen taustaan tai mihinkään muuhun ominaisuuteen katsomatta.
 

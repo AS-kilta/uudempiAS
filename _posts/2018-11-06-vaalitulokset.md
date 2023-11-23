@@ -9,7 +9,7 @@ categories: AS pääuutiset
 
 #### Toimarivirkoihin haku
 
-Toimarivirkoihin haku on auki 11.11. asti, lisätietoa hakemisesta ja toimikunnista löytyy [TÄÄLTÄ](https://as.fi/kilta/vaalit.html)
+Toimarivirkoihin haku on auki 11.11. asti, lisätietoa hakemisesta ja toimikunnista löytyy [TÄÄLTÄ](https://old.as.fi/kilta/vaalit.html)
 
 31.10.2019 vaalikokouksessa valitut:
 
@@ -54,7 +54,7 @@ Varatoiminnantarkastaja: Karolina Itäinen, Niilo Metsänen
 
 ---
 #### Applying for official positions
-The application period is still open till 11.11. More information about applying and committees can be found [HERE](https://as.fi/english/election.html).
+The application period is still open till 11.11. More information about applying and committees can be found [HERE](https://old.as.fi/english/election.html).
 
 On 31.10.2018 election meeting the following were elected:
 

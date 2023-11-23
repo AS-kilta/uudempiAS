@@ -8,7 +8,7 @@ title: Kokouskutsu
 
 Automaatio- ja systeemitekniikan kilta ry:n sääntömääräinen vaalikokous pidetään keskiviikkona 31.10.2018 klo 16:15 alkaen TUAS-talolla salissa TU1.
 
-Vaalikokouksessa valitaan killalle hallitus, toimihenkilöt, toiminnantarkastajat sekä oltermanni vuodelle 2019. Lisätietoa viroista, ehdolle asettumisesta sekä toimikunnista löytyy killan foorumin vaalit-osiosta (<https://as.fi/foorumi/>) sekä vaalisivulta (<https://as.fi/vaalit>).
+Vaalikokouksessa valitaan killalle hallitus, toimihenkilöt, toiminnantarkastajat sekä oltermanni vuodelle 2019. Lisätietoa viroista, ehdolle asettumisesta sekä toimikunnista löytyy killan foorumin vaalit-osiosta (<https://old.as.fi/foorumi/>) sekä vaalisivulta (<https://old.as.fi/vaalit>).
 
 Hallitus esittää killan vaalijärjestyksestä poikkeavaa toimihenkilövalintaa. Tarkemmat tiedot löytyvät hallituksen pohjaesityksestä. Ehdolle asettuminen on auki 31.10.2018 klo 16:00. Hallituksen esityksen mennessä läpi, ehdolle asettautuminen toimikuntiin avataan uudelleen ja se päättyy 11.11.2018 klo 23:59.
 
